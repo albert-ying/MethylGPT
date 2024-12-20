@@ -77,7 +77,7 @@ Please see our example code in [examples/finetune_integration.py](examples/finet
 
 ## Contributing
 
-We greatly welcome contributions to scGPT. Please submit a pull request if you have any ideas or bug fixes. We also welcome any issues you encounter while using scGPT.
+We greatly welcome contributions to methylGPT. Please submit a pull request if you have any ideas or bug fixes. We also welcome any issues you encounter while using scGPT.
 
 ## Acknowledgements
 
@@ -89,15 +89,18 @@ We sincerely thank the authors of following open-source projects:
 - [scib](https://github.com/theislab/scib)
 - [datasets](https://github.com/huggingface/datasets)
 - [transformers](https://github.com/huggingface/transformers)
+- [scGPT](https://github.com/bowang-lab/scGPT)
+
 
 ## Citing scGPT
 
 ```bibtex
-@article{cui2023scGPT,
-title={scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI},
-author={Cui, Haotian and Wang, Chloe and Maan, Hassaan and Pang, Kuan and Luo, Fengning and Wang, Bo},
-journal={bioRxiv},
-year={2023},
-publisher={Cold Spring Harbor Laboratory}
+@article{ying2024methylgpt,
+  title={MethylGPT: a foundation model for the DNA methylome},
+  author={Ying, Kejun and Song, Jinyeop and Cui, Haotian and Zhang, Yikun and Li, Siyuan and Chen, Xingyu and Liu, Hanna and Eames, Alec and McCartney, Daniel L and Marioni, Riccardo E and others},
+  journal={bioRxiv},
+  pages={2024--10},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory}
 }
 ```

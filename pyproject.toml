@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "methylgpt"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.2.2"
+scvi-tools = "1.1.5"
+scanpy = "1.9.8"
+torch = "2.0.1"
+torchtext = "0.15.2"
+numba = "0.60.0"
+scikit-misc = "0.3.1"
+umap-learn = "0.5.6"
+leidenalg = "0.10.2"
+datasets = "2.21.0"
+typing-extensions = "4.12.2"
+scib = "1.1.5"
+orbax = "0.5.23"
+yarrowformat = "1.2.0"  # Latest version as of 2 months ago
+psutil = "6.1.0"  # Latest version as of 2 months ago
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
