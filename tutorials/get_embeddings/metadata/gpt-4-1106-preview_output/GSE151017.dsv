@@ -1,0 +1,78 @@
+GSM4564348|BAL_641|N/A|F|22|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564349|BAL_694|N/A|F|22|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564350|BAL_698|N/A|F|40|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564351|BAL_703|N/A|F|23|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564352|BAL_707|N/A|F|22|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564353|BAL_719|N/A|F|30|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564354|BAL_722|N/A|F|25|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564355|BAL_821|N/A|F|28|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|N/A|Disease
+GSM4564356|BAL_828|N/A|F|28|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564357|BAL_854|N/A|F|27|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Interferon Beta-1a|Small Molecule
+GSM4564358|BAL_872|N/A|F|39|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Interferon Beta-1a|Small Molecule
+GSM4564359|BAL_873|N/A|F|24|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Fingolimod|Small Molecule
+GSM4564360|BAL_878|N/A|F|62|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Interferon Beta-1a|Small Molecule
+GSM4564361|BAL_903|N/A|F|20|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564362|BAL_910|N/A|F|25|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564363|BAL_913|N/A|F|24|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564364|BAL_916|N/A|F|30|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564365|BAL_920|N/A|F|41|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564366|BAL_921|N/A|F|22|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564367|BAL_926|N/A|F|28|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564368|BAL_928|N/A|F|45|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Interferon Beta-1a|Small Molecule
+GSM4564369|BAL_940|N/A|F|41|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Interferon Beta-1a|Small Molecule
+GSM4564370|BAL_943|N/A|F|50|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564371|BAL_944|N/A|F|28|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564372|BAL_951|N/A|F|34|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Interferon Beta-1a|Small Molecule
+GSM4564373|BAL_963|N/A|F|48|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|N/A|Disease
+GSM4564374|BAL_972|N/A|F|34|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564375|BAL_980|N/A|F|31|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564376|BAL_982|N/A|F|38|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Natalizumab|Small Molecule
+GSM4564377|BAL_1001|N/A|F|44|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Natalizumab|Small Molecule
+GSM4564378|BAL_1005|N/A|F|24|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564379|BAL_1020|N/A|F|27|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Natalizumab|Small Molecule
+GSM4564380|BAL_1023|N/A|F|26|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|N/A|Disease
+GSM4564381|BAL_1026|N/A|F|41|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Interferon Beta-1a|Small Molecule
+GSM4564382|BAL_1028|N/A|F|53|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Interferon Beta-1a|Small Molecule
+GSM4564383|BAL_1168|N/A|F|49|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Rituximab|Small Molecule
+GSM4564384|BAL_1204|N/A|F|35|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Rituximab|Small Molecule
+GSM4564385|BAL_1229|N/A|F|25|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564386|BAL_1238|N/A|F|19|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564387|BAL_641|N/A|F|22|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564388|BAL_694|N/A|F|22|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564389|BAL_698|N/A|F|40|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564390|BAL_703|N/A|F|23|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564391|BAL_707|N/A|F|22|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564392|BAL_719|N/A|F|30|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564393|BAL_722|N/A|F|25|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564394|BAL_821|N/A|F|28|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|N/A|Disease
+GSM4564395|BAL_828|N/A|F|28|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564396|BAL_854|N/A|F|27|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Interferon Beta-1a|Small Molecule
+GSM4564397|BAL_872|N/A|F|39|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Interferon Beta-1a|Small Molecule
+GSM4564398|BAL_873|N/A|F|24|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Fingolimod|Small Molecule
+GSM4564399|BAL_878|N/A|F|62|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Interferon Beta-1a|Small Molecule
+GSM4564400|BAL_903|N/A|F|20|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564401|BAL_910|N/A|F|25|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564402|BAL_913|N/A|F|24|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564403|BAL_916|N/A|F|30|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564404|BAL_920|N/A|F|41|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564405|BAL_921|N/A|F|22|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564406|BAL_926|N/A|F|28|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564407|BAL_928|N/A|F|45|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Interferon Beta-1a|Small Molecule
+GSM4564408|BAL_940|N/A|F|41|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Interferon Beta-1a|Small Molecule
+GSM4564409|BAL_943|N/A|F|50|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564410|BAL_944|N/A|F|28|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564411|BAL_951|N/A|F|34|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Interferon Beta-1a|Small Molecule
+GSM4564412|BAL_963|N/A|F|48|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|N/A|Disease
+GSM4564413|BAL_972|N/A|F|34|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564414|BAL_980|N/A|F|31|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564415|BAL_982|N/A|F|38|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Natalizumab|Small Molecule
+GSM4564416|BAL_1001|N/A|F|44|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Natalizumab|Small Molecule
+GSM4564417|BAL_1005|N/A|F|24|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A
+GSM4564418|BAL_1020|N/A|F|27|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Natalizumab|Small Molecule
+GSM4564419|BAL_1023|N/A|F|26|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|N/A|Disease
+GSM4564420|BAL_1026|N/A|F|41|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Interferon Beta-1a|Small Molecule
+GSM4564421|BAL_1028|N/A|F|53|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Interferon Beta-1a|Small Molecule
+GSM4564422|BAL_1168|N/A|F|49|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|case|MSS|Rituximab|Small Molecule
+GSM4564423|BAL_1204|N/A|F|35|N/A|Multiple Sclerosis|Lung|N/A|in_vivo|ctrl|MSNS|Rituximab|Small Molecule
+GSM4564424|BAL_1229|N/A|F|25|N/A|Healthy|Lung|N/A|in_vivo|case|HS|Cigarette Smoking|Lifestyle
+GSM4564425|BAL_1238|N/A|F|19|N/A|Healthy|Lung|N/A|in_vivo|ctrl|HNS|N/A|N/A

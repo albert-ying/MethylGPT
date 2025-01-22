@@ -1,0 +1,475 @@
+GSM1871417|61|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871518|44|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871669|5|N/A|M|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871477|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871563|33|N/A|M|45|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871626|10|N/A|F|59|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871610|36|N/A|F|36|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871650|39|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871444|40|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871873|44|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871795|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871831|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871496|42|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871692|50|N/A|F|45|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871564|62|N/A|M|32|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871478|35|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871671|39|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871534|34|N/A|M|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871874|15|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871677|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871755|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871560|14|N/A|F|96|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871509|17|N/A|F|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871756|50|N/A|F|45|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871759|56|N/A|F|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871540|26|N/A|M|64|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871547|38|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871797|23|N/A|M|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871471|36|N/A|F|36|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871592|52|N/A|F|43|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871574|38|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871859|46|N/A|F|42|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871710|55|N/A|F|91|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871495|48|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871529|36|N/A|F|36|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871515|1|N/A|F|65|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871570|1|N/A|F|65|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871419|48|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871445|58|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871549|63|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871423|65|N/A|M|83|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871808|20|N/A|F|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871456|51|N/A|M|80|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871767|59|N/A|M|56|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871458|54|N/A|F|67|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871499|50|N/A|F|45|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871451|65|N/A|M|83|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871514|3|N/A|F|59|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871435|58|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871539|18|N/A|F|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871876|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871502|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871805|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871865|54|N/A|F|67|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871630|20|N/A|F|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871886|41|N/A|M|73|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871550|6|N/A|F|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871799|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871469|21|N/A|F|38|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871646|5|N/A|M|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871817|39|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871532|21|N/A|F|38|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871851|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871837|57|N/A|M|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871418|51|N/A|M|80|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871866|33|N/A|M|45|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871722|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871473|17|N/A|F|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871810|27|N/A|F|58|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871883|40|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871593|49|N/A|M|48|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871621|64|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871749|52|N/A|F|43|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871481|13|N/A|M|85|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871493|48|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871786|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871548|41|N/A|M|73|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871775|18|N/A|F|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871611|25|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871788|64|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871742|40|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871861|50|N/A|F|45|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871852|57|N/A|M|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871507|45|N/A|M|39|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871483|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871589|27|N/A|F|58|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871816|26|N/A|M|64|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871772|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871771|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871818|41|N/A|M|73|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871672|43|N/A|M|83|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871691|43|N/A|M|83|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871486|23|N/A|M|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871881|37|N/A|M|32|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871731|64|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871598|58|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871701|27|N/A|F|58|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871577|42|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871627|61|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871441|65|N/A|M|83|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871641|60|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871527|25|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871427|27|N/A|F|58|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871803|17|N/A|F|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871856|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871720|60|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871764|64|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871871|43|N/A|M|83|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871487|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871431|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871439|53|N/A|M|41|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871546|26|N/A|M|64|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871557|10|N/A|F|59|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871687|37|N/A|M|32|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871566|43|N/A|M|83|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871717|46|N/A|F|42|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871452|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871421|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871715|29|N/A|F|93|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871617|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871826|41|N/A|M|73|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871640|45|N/A|M|39|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871762|7|N/A|M|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871835|42|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871732|58|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871604|62|N/A|M|32|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871802|11|N/A|F|50|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871725|60|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871603|48|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871855|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871639|39|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871739|4|N/A|F|85|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871706|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871476|36|N/A|F|36|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871558|15|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871674|65|N/A|M|83|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871660|39|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871770|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871694|9|N/A|M|64|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871809|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871510|12|N/A|M|93|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871489|2|N/A|M|15|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871554|63|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871599|52|N/A|F|43|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871727|63|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871468|17|N/A|F|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871420|52|N/A|F|43|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871829|21|N/A|F|38|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871814|40|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871544|5|N/A|M|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871754|8|N/A|F|101|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871653|60|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871545|63|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871528|41|N/A|M|73|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871454|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871845|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871791|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871696|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871587|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871484|25|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871713|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871858|49|N/A|M|48|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871596|51|N/A|M|80|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871575|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871736|5|N/A|M|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871678|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871846|49|N/A|M|48|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871472|23|N/A|M|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871416|47|N/A|M|71|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871748|56|N/A|F|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871825|56|N/A|F|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871491|20|N/A|F|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871726|55|N/A|F|91|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871686|44|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871634|38|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871711|5|N/A|M|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871555|34|N/A|M|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871533|43|N/A|M|83|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871707|45|N/A|M|39|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871644|37|N/A|M|32|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871535|62|N/A|M|32|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871654|5|N/A|M|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871733|51|N/A|M|80|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871519|23|N/A|M|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871798|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871840|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871543|21|N/A|F|38|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871729|29|N/A|F|93|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871479|44|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871429|19|N/A|M|85|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871777|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871601|44|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871838|61|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871470|62|N/A|M|32|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871580|9|N/A|M|64|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871457|49|N/A|M|48|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871663|58|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871870|7|N/A|M|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871673|57|N/A|M|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871822|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871730|46|N/A|F|42|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871813|35|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871747|56|N/A|F|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871662|8|N/A|F|101|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871735|52|N/A|F|43|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871455|5|N/A|M|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871664|4|N/A|F|85|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871508|36|N/A|F|36|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871867|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871649|5|N/A|M|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871702|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871631|64|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871661|45|N/A|M|39|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871430|7|N/A|M|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871536|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871680|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871591|54|N/A|F|67|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871785|7|N/A|M|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871643|21|N/A|F|38|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871833|38|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871585|34|N/A|M|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871525|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871576|55|N/A|F|91|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871645|41|N/A|M|73|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871552|40|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871573|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871668|57|N/A|M|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871774|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871497|42|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871443|37|N/A|M|32|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871524|15|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871434|46|N/A|F|42|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871778|8|N/A|F|101|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871561|29|N/A|F|93|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871658|63|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871790|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871872|10|N/A|F|59|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871716|49|N/A|M|48|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871505|37|N/A|M|32|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871512|35|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871474|35|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871766|65|N/A|M|83|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871426|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871738|55|N/A|F|91|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871684|1|N/A|F|65|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871542|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871819|8|N/A|F|101|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871659|56|N/A|F|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871740|14|N/A|F|96|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871683|7|N/A|M|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871712|53|N/A|M|41|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871553|45|N/A|M|39|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871832|61|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871520|37|N/A|M|32|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871440|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871628|13|N/A|M|85|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871466|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871719|48|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871670|57|N/A|M|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871586|25|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871836|41|N/A|M|73|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871779|61|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871787|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871765|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871531|52|N/A|F|43|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871888|43|N/A|M|83|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871780|62|N/A|M|32|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871776|3|N/A|F|59|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871605|33|N/A|M|45|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871588|42|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871513|34|N/A|M|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871685|37|N/A|M|32|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871751|18|N/A|F|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871681|63|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871665|14|N/A|F|96|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871492|14|N/A|F|96|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871655|14|N/A|F|96|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871815|59|N/A|M|56|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871768|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871437|51|N/A|M|80|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871480|17|N/A|F|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871763|27|N/A|F|58|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871848|51|N/A|M|80|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871806|65|N/A|M|83|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871652|60|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871562|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871758|15|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871693|1|N/A|F|65|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871824|38|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871464|42|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871559|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871500|35|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871651|45|N/A|M|39|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871622|23|N/A|M|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871608|27|N/A|F|58|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871448|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871571|38|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871541|35|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871425|11|N/A|F|50|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871537|9|N/A|M|64|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871850|53|N/A|M|41|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871682|62|N/A|M|32|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871734|47|N/A|M|71|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871723|55|N/A|F|91|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871811|4|N/A|F|85|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871624|59|N/A|M|56|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871462|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871889|63|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871551|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871743|5|N/A|M|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871485|52|N/A|F|43|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871869|42|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871517|2|N/A|M|15|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871800|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871792|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871521|53|N/A|M|41|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871612|17|N/A|F|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871475|35|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871619|58|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871796|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871854|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871705|54|N/A|F|67|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871488|34|N/A|M|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871494|39|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871530|3|N/A|F|59|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871522|17|N/A|F|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871447|6|N/A|F|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871757|56|N/A|F|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871613|20|N/A|F|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871885|40|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871760|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871721|54|N/A|F|67|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871657|40|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871823|44|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871606|8|N/A|F|101|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871597|49|N/A|M|48|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871700|18|N/A|F|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871422|63|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871675|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871697|55|N/A|F|91|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871877|53|N/A|M|41|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871794|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871490|8|N/A|F|101|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871783|62|N/A|M|32|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871623|57|N/A|M|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871595|47|N/A|M|71|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871428|17|N/A|F|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871718|51|N/A|M|80|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871793|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871667|40|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871516|22|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871648|6|N/A|F|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871868|33|N/A|M|45|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871827|17|N/A|F|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871637|6|N/A|F|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871609|19|N/A|M|85|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871841|2|N/A|M|15|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871647|8|N/A|F|101|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871432|29|N/A|F|93|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871616|10|N/A|F|59|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871853|9|N/A|M|64|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871638|57|N/A|M|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871844|48|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871433|49|N/A|M|48|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871465|26|N/A|M|64|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871506|34|N/A|M|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871714|54|N/A|F|67|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871460|26|N/A|M|64|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871578|7|N/A|M|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871615|61|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871581|48|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871745|39|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871864|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871812|14|N/A|F|96|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871860|55|N/A|F|91|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871750|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871607|6|N/A|F|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871415|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871862|47|N/A|M|71|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871656|37|N/A|M|32|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871501|53|N/A|M|41|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871467|44|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871842|46|N/A|F|42|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871709|47|N/A|M|71|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871579|43|N/A|M|83|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871875|44|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871820|55|N/A|F|91|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871752|2|N/A|M|15|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871602|58|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871804|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871849|56|N/A|F|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871666|36|N/A|F|36|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871511|36|N/A|F|36|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871565|33|N/A|M|45|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871746|43|N/A|M|83|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871567|33|N/A|M|45|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871834|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871724|50|N/A|F|45|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871880|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871459|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871821|42|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871884|26|N/A|M|64|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871642|5|N/A|M|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871761|18|N/A|F|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871857|28|N/A|M|30|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871461|3|N/A|F|59|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871636|60|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871625|59|N/A|M|56|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871620|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871703|59|N/A|M|56|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871690|50|N/A|F|45|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871504|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871590|54|N/A|F|67|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871784|19|N/A|M|85|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871737|31|N/A|F|114|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871482|19|N/A|M|85|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871879|54|N/A|F|67|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871442|21|N/A|F|38|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871614|8|N/A|F|101|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871781|57|N/A|M|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871704|52|N/A|F|43|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871699|11|N/A|F|50|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871436|58|N/A|F|53|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871689|38|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871839|33|N/A|M|45|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871424|13|N/A|M|85|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871583|59|N/A|M|56|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871463|62|N/A|M|32|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871676|11|N/A|F|50|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871594|61|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871556|6|N/A|F|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871453|47|N/A|M|71|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871600|50|N/A|F|45|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871568|38|N/A|M|41|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871632|59|N/A|M|56|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871503|30|N/A|M|65|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871679|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871582|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871438|47|N/A|M|71|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871526|35|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871887|49|N/A|M|48|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871741|36|N/A|F|36|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871863|53|N/A|M|41|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871449|39|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871769|10|N/A|F|59|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871569|25|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871744|56|N/A|F|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871698|65|N/A|M|83|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871773|32|N/A|F|112|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871618|12|N/A|M|93|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871801|65|N/A|M|83|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871789|64|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871782|15|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871843|17|N/A|F|100|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871695|16|N/A|F|58|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871498|60|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871708|50|N/A|F|45|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871728|60|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871830|53|N/A|M|41|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871635|41|N/A|M|73|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871882|23|N/A|M|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871584|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871753|20|N/A|F|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871450|45|N/A|M|39|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871629|64|N/A|M|62|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871572|29|N/A|F|93|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871538|33|N/A|M|45|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871633|25|N/A|M|53|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871688|46|N/A|F|42|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871847|46|N/A|F|42|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871828|46|N/A|F|42|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871878|61|N/A|M|51|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871807|12|N/A|M|93|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1871523|24|N/A|F|111|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1871446|59|N/A|M|56|N/A|Huntington's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease

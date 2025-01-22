@@ -1,0 +1,16 @@
+GSM4998217|5|N/A|M|48|CRISPR/HDR-mediated FOXP3 Knockout, GFP sort-purified|Healthy|Cells|Naive Treg|in_vivo|ctrl|Donor5_FOXP3-HDR-KO|None|Genetic
+GSM4998218|5|N/A|M|48|Cas9|Healthy|Cells|Naive Treg|in_vivo|ctrl|Donor5_Cas9|None|Genetic
+GSM4998219|5|N/A|M|48|None|Healthy|Cells|Conventional T Cell|in_vivo|ctrl|Donor5_Conventional|None|None
+GSM4998220|0|N/A|M|39|CRISPR/HDR-mediated FOXP3 Knockout, GFP sort-purified|Healthy|Cells|Naive Treg|in_vivo|ctrl|Donor0_FOXP3-HDR-KO|None|Genetic
+GSM4998221|0|N/A|M|39|Cas9|Healthy|Cells|Naive Treg|in_vivo|ctrl|Donor0_Cas9|None|Genetic
+GSM4998222|0|N/A|M|39|None|Healthy|Cells|Conventional T Cell|in_vivo|ctrl|Donor0_Conventional|None|None
+GSM4998223|3|N/A|M|35|CRISPR/HDR-mediated FOXP3 Knockout, GFP sort-purified|Healthy|Cells|Naive Treg|in_vivo|ctrl|Donor3_FOXP3-HDR-KO|None|Genetic
+GSM4998224|3|N/A|M|35|Cas9|Healthy|Cells|Naive Treg|in_vivo|ctrl|Donor3_Cas9|None|Genetic
+GSM4998225|3|N/A|M|35|None|Healthy|Cells|Conventional T Cell|in_vivo|ctrl|Donor3_Conventional|None|None
+GSM4998226|4|N/A|F|29|CRISPR/HDR-mediated FOXP3 Knockout, GFP sort-purified|Healthy|Cells|Naive Treg|in_vivo|ctrl|Donor4_FOXP3-HDR-KO|None|Genetic
+GSM4998227|4|N/A|F|29|Cas9|Healthy|Cells|Naive Treg|in_vivo|ctrl|Donor4_Cas9|None|Genetic
+GSM4998228|4|N/A|F|29|None|Healthy|Cells|Conventional T Cell|in_vivo|ctrl|Donor4_Conventional|None|None
+GSM4998229|7|N/A|M|50|CRISPR/HDR-mediated FOXP3 Knockout, GFP sort-purified|Healthy|Cells|Naive Treg|in_vivo|ctrl|Donor7_FOXP3-HDR-KO|None|Genetic
+GSM4998230|7|N/A|M|50|Cas9|Healthy|Cells|Naive Treg|in_vivo|ctrl|Donor7_Cas9|None|Genetic
+GSM4998231|7|N/A|M|50|None|Healthy|Cells|Conventional T Cell|in_vivo|ctrl|Donor7_Conventional|None|None
+GSM4998232|7|N/A|M|48|CRISPR/HDR-mediated FOXP3 Knockout, GFP sort-purified|Healthy|Cells|Naive Treg|in_vivo|ctrl|Donor7_FOXP3-HDR-KO_techrep2|None|Genetic

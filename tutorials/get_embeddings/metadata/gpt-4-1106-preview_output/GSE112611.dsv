@@ -1,0 +1,402 @@
+GSM3074116|N/A|N/A|M|13.81|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074261|N/A|N/A|M|13.17|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074244|N/A|N/A|M|16.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074191|N/A|N/A|F|16.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074205|N/A|N/A|F|16.08|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074153|N/A|N/A|M|18.11|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074310|N/A|N/A|F|17.73|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074058|N/A|N/A|M|19.26|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074232|N/A|N/A|M|10.08|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074420|N/A|N/A|M|13.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074318|N/A|N/A|F|5.42|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074061|N/A|N/A|M|14.25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074421|N/A|N/A|M|13.75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074147|N/A|N/A|F|13.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074279|N/A|N/A|F|15.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074348|N/A|N/A|M|15.01|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074045|N/A|N/A|F|15.19|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074172|N/A|N/A|M|15.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074237|N/A|N/A|F|15.25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074344|N/A|N/A|F|11.79|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074276|N/A|N/A|F|11.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074174|N/A|N/A|M|12.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074057|N/A|N/A|M|15.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074125|N/A|N/A|F|15.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074309|N/A|N/A|F|14.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074316|N/A|N/A|M|16.75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074290|N/A|N/A|M|15.75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074111|N/A|N/A|M|18.2|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074307|N/A|N/A|F|9.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074387|N/A|N/A|F|15.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074231|N/A|N/A|M|10.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074085|N/A|N/A|F|13.34|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074066|N/A|N/A|M|13.59|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074060|N/A|N/A|M|9.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074328|N/A|N/A|M|16.64|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074370|N/A|N/A|M|18.96|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074117|N/A|N/A|M|10.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074145|N/A|N/A|F|19.32|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074201|N/A|N/A|M|13.01|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074213|N/A|N/A|M|10.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074200|N/A|N/A|M|12.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074427|N/A|N/A|F|16.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074080|N/A|N/A|M|15.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074240|N/A|N/A|M|7.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074090|N/A|N/A|M|17.01|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074368|N/A|N/A|M|10.47|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074222|N/A|N/A|M|13.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074054|N/A|N/A|M|16.81|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074063|N/A|N/A|M|16.93|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074093|N/A|N/A|F|12.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074071|N/A|N/A|F|10.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074078|N/A|N/A|M|18.81|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074127|N/A|N/A|F|11.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074131|N/A|N/A|F|12.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074363|N/A|N/A|F|12.63|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074250|N/A|N/A|F|5.42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074105|N/A|N/A|M|12.33|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074340|N/A|N/A|M|10.33|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074305|N/A|N/A|M|10.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074075|N/A|N/A|F|14.92|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074375|N/A|N/A|M|12.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074197|N/A|N/A|M|16.86|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074104|N/A|N/A|M|14.45|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074377|N/A|N/A|F|11.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074047|N/A|N/A|M|11.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074180|N/A|N/A|M|12.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074400|N/A|N/A|F|9.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074098|N/A|N/A|M|11.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074399|N/A|N/A|F|16.07|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074123|N/A|N/A|M|4.75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074379|N/A|N/A|F|14.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074393|N/A|N/A|F|8.98|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074415|N/A|N/A|F|12.78|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074161|N/A|N/A|M|5.58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074218|N/A|N/A|M|16.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074239|N/A|N/A|M|12.8|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074189|N/A|N/A|M|14.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074282|N/A|N/A|M|13.45|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074044|N/A|N/A|F|12.25|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074193|N/A|N/A|F|11.17|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074346|N/A|N/A|M|16.6|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074144|N/A|N/A|M|9.25|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074412|N/A|N/A|F|19.31|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074038|N/A|N/A|F|14.06|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074086|N/A|N/A|M|15.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074403|N/A|N/A|F|9.25|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074349|N/A|N/A|M|15.17|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074173|N/A|N/A|F|9.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074106|N/A|N/A|M|11.25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074367|N/A|N/A|M|11.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074265|N/A|N/A|F|16.1|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074398|N/A|N/A|F|12.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074246|N/A|N/A|M|16.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074382|N/A|N/A|M|16.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074273|N/A|N/A|M|14.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074208|N/A|N/A|F|7.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074230|N/A|N/A|M|12.7|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074089|N/A|N/A|M|16.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074143|N/A|N/A|M|12.62|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074331|N/A|N/A|M|16.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074129|N/A|N/A|M|5.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074202|N/A|N/A|F|16.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074410|N/A|N/A|F|15.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074298|N/A|N/A|M|13.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074254|N/A|N/A|M|16.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074059|N/A|N/A|M|12.26|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074053|N/A|N/A|M|13.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074422|N/A|N/A|F|17.35|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074164|N/A|N/A|M|9.84|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074158|N/A|N/A|F|11.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074245|N/A|N/A|M|15.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074132|N/A|N/A|F|16.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074280|N/A|N/A|F|18.46|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074264|N/A|N/A|M|13.79|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074391|N/A|N/A|M|9.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074297|N/A|N/A|M|15.3|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074374|N/A|N/A|M|14.59|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074037|N/A|N/A|F|12.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074317|N/A|N/A|F|8.29|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074345|N/A|N/A|M|15.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074336|N/A|N/A|M|16.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074029|N/A|N/A|M|16.29|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074419|N/A|N/A|M|16.47|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074396|N/A|N/A|F|16.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074041|N/A|N/A|F|5.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074073|N/A|N/A|M|15.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074252|N/A|N/A|F|13.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074072|N/A|N/A|F|9.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074329|N/A|N/A|M|14.33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074155|N/A|N/A|F|14.88|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074291|N/A|N/A|F|16.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074223|N/A|N/A|M|10.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074162|N/A|N/A|F|11.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074163|N/A|N/A|F|13.65|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074074|N/A|N/A|M|18.77|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074242|N/A|N/A|M|15.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074083|N/A|N/A|M|14.33|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074067|N/A|N/A|M|13.34|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074249|N/A|N/A|F|10.17|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074302|N/A|N/A|M|11.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074035|N/A|N/A|M|8.38|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074179|N/A|N/A|F|7.55|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074204|N/A|N/A|M|7.83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074281|N/A|N/A|M|10.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074308|N/A|N/A|F|12.8|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074394|N/A|N/A|F|6.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074168|N/A|N/A|F|9.42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074186|N/A|N/A|M|15.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074149|N/A|N/A|M|12.92|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074324|N/A|N/A|M|16.37|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074341|N/A|N/A|M|15.33|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074030|N/A|N/A|M|12.83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074408|N/A|N/A|M|11.42|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074140|N/A|N/A|F|12.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074216|N/A|N/A|F|11.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074238|N/A|N/A|M|13.17|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074175|N/A|N/A|M|16.19|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074392|N/A|N/A|F|5.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074152|N/A|N/A|M|14.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074235|N/A|N/A|M|12.44|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074103|N/A|N/A|M|13.84|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074260|N/A|N/A|M|11.42|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074361|N/A|N/A|F|9.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074214|N/A|N/A|M|16.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074342|N/A|N/A|M|17.52|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074255|N/A|N/A|F|8.59|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074135|N/A|N/A|M|11.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074094|N/A|N/A|F|13.76|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074113|N/A|N/A|M|13.28|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074327|N/A|N/A|M|12.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074062|N/A|N/A|F|11.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074091|N/A|N/A|M|4.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074043|N/A|N/A|F|13.83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074383|N/A|N/A|F|16.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074124|N/A|N/A|F|12.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074428|N/A|N/A|M|17.32|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074215|N/A|N/A|M|18.71|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074425|N/A|N/A|F|14.25|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074146|N/A|N/A|F|15.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074251|N/A|N/A|F|17.18|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074270|N/A|N/A|M|12.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074096|N/A|N/A|F|17.32|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074386|N/A|N/A|M|16.01|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074257|N/A|N/A|F|12.53|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074362|N/A|N/A|F|11.65|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074274|N/A|N/A|M|17.89|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074148|N/A|N/A|F|14.01|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074414|N/A|N/A|F|12.92|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074354|N/A|N/A|M|7.96|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074284|N/A|N/A|F|14.01|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074356|N/A|N/A|F|15.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074319|N/A|N/A|F|17.95|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074259|N/A|N/A|M|14.43|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074212|N/A|N/A|M|12.37|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074126|N/A|N/A|F|12.09|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074042|N/A|N/A|F|9.47|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074295|N/A|N/A|M|13.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074381|N/A|N/A|M|18.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074406|N/A|N/A|M|10.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074380|N/A|N/A|F|17.94|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074064|N/A|N/A|M|15.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074076|N/A|N/A|M|14.08|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074225|N/A|N/A|M|17.51|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074229|N/A|N/A|F|12.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074095|N/A|N/A|F|14.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074226|N/A|N/A|M|14.63|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074190|N/A|N/A|M|17.15|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074413|N/A|N/A|F|4.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074151|N/A|N/A|M|17.94|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074262|N/A|N/A|M|9.33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074088|N/A|N/A|M|17.94|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074049|N/A|N/A|M|16.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074220|N/A|N/A|M|11.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074199|N/A|N/A|M|12.42|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074388|N/A|N/A|F|18.32|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074429|N/A|N/A|M|15.42|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074306|N/A|N/A|M|12.76|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074339|N/A|N/A|M|13.27|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074181|N/A|N/A|M|16.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074352|N/A|N/A|F|15.84|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074418|N/A|N/A|M|16.84|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074081|N/A|N/A|M|13.75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074347|N/A|N/A|M|11.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074102|N/A|N/A|M|11.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074326|N/A|N/A|M|14.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074233|N/A|N/A|M|16.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074404|N/A|N/A|F|10.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074373|N/A|N/A|M|14.58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074119|N/A|N/A|F|15.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074166|N/A|N/A|M|16.76|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074287|N/A|N/A|F|9.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074369|N/A|N/A|M|6.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074395|N/A|N/A|F|18.86|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074028|N/A|N/A|M|14.42|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074335|N/A|N/A|M|15.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074154|N/A|N/A|M|14.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074288|N/A|N/A|F|12.72|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074121|N/A|N/A|F|16.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074236|N/A|N/A|M|9.33|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074160|N/A|N/A|M|10.07|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074283|N/A|N/A|F|13.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074334|N/A|N/A|M|18.77|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074266|N/A|N/A|F|12.33|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074167|N/A|N/A|M|13.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074176|N/A|N/A|F|8.25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074134|N/A|N/A|M|13.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074133|N/A|N/A|F|7.25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074385|N/A|N/A|M|15.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074170|N/A|N/A|M|17.48|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074384|N/A|N/A|F|19.73|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074082|N/A|N/A|M|17.22|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074187|N/A|N/A|F|9.67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074228|N/A|N/A|F|15.59|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074209|N/A|N/A|F|8.59|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074227|N/A|N/A|M|12.25|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074115|N/A|N/A|F|16.25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074207|N/A|N/A|M|13.61|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074405|N/A|N/A|M|13.79|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074040|N/A|N/A|M|15.01|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074256|N/A|N/A|F|7.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074165|N/A|N/A|M|6.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074031|N/A|N/A|F|9.75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074275|N/A|N/A|F|13.15|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074359|N/A|N/A|F|15.88|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074192|N/A|N/A|F|17.76|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074184|N/A|N/A|F|9.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074100|N/A|N/A|F|17.32|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074142|N/A|N/A|M|14.56|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074417|N/A|N/A|M|15.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074337|N/A|N/A|F|12.59|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074312|N/A|N/A|F|13.09|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074052|N/A|N/A|M|13.2|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074313|N/A|N/A|M|18.03|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074397|N/A|N/A|F|14.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074122|N/A|N/A|F|13.08|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074300|N/A|N/A|M|11.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074378|N/A|N/A|F|14.88|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074314|N/A|N/A|M|16.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074401|N/A|N/A|F|11.36|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074301|N/A|N/A|M|11.33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074243|N/A|N/A|M|18.18|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074203|N/A|N/A|F|19.48|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074092|N/A|N/A|M|7.88|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074371|N/A|N/A|M|16.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074068|N/A|N/A|M|10.0|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074141|N/A|N/A|M|11.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074416|N/A|N/A|F|9.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074321|N/A|N/A|M|11.25|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074311|N/A|N/A|F|12.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074156|N/A|N/A|F|11.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074358|N/A|N/A|M|11.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074357|N/A|N/A|M|14.43|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074087|N/A|N/A|M|15.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074050|N/A|N/A|F|9.75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074206|N/A|N/A|M|10.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074150|N/A|N/A|F|8.25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074325|N/A|N/A|M|16.31|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074109|N/A|N/A|F|14.25|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074114|N/A|N/A|F|12.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074198|N/A|N/A|M|14.41|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074364|N/A|N/A|F|9.25|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074032|N/A|N/A|F|16.58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074136|N/A|N/A|F|8.83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074036|N/A|N/A|M|11.75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074289|N/A|N/A|M|14.58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074159|N/A|N/A|M|6.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074351|N/A|N/A|F|14.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074217|N/A|N/A|F|14.07|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074211|N/A|N/A|F|16.17|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074097|N/A|N/A|F|14.75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074389|N/A|N/A|M|15.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074196|N/A|N/A|M|14.44|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074268|N/A|N/A|F|15.58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074360|N/A|N/A|F|12.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074070|N/A|N/A|M|6.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074188|N/A|N/A|F|5.92|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074130|N/A|N/A|F|15.78|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074177|N/A|N/A|F|12.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074323|N/A|N/A|M|14.42|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074183|N/A|N/A|F|12.89|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074365|N/A|N/A|M|15.39|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074056|N/A|N/A|F|17.18|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074048|N/A|N/A|M|11.42|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074343|N/A|N/A|F|8.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074210|N/A|N/A|F|15.83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074271|N/A|N/A|F|12.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074101|N/A|N/A|F|14.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074376|N/A|N/A|M|13.25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074272|N/A|N/A|F|16.91|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074338|N/A|N/A|F|11.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074303|N/A|N/A|M|17.35|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074046|N/A|N/A|M|14.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074077|N/A|N/A|M|16.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074241|N/A|N/A|M|20.78|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074051|N/A|N/A|M|10.33|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074269|N/A|N/A|M|13.51|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074065|N/A|N/A|M|12.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074263|N/A|N/A|M|12.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074333|N/A|N/A|M|15.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074137|N/A|N/A|F|13.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074286|N/A|N/A|M|14.68|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074409|N/A|N/A|F|11.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074084|N/A|N/A|F|12.33|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074299|N/A|N/A|M|12.76|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074296|N/A|N/A|M|17.11|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074138|N/A|N/A|F|15.91|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074292|N/A|N/A|F|19.04|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074169|N/A|N/A|M|13.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074332|N/A|N/A|M|13.75|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074366|N/A|N/A|M|12.33|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074182|N/A|N/A|M|13.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074099|N/A|N/A|M|15.13|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074234|N/A|N/A|M|17.68|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074285|N/A|N/A|M|11.42|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074139|N/A|N/A|F|9.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074315|N/A|N/A|M|10.42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074390|N/A|N/A|M|18.9|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074372|N/A|N/A|M|14.17|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074322|N/A|N/A|M|8.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074411|N/A|N/A|F|12.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074407|N/A|N/A|M|14.16|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074278|N/A|N/A|F|16.09|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074355|N/A|N/A|F|18.96|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074178|N/A|N/A|F|5.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074402|N/A|N/A|F|12.43|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074219|N/A|N/A|M|18.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074224|N/A|N/A|M|16.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074055|N/A|N/A|F|13.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074195|N/A|N/A|M|14.63|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074108|N/A|N/A|F|17.26|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074194|N/A|N/A|M|12.58|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074304|N/A|N/A|M|14.42|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074128|N/A|N/A|M|8.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074033|N/A|N/A|M|13.08|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074107|N/A|N/A|M|13.67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074293|N/A|N/A|M|12.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074157|N/A|N/A|F|12.51|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074350|N/A|N/A|M|10.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074185|N/A|N/A|M|18.4|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074247|N/A|N/A|F|16.78|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074079|N/A|N/A|M|17.68|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074221|N/A|N/A|M|13.58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074171|N/A|N/A|F|11.94|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074112|N/A|N/A|M|10.5|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074039|N/A|N/A|M|11.42|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074258|N/A|N/A|F|9.25|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074267|N/A|N/A|M|8.58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074423|N/A|N/A|F|15.33|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074320|N/A|N/A|F|14.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074069|N/A|N/A|M|10.03|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074277|N/A|N/A|F|15.08|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074034|N/A|N/A|M|5.33|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074253|N/A|N/A|M|12.67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074110|N/A|N/A|M|16.17|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074426|N/A|N/A|F|17.67|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074424|N/A|N/A|F|16.31|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074294|N/A|N/A|M|13.68|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074120|N/A|N/A|F|19.65|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM3074248|N/A|N/A|F|13.92|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074353|N/A|N/A|M|4.83|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3074330|N/A|N/A|M|11.58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM3074118|N/A|N/A|F|17.96|N/A|Crohn's disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease

@@ -1,0 +1,88 @@
+GSM5695305|SFA_1|N/A|F|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_1|N/A|Disease
+GSM5695306|SFA_1|N/A|F|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_1|N/A|Disease
+GSM5695307|SFA_2|N/A|F|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_2|N/A|Disease
+GSM5695308|SFA_2|N/A|F|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_2|N/A|Disease
+GSM5695309|MFA_1|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_1|N/A|Disease
+GSM5695310|MFA_1|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_1|N/A|Disease
+GSM5695311|MFA_2|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_2|N/A|Disease
+GSM5695312|MFA_2|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_2|N/A|Disease
+GSM5695313|SFA_3|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_3|N/A|Disease
+GSM5695314|SFA_3|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_3|N/A|Disease
+GSM5695315|MFA_3|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_3|N/A|Disease
+GSM5695316|MFA_3|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_3|N/A|Disease
+GSM5695317|SFA_4|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_4|N/A|Disease
+GSM5695318|SFA_4|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_4|N/A|Disease
+GSM5695319|SFA_4|N/A|F|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_4|N/A|Disease
+GSM5695320|SFA_1|N/A|F|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_1|N/A|Disease
+GSM5695321|MFA_4|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_4|N/A|Disease
+GSM5695322|MFA_4|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_4|N/A|Disease
+GSM5695323|MFA_5|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_5|N/A|Disease
+GSM5695324|MFA_5|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_5|N/A|Disease
+GSM5695325|NA_1|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_1|N/A|None
+GSM5695326|NA_1|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_1|N/A|None
+GSM5695327|NA_2|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_2|N/A|None
+GSM5695328|NA_2|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_2|N/A|None
+GSM5695363|NA_10|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_10|N/A|None
+GSM5695347|MFA_10|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_10|N/A|Disease
+GSM5695377|NA_17|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_17|N/A|None
+GSM5695381|NA_16|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_16|N/A|None
+GSM5695384|MFA_14|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_14|N/A|Disease
+GSM5695372|NA_13|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_13|N/A|None
+GSM5695392|MFA_15|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_15|N/A|Disease
+GSM5695382|NA_16|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_16|N/A|None
+GSM5695391|MFA_15|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_15|N/A|Disease
+GSM5695343|SFA_1|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_1|N/A|Disease
+GSM5695333|NA_3|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_3|N/A|None
+GSM5695383|MFA_14|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_14|N/A|Disease
+GSM5695335|NA_4|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_4|N/A|None
+GSM5695370|NA_12|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_12|N/A|None
+GSM5695388|NA_17|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_17|N/A|None
+GSM5695371|NA_13|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_13|N/A|None
+GSM5695379|MFA_13|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_13|N/A|Disease
+GSM5695373|SFA_11|N/A|F|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_11|N/A|Disease
+GSM5695351|NA_8|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_8|N/A|None
+GSM5695334|NA_3|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_3|N/A|None
+GSM5695346|MFA_10|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_10|N/A|Disease
+GSM5695386|MFA_8|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_8|N/A|Disease
+GSM5695344|MFA_9|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_9|N/A|Disease
+GSM5695375|NA_14|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_14|N/A|None
+GSM5695350|NA_8|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_8|N/A|None
+GSM5695341|NA_6|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_6|N/A|None
+GSM5695364|NA_10|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_10|N/A|None
+GSM5695332|MFA_7|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_7|N/A|Disease
+GSM5695330|MFA_6|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_6|N/A|Disease
+GSM5695390|SFA_13|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_13|N/A|Disease
+GSM5695338|NA_5|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_5|N/A|None
+GSM5695357|NA_9|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_9|N/A|None
+GSM5695367|SFA_9|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_9|N/A|Disease
+GSM5695369|SFA_10|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_10|N/A|Disease
+GSM5695359|MFA_12|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_12|N/A|Disease
+GSM5695339|MFA_8|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_8|N/A|Disease
+GSM5695362|SFA_8|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_8|N/A|Disease
+GSM5695349|NA_7|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_7|N/A|None
+GSM5695340|MFA_8|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_8|N/A|Disease
+GSM5695385|SFA_12|N/A|F|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_12|N/A|Disease
+GSM5695336|NA_4|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_4|N/A|None
+GSM5695358|MFA_12|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_12|N/A|Disease
+GSM5695374|SFA_11|N/A|F|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_11|N/A|Disease
+GSM5695354|SFA_6|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_6|N/A|Disease
+GSM5695387|NA_17|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_17|N/A|None
+GSM5695356|NA_9|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_9|N/A|None
+GSM5695355|SFA_6|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_6|N/A|Disease
+GSM5695352|MFA_11|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_11|N/A|Disease
+GSM5695342|SFA_5|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_5|N/A|Disease
+GSM5695365|NA_11|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_11|N/A|None
+GSM5695331|MFA_7|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_7|N/A|Disease
+GSM5695348|NA_7|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_7|N/A|None
+GSM5695376|NA_14|N/A|F|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_14|N/A|None
+GSM5695345|MFA_9|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_9|N/A|Disease
+GSM5695329|MFA_6|N/A|M|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_6|N/A|Disease
+GSM5695366|NA_11|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_11|N/A|None
+GSM5695368|SFA_9|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_9|N/A|Disease
+GSM5695353|MFA_11|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_11|N/A|Disease
+GSM5695360|SFA_7|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_7|N/A|Disease
+GSM5695380|MFA_13|N/A|F|N/A|N/A|Multiple Food Allergy|Cells|CD4 T cells|in_vitro|case|Multi_FA_13|N/A|Disease
+GSM5695361|SFA_8|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_8|N/A|Disease
+GSM5695389|SFA_13|N/A|M|N/A|N/A|Peanut Allergy|Cells|CD4 T cells|in_vitro|case|Single_FA_13|N/A|Disease
+GSM5695337|NA_5|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_5|N/A|None
+GSM5695378|NA_15|N/A|M|N/A|N/A|Healthy|Cells|CD4 T cells|in_vitro|ctrl|Non_FA_15|N/A|None

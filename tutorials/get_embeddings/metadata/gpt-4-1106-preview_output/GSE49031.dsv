@@ -1,0 +1,945 @@
+GSM1203462|ALL_85|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_85|N/A|Disease
+GSM1203434|ALL_57|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_57|N/A|Disease
+GSM1203384|ALL_10|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_10|N/A|Disease
+GSM1203909|ALL_506|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_506|N/A|Disease
+GSM1204078|ALL_675|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_675|N/A|Disease
+GSM1204158|ALL_754|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_754|N/A|Disease
+GSM1203906|ALL_503|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_503|N/A|Disease
+GSM1203727|ALL_336|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_336|N/A|Disease
+GSM1203793|ALL_397|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_397|N/A|Disease
+GSM1203409|ALL_33|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_33|N/A|Disease
+GSM1203960|ALL_557|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_557|N/A|Disease
+GSM1203534|ALL_151|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_151|N/A|Disease
+GSM1204275|553_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|553_B|N/A|None
+GSM1203873|ALL_470|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_470|N/A|Disease
+GSM1204267|546_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|546_B|N/A|None
+GSM1203523|ALL_140|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_140|N/A|Disease
+GSM1203548|ALL_165|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_165|N/A|Disease
+GSM1203886|ALL_483|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_483|N/A|Disease
+GSM1204119|ALL_715|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_715|N/A|Disease
+GSM1203500|ALL_120|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_120|N/A|Disease
+GSM1203413|ALL_37|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_37|N/A|Disease
+GSM1203949|ALL_546|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_546|N/A|Disease
+GSM1204142|ALL_738|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_738|N/A|Disease
+GSM1204256|539_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|539_T|N/A|None
+GSM1203890|ALL_487|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_487|N/A|Disease
+GSM1203858|ALL_456|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_456|N/A|Disease
+GSM1203447|ALL_70|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_70|N/A|Disease
+GSM1203531|ALL_148|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_148|N/A|Disease
+GSM1204056|ALL_653|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_653|N/A|Disease
+GSM1204037|ALL_634|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_634|N/A|Disease
+GSM1203767|ALL_373|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_373|N/A|Disease
+GSM1203589|ALL_205|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_205|N/A|Disease
+GSM1204035|ALL_632|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_632|N/A|Disease
+GSM1203390|ALL_16|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_16|N/A|Disease
+GSM1203613|ALL_227|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_227|N/A|Disease
+GSM1203787|ALL_391|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_391|N/A|Disease
+GSM1204092|ALL_689|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_689|N/A|Disease
+GSM1203521|ALL_138|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_138|N/A|Disease
+GSM1204109|ALL_705|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_705|N/A|Disease
+GSM1203584|ALL_200|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_200|N/A|Disease
+GSM1203826|ALL_427r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_427r1|N/A|Disease
+GSM1203718|ALL_327r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_327r1|N/A|Disease
+GSM1203781|ALL_385|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_385|N/A|Disease
+GSM1203558|ALL_175|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_175|N/A|Disease
+GSM1203962|ALL_559|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_559|N/A|Disease
+GSM1203671|ALL_281|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_281|N/A|Disease
+GSM1203996|ALL_593|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_593|N/A|Disease
+GSM1203627|ALL_241|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_241|N/A|Disease
+GSM1204260|542_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|542_T|N/A|None
+GSM1203622|ALL_236|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_236|N/A|Disease
+GSM1203755|ALL_362|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_362|N/A|Disease
+GSM1204029|ALL_626|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_626|N/A|Disease
+GSM1204072|ALL_669|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_669|N/A|Disease
+GSM1203423|ALL_46|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_46|N/A|Disease
+GSM1204139|ALL_735|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_735|N/A|Disease
+GSM1203997|ALL_594|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_594|N/A|Disease
+GSM1204028|ALL_625|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_625|N/A|Disease
+GSM1203490|ALL_111|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_111|N/A|Disease
+GSM1204141|ALL_737|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_737|N/A|Disease
+GSM1203587|ALL_203|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_203|N/A|Disease
+GSM1204060|ALL_657|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_657|N/A|Disease
+GSM1203710|ALL_320|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_320|N/A|Disease
+GSM1203506|ALL_125|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_125|N/A|Disease
+GSM1204009|ALL_606|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_606|N/A|Disease
+GSM1204286|562_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|562_T|N/A|None
+GSM1204300|572_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|572_T|N/A|None
+GSM1204062|ALL_659|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_659|N/A|Disease
+GSM1203391|ALL_17|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_17|N/A|Disease
+GSM1204183|Constitutional_257|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_257|N/A|None
+GSM1204058|ALL_655|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_655|N/A|Disease
+GSM1203855|ALL_453|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_453|N/A|Disease
+GSM1203739|ALL_347|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_347|N/A|Disease
+GSM1203702|ALL_312|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_312|N/A|Disease
+GSM1203807|ALL_411|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_411|N/A|Disease
+GSM1203696|ALL_306|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_306|N/A|Disease
+GSM1204265|545_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|545_B|N/A|None
+GSM1203642|ALL_254|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_254|N/A|Disease
+GSM1204191|Constitutional_316|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_316|N/A|None
+GSM1204068|ALL_665|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_665|N/A|Disease
+GSM1203401|ALL_27|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_27|N/A|Disease
+GSM1203473|ALL_96|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_96|N/A|Disease
+GSM1204274|549_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|549_T|N/A|None
+GSM1203754|ALL_361|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_361|N/A|Disease
+GSM1203520|ALL_137|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_137|N/A|Disease
+GSM1203472|ALL_95|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_95|N/A|Disease
+GSM1203449|ALL_72|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_72|N/A|Disease
+GSM1203386|ALL_12|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_12|N/A|Disease
+GSM1204175|Constitutional_172|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_172|N/A|None
+GSM1204295|568_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|568_B|N/A|None
+GSM1203636|ALL_248|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_248|N/A|Disease
+GSM1203599|ALL_213|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_213|N/A|Disease
+GSM1203493|ALL_114|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_114|N/A|Disease
+GSM1204081|ALL_678|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_678|N/A|Disease
+GSM1203977|ALL_574|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_574|N/A|Disease
+GSM1204255|539_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|539_B|N/A|None
+GSM1203751|ALL_358r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_358r1|N/A|Disease
+GSM1203965|ALL_562|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_562|N/A|Disease
+GSM1203666|ALL_277|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_277|N/A|Disease
+GSM1203559|ALL_176|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_176|N/A|Disease
+GSM1203681|ALL_291|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_291|N/A|Disease
+GSM1203418|ALL_41|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_41|N/A|Disease
+GSM1203417|ALL_40|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_40|N/A|Disease
+GSM1204199|Constitutional_398|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_398|N/A|None
+GSM1203661|ALL_272|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_272|N/A|Disease
+GSM1203887|ALL_484|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_484|N/A|Disease
+GSM1203641|ALL_253|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_253|N/A|Disease
+GSM1204282|560_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|560_T|N/A|None
+GSM1203481|ALL_104|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_104|N/A|Disease
+GSM1203730|ALL_338|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_338|N/A|Disease
+GSM1203455|ALL_78|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_78|N/A|Disease
+GSM1203565|ALL_182|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_182|N/A|Disease
+GSM1204155|ALL_751|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_751|N/A|Disease
+GSM1204152|ALL_748|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_748|N/A|Disease
+GSM1203876|ALL_473|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_473|N/A|Disease
+GSM1203778|ALL_382|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_382|N/A|Disease
+GSM1203543|ALL_160|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_160|N/A|Disease
+GSM1203930|ALL_527|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_527|N/A|Disease
+GSM1203844|ALL_444r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_444r1|N/A|Disease
+GSM1203421|ALL_44|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_44|N/A|Disease
+GSM1203689|ALL_299|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_299|N/A|Disease
+GSM1204133|ALL_729|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_729|N/A|Disease
+GSM1203831|ALL_432|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_432|N/A|Disease
+GSM1203926|ALL_523|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_523|N/A|Disease
+GSM1204115|ALL_711|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_711|N/A|Disease
+GSM1204103|ALL_699|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_699|N/A|Disease
+GSM1203920|ALL_517|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_517|N/A|Disease
+GSM1204263|544_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|544_B|N/A|None
+GSM1203485|ALL_108|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_108|N/A|Disease
+GSM1203833|ALL_434|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_434|N/A|Disease
+GSM1203857|ALL_455|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_455|N/A|Disease
+GSM1204091|ALL_688|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_688|N/A|Disease
+GSM1203631|ALL_244r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_244r1|N/A|Disease
+GSM1203900|ALL_497|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_497|N/A|Disease
+GSM1204262|543_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|543_T|N/A|None
+GSM1203579|ALL_196|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_196|N/A|Disease
+GSM1203822|ALL_424|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_424|N/A|Disease
+GSM1203526|ALL_143|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_143|N/A|Disease
+GSM1203775|ALL_380|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_380|N/A|Disease
+GSM1203415|ALL_39|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_39|N/A|Disease
+GSM1204217|Constitutional_502|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_502|N/A|None
+GSM1203540|ALL_157|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_157|N/A|Disease
+GSM1203990|ALL_587|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_587|N/A|Disease
+GSM1203440|ALL_63|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_63|N/A|Disease
+GSM1203902|ALL_499|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_499|N/A|Disease
+GSM1203941|ALL_538|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_538|N/A|Disease
+GSM1203617|ALL_231|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_231|N/A|Disease
+GSM1203478|ALL_101|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_101|N/A|Disease
+GSM1203655|ALL_266|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_266|N/A|Disease
+GSM1203731|ALL_339|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_339|N/A|Disease
+GSM1203922|ALL_519|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_519|N/A|Disease
+GSM1203637|ALL_249|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_249|N/A|Disease
+GSM1204197|Constitutional_385|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_385|N/A|None
+GSM1203715|ALL_325|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_325|N/A|Disease
+GSM1204190|Constitutional_315|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_315|N/A|None
+GSM1203871|ALL_468|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_468|N/A|Disease
+GSM1204036|ALL_633|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_633|N/A|Disease
+GSM1204306|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A
+GSM1203564|ALL_181|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_181|N/A|Disease
+GSM1203829|ALL_430|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_430|N/A|Disease
+GSM1203424|ALL_47|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_47|N/A|Disease
+GSM1203611|ALL_225|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_225|N/A|Disease
+GSM1203915|ALL_512|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_512|N/A|Disease
+GSM1203804|ALL_408|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_408|N/A|Disease
+GSM1203812|ALL_416|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_416|N/A|Disease
+GSM1203426|ALL_49|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_49|N/A|Disease
+GSM1204121|ALL_717|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_717|N/A|Disease
+GSM1203483|ALL_106|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_106|N/A|Disease
+GSM1204225|Constitutional_559rep1|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_559rep1|N/A|None
+GSM1204021|ALL_618|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_618|N/A|Disease
+GSM1203723|ALL_332|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_332|N/A|Disease
+GSM1204049|ALL_646|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_646|N/A|Disease
+GSM1204126|ALL_722|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_722|N/A|Disease
+GSM1203504|ALL_124|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_124|N/A|Disease
+GSM1203971|ALL_568|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_568|N/A|Disease
+GSM1203932|ALL_529|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_529|N/A|Disease
+GSM1204184|Constitutional_258|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_258|N/A|None
+GSM1203652|ALL_263|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_263|N/A|Disease
+GSM1203578|ALL_195|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_195|N/A|Disease
+GSM1203439|ALL_62|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_62|N/A|Disease
+GSM1204129|ALL_725|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_725|N/A|Disease
+GSM1204047|ALL_644|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_644|N/A|Disease
+GSM1203834|ALL_435|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_435|N/A|Disease
+GSM1203549|ALL_166|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_166|N/A|Disease
+GSM1204288|563_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|563_T|N/A|None
+GSM1204066|ALL_663|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_663|N/A|Disease
+GSM1203550|ALL_167|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_167|N/A|Disease
+GSM1203638|ALL_250|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_250|N/A|Disease
+GSM1204221|Constitutional_546|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_546|N/A|None
+GSM1203944|ALL_541|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_541|N/A|Disease
+GSM1203614|ALL_228|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_228|N/A|Disease
+GSM1204111|ALL_707|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_707|N/A|Disease
+GSM1203738|ALL_346|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_346|N/A|Disease
+GSM1203879|ALL_476|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_476|N/A|Disease
+GSM1203946|ALL_543|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_543|N/A|Disease
+GSM1203919|ALL_516|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_516|N/A|Disease
+GSM1203475|ALL_98|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_98|N/A|Disease
+GSM1204298|569_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|569_T|N/A|None
+GSM1203768|ALL_374|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_374|N/A|Disease
+GSM1204044|ALL_641|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_641|N/A|Disease
+GSM1203419|ALL_42|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_42|N/A|Disease
+GSM1203601|ALL_215|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_215|N/A|Disease
+GSM1203788|ALL_392|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_392|N/A|Disease
+GSM1203686|ALL_296|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_296|N/A|Disease
+GSM1204209|Constitutional_467|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_467|N/A|None
+GSM1203433|ALL_56|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_56|N/A|Disease
+GSM1203408|ALL_32|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_32|N/A|Disease
+GSM1203536|ALL_153|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_153|N/A|Disease
+GSM1204296|568_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|568_T|N/A|None
+GSM1203733|ALL_341|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_341|N/A|Disease
+GSM1203633|ALL_245|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_245|N/A|Disease
+GSM1203762|ALL_368r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_368r1|N/A|Disease
+GSM1204215|Constitutional_495|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_495|N/A|None
+GSM1203999|ALL_596|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_596|N/A|Disease
+GSM1203684|ALL_294|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_294|N/A|Disease
+GSM1203547|ALL_164|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_164|N/A|Disease
+GSM1204107|ALL_703|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_703|N/A|Disease
+GSM1204150|ALL_746|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_746|N/A|Disease
+GSM1203376|ALL_5|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_5|N/A|Disease
+GSM1204059|ALL_656|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_656|N/A|Disease
+GSM1203597|ALL_211|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_211|N/A|Disease
+GSM1203882|ALL_479|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_479|N/A|Disease
+GSM1203659|ALL_270|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_270|N/A|Disease
+GSM1204095|ALL_691|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_691|N/A|Disease
+GSM1203735|ALL_343|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_343|N/A|Disease
+GSM1203717|ALL_327|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_327|N/A|Disease
+GSM1204162|ALL_758|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_758|N/A|Disease
+GSM1203917|ALL_514|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_514|N/A|Disease
+GSM1204179|Constitutional_206|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_206|N/A|None
+GSM1203574|ALL_191|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_191|N/A|Disease
+GSM1204305|cd34_e1|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|cd34_e1|N/A|None
+GSM1204034|ALL_631|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_631|N/A|Disease
+GSM1203375|ALL_4|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_4|N/A|Disease
+GSM1203555|ALL_172|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_172|N/A|Disease
+GSM1203416|ALL_39r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_39r1|N/A|Disease
+GSM1203809|ALL_413|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_413|N/A|Disease
+GSM1204204|Constitutional_458rep4|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_458rep4|N/A|None
+GSM1203532|ALL_149|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_149|N/A|Disease
+GSM1203719|ALL_328|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_328|N/A|Disease
+GSM1203556|ALL_173|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_173|N/A|Disease
+GSM1204131|ALL_727|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_727|N/A|Disease
+GSM1203869|ALL_466|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_466|N/A|Disease
+GSM1204239|Constitutional_702|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_702|N/A|None
+GSM1203529|ALL_146|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_146|N/A|Disease
+GSM1204004|ALL_601|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_601|N/A|Disease
+GSM1203840|ALL_441|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_441|N/A|Disease
+GSM1203732|ALL_340|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_340|N/A|Disease
+GSM1204020|ALL_617|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_617|N/A|Disease
+GSM1203406|ALL_30|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_30|N/A|Disease
+GSM1203516|ALL_133|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_133|N/A|Disease
+GSM1203790|ALL_394|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_394|N/A|Disease
+GSM1204050|ALL_647|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_647|N/A|Disease
+GSM1204045|ALL_642|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_642|N/A|Disease
+GSM1204271|548_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|548_B|N/A|None
+GSM1203954|ALL_551|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_551|N/A|Disease
+GSM1204038|ALL_635|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_635|N/A|Disease
+GSM1204222|Constitutional_550|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_550|N/A|None
+GSM1203701|ALL_311|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_311|N/A|Disease
+GSM1204123|ALL_719|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_719|N/A|Disease
+GSM1204178|Constitutional_204|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_204|N/A|None
+GSM1204084|ALL_681|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_681|N/A|Disease
+GSM1203519|ALL_136|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_136|N/A|Disease
+GSM1204070|ALL_667|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_667|N/A|Disease
+GSM1203699|ALL_309|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_309|N/A|Disease
+GSM1203934|ALL_531|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_531|N/A|Disease
+GSM1203603|ALL_217|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_217|N/A|Disease
+GSM1204193|Constitutional_359|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_359|N/A|None
+GSM1203572|ALL_189|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_189|N/A|Disease
+GSM1204303|574_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|574_B|N/A|None
+GSM1204174|Constitutional_171|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_171|N/A|None
+GSM1204246|Constitutional_756|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_756|N/A|None
+GSM1204294|566_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|566_T|N/A|None
+GSM1203377|ALL_5r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_5r1|N/A|Disease
+GSM1203436|ALL_59|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_59|N/A|Disease
+GSM1204307|MethDNAPos_2|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|MethDNAPos_2|N/A|None
+GSM1204014|ALL_611|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_611|N/A|Disease
+GSM1203525|ALL_142|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_142|N/A|Disease
+GSM1204118|ALL_714|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_714|N/A|Disease
+GSM1204316|MethDNANeg_5|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|MethDNANeg_5|N/A|None
+GSM1204243|Constitutional_753|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_753|N/A|None
+GSM1203429|ALL_52|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_52|N/A|Disease
+GSM1203825|ALL_427|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_427|N/A|Disease
+GSM1203674|ALL_284|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_284|N/A|Disease
+GSM1203785|ALL_389|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_389|N/A|Disease
+GSM1204124|ALL_720|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_720|N/A|Disease
+GSM1203446|ALL_69|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_69|N/A|Disease
+GSM1204301|573_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|573_B|N/A|None
+GSM1203635|ALL_247|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_247|N/A|Disease
+GSM1204283|561_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|561_B|N/A|None
+GSM1203850|ALL_449|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_449|N/A|Disease
+GSM1203619|ALL_233|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_233|N/A|Disease
+GSM1204144|ALL_740|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_740|N/A|Disease
+GSM1203927|ALL_524|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_524|N/A|Disease
+GSM1203509|ALL_128|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_128|N/A|Disease
+GSM1204189|Constitutional_310|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_310|N/A|None
+GSM1203891|ALL_488|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_488|N/A|Disease
+GSM1203461|ALL_84|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_84|N/A|Disease
+GSM1203407|ALL_31|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_31|N/A|Disease
+GSM1203405|ALL_29|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_29|N/A|Disease
+GSM1203463|ALL_86|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_86|N/A|Disease
+GSM1203583|ALL_199|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_199|N/A|Disease
+GSM1203796|ALL_400|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_400|N/A|Disease
+GSM1204077|ALL_674|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_674|N/A|Disease
+GSM1204177|Constitutional_202|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_202|N/A|None
+GSM1203479|ALL_102|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_102|N/A|Disease
+GSM1204085|ALL_682|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_682|N/A|Disease
+GSM1203400|ALL_26|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_26|N/A|Disease
+GSM1203868|ALL_465|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_465|N/A|Disease
+GSM1204001|ALL_598|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_598|N/A|Disease
+GSM1203672|ALL_282|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_282|N/A|Disease
+GSM1203477|ALL_100|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_100|N/A|Disease
+GSM1204015|ALL_612|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_612|N/A|Disease
+GSM1203993|ALL_590|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_590|N/A|Disease
+GSM1203513|ALL_130|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_130|N/A|Disease
+GSM1203981|ALL_578|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_578|N/A|Disease
+GSM1203678|ALL_288|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_288|N/A|Disease
+GSM1203896|ALL_493|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_493|N/A|Disease
+GSM1204192|Constitutional_358|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_358|N/A|None
+GSM1203837|ALL_438|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_438|N/A|Disease
+GSM1203585|ALL_201|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_201|N/A|Disease
+GSM1204242|Constitutional_707rep2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Constitutional_707rep2|N/A|None
+GSM1203761|ALL_368|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_368|N/A|Disease
+GSM1203657|ALL_268|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_268|N/A|Disease
+GSM1203984|ALL_581|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_581|N/A|Disease
+GSM1203456|ALL_79|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_79|N/A|Disease
+GSM1204027|ALL_624|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_624|N/A|Disease
+GSM1203675|ALL_285|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_285|N/A|Disease
+GSM1203623|ALL_237|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_237|N/A|Disease
+GSM1203505|ALL_124r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_124r1|N/A|Disease
+GSM1204290|564_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|564_T|N/A|None
+GSM1204096|ALL_692|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_692|N/A|Disease
+GSM1203913|ALL_510|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_510|N/A|Disease
+GSM1203656|ALL_267|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_267|N/A|Disease
+GSM1203502|ALL_122|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_122|N/A|Disease
+GSM1203709|ALL_319|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_319|N/A|Disease
+GSM1204229|Constitutional_611|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_611|N/A|None
+GSM1203669|ALL_279|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_279|N/A|Disease
+GSM1203646|ALL_257r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_257r1|N/A|Disease
+GSM1204149|ALL_745|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_745|N/A|Disease
+GSM1204241|Constitutional_707rep1|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_707rep1|N/A|None
+GSM1203983|ALL_580|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_580|N/A|Disease
+GSM1204182|Constitutional_255|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_255|N/A|None
+GSM1203859|ALL_457|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_457|N/A|Disease
+GSM1203747|ALL_355|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_355|N/A|Disease
+GSM1204130|ALL_726|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_726|N/A|Disease
+GSM1203458|ALL_81|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_81|N/A|Disease
+GSM1204228|Constitutional_604|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_604|N/A|None
+GSM1204269|547_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|547_B|N/A|None
+GSM1204302|573_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|573_T|N/A|None
+GSM1203889|ALL_486|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_486|N/A|Disease
+GSM1204216|Constitutional_501|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_501|N/A|None
+GSM1203443|ALL_66|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_66|N/A|Disease
+GSM1203792|ALL_396|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_396|N/A|Disease
+GSM1203770|ALL_375|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_375|N/A|Disease
+GSM1203864|ALL_462|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_462|N/A|Disease
+GSM1204024|ALL_621|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_621|N/A|Disease
+GSM1204237|Constitutional_692|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_692|N/A|None
+GSM1203680|ALL_290|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_290|N/A|Disease
+GSM1204299|572_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|572_B|N/A|None
+GSM1203989|ALL_586|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_586|N/A|Disease
+GSM1203432|ALL_55|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_55|N/A|Disease
+GSM1203582|ALL_198r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_198r1|N/A|Disease
+GSM1203552|ALL_169|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_169|N/A|Disease
+GSM1204315|MethDNANeg_4|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vivo|ctrl|MethDNANeg_4|N/A|None
+GSM1203848|ALL_447|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_447|N/A|Disease
+GSM1203851|ALL_450|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_450|N/A|Disease
+GSM1203980|ALL_577|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_577|N/A|Disease
+GSM1203937|ALL_534|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_534|N/A|Disease
+GSM1204292|565_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|565_T|N/A|None
+GSM1204219|Constitutional_542|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_542|N/A|None
+GSM1203816|ALL_419|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_419|N/A|Disease
+GSM1204253|Constitutional_763|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_763|N/A|None
+GSM1204145|ALL_741|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_741|N/A|Disease
+GSM1203910|ALL_507|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_507|N/A|Disease
+GSM1204137|ALL_733|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_733|N/A|Disease
+GSM1203676|ALL_286|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_286|N/A|Disease
+GSM1203682|ALL_292|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_292|N/A|Disease
+GSM1203382|ALL_8r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_8r1|N/A|Disease
+GSM1204280|559_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|559_T|N/A|None
+GSM1203752|ALL_359|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_359|N/A|Disease
+GSM1203713|ALL_323|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_323|N/A|Disease
+GSM1203544|ALL_161|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_161|N/A|Disease
+GSM1203396|ALL_22|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_22|N/A|Disease
+GSM1204165|ALL_761|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_761|N/A|Disease
+GSM1204180|Constitutional_243|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_243|N/A|None
+GSM1203957|ALL_554|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_554|N/A|Disease
+GSM1204223|Constitutional_553|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_553|N/A|None
+GSM1203720|ALL_329|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_329|N/A|Disease
+GSM1203818|ALL_420|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_420|N/A|Disease
+GSM1203924|ALL_521|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_521|N/A|Disease
+GSM1203943|ALL_540|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_540|N/A|Disease
+GSM1203928|ALL_525|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_525|N/A|Disease
+GSM1203845|ALL_445|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_445|N/A|Disease
+GSM1204138|ALL_734|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_734|N/A|Disease
+GSM1204206|Constitutional_462|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_462|N/A|None
+GSM1203945|ALL_542|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_542|N/A|Disease
+GSM1203580|ALL_197|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_197|N/A|Disease
+GSM1204146|ALL_742|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_742|N/A|Disease
+GSM1203380|ALL_7|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_7|N/A|Disease
+GSM1203976|ALL_573|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_573|N/A|Disease
+GSM1203653|ALL_264|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_264|N/A|Disease
+GSM1203425|ALL_48|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_48|N/A|Disease
+GSM1204100|ALL_696|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_696|N/A|Disease
+GSM1203629|ALL_243|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_243|N/A|Disease
+GSM1204311|N/A|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|N/A|N/A|N/A|N/A|None
+GSM1204277|554_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|554_B|N/A|None
+GSM1203836|ALL_437|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_437|N/A|Disease
+GSM1203484|ALL_107|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_107|N/A|Disease
+GSM1204238|Constitutional_695|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_695|N/A|None
+GSM1203522|ALL_139|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_139|N/A|Disease
+GSM1203647|ALL_258|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_258|N/A|Disease
+GSM1203591|ALL_206|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_206|N/A|Disease
+GSM1203724|ALL_333|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_333|N/A|Disease
+GSM1203912|ALL_509|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_509|N/A|Disease
+GSM1204061|ALL_658|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_658|N/A|Disease
+GSM1203742|ALL_350|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_350|N/A|Disease
+GSM1203499|ALL_119r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_119r1|N/A|Disease
+GSM1204176|Constitutional_173|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_173|N/A|None
+GSM1203503|ALL_123|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_123|N/A|Disease
+GSM1204127|ALL_723|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_723|N/A|Disease
+GSM1203975|ALL_572|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_572|N/A|Disease
+GSM1203561|ALL_178|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_178|N/A|Disease
+GSM1203722|ALL_331|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_331|N/A|Disease
+GSM1203939|ALL_536|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_536|N/A|Disease
+GSM1203815|ALL_418|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_418|N/A|Disease
+GSM1204211|Constitutional_472|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_472|N/A|None
+GSM1204147|ALL_743|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_743|N/A|Disease
+GSM1203968|ALL_565|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_565|N/A|Disease
+GSM1204116|ALL_712|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_712|N/A|Disease
+GSM1203757|ALL_364|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_364|N/A|Disease
+GSM1204233|Constitutional_632|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_632|N/A|None
+GSM1203508|ALL_127|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_127|N/A|Disease
+GSM1203515|ALL_132|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_132|N/A|Disease
+GSM1203690|ALL_300|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_300|N/A|Disease
+GSM1203538|ALL_155|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_155|N/A|Disease
+GSM1203507|ALL_126|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_126|N/A|Disease
+GSM1203842|ALL_443|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_443|N/A|Disease
+GSM1204231|Constitutional_619|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_619|N/A|None
+GSM1203448|ALL_71|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_71|N/A|Disease
+GSM1203780|ALL_384|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_384|N/A|Disease
+GSM1203765|ALL_371|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_371|N/A|Disease
+GSM1204016|ALL_613|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_613|N/A|Disease
+GSM1203488|ALL_109r2|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_109r2|N/A|Disease
+GSM1203705|ALL_315|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_315|N/A|Disease
+GSM1203383|ALL_9|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_9|N/A|Disease
+GSM1203392|ALL_18|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_18|N/A|Disease
+GSM1204032|ALL_629|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_629|N/A|Disease
+GSM1203494|ALL_115|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_115|N/A|Disease
+GSM1203777|ALL_381|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_381|N/A|Disease
+GSM1203740|ALL_348|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_348|N/A|Disease
+GSM1203893|ALL_490|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_490|N/A|Disease
+GSM1203663|ALL_274|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_274|N/A|Disease
+GSM1203986|ALL_583|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_583|N/A|Disease
+GSM1204278|554_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|554_T|N/A|None
+GSM1203794|ALL_398|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_398|N/A|Disease
+GSM1203881|ALL_478|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_478|N/A|Disease
+GSM1203491|ALL_112|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_112|N/A|Disease
+GSM1203797|ALL_401|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_401|N/A|Disease
+GSM1203904|ALL_501|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_501|N/A|Disease
+GSM1204005|ALL_602|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_602|N/A|Disease
+GSM1203691|ALL_301|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_301|N/A|Disease
+GSM1204089|ALL_686|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_686|N/A|Disease
+GSM1203898|ALL_495|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_495|N/A|Disease
+GSM1203480|ALL_103|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_103|N/A|Disease
+GSM1204125|ALL_721|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_721|N/A|Disease
+GSM1203486|ALL_109|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_109|N/A|Disease
+GSM1203700|ALL_310|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_310|N/A|Disease
+GSM1203428|ALL_51|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_51|N/A|Disease
+GSM1203511|ALL_128r2|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_128r2|N/A|Disease
+GSM1203967|ALL_564|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_564|N/A|Disease
+GSM1203753|ALL_360|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_360|N/A|Disease
+GSM1204287|563_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|563_B|N/A|None
+GSM1203570|ALL_187|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_187|N/A|Disease
+GSM1203911|ALL_508|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_508|N/A|Disease
+GSM1204284|561_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|561_T|N/A|None
+GSM1203789|ALL_393|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_393|N/A|Disease
+GSM1203592|ALL_207|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_207|N/A|Disease
+GSM1204151|ALL_747|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_747|N/A|Disease
+GSM1204010|ALL_607|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_607|N/A|Disease
+GSM1204113|ALL_709|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_709|N/A|Disease
+GSM1203598|ALL_212|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_212|N/A|Disease
+GSM1203412|ALL_36|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_36|N/A|Disease
+GSM1203847|ALL_446r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_446r1|N/A|Disease
+GSM1204048|ALL_645|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_645|N/A|Disease
+GSM1203749|ALL_357|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_357|N/A|Disease
+GSM1204074|ALL_671|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_671|N/A|Disease
+GSM1203605|ALL_219|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_219|N/A|Disease
+GSM1204205|Constitutional_459|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_459|N/A|None
+GSM1203832|ALL_433|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_433|N/A|Disease
+GSM1203880|ALL_477|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_477|N/A|Disease
+GSM1204186|Constitutional_292|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_292|N/A|None
+GSM1203905|ALL_502|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_502|N/A|Disease
+GSM1203437|ALL_60|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_60|N/A|Disease
+GSM1204230|Constitutional_612|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_612|N/A|None
+GSM1203557|ALL_174|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_174|N/A|Disease
+GSM1203604|ALL_218|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_218|N/A|Disease
+GSM1204188|Constitutional_309|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_309|N/A|None
+GSM1204083|ALL_680|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_680|N/A|Disease
+GSM1203964|ALL_561|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_561|N/A|Disease
+GSM1203892|ALL_489|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_489|N/A|Disease
+GSM1203651|ALL_262|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_262|N/A|Disease
+GSM1204293|566_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|566_B|N/A|None
+GSM1204310|MethDNAPos_5|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|N/A|ctrl|MethDNAPos_5|N/A|None
+GSM1203576|ALL_193|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_193|N/A|Disease
+GSM1203799|ALL_403|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_403|N/A|Disease
+GSM1203918|ALL_515|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_515|N/A|Disease
+GSM1203471|ALL_94|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_94|N/A|Disease
+GSM1203373|ALL_2|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_2|N/A|Disease
+GSM1203863|ALL_461|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_461|N/A|Disease
+GSM1203431|ALL_54|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_54|N/A|Disease
+GSM1203721|ALL_330|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_330|N/A|Disease
+GSM1203947|ALL_544|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_544|N/A|Disease
+GSM1203606|ALL_220|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_220|N/A|Disease
+GSM1203563|ALL_180|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_180|N/A|Disease
+GSM1203692|ALL_302|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_302|N/A|Disease
+GSM1203908|ALL_505|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_505|N/A|Disease
+GSM1203773|ALL_378|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_378|N/A|Disease
+GSM1203745|ALL_353|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_353|N/A|Disease
+GSM1203621|ALL_235|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_235|N/A|Disease
+GSM1203979|ALL_576|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_576|N/A|Disease
+GSM1204112|ALL_708|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_708|N/A|Disease
+GSM1203512|ALL_129|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_129|N/A|Disease
+GSM1204079|ALL_676|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_676|N/A|Disease
+GSM1203658|ALL_269|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_269|N/A|Disease
+GSM1203810|ALL_414|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_414|N/A|Disease
+GSM1204019|ALL_616|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_616|N/A|Disease
+GSM1204135|ALL_731|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_731|N/A|Disease
+GSM1203609|ALL_223|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_223|N/A|Disease
+GSM1203650|ALL_261|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_261|N/A|Disease
+GSM1203782|ALL_386|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_386|N/A|Disease
+GSM1204008|ALL_605|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_605|N/A|Disease
+GSM1204312|MethDNANeg_1|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|MethDNANeg_1|N/A|None
+GSM1203577|ALL_194|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_194|N/A|Disease
+GSM1203444|ALL_67|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_67|N/A|Disease
+GSM1203643|ALL_255|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_255|N/A|Disease
+GSM1203872|ALL_469|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_469|N/A|Disease
+GSM1204224|Constitutional_555|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_555|N/A|None
+GSM1203703|ALL_313|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_313|N/A|Disease
+GSM1203830|ALL_431|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_431|N/A|Disease
+GSM1203704|ALL_314|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_314|N/A|Disease
+GSM1204235|Constitutional_637|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_637|N/A|None
+GSM1204266|545_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|545_T|N/A|None
+GSM1203427|ALL_50|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_50|N/A|Disease
+GSM1204053|ALL_650|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_650|N/A|Disease
+GSM1203961|ALL_558|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_558|N/A|Disease
+GSM1204156|ALL_752|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_752|N/A|Disease
+GSM1204279|559_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|559_B|N/A|None
+GSM1204201|Constitutional_458rep1|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_458rep1|N/A|None
+GSM1203470|ALL_93|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_93|N/A|Disease
+GSM1203921|ALL_518|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_518|N/A|Disease
+GSM1204314|MethDNANeg_3|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|MethDNANeg_3|N/A|None
+GSM1204069|ALL_666|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_666|N/A|Disease
+GSM1203839|ALL_440|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_440|N/A|Disease
+GSM1204291|565_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|565_B|N/A|None
+GSM1204313|MethDNANeg_2|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|MethDNANeg_2|N/A|None
+GSM1203861|ALL_459|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_459|N/A|Disease
+GSM1204076|ALL_673|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_673|N/A|Disease
+GSM1203860|ALL_458|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_458|N/A|Disease
+GSM1203846|ALL_446|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_446|N/A|Disease
+GSM1203877|ALL_474|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_474|N/A|Disease
+GSM1203673|ALL_283|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_283|N/A|Disease
+GSM1203759|ALL_366|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_366|N/A|Disease
+GSM1203841|ALL_442|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_442|N/A|Disease
+GSM1203994|ALL_591|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_591|N/A|Disease
+GSM1204054|ALL_651|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_651|N/A|Disease
+GSM1203467|ALL_90|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_90|N/A|Disease
+GSM1204236|Constitutional_686|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_686|N/A|None
+GSM1203802|ALL_406|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_406|N/A|Disease
+GSM1203514|ALL_131|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_131|N/A|Disease
+GSM1203959|ALL_556|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_556|N/A|Disease
+GSM1203399|ALL_25|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_25|N/A|Disease
+GSM1203916|ALL_513|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_513|N/A|Disease
+GSM1203956|ALL_553|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_553|N/A|Disease
+GSM1204042|ALL_639|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_639|N/A|Disease
+GSM1204213|Constitutional_484|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_484|N/A|None
+GSM1203469|ALL_92|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_92|N/A|Disease
+GSM1203381|ALL_8|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_8|N/A|Disease
+GSM1204171|Constitutional_108|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_108|N/A|None
+GSM1204017|ALL_614|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_614|N/A|Disease
+GSM1203985|ALL_582|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_582|N/A|Disease
+GSM1203998|ALL_595|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_595|N/A|Disease
+GSM1203726|ALL_335|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_335|N/A|Disease
+GSM1203492|ALL_113|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_113|N/A|Disease
+GSM1203634|ALL_246|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_246|N/A|Disease
+GSM1204108|ALL_704|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_704|N/A|Disease
+GSM1204030|ALL_627|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_627|N/A|Disease
+GSM1204232|Constitutional_624|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_624|N/A|None
+GSM1203586|ALL_202|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_202|N/A|Disease
+GSM1203942|ALL_539|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_539|N/A|Disease
+GSM1203495|ALL_116|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_116|N/A|Disease
+GSM1204065|ALL_662|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_662|N/A|Disease
+GSM1203866|ALL_464|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_464|N/A|Disease
+GSM1203808|ALL_412|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_412|N/A|Disease
+GSM1204031|ALL_628|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_628|N/A|Disease
+GSM1204309|MethDNAPos_4|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|MethDNAPos_4|N/A|None
+GSM1203687|ALL_297|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_297|N/A|Disease
+GSM1203600|ALL_214|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_214|N/A|Disease
+GSM1203411|ALL_35|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_35|N/A|Disease
+GSM1203895|ALL_492|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_492|N/A|Disease
+GSM1203707|ALL_317|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_317|N/A|Disease
+GSM1203539|ALL_156|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_156|N/A|Disease
+GSM1203395|ALL_21|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_21|N/A|Disease
+GSM1204212|Constitutional_475|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_475|N/A|None
+GSM1204240|Constitutional_704|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_704|N/A|None
+GSM1203569|ALL_186|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_186|N/A|Disease
+GSM1203974|ALL_571|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_571|N/A|Disease
+GSM1204018|ALL_615|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_615|N/A|Disease
+GSM1204270|547_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|547_T|N/A|None
+GSM1203602|ALL_216|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_216|N/A|Disease
+GSM1203725|ALL_334|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_334|N/A|Disease
+GSM1203824|ALL_426|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_426|N/A|Disease
+GSM1203474|ALL_97|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_97|N/A|Disease
+GSM1204094|ALL_690rep2|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_690rep2|N/A|Disease
+GSM1204226|Constitutional_559rep2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Constitutional_559rep2|N/A|None
+GSM1203695|ALL_305|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_305|N/A|Disease
+GSM1203567|ALL_184|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_184|N/A|Disease
+GSM1203766|ALL_372|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_372|N/A|Disease
+GSM1204043|ALL_640|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_640|N/A|Disease
+GSM1203951|ALL_548|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_548|N/A|Disease
+GSM1203925|ALL_522|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_522|N/A|Disease
+GSM1203803|ALL_407|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_407|N/A|Disease
+GSM1203791|ALL_395|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_395|N/A|Disease
+GSM1204220|Constitutional_544|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_544|N/A|None
+GSM1203537|ALL_154|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_154|N/A|Disease
+GSM1203820|ALL_422|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_422|N/A|Disease
+GSM1203594|ALL_209|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_209|N/A|Disease
+GSM1203746|ALL_354|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_354|N/A|Disease
+GSM1204208|Constitutional_466|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_466|N/A|None
+GSM1203865|ALL_463|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_463|N/A|Disease
+GSM1203588|ALL_204|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_204|N/A|Disease
+GSM1204110|ALL_706|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_706|N/A|Disease
+GSM1204200|Constitutional_402|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_402|N/A|None
+GSM1203435|ALL_58|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_58|N/A|Disease
+GSM1204259|542_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|542_B|N/A|None
+GSM1203551|ALL_168|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_168|N/A|Disease
+GSM1204046|ALL_643|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_643|N/A|Disease
+GSM1204140|ALL_736|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_736|N/A|Disease
+GSM1203668|ALL_278r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_278r1|N/A|Disease
+GSM1203697|ALL_307|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_307|N/A|Disease
+GSM1203403|ALL_27r2|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_27r2|N/A|Disease
+GSM1203626|ALL_240|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_240|N/A|Disease
+GSM1203729|ALL_337|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_337|N/A|Disease
+GSM1204041|ALL_638|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_638|N/A|Disease
+GSM1203903|ALL_500|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_500|N/A|Disease
+GSM1204022|ALL_619|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_619|N/A|Disease
+GSM1204000|ALL_597|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_597|N/A|Disease
+GSM1203625|ALL_239|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_239|N/A|Disease
+GSM1204252|Constitutional_762|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_762|N/A|None
+GSM1203452|ALL_75|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_75|N/A|Disease
+GSM1204170|Constitutional_106|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_106|N/A|None
+GSM1204104|ALL_700|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_700|N/A|Disease
+GSM1203468|ALL_91|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_91|N/A|Disease
+GSM1204148|ALL_744|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_744|N/A|Disease
+GSM1204039|ALL_636|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_636|N/A|Disease
+GSM1203823|ALL_425|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_425|N/A|Disease
+GSM1203795|ALL_399|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_399|N/A|Disease
+GSM1204082|ALL_679|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_679|N/A|Disease
+GSM1203683|ALL_293|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_293|N/A|Disease
+GSM1203950|ALL_547|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_547|N/A|Disease
+GSM1203813|ALL_416r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_416r1|N/A|Disease
+GSM1203883|ALL_480|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_480|N/A|Disease
+GSM1203662|ALL_273|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_273|N/A|Disease
+GSM1203568|ALL_185|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_185|N/A|Disease
+GSM1203620|ALL_234|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_234|N/A|Disease
+GSM1203595|ALL_210|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_210|N/A|Disease
+GSM1203817|ALL_419r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_419r1|N/A|Disease
+GSM1204308|Human HCT116 DKO Methylated DNA MethDNAPos_3|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Human HCT116 DKO Methylated DNA MethDNAPos_3|N/A|None
+GSM1203838|ALL_439|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_439|N/A|Disease
+GSM1204281|560_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|560_B|N/A|None
+GSM1204132|ALL_728|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_728|N/A|Disease
+GSM1204033|ALL_630|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_630|N/A|Disease
+GSM1203867|ALL_464r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_464r1|N/A|Disease
+GSM1204105|ALL_701|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_701|N/A|Disease
+GSM1203410|ALL_34|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_34|N/A|Disease
+GSM1203827|ALL_428|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_428|N/A|Disease
+GSM1203852|ALL_451|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_451|N/A|Disease
+GSM1203800|ALL_404|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_404|N/A|Disease
+GSM1203952|ALL_549|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_549|N/A|Disease
+GSM1203581|ALL_198|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_198|N/A|Disease
+GSM1203786|ALL_390|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_390|N/A|Disease
+GSM1204093|ALL_690rep1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_690rep1|N/A|Disease
+GSM1203402|ALL_27r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_27r1|N/A|Disease
+GSM1203496|ALL_117|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_117|N/A|Disease
+GSM1204198|Constitutional_391|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_391|N/A|None
+GSM1203784|ALL_388|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_388|N/A|Disease
+GSM1204250|Constitutional_760|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_760|N/A|None
+GSM1204248|Constitutional_758|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_758|N/A|None
+GSM1203992|ALL_589|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_589|N/A|Disease
+GSM1203451|ALL_74|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_74|N/A|Disease
+GSM1204245|Constitutional_755|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_755|N/A|None
+GSM1203610|ALL_224|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_224|N/A|Disease
+GSM1203616|ALL_230|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_230|N/A|Disease
+GSM1204218|Constitutional_537|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_537|N/A|None
+GSM1203397|ALL_23|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_23|N/A|Disease
+GSM1204025|ALL_622|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_622|N/A|Disease
+GSM1203987|ALL_584|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_584|N/A|Disease
+GSM1203560|ALL_177|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_177|N/A|Disease
+GSM1203769|ALL_374r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_374r1|N/A|Disease
+GSM1203748|ALL_356|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_356|N/A|Disease
+GSM1203760|ALL_367|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_367|N/A|Disease
+GSM1204258|540_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|540_T|N/A|None
+GSM1203575|ALL_192|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_192|N/A|Disease
+GSM1203517|ALL_134|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_134|N/A|Disease
+GSM1203489|ALL_110|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_110|N/A|Disease
+GSM1203870|ALL_467|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_467|N/A|Disease
+GSM1203819|ALL_421|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_421|N/A|Disease
+GSM1204251|Constitutional_761|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_761|N/A|None
+GSM1204071|ALL_668|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_668|N/A|Disease
+GSM1204268|546_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|546_T|N/A|None
+GSM1203648|ALL_259|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_259|N/A|Disease
+GSM1203828|ALL_429|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_429|N/A|Disease
+GSM1203546|ALL_163|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_163|N/A|Disease
+GSM1204185|Constitutional_291|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_291|N/A|None
+GSM1204075|ALL_672|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_672|N/A|Disease
+GSM1203465|ALL_88|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_88|N/A|Disease
+GSM1204195|Constitutional_365|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_365|N/A|None
+GSM1203553|ALL_170|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_170|N/A|Disease
+GSM1203711|ALL_321|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_321|N/A|Disease
+GSM1203379|ALL_6|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_6|N/A|Disease
+GSM1203973|ALL_570|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_570|N/A|Disease
+GSM1204154|ALL_750|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_750|N/A|Disease
+GSM1204073|ALL_670|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_670|N/A|Disease
+GSM1204117|ALL_713|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_713|N/A|Disease
+GSM1204086|ALL_683|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_683|N/A|Disease
+GSM1203593|ALL_208|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_208|N/A|Disease
+GSM1203897|ALL_494|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_494|N/A|Disease
+GSM1204122|ALL_718|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_718|N/A|Disease
+GSM1203741|ALL_349|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_349|N/A|Disease
+GSM1203530|ALL_147|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_147|N/A|Disease
+GSM1203664|ALL_275|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_275|N/A|Disease
+GSM1203694|ALL_304|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_304|N/A|Disease
+GSM1204273|549_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|549_B|N/A|None
+GSM1204106|ALL_702|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_702|N/A|Disease
+GSM1203758|ALL_365|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_365|N/A|Disease
+GSM1203541|ALL_158|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_158|N/A|Disease
+GSM1203978|ALL_575|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_575|N/A|Disease
+GSM1203955|ALL_552|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_552|N/A|Disease
+GSM1203821|ALL_423|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_423|N/A|Disease
+GSM1204261|543_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|543_B|N/A|None
+GSM1203982|ALL_579|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_579|N/A|Disease
+GSM1204098|ALL_694|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_694|N/A|Disease
+GSM1204088|ALL_685|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_685|N/A|Disease
+GSM1204099|ALL_695|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_695|N/A|Disease
+GSM1203554|ALL_171|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_171|N/A|Disease
+GSM1203596|ALL_210r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_210r1|N/A|Disease
+GSM1203374|ALL_3|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_3|N/A|Disease
+GSM1203744|ALL_352|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_352|N/A|Disease
+GSM1204227|Constitutional_563|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_563|N/A|None
+GSM1204012|ALL_609|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_609|N/A|Disease
+GSM1203991|ALL_588|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_588|N/A|Disease
+GSM1203476|ALL_99|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_99|N/A|Disease
+GSM1203706|ALL_316|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_316|N/A|Disease
+GSM1203445|ALL_68|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_68|N/A|Disease
+GSM1203874|ALL_471|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_471|N/A|Disease
+GSM1203528|ALL_145|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_145|N/A|Disease
+GSM1203394|ALL_20|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_20|N/A|Disease
+GSM1203811|ALL_415|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_415|N/A|Disease
+GSM1204080|ALL_677|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_677|N/A|Disease
+GSM1204052|ALL_649|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_649|N/A|Disease
+GSM1203936|ALL_533|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_533|N/A|Disease
+GSM1203571|ALL_188|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_188|N/A|Disease
+GSM1203776|ALL_380r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_380r1|N/A|Disease
+GSM1203774|ALL_379|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_379|N/A|Disease
+GSM1203894|ALL_491|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_491|N/A|Disease
+GSM1203966|ALL_563|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_563|N/A|Disease
+GSM1203404|ALL_28|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_28|N/A|Disease
+GSM1203736|ALL_344|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_344|N/A|Disease
+GSM1203940|ALL_537|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_537|N/A|Disease
+GSM1204163|ALL_759|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_759|N/A|Disease
+GSM1203667|ALL_278|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_278|N/A|Disease
+GSM1203654|ALL_265|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_265|N/A|Disease
+GSM1203856|ALL_454|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_454|N/A|Disease
+GSM1204289|564_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|564_B|N/A|None
+GSM1203573|ALL_190|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_190|N/A|Disease
+GSM1203644|ALL_256|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_256|N/A|Disease
+GSM1203562|ALL_179|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_179|N/A|Disease
+GSM1203624|ALL_238|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_238|N/A|Disease
+GSM1203862|ALL_460|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_460|N/A|Disease
+GSM1204244|Constitutional_754|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_754|N/A|None
+GSM1203708|ALL_318|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_318|N/A|Disease
+GSM1203450|ALL_73|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_73|N/A|Disease
+GSM1203438|ALL_61|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_61|N/A|Disease
+GSM1204055|ALL_652|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_652|N/A|Disease
+GSM1204297|569_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|569_B|N/A|None
+GSM1203460|ALL_83|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_83|N/A|Disease
+GSM1203679|ALL_289|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_289|N/A|Disease
+GSM1203497|ALL_118|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_118|N/A|Disease
+GSM1203453|ALL_76|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_76|N/A|Disease
+GSM1203969|ALL_566|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_566|N/A|Disease
+GSM1204254|Constitutional_764|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_764|N/A|None
+GSM1204173|Constitutional_112|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_112|N/A|None
+GSM1204120|ALL_716|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_716|N/A|Disease
+GSM1203843|ALL_444|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_444|N/A|Disease
+GSM1203660|ALL_271|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_271|N/A|Disease
+GSM1203737|ALL_345|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_345|N/A|Disease
+GSM1203688|ALL_298|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_298|N/A|Disease
+GSM1203498|ALL_119|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_119|N/A|Disease
+GSM1203615|ALL_229|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_229|N/A|Disease
+GSM1203677|ALL_287|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_287|N/A|Disease
+GSM1203464|ALL_87|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_87|N/A|Disease
+GSM1203566|ALL_183|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_183|N/A|Disease
+GSM1203771|ALL_376|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_376|N/A|Disease
+GSM1203632|ALL_244r2|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_244r2|N/A|Disease
+GSM1203649|ALL_260|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_260|N/A|Disease
+GSM1203422|ALL_45|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_45|N/A|Disease
+GSM1203430|ALL_53|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_53|N/A|Disease
+GSM1203466|ALL_89|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_89|N/A|Disease
+GSM1203420|ALL_43|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_43|N/A|Disease
+GSM1203457|ALL_80|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_80|N/A|Disease
+GSM1204210|Constitutional_470|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_470|N/A|None
+GSM1203630|ALL_244|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_244|N/A|Disease
+GSM1203608|ALL_222|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_222|N/A|Disease
+GSM1204166|ALL_762|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_762|N/A|Disease
+GSM1203542|ALL_159|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_159|N/A|Disease
+GSM1204101|ALL_697|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_697|N/A|Disease
+GSM1203665|ALL_276|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_276|N/A|Disease
+GSM1204207|Constitutional_464|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_464|N/A|None
+GSM1204234|Constitutional_633|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_633|N/A|None
+GSM1204057|ALL_654|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_654|N/A|Disease
+GSM1203743|ALL_351|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_351|N/A|Disease
+GSM1204128|ALL_724|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_724|N/A|Disease
+GSM1203414|ALL_38|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_38|N/A|Disease
+GSM1203510|ALL_128r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_128r1|N/A|Disease
+GSM1203923|ALL_520|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_520|N/A|Disease
+GSM1203814|ALL_417|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_417|N/A|Disease
+GSM1203716|ALL_326|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_326|N/A|Disease
+GSM1203885|ALL_482|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_482|N/A|Disease
+GSM1204264|544_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|544_T|N/A|None
+GSM1203518|ALL_135|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_135|N/A|Disease
+GSM1204067|ALL_664|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_664|N/A|Disease
+GSM1203899|ALL_496|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_496|N/A|Disease
+GSM1204023|ALL_620|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_620|N/A|Disease
+GSM1204006|ALL_603|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_603|N/A|Disease
+GSM1203640|ALL_252|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_252|N/A|Disease
+GSM1203854|ALL_452|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_452|N/A|Disease
+GSM1203801|ALL_405|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_405|N/A|Disease
+GSM1204003|ALL_600|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_600|N/A|Disease
+GSM1203875|ALL_472|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_472|N/A|Disease
+GSM1204160|ALL_756|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_756|N/A|Disease
+GSM1203938|ALL_535|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_535|N/A|Disease
+GSM1204196|Constitutional_369|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_369|N/A|None
+GSM1203853|ALL_451r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_451r1|N/A|Disease
+GSM1204134|ALL_730|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_730|N/A|Disease
+GSM1203441|ALL_64|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_64|N/A|Disease
+GSM1203734|ALL_342|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_342|N/A|Disease
+GSM1203389|ALL_15|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_15|N/A|Disease
+GSM1203783|ALL_387|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_387|N/A|Disease
+GSM1203545|ALL_162|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_162|N/A|Disease
+GSM1203798|ALL_402|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_402|N/A|Disease
+GSM1203763|ALL_369|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_369|N/A|Disease
+GSM1203884|ALL_481|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_481|N/A|Disease
+GSM1203639|ALL_251|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_251|N/A|Disease
+GSM1204136|ALL_732|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_732|N/A|Disease
+GSM1204040|ALL_637|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_637|N/A|Disease
+GSM1203387|ALL_13|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_13|N/A|Disease
+GSM1203779|ALL_383|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_383|N/A|Disease
+GSM1204051|ALL_648|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_648|N/A|Disease
+GSM1203618|ALL_232|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_232|N/A|Disease
+GSM1203501|ALL_121|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_121|N/A|Disease
+GSM1203590|ALL_205r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_205r1|N/A|Disease
+GSM1204114|ALL_710|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_710|N/A|Disease
+GSM1204143|ALL_739|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_739|N/A|Disease
+GSM1203670|ALL_280|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_280|N/A|Disease
+GSM1204026|ALL_623|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_623|N/A|Disease
+GSM1204203|Constitutional_458rep3|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Constitutional_458rep3|N/A|None
+GSM1203914|ALL_511|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_511|N/A|Disease
+GSM1203645|ALL_257|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_257|N/A|Disease
+GSM1204257|540_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|540_B|N/A|None
+GSM1204064|ALL_661|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_661|N/A|Disease
+GSM1203888|ALL_485|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_485|N/A|Disease
+GSM1204202|Constitutional_458rep2|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_458rep2|N/A|None
+GSM1203756|ALL_363|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_363|N/A|Disease
+GSM1204172|Constitutional_110|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_110|N/A|None
+GSM1204285|562_B|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|562_B|N/A|None
+GSM1203953|ALL_550|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_550|N/A|Disease
+GSM1203398|ALL_24|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_24|N/A|Disease
+GSM1204013|ALL_610|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_610|N/A|Disease
+GSM1204153|ALL_749|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_749|N/A|Disease
+GSM1204194|Constitutional_363|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_363|N/A|None
+GSM1204161|ALL_757|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_757|N/A|Disease
+GSM1204164|ALL_760|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_760|N/A|Disease
+GSM1204090|ALL_687|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_687|N/A|Disease
+GSM1203849|ALL_448|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_448|N/A|Disease
+GSM1203372|ALL_1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_1|N/A|Disease
+GSM1203385|ALL_11|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_11|N/A|Disease
+GSM1203907|ALL_504|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_504|N/A|Disease
+GSM1203963|ALL_560|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_560|N/A|Disease
+GSM1204002|ALL_599|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_599|N/A|Disease
+GSM1203929|ALL_526|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_526|N/A|Disease
+GSM1203901|ALL_498|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_498|N/A|Disease
+GSM1204102|ALL_698|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_698|N/A|Disease
+GSM1204214|Constitutional_486|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_486|N/A|None
+GSM1203487|ALL_109r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_109r1|N/A|Disease
+GSM1203970|ALL_567|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_567|N/A|Disease
+GSM1203442|ALL_65|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_65|N/A|Disease
+GSM1204249|Constitutional_759|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_759|N/A|None
+GSM1203693|ALL_303|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_303|N/A|Disease
+GSM1204087|ALL_684|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_684|N/A|Disease
+GSM1203527|ALL_144|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_144|N/A|Disease
+GSM1203931|ALL_528|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_528|N/A|Disease
+GSM1203388|ALL_14|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_14|N/A|Disease
+GSM1203535|ALL_152|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_152|N/A|Disease
+GSM1203524|ALL_141|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_141|N/A|Disease
+GSM1204157|ALL_753|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|N/A|N/A|in_vivo|case|ALL_753|N/A|Disease
+GSM1204272|548_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|548_T|N/A|None
+GSM1203378|ALL_5r2|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_5r2|N/A|Disease
+GSM1203482|ALL_105|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_105|N/A|Disease
+GSM1203393|ALL_19|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_19|N/A|Disease
+GSM1203750|ALL_358|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_358|N/A|Disease
+GSM1203933|ALL_530|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_530|N/A|Disease
+GSM1204159|ALL_755|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|N/A|N/A|in_vivo|case|ALL_755|N/A|Disease
+GSM1203459|ALL_82|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_82|N/A|Disease
+GSM1203988|ALL_585|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_585|N/A|Disease
+GSM1203685|ALL_295|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_295|N/A|Disease
+GSM1203995|ALL_592|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_592|N/A|Disease
+GSM1203805|ALL_409|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_409|N/A|Disease
+GSM1203533|ALL_150|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_150|N/A|Disease
+GSM1204181|Constitutional_245|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_245|N/A|None
+GSM1204063|ALL_660|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_660|N/A|Disease
+GSM1204169|Constitutional_105|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Constitutional_105|N/A|None
+GSM1203612|ALL_226|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_226|N/A|Disease
+GSM1204187|Constitutional_308|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_308|N/A|None
+GSM1203835|ALL_436|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_436|N/A|Disease
+GSM1203972|ALL_569|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_569|N/A|Disease
+GSM1203878|ALL_475|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_475|N/A|Disease
+GSM1203714|ALL_324|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_324|N/A|Disease
+GSM1203806|ALL_410|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_410|N/A|Disease
+GSM1203454|ALL_77|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_77|N/A|Disease
+GSM1203948|ALL_545|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_545|N/A|Disease
+GSM1203772|ALL_377|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_377|N/A|Disease
+GSM1203712|ALL_322|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_322|N/A|Disease
+GSM1204168|ALL_764|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|N/A|N/A|in_vivo|case|ALL_764|N/A|Disease
+GSM1203935|ALL_532|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_532|N/A|Disease
+GSM1204276|553_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|553_T|N/A|None
+GSM1203764|ALL_370|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_370|N/A|Disease
+GSM1204011|ALL_608|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_608|N/A|Disease
+GSM1204304|574_T|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|574_T|N/A|None
+GSM1204007|ALL_604|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_604|N/A|Disease
+GSM1204167|ALL_763|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|N/A|N/A|in_vivo|case|ALL_763|N/A|Disease
+GSM1204247|Constitutional_757|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Constitutional_757|N/A|None
+GSM1203698|ALL_308|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|N/A|N/A|in_vivo|case|ALL_308|N/A|Disease
+GSM1203728|ALL_336r1|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia relapse|Other|N/A|in_vivo|case|ALL_336r1|N/A|Disease
+GSM1203628|ALL_242|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_242|N/A|Disease
+GSM1203607|ALL_221|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Whole Blood|N/A|in_vivo|case|ALL_221|N/A|Disease
+GSM1203958|ALL_555|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_555|N/A|Disease
+GSM1204097|ALL_693|N/A|N/A|N/A|N/A|Acute lymphoblastic leukemia|Other|N/A|in_vivo|case|ALL_693|N/A|Disease

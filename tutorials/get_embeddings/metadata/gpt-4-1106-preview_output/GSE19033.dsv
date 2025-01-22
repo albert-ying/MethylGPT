@@ -1,0 +1,59 @@
+GSM471028|N/A|White|F|34|N/A|Systemic Lupus Erythematosus|Whole Blood|N/A|in_vivo|case|SLE_Discordant_Twin|N/A|Disease
+GSM471029|N/A|White|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471030|N/A|White|F|33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471031|N/A|White|F|36|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471032|N/A|Hispanic and Latino|F|20|N/A|Systemic Lupus Erythematosus|Whole Blood|N/A|in_vivo|case|SLE_Discordant_Twin|N/A|Disease
+GSM471033|N/A|Hispanic and Latino|F|20|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471034|N/A|Hispanic and Latino|F|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471035|N/A|Hispanic and Latino|F|22|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471036|N/A|Black|F|12|N/A|Systemic Lupus Erythematosus|Whole Blood|N/A|in_vivo|case|SLE_Discordant_Twin|N/A|Disease
+GSM471037|N/A|Black|F|12|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471038|N/A|Black|F|10|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471039|N/A|White|F|29|N/A|Systemic Lupus Erythematosus|Whole Blood|N/A|in_vivo|case|SLE_Discordant_Twin|N/A|Disease
+GSM471040|N/A|White|F|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471041|N/A|White|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471042|N/A|White|F|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471043|N/A|White|F|20|N/A|Systemic Lupus Erythematosus|Whole Blood|N/A|in_vivo|case|SLE_Discordant_Twin|N/A|Disease
+GSM471044|N/A|White|F|20|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471045|N/A|White|F|22|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471046|N/A|White|F|22|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471047|N/A|White|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_Discordant_Twin|N/A|Disease
+GSM471048|N/A|White|F|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471049|N/A|White|F|41|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471050|N/A|White|F|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471051|N/A|White|M|9|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_Discordant_Twin|N/A|Disease
+GSM471052|N/A|White|M|9|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471053|N/A|White|M|9|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471054|N/A|White|M|7|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471055|N/A|White|M|12|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_Discordant_Twin|N/A|Disease
+GSM471056|N/A|White|M|12|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471057|N/A|White|M|14|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471058|N/A|White|M|12|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471059|N/A|White|F|18|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_Discordant_Twin|N/A|Disease
+GSM471060|N/A|White|F|18|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471061|N/A|White|F|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471062|N/A|White|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471063|N/A|White|F|6|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_Discordant_Twin|N/A|Disease
+GSM471064|N/A|White|F|6|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471065|N/A|White|F|6|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471066|N/A|White|F|10|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471067|N/A|Black|M|34|N/A|Dermatomyositis|Whole Blood|N/A|in_vivo|case|DM_Discordant_Twin|N/A|Disease
+GSM471068|N/A|Black|M|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471069|N/A|Black|M|33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471070|N/A|Black|M|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471071|N/A|White|M|13|N/A|Dermatomyositis|Whole Blood|N/A|in_vivo|case|DM_Discordant_Twin|N/A|Disease
+GSM471072|N/A|White|M|13|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471073|N/A|White|M|11|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471074|N/A|White|M|17|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471075|N/A|White|F|3|N/A|Dermatomyositis|Whole Blood|N/A|in_vivo|case|DM_Discordant_Twin|N/A|Disease
+GSM471076|N/A|White|F|3|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471077|N/A|White|F|9|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471078|N/A|White|F|9|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471079|N/A|White|F|11|N/A|Dermatomyositis|Whole Blood|N/A|in_vivo|case|DM_Discordant_Twin|N/A|Disease
+GSM471080|N/A|White|F|11|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471081|N/A|White|F|8|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471082|N/A|White|F|12|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None
+GSM471083|N/A|White|F|5|N/A|Dermatomyositis|Whole Blood|N/A|in_vivo|case|DM_Discordant_Twin|N/A|Disease
+GSM471084|N/A|White|F|5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy_Discordant_Twin|N/A|None
+GSM471085|N/A|White|F|9|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_1|N/A|None
+GSM471086|N/A|White|F|8|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Group_2|N/A|None

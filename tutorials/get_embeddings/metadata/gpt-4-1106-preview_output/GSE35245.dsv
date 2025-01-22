@@ -1,0 +1,22 @@
+GSM864473|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-E|in_vitro|ctrl|DMSO|DMSO|None
+GSM864474|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-E|in_vitro|ctrl|DMSO|DMSO|None
+GSM864475|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-E|in_vitro|case|GEN|genistein|Small Molecule
+GSM864476|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-M|in_vitro|ctrl|DMSO|DMSO|None
+GSM864477|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-M|in_vitro|ctrl|DMSO|DMSO|None
+GSM864478|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-M|in_vitro|case|GEN|genistein|Small Molecule
+GSM864479|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-M|in_vitro|case|GEN|genistein|Small Molecule
+GSM864480|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-E|in_vitro|case|5-aza|5-aza-deoxycytidine|Small Molecule
+GSM864481|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-M|in_vitro|case|5-aza|5-aza-deoxycytidine|Small Molecule
+GSM864482|N/A|N/A|M|N/A|N/A|healthy|Prostate|PREC|in_vitro|ctrl|untreated|none|None
+GSM864483|N/A|N/A|M|N/A|N/A|healthy|Prostate|PREC|in_vitro|ctrl|untreated|none|None
+GSM864484|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-E|in_vitro|ctrl|DMSO|DMSO|None
+GSM864485|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-E|in_vitro|case|GEN|genistein|Small Molecule
+GSM864486|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-E|in_vitro|case|GEN|genistein|Small Molecule
+GSM864487|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-M|in_vitro|ctrl|DMSO|DMSO|None
+GSM864488|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-M|in_vitro|case|GEN|genistein|Small Molecule
+GSM864489|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-E|in_vitro|case|5-aza|5-aza-deoxycytidine|Small Molecule
+GSM864490|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-E|in_vitro|case|5-aza|5-aza-deoxycytidine|Small Molecule
+GSM864491|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-M|in_vitro|case|5-aza|5-aza-deoxycytidine|Small Molecule
+GSM864492|N/A|N/A|M|N/A|N/A|prostate cancer|Prostate|ARCaP-M|in_vitro|case|5-aza|5-aza-deoxycytidine|Small Molecule
+GSM864493|N/A|N/A|M|N/A|N/A|healthy|Prostate|PREC|in_vitro|ctrl|untreated|none|None
+GSM864494|N/A|N/A|M|N/A|N/A|healthy|Prostate|PREC|in_vitro|ctrl|untreated|none|None

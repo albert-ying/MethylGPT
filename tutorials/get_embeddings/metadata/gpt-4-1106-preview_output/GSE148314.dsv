@@ -1,0 +1,15 @@
+GSM4460148|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|HL60 Parent|in_vitro|ctrl|Control|None|Disease
+GSM4460149|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|HL60 Parent|in_vitro|case|AZA treated|AZA|Small Molecule
+GSM4460150|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|HL60 Parent|in_vitro|case|OR21 treated|OR21|Small Molecule
+GSM4460151|N/A|N/A|N/A|N/A|N/A|Myelodysplastic Syndrome|Cells|MDS-L|in_vitro|ctrl|Control|None|Disease
+GSM4460152|N/A|N/A|N/A|N/A|N/A|Myelodysplastic Syndrome|Cells|MDS-L|in_vitro|case|OR21 treated|OR21|Small Molecule
+GSM4460153|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|HL60 AZA-resistant|in_vitro|ctrl|AZA resistant control|None|Disease
+GSM4460154|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|HL60 AZA-resistant|in_vitro|case|AZA resistant AZA treated|AZA|Small Molecule
+GSM4460155|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|HL60 AZA-resistant|in_vitro|case|AZA resistant OR21 treated|OR21|Small Molecule
+GSM4460156|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|HL60 OR21-resistant|in_vitro|ctrl|OR21 resistant control|None|Disease
+GSM4460157|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|HL60 OR21-resistant|in_vitro|case|OR21 resistant AZA treated|AZA|Small Molecule
+GSM4460158|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|HL60 OR21-resistant|in_vitro|case|OR21 resistant OR21 treated|OR21|Small Molecule
+GSM4460159|N/A|N/A|N/A|N/A|N/A|Chronic Myeloid Leukemia|Cells|K562|in_vitro|ctrl|Control|None|Disease
+GSM4460160|N/A|N/A|N/A|N/A|N/A|Chronic Myeloid Leukemia|Cells|K562|in_vitro|case|OR21 treated|OR21|Small Molecule
+GSM4460161|N/A|N/A|N/A|N/A|N/A|Chronic Myeloid Leukemia|Cells|BV173|in_vitro|ctrl|Control|None|Disease
+GSM4460162|N/A|N/A|N/A|N/A|N/A|Chronic Myeloid Leukemia|Cells|BV173|in_vitro|case|OR21 treated|OR21|Small Molecule

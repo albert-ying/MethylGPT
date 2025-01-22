@@ -1,0 +1,72 @@
+GSM2800924|201|White|F|25|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800925|212|White|F|24|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800926|202|White|F|61|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800927|213|White|M|25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800928|204|White|M|45|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800929|214|White|M|37|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800930|206|White|M|31|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800931|215|White|F|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800932|207|White|F|60|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800933|216|White|M|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800934|209|White|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800935|217|White|F|28|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800936|218|White|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800937|226|White|F|62|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800938|219|White|M|24|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800939|228|White|M|27|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800940|220|White|F|37|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800941|230|White|F|48|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800942|221|White|M|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800943|231|White|F|74|N/A|Asthma|Whole Blood|N/A|in_vivo|case|Asthma_PBMC|N/A|Disease
+GSM2800944|223|White|M|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800945|232|White|F|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800946|224|White|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800947|233|White|M|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_PBMC|N/A|None
+GSM2800948|201|White|F|25|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800949|212|White|F|24|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800950|202|White|F|61|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800951|213|White|M|25|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800952|204|White|M|45|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800953|214|White|M|37|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800954|206|White|M|31|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800955|215|White|F|30|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800956|207|White|F|60|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800957|216|White|M|27|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800958|209|White|F|24|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800959|217|White|F|28|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800960|218|White|F|35|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800961|226|White|F|62|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800962|219|White|M|24|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800963|228|White|M|27|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800964|220|White|F|37|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800965|230|White|F|48|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800966|221|White|M|29|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800967|231|White|F|74|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Nasal|N/A|Disease
+GSM2800968|223|White|M|27|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800969|232|White|F|37|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800970|224|White|F|26|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800971|233|White|M|30|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Nasal|N/A|None
+GSM2800972|201|White|F|25|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800973|212|White|F|24|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800974|202|White|F|61|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800975|213|White|M|25|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None
+GSM2800976|204|White|M|45|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None
+GSM2800977|214|White|M|37|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800978|206|White|M|31|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800979|215|White|F|30|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None
+GSM2800980|207|White|F|60|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800981|216|White|M|27|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None
+GSM2800982|209|White|F|24|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None
+GSM2800983|217|White|F|28|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None
+GSM2800984|218|White|F|35|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None
+GSM2800985|226|White|F|62|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800986|219|White|M|24|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800987|228|White|M|27|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800988|220|White|F|37|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800989|230|White|F|48|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800990|221|White|M|29|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None
+GSM2800991|231|White|F|74|N/A|Asthma|Cells|N/A|in_vivo|case|Asthma_Bronchial|N/A|Disease
+GSM2800992|223|White|M|27|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None
+GSM2800993|232|White|F|37|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None
+GSM2800994|224|White|F|26|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None
+GSM2800995|233|White|M|30|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Control_Bronchial|N/A|None

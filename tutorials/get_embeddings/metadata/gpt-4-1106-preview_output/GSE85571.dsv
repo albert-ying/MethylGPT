@@ -1,0 +1,39 @@
+GSM2277880|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132C|Cells|HCT116 IDH1-R132C|in_vitro|case|IDH889 14d|3uM IDH889|Small Molecule
+GSM2277881|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132C|Cells|HCT116 IDH1-R132C|in_vitro|case|IDH889 28d|3uM IDH889|Small Molecule
+GSM2277882|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132C|Cells|HCT116 IDH1-R132C|in_vitro|case|IDH889 3d|3uM IDH889|Small Molecule
+GSM2277883|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132C|Cells|HCT116 IDH1-R132C|in_vitro|case|IDH889 7d|3uM IDH889|Small Molecule
+GSM2277884|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132C|Cells|HCT116 IDH1-R132C|in_vitro|ctrl|DMSO 14d|0.03% DMSO|Small Molecule
+GSM2277885|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132C|Cells|HCT116 IDH1-R132C|in_vitro|ctrl|DMSO 28d|0.03% DMSO|Small Molecule
+GSM2277886|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132C|Cells|HCT116 IDH1-R132C|in_vitro|ctrl|DMSO 3d-1|0.03% DMSO|Small Molecule
+GSM2277887|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132C|Cells|HCT116 IDH1-R132C|in_vitro|ctrl|DMSO 3d-2|0.05% DMSO|Small Molecule
+GSM2277888|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132C|Cells|HCT116 IDH1-R132C|in_vitro|ctrl|DMSO 7d-1|0.03% DMSO|Small Molecule
+GSM2277889|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132C|Cells|HCT116 IDH1-R132C|in_vitro|ctrl|DMSO 7d-2|0.03% DMSO|Small Molecule
+GSM2277890|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|N/A|Xeno MUT IDH1 R132H 1|in_vivo|case|IDH889 BIDx2 m1|25mpk IDH889 BIDx2|Small Molecule
+GSM2277891|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|N/A|Xeno MUT IDH1 R132H 2|in_vivo|case|IDH889 BIDx2 m2|25mpk IDH889 BIDx2|Small Molecule
+GSM2277892|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|N/A|Xeno MUT IDH1 R132H 3|in_vivo|case|IDH889 BIDx2 m3|25mpk IDH889 BIDx2|Small Molecule
+GSM2277893|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|N/A|Xeno MUT IDH1 R132H 4|in_vivo|case|IDH889 BIDx2 m4|25mpk IDH889 BIDx2|Small Molecule
+GSM2277894|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|N/A|Xeno MUT IDH1 R132H 5|in_vivo|case|IDH889 BIDx2 m5|25mpk IDH889 BIDx2|Small Molecule
+GSM2277895|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|Cells|HCT116 IDH1-R132H|in_vitro|case|IDH889 14d|3uM IDH889|Small Molecule
+GSM2277896|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|Cells|HCT116 IDH1-R132H|in_vitro|case|IDH889 28d|3uM IDH889|Small Molecule
+GSM2277897|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|Cells|HCT116 IDH1-R132H|in_vitro|case|IDH889 3d|3uM IDH889|Small Molecule
+GSM2277898|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|Cells|HCT116 IDH1-R132H|in_vitro|case|IDH889 7d|3uM IDH889|Small Molecule
+GSM2277899|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|Cells|HCT116 IDH1-R132H|in_vitro|ctrl|DMSO 14d|0.03% DMSO|Small Molecule
+GSM2277900|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|Cells|HCT116 IDH1-R132H|in_vitro|ctrl|DMSO 28d|0.03% DMSO|Small Molecule
+GSM2277901|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|Cells|HCT116 IDH1-R132H|in_vitro|ctrl|DMSO 3d-1|0.03% DMSO|Small Molecule
+GSM2277902|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|Cells|HCT116 IDH1-R132H|in_vitro|ctrl|DMSO 3d-2|0.05% DMSO|Small Molecule
+GSM2277903|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|Cells|HCT116 IDH1-R132H|in_vitro|ctrl|DMSO 7d-1|0.03% DMSO|Small Molecule
+GSM2277904|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|Cells|HCT116 IDH1-R132H|in_vitro|ctrl|DMSO 7d-2|0.03% DMSO|Small Molecule
+GSM2277905|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|N/A|Xeno MUT IDH1 R132H 2|in_vivo|ctrl|Vehicle m2|Vehicle|None
+GSM2277906|N/A|N/A|N/A|N/A|N/A|Mutant IDH1 R132H|N/A|Xeno MUT IDH1 R132H 3|in_vivo|ctrl|Vehicle m3|Vehicle|None
+GSM2277907|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|WT HCT116|in_vitro|ctrl|DMSO 7d|0.03% DMSO|Small Molecule
+GSM2277908|N/A|N/A|N/A|N/A|N/A|Healthy|N/A|Xeno WT HCT116 2|in_vivo|ctrl|Vehicle m2|Vehicle|None
+GSM2277909|N/A|N/A|N/A|N/A|N/A|Healthy|N/A|Xeno WT HCT116 3|in_vivo|ctrl|Vehicle m3|Vehicle|None
+GSM2277910|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|HCT116|in_vitro|case|IDH889 14d|3uM IDH889|Small Molecule
+GSM2277911|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|HCT116|in_vitro|case|IDH889 28d|3uM IDH889|Small Molecule
+GSM2277912|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|HCT116|in_vitro|case|IDH889 3d|3uM IDH889|Small Molecule
+GSM2277913|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|HCT116|in_vitro|case|IDH889 7d|3uM IDH889|Small Molecule
+GSM2277914|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|HCT116|in_vitro|ctrl|DMSO 14d|0.03% DMSO|Small Molecule
+GSM2277915|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|HCT116|in_vitro|ctrl|DMSO 28d|0.03% DMSO|Small Molecule
+GSM2277916|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|HCT116|in_vitro|ctrl|DMSO 3d-1|0.03% DMSO|Small Molecule
+GSM2277917|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|HCT116|in_vitro|ctrl|DMSO 3d-2|0.05% DMSO|Small Molecule
+GSM2277918|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|HCT116|in_vitro|ctrl|DMSO 7d|0.03% DMSO|Small Molecule

@@ -1,0 +1,79 @@
+GSM1931523|N/A|N/A|F|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control maternal blood|N/A|N/A
+GSM1931524|N/A|N/A|F|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control maternal blood|N/A|N/A
+GSM1931525|N/A|N/A|F|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control maternal blood|N/A|N/A
+GSM1931526|N/A|N/A|F|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control maternal blood|N/A|N/A
+GSM1931527|N/A|N/A|F|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control maternal blood|N/A|N/A
+GSM1931528|N/A|N/A|F|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control maternal blood|N/A|N/A
+GSM1931529|N/A|N/A|F|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control maternal blood|N/A|N/A
+GSM1931530|N/A|N/A|F|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control maternal blood|N/A|N/A
+GSM1931531|N/A|N/A|F|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control maternal blood|N/A|N/A
+GSM1931532|N/A|N/A|F|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control maternal blood|N/A|N/A
+GSM1931533|N/A|N/A|N/A|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|pooled control cord blood|N/A|N/A
+GSM1931534|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|pooled control cord|N/A|N/A
+GSM1931535|N/A|N/A|F|N/A|30.5|Intrauterine Growth Restriction|Other|N/A|in_vivo|case|IUGR placental decidua|N/A|Disease
+GSM1931536|N/A|N/A|F|N/A|42|Intrauterine Growth Restriction|Other|N/A|in_vivo|case|IUGR placental decidua|N/A|Disease
+GSM1931537|N/A|N/A|F|N/A|24.5|healthy|Other|N/A|in_vivo|ctrl|control placental decidua|N/A|N/A
+GSM1931538|N/A|N/A|M|N/A|31.1|healthy|Other|N/A|in_vivo|ctrl|control amniotic membrane|N/A|N/A
+GSM1931539|N/A|N/A|M|N/A|30.5|Intrauterine Growth Restriction|Other|N/A|in_vivo|case|IUGR amniotic membrane|N/A|Disease
+GSM1931540|N/A|N/A|M|N/A|34.4|healthy|Other|N/A|in_vivo|ctrl|control amniotic membrane|N/A|N/A
+GSM1931541|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|pooled amniotic membrane|N/A|N/A
+GSM1931542|N/A|N/A|M|N/A|31.1|healthy|Other|N/A|in_vivo|ctrl|control chorionic membrane|N/A|N/A
+GSM1931543|N/A|N/A|M|N/A|30.5|Intrauterine Growth Restriction|Other|N/A|in_vivo|case|IUGR chorionic membrane|N/A|Disease
+GSM1931544|N/A|N/A|M|N/A|34.4|healthy|Other|N/A|in_vivo|ctrl|control chorionic membrane|N/A|N/A
+GSM1931545|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|pooled chorionic membrane|N/A|N/A
+GSM1931546|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|pooled placental mesenchyme|N/A|N/A
+GSM1931547|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|pooled placental mesenchyme|N/A|N/A
+GSM1931548|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|pooled placental mesenchyme|N/A|N/A
+GSM1931549|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|pooled placental trophoblast|N/A|N/A
+GSM1931550|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|pooled placental trophoblast|N/A|N/A
+GSM1931551|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|pooled placental trophoblast|N/A|N/A
+GSM1931552|N/A|N/A|F|N/A|29|Diandric Triploidy|Other|N/A|in_vivo|case|diandric triploid placental|N/A|Genetic
+GSM1931553|N/A|N/A|F|N/A|32|Digynic Triploidy|Other|N/A|in_vivo|case|digynic triploid placental|N/A|Genetic
+GSM1931554|N/A|N/A|M|N/A|N/A|Digynic Triploidy|Other|N/A|in_vivo|case|digynic triploid placental|N/A|Genetic
+GSM1931555|N/A|N/A|F|N/A|N/A|Digynic Triploidy|Other|N/A|in_vivo|case|digynic triploid placental|N/A|Genetic
+GSM1931556|N/A|N/A|F|N/A|34|Diandric Triploidy|Other|N/A|in_vivo|case|diandric triploid placental|N/A|Genetic
+GSM1931557|N/A|N/A|M|N/A|N/A|Digynic Triploidy|Other|N/A|in_vivo|case|digynic triploid placental|N/A|Genetic
+GSM1931558|N/A|N/A|F|N/A|N/A|Digynic Triploidy|Other|N/A|in_vivo|case|digynic triploid placental|N/A|Genetic
+GSM1931559|N/A|N/A|M|N/A|33|Diandric Triploidy|Other|N/A|in_vivo|case|diandric triploid placental|N/A|Genetic
+GSM1931560|N/A|N/A|F|N/A|N/A|Diandric Triploidy|Other|N/A|in_vivo|case|diandric triploid placental|N/A|Genetic
+GSM1931561|N/A|N/A|F|N/A|27|Diandric Triploidy|Other|N/A|in_vivo|case|diandric triploid placental|N/A|Genetic
+GSM1931562|N/A|N/A|N/A|N/A|N/A|Hydatidiform Mole|Other|N/A|in_vivo|case|pooled complete hydatiform mole|N/A|Disease
+GSM1931563|N/A|N/A|M|N/A|26|Miscarriage|Other|N/A|in_vivo|case|chromosomally normal miscarriage|N/A|Disease
+GSM1931564|N/A|N/A|F|N/A|30|Miscarriage|Other|N/A|in_vivo|case|chromosomally normal miscarriage|N/A|Disease
+GSM1931565|N/A|N/A|F|N/A|30|Miscarriage|Other|N/A|in_vivo|case|chromosomally normal miscarriage|N/A|Disease
+GSM1931566|N/A|N/A|M|N/A|37|Miscarriage|Other|N/A|in_vivo|case|chromosomally normal miscarriage|N/A|Disease
+GSM1931567|N/A|N/A|M|N/A|30|Miscarriage|Other|N/A|in_vivo|case|chromosomally normal miscarriage|N/A|Disease
+GSM1931568|N/A|N/A|M|N/A|30.4|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931569|N/A|N/A|F|N/A|30.2|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931570|N/A|N/A|M|N/A|31.7|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931571|N/A|N/A|F|N/A|32.6|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931572|N/A|N/A|M|N/A|35.7|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931573|N/A|N/A|M|N/A|35.5|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931574|N/A|N/A|M|N/A|34.1|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931575|N/A|N/A|F|N/A|40.2|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931576|N/A|N/A|F|N/A|35.6|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931577|N/A|N/A|M|N/A|35.9|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931578|N/A|N/A|F|N/A|33.1|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931579|N/A|N/A|M|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931580|N/A|N/A|F|N/A|40.8|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931581|N/A|N/A|F|N/A|37.1|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931582|N/A|N/A|F|N/A|35.1|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931583|N/A|N/A|M|N/A|40.5|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931584|N/A|N/A|M|N/A|32.8|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931585|N/A|N/A|M|N/A|31.9|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931586|N/A|N/A|M|N/A|38.2|Abnormal Maternal Serum Screen|Other|N/A|in_vivo|case|abnormal MSS placental chorionic villi|N/A|Disease
+GSM1931587|N/A|N/A|F|N/A|33.9|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931588|N/A|N/A|F|N/A|38.6|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931589|N/A|N/A|F|N/A|41.1|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931590|N/A|N/A|F|N/A|34.6|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931591|N/A|N/A|F|N/A|35.6|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931592|N/A|N/A|F|N/A|40.4|Late Onset Preeclampsia|Other|N/A|in_vivo|case|LOPET placental chorionic villi|N/A|Disease
+GSM1931593|N/A|N/A|F|N/A|26.1|Late Onset Preeclampsia|Other|N/A|in_vivo|case|LOPET placental chorionic villi|N/A|Disease
+GSM1931594|N/A|N/A|F|N/A|37.2|Late Onset Preeclampsia|Other|N/A|in_vivo|case|LOPET placental chorionic villi|N/A|Disease
+GSM1931595|N/A|N/A|F|N/A|37.3|Intrauterine Growth Restriction|Other|N/A|in_vivo|case|IUGR placental chorionic villi|N/A|Disease
+GSM1931596|N/A|N/A|M|N/A|36|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931597|N/A|N/A|M|N/A|35.7|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931598|N/A|N/A|M|N/A|33.9|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931599|N/A|N/A|F|N/A|33.2|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A
+GSM1931600|N/A|N/A|M|N/A|39.5|Abnormal Maternal Serum Screen|Other|N/A|in_vivo|case|abnormal MSS placental chorionic villi|N/A|Disease
+GSM1931601|N/A|N/A|M|N/A|31.4|healthy|Other|N/A|in_vivo|ctrl|control placental chorionic villi|N/A|N/A

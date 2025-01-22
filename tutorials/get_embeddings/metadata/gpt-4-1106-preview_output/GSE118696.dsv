@@ -1,0 +1,24 @@
+GSM3336750|Donor1|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Monocyte_Donor1|N/A|N/A
+GSM3336751|Donor3|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Macrophage_Donor3|N/A|N/A
+GSM3336752|Donor1|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(LPS+IFNγ)_Donor1|LPS + IFNγ|Environmental
+GSM3336753|Donor2|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(IL-4)_Donor2|IL-4|Environmental
+GSM3336754|Donor4|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(oxLDL)_Donor4|Oxidized LDL|Environmental
+GSM3336755|Donor2|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(acLDL)_Donor2|Acetylated LDL|Environmental
+GSM3336756|Donor3|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(oxLDL)_Donor3|Oxidized LDL|Environmental
+GSM3336757|Donor4|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(acLDL)_Donor4|Acetylated LDL|Environmental
+GSM3336758|Donor2|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Monocyte_Donor2|N/A|N/A
+GSM3336759|Donor4|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Macrophage_Donor4|N/A|N/A
+GSM3336760|Donor3|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(LPS+IFNγ)_Donor3|LPS + IFNγ|Environmental
+GSM3336761|Donor1|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(IL-4)_Donor1|IL-4|Environmental
+GSM3336762|Donor4|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(LPS+IFNγ)_Donor4|LPS + IFNγ|Environmental
+GSM3336763|Donor3|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(IL-4)_Donor3|IL-4|Environmental
+GSM3336764|Donor1|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(oxLDL)_Donor1|Oxidized LDL|Environmental
+GSM3336765|Donor3|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(acLDL)_Donor3|Acetylated LDL|Environmental
+GSM3336766|Donor3|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Monocyte_Donor3|N/A|N/A
+GSM3336767|Donor2|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Macrophage_Donor2|N/A|N/A
+GSM3336768|Donor1|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Macrophage_Donor1|N/A|N/A
+GSM3336769|Donor2|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(LPS+IFNγ)_Donor2|LPS + IFNγ|Environmental
+GSM3336770|Donor4|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(IL-4)_Donor4|IL-4|Environmental
+GSM3336771|Donor2|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(oxLDL)_Donor2|Oxidized LDL|Environmental
+GSM3336772|Donor1|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|case|M(acLDL)_Donor1|Acetylated LDL|Environmental
+GSM3336773|Donor4|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vivo|ctrl|Monocyte_Donor4|N/A|N/A

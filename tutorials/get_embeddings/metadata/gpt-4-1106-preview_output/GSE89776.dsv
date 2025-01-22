@@ -1,0 +1,48 @@
+GSM2388511|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Primary AML|N/A|Disease
+GSM2388512|SU223|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Primary AML|N/A|Disease
+GSM2388513|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted primary AML|N/A|Disease
+GSM2388514|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted primary AML|N/A|Disease
+GSM2388515|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted primary AML|N/A|Disease
+GSM2388516|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted primary AML|N/A|Disease
+GSM2388517|SU223|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted primary AML|N/A|Disease
+GSM2388518|SU223|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted primary AML|N/A|Disease
+GSM2388519|SU223|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted primary AML|N/A|Disease
+GSM2388520|SU042|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff iPS from AML|N/A|Genetic
+GSM2388521|SU042|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff iPS from AML|N/A|Genetic
+GSM2388522|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388523|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388524|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388525|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388526|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388527|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388528|SU042|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388529|SU223|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff iPS from AML|N/A|Genetic
+GSM2388530|SU223|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff iPS from AML|N/A|Genetic
+GSM2388531|SU223|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388532|SU223|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388533|SU223|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388534|SU223|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388535|SU223|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Engrafted diff iPS from AML|N/A|Disease
+GSM2388536|H7 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|H7|in_vitro|ctrl|Undiff ES line|N/A|Genetic
+GSM2388537|H1 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|H1|in_vitro|ctrl|Undiff ES line|N/A|Genetic
+GSM2388538|WT3 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|WT3|in_vitro|ctrl|Undiff iPS line|N/A|Genetic
+GSM2388539|JMC1 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|JMC1|in_vitro|ctrl|Undiff iPS line|N/A|Genetic
+GSM2388540|TKDA3 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|TKDA3|in_vitro|ctrl|Undiff iPS line|N/A|Genetic
+GSM2388541|SU042|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff T-cell iPS|N/A|Genetic
+GSM2388542|SU042|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff T-cell iPS|N/A|Genetic
+GSM2388543|SU042|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff T-cell iPS|N/A|Genetic
+GSM2388544|SU223|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff T-cell iPS|N/A|Genetic
+GSM2388545|SU223|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff T-cell iPS|N/A|Genetic
+GSM2388546|SU223|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff T-cell iPS|N/A|Genetic
+GSM2791387|H7 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|H7|in_vitro|ctrl|Diff normal ES|N/A|Genetic
+GSM2791388|H7 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|H7|in_vitro|ctrl|Diff normal ES|N/A|Genetic
+GSM2791389|JMC1 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|JMC1|in_vitro|ctrl|Diff normal iPS|N/A|Genetic
+GSM2791390|JMC1 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|JMC1|in_vitro|ctrl|Diff normal iPS|N/A|Genetic
+GSM2791391|TKDA3 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|TKDA3|in_vitro|ctrl|Diff normal iPS|N/A|Genetic
+GSM2791392|TKDA3 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|TKDA3|in_vitro|ctrl|Diff normal iPS|N/A|Genetic
+GSM2791393|WT3 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|WT3|in_vitro|ctrl|Diff normal iPS|N/A|Genetic
+GSM2791394|WT3 cell line|N/A|N/A|N/A|N/A|Healthy|N/A|WT3|in_vitro|ctrl|Diff normal iPS|N/A|Genetic
+GSM2791395|SU042|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff iPS from AML|N/A|Genetic
+GSM2791396|SU042|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff iPS from AML|N/A|Genetic
+GSM2791397|SU223|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff iPS from AML|N/A|Genetic
+GSM2791398|SU223|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|Undiff iPS from AML|N/A|Genetic

@@ -1,0 +1,12 @@
+GSM3985859|N/A|N/A|N/A|N/A|N/A|healthy|Lung|N/A|in_vivo|ctrl|normal_control|none|None
+GSM3985860|N/A|N/A|N/A|N/A|N/A|healthy|Lung|N/A|in_vivo|ctrl|normal_control|none|None
+GSM3985861|N/A|N/A|N/A|N/A|N/A|healthy|Lung|N/A|in_vivo|case|normal_TGFb_24h|TGF-beta_24_hours|Small Molecule
+GSM3985862|N/A|N/A|N/A|N/A|N/A|healthy|Lung|N/A|in_vivo|case|normal_TGFb_24h|TGF-beta_24_hours|Small Molecule
+GSM3985863|N/A|N/A|N/A|N/A|N/A|healthy|Lung|N/A|in_vivo|case|normal_TGFb_5d|TGF-beta_5_days|Small Molecule
+GSM3985864|N/A|N/A|N/A|N/A|N/A|healthy|Lung|N/A|in_vivo|case|normal_TGFb_5d|TGF-beta_5_days|Small Molecule
+GSM3985865|N/A|N/A|N/A|N/A|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|ctrl|IPF_control|none|None
+GSM3985866|N/A|N/A|N/A|N/A|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|ctrl|IPF_control|none|None
+GSM3985867|N/A|N/A|N/A|N/A|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|IPF_TGFb_24h|TGF-beta_24_hours|Small Molecule
+GSM3985868|N/A|N/A|N/A|N/A|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|IPF_TGFb_24h|TGF-beta_24_hours|Small Molecule
+GSM3985869|N/A|N/A|N/A|N/A|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|IPF_TGFb_5d|TGF-beta_5_days|Small Molecule
+GSM3985870|N/A|N/A|N/A|N/A|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|IPF_TGFb_5d|TGF-beta_5_days|Small Molecule

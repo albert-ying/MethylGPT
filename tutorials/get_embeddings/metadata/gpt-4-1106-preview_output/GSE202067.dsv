@@ -1,0 +1,45 @@
+GSM6093675|N/A|N/A|M|40|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-1P|N/A|Disease
+GSM6093676|N/A|N/A|F|17|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-2P|N/A|Disease
+GSM6093677|N/A|N/A|F|28|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-3P|N/A|Disease
+GSM6093678|N/A|N/A|F|29|G34W|Giant Cell Tumor of Bone|Lung|N/A|in_vivo|case|GCTB-3M|N/A|Disease
+GSM6093679|N/A|N/A|F|29|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-3R|N/A|Disease
+GSM6093680|N/A|N/A|M|47|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-4P|N/A|Disease
+GSM6093681|N/A|N/A|M|50|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-4R|N/A|Disease
+GSM6093682|N/A|N/A|M|26|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-5P|N/A|Disease
+GSM6093683|N/A|N/A|F|34|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-7P|N/A|Disease
+GSM6093684|N/A|N/A|M|48|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-8P|N/A|Disease
+GSM6093685|N/A|N/A|F|46|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-9P|N/A|Disease
+GSM6093686|N/A|N/A|M|35|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-10P|N/A|Disease
+GSM6093687|N/A|N/A|F|63|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-11P|N/A|Disease
+GSM6093688|N/A|N/A|F|33|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-12P|N/A|Disease
+GSM6093689|N/A|N/A|M|24|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-13P|N/A|Disease
+GSM6093690|N/A|N/A|M|41|G34W|Giant Cell Tumor of Bone|Other|N/A|in_vivo|case|GCTB-14R|N/A|Disease
+GSM6093691|N/A|N/A|M|41|G34W|Giant Cell Tumor of Bone|Cells|N/A|in_vitro|case|U-GCT-1|N/A|Disease
+GSM6093692|N/A|N/A|F|17|G34W|Giant Cell Tumor of Bone|Cells|N/A|in_vitro|case|U-GCT-2|N/A|Disease
+GSM6093693|N/A|N/A|F|29|G34W|Giant Cell Tumor of Bone|Cells|N/A|in_vitro|case|U-GCT-3M|N/A|Disease
+GSM6093694|N/A|N/A|F|29|G34W|Giant Cell Tumor of Bone|Cells|N/A|in_vitro|case|U-GCT-3R|N/A|Disease
+GSM6093695|N/A|N/A|M|47|G34W|Giant Cell Tumor of Bone|Cells|N/A|in_vitro|case|U-GCT-4|N/A|Disease
+GSM6093696|N/A|N/A|M|26|G34W|Giant Cell Tumor of Bone|Cells|N/A|in_vitro|case|U-GCT-6|N/A|Disease
+GSM6093697|N/A|N/A|F|34|G34W|Giant Cell Tumor of Bone|Cells|N/A|in_vitro|case|U-GCT-7|N/A|Disease
+GSM6093698|N/A|N/A|M|45|WT|Aneurysmal Bone Cyst|Other|N/A|in_vivo|case|ABC-1P|N/A|Disease
+GSM6093699|N/A|N/A|M|20|WT|Aneurysmal Bone Cyst|Other|N/A|in_vivo|case|ABC-2P|N/A|Disease
+GSM6093700|N/A|N/A|M|18|WT|Aneurysmal Bone Cyst|Other|N/A|in_vivo|case|ABC-3P|N/A|Disease
+GSM6093701|N/A|N/A|F|17|WT|Brown Tumor|Other|N/A|in_vivo|case|BT-1P|N/A|Disease
+GSM6093702|N/A|N/A|M|19|WT|Brown Tumor|Other|N/A|in_vivo|case|BT-2R|N/A|Disease
+GSM6093703|N/A|N/A|M|16|WT|Chondroblastoma|Other|N/A|in_vivo|case|CB-1P|N/A|Disease
+GSM6093704|N/A|N/A|F|19|WT|Chondroblastoma|Other|N/A|in_vivo|case|CB-2P|N/A|Disease
+GSM6093705|N/A|N/A|M|15|WT|Chondroblastoma|Other|N/A|in_vivo|case|CB-3P|N/A|Disease
+GSM6093706|N/A|N/A|M|19|WT|Non-Ossifying Fibroma|Other|N/A|in_vivo|case|NOF-1P|N/A|Disease
+GSM6093707|N/A|N/A|F|10|WT|Non-Ossifying Fibroma|Other|N/A|in_vivo|case|NOF-2P|N/A|Disease
+GSM6093708|N/A|N/A|M|16|WT|Non-Ossifying Fibroma|Other|N/A|in_vivo|case|NOF-3P|N/A|Disease
+GSM6093710|N/A|N/A|M|72|WT|Healthy|Cells|N/A|in_vitro|ctrl|MSC-1|N/A|None
+GSM6093712|N/A|N/A|F|48|WT|Healthy|Cells|N/A|in_vitro|ctrl|MSC-2|N/A|None
+GSM6093714|N/A|N/A|F|73|WT|Healthy|Cells|N/A|in_vitro|ctrl|MSC-3|N/A|None
+GSM6093715|N/A|N/A|M|72|WT|Healthy|Cells|N/A|in_vitro|ctrl|OB-1|N/A|None
+GSM6093716|N/A|N/A|F|48|WT|Healthy|Cells|N/A|in_vitro|ctrl|OB-2|N/A|None
+GSM6093717|N/A|N/A|F|73|WT|Healthy|Cells|N/A|in_vitro|ctrl|OB-3|N/A|None
+GSM6093718|N/A|N/A|M|72|WT|Healthy|Cells|N/A|in_vitro|ctrl|MSC-D-1|N/A|None
+GSM6093719|N/A|N/A|F|73|WT|Healthy|Cells|N/A|in_vitro|ctrl|MSC-D-3|N/A|None
+GSM6093720|N/A|N/A|M|72|WT|Healthy|Cells|N/A|in_vitro|ctrl|OB-D-1|N/A|None
+GSM6093721|N/A|N/A|F|48|WT|Healthy|Cells|N/A|in_vitro|ctrl|OB-D-2|N/A|None
+GSM6093722|N/A|N/A|F|73|WT|Healthy|Cells|N/A|in_vitro|ctrl|OB-D-3|N/A|None

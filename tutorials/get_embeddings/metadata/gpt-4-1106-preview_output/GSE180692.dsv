@@ -1,0 +1,15 @@
+GSM5468187|Donor_11|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|LPS_24hr|Lipopolysaccharide|Environmental
+GSM5468188|Donor_12|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|LPS_24hr|Lipopolysaccharide|Environmental
+GSM5468189|Donor_13|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|LPS_24hr|Lipopolysaccharide|Environmental
+GSM5468190|Donor_11|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|RPMI_24hr|Media Control|None
+GSM5468191|Donor_12|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|RPMI_24hr|Media Control|None
+GSM5468192|Donor_13|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|RPMI_24hr|Media Control|None
+GSM5468193|Donor_11|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|Baseline|None|None
+GSM5468194|Donor_12|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|Baseline|None|None
+GSM5468195|Donor_13|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|Baseline|None|None
+GSM5468196|Donor_11|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|case|T3_24hr|Triiodothyronine|Small Molecule
+GSM5468197|Donor_12|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|case|T3_24hr|Triiodothyronine|Small Molecule
+GSM5468198|Donor_13|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|case|T3_24hr|Triiodothyronine|Small Molecule
+GSM5468199|Donor_11|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|case|T3_LPS_24hr|Triiodothyronine and Lipopolysaccharide|Small Molecule
+GSM5468200|Donor_12|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|case|T3_LPS_24hr|Triiodothyronine and Lipopolysaccharide|Small Molecule
+GSM5468201|Donor_13|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|case|T3_LPS_24hr|Triiodothyronine and Lipopolysaccharide|Small Molecule

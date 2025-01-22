@@ -1,0 +1,40 @@
+GSM4748570|5|White|M|69|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_5|N/A|Disease
+GSM4748571|5|White|M|69|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_5|N/A|Disease
+GSM4748572|8|White|F|67|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_8|N/A|Disease
+GSM4748573|8|White|F|67|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_8|N/A|Disease
+GSM4748574|11|Black|M|74|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_11|N/A|Disease
+GSM4748575|11|Black|M|74|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_11|N/A|Disease
+GSM4748576|10|Hispanic and Latino|F|67|N/A|Renal Cell Carcinoma|Kidney|N/A|in_vivo|case|chRCC_10|N/A|Disease
+GSM4748577|10|Hispanic and Latino|F|67|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_10|N/A|Disease
+GSM4748578|3|White|F|44|N/A|Renal Cell Carcinoma|Kidney|N/A|in_vivo|case|chRCC_3|N/A|Disease
+GSM4748579|3|White|F|44|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_3|N/A|Disease
+GSM4748580|1|White|M|77|N/A|Renal Cell Carcinoma|Kidney|N/A|in_vivo|case|chRCC_1|N/A|Disease
+GSM4748581|1|White|M|77|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_1|N/A|Disease
+GSM4748582|14|N/A|M|34|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_14|N/A|Disease
+GSM4748583|14|N/A|M|34|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_14|N/A|Disease
+GSM4748584|12|White|M|78|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_12|N/A|Disease
+GSM4748585|12|White|M|78|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_12|N/A|Disease
+GSM4748586|19|Hispanic and Latino|M|79|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_19|N/A|Disease
+GSM4748587|19|Hispanic and Latino|M|79|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_19|N/A|Disease
+GSM4748588|4|Hispanic and Latino|F|51|N/A|Renal Cell Carcinoma|Kidney|N/A|in_vivo|case|chRCC_4|N/A|Disease
+GSM4748589|4|Hispanic and Latino|F|51|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_4|N/A|Disease
+GSM4748590|9|Hispanic and Latino|F|42|N/A|Renal Cell Carcinoma|Kidney|N/A|in_vivo|case|chRCC_9|N/A|Disease
+GSM4748591|9|Hispanic and Latino|F|42|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_9|N/A|Disease
+GSM4748592|18|White|M|68|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_18|N/A|Disease
+GSM4748593|18|White|M|68|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_18|N/A|Disease
+GSM4748594|7|Hispanic and Latino|F|64|N/A|Renal Cell Carcinoma|Kidney|N/A|in_vivo|case|ccRCC_25|N/A|Disease
+GSM4748595|2.2|White|M|62|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_15|N/A|Disease
+GSM4748596|3.6|White|M|68|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_21|N/A|Disease
+GSM4748597|5.8|White|M|82|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_20|N/A|Disease
+GSM4748598|4.1|White|M|69|N/A|Renal Cell Carcinoma|Kidney|N/A|in_vivo|case|chRCC_2|N/A|Disease
+GSM4748599|3.2|White|M|74|N/A|Renal Cell Carcinoma|Kidney|N/A|in_vivo|case|chRCC_17|N/A|Disease
+GSM4748600|2.8|White|M|73|N/A|Other|Kidney|N/A|in_vivo|case|Hybrid_onc_chRCC_type_13|N/A|Disease
+GSM4748601|8|White|M|78|N/A|Renal Cell Carcinoma|Kidney|N/A|in_vivo|case|chRCC_7|N/A|Disease
+GSM4748602|16|White|M|57|N/A|Other|Kidney|N/A|in_vivo|case|Hybrid_onc_RN_16|N/A|Disease
+GSM4748603|16|White|M|57|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_16|N/A|Disease
+GSM4748604|6|Black|M|57|N/A|Other|Kidney|N/A|in_vivo|case|Hybrid_onc_chRCC_type_6|N/A|Disease
+GSM4748605|6|Black|M|57|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_6|N/A|Disease
+GSM4748606|7|White|F|75|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_22|N/A|Disease
+GSM4748607|13|White|M|57|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_23|N/A|Disease
+GSM4748608|24|White|M|71|N/A|Renal Cell Carcinoma|Kidney|N/A|in_vivo|case|ccRCC_24|N/A|Disease
+GSM4748609|24|White|M|71|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|NKP_24|N/A|Disease

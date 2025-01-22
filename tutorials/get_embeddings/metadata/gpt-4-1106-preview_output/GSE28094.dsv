@@ -1,0 +1,1628 @@
+GSM695046|N/A|European|F|77.0|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695007|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695235|N/A|N/A|N/A|N/A|N/A|Colon Cancer|Colon|HCT116|in_vitro|N/A|N/A|N/A|Disease
+GSM694561|N/A|European|F|42.0|N/A|Head and Neck Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695576|N/A|European|F|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696028|N/A|European|M|56.6|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694712|N/A|European|N/A|N/A|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694432|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694581|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695508|N/A|European|F|81.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695780|N/A|European|F|30.9|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695502|N/A|European|F|81.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695646|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695984|N/A|European|M|72.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695186|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695565|N/A|N/A|N/A|N/A|N/A|Healthy|Other|Differentiated Embryonic Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM694773|N/A|European|F|67.0|N/A|Mantle Cell Lymphoma (MCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695505|N/A|European|F|58.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694635|N/A|European|F|88.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694812|N/A|European|M|15.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695764|N/A|European|M|72.7|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694674|N/A|European|M|2.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695581|N/A|European|M|69.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694933|N/A|European|M|55.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695255|N/A|European|F|33.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695850|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695424|N/A|European|F|53.1|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695193|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695827|N/A|European|M|75.6|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694609|N/A|European|F|69.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695875|N/A|European|M|98.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695546|N/A|European|F|77.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695622|N/A|European|F|67.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694618|N/A|European|M|69.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694875|N/A|European|M|29.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695315|N/A|European|F|50.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695591|N/A|European|M|75.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695597|N/A|European|M|0.3|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695343|N/A|N/A|N/A|N/A|N/A|Colon Cancer|Colon|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM695100|N/A|European|M|64.0|N/A|Adenoma|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695488|N/A|European|F|66.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695170|N/A|European|M|70.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694728|N/A|European|N/A|76.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695942|N/A|European|F|68.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694947|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695266|N/A|European|F|61.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695010|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694675|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695879|N/A|European|M|0.3|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695066|N/A|European|F|81.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694784|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes (MDS)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694884|N/A|European|M|23.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694905|N/A|Asian|F|80.0|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695516|N/A|N/A|N/A|N/A|N/A|Healthy|Other|Adult Stem Cell|in_vitro|ctrl|N/A|N/A|None
+GSM695744|N/A|European|M|63.9|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695862|N/A|European|N/A|N/A|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694698|N/A|European|M|43.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695693|N/A|European|N/A|N/A|N/A|Systemic Sclerosis|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695745|N/A|European|F|68.9|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694682|N/A|European|F|23.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695285|N/A|European|F|59.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695677|N/A|European|M|71.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695635|N/A|European|F|101.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695835|N/A|European|M|68.6|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694480|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695470|N/A|European|F|57.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695073|N/A|European|F|54.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695754|N/A|European|M|59.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695752|N/A|European|M|68.1|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695060|N/A|European|M|82.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695076|N/A|European|M|54.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695654|N/A|European|F|68.0|N/A|Lung Cancer|Lung|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694764|N/A|European|F|68.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695883|N/A|European|M|61.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694845|N/A|Asian|M|56.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694450|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694787|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695738|N/A|European|F|63.5|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694451|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695766|N/A|European|M|83.8|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694980|N/A|European|M|80.0|N/A|Colon Cancer|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695145|N/A|European|M|0.5|N/A|Neuroblastoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695493|N/A|European|F|53.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694596|N/A|European|F|75.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695699|N/A|European|N/A|N/A|N/A|Primary Biliary Cirrhosis|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695032|N/A|European|M|72.0|N/A|Colon Cancer|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695123|N/A|European|M|39.0|N/A|Atheroma|Artery|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694794|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695899|N/A|European|F|62.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695203|N/A|Other|N/A|N/A|N/A|Healthy|Pancreas|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695588|N/A|European|M|0.1|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695839|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695873|N/A|European|M|61.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694514|N/A|European|M|67.0|N/A|Healthy|Prostate|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695999|N/A|European|F|67.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694656|N/A|European|M|76.0|N/A|Diffuse Large B-Cell Lymphoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695214|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|Pancreas Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM696010|N/A|European|M|68.0|N/A|Colon Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695785|N/A|European|M|74.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694840|N/A|Asian|M|48.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696052|N/A|European|F|56.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695265|N/A|European|F|64.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696042|N/A|N/A|N/A|N/A|N/A|Lung Cancer|Lung|H1299|in_vitro|N/A|N/A|N/A|Disease
+GSM694558|N/A|European|M|69.0|N/A|Head and Neck Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695776|N/A|European|F|64.4|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695442|N/A|European|M|46.8|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695509|N/A|European|F|70.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695584|N/A|European|F|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695904|N/A|European|F|73.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694970|N/A|European|N/A|N/A|N/A|Healthy|Other|Multipotent Adult Progenitor Cell|in_vitro|ctrl|N/A|N/A|None
+GSM694956|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694996|N/A|European|M|73.0|N/A|Colon Cancer|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694757|N/A|European|M|35.0|N/A|Follicular Lymphoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695867|N/A|European|F|47.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694817|N/A|European|M|5.0|N/A|Acute Lymphoblastic Leukemia|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695274|N/A|European|F|74.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694830|N/A|Asian|M|52.0|N/A|Healthy|Esophagus|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694743|N/A|European|F|70.0|N/A|Chronic Lymphocytic Leukemia|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695445|N/A|European|F|64.9|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694912|N/A|Asian|M|48.0|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695153|N/A|European|F|2.5|N/A|Neuroblastoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695194|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694841|N/A|Asian|M|54.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694750|N/A|European|F|75.0|N/A|Chronic Lymphocytic Leukemia|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695603|N/A|European|M|98.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695009|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695197|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694575|N/A|European|F|47.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694483|N/A|European|M|48.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694922|N/A|European|M|77.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695684|N/A|European|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694944|N/A|European|F|86.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695874|N/A|European|F|69.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695027|N/A|European|M|70.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695573|N/A|European|F|66.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694706|N/A|European|F|5.0|N/A|Acute Lymphoblastic Leukemia|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694778|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694850|N/A|European|F|62.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694521|N/A|European|M|55.0|N/A|Healthy|Prostate|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695251|N/A|European|F|50.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695815|N/A|European|M|46.4|N/A|Acute Myeloid Leukemia|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695795|N/A|European|M|71.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695885|N/A|European|M|55.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695271|N/A|European|F|87.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695625|N/A|European|M|98.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695192|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695264|N/A|European|M|0.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695888|N/A|European|M|46.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695390|N/A|European|F|63.7|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695643|N/A|European|F|32.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694720|N/A|European|F|4.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695590|N/A|European|M|43.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695996|N/A|European|M|58.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695823|N/A|European|F|66.4|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695966|N/A|European|M|60.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695354|N/A|European|F|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695034|N/A|European|M|78.0|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694477|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695793|N/A|European|M|53.4|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694740|N/A|European|F|71.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695138|N/A|European|F|80.0|N/A|Dementia|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694506|N/A|European|M|59.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695928|N/A|European|M|100.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695725|N/A|European|M|58.3|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695578|N/A|European|F|0.2|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694475|N/A|European|N/A|N/A|N/A|Stomach Cancer|Stomach|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695833|N/A|European|F|100.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694511|N/A|European|M|74.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694808|N/A|European|M|29.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695053|N/A|European|M|36.0|N/A|Healthy|Skin|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695691|N/A|European|N/A|N/A|N/A|Systemic Sclerosis|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694774|N/A|European|F|70.0|N/A|Mantle Cell Lymphoma (MCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695807|N/A|European|M|42.6|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695902|N/A|European|M|65.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694498|N/A|European|F|81.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695824|N/A|European|N/A|N/A|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695457|N/A|European|F|53.1|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694982|N/A|European|M|74.0|N/A|Colon Metastases|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695353|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|case|N/A|N/A|Disease
+GSM695711|N/A|European|M|64.8|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695825|N/A|European|F|53.5|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695047|N/A|European|M|78.0|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695832|N/A|European|M|39.8|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694821|N/A|European|M|31.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696012|N/A|European|F|67.0|N/A|Colon Metastases|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695760|N/A|European|F|31.8|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695239|N/A|European|F|29.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694478|N/A|European|M|80.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695808|N/A|European|F|36.2|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694566|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695768|N/A|European|F|57.4|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695375|N/A|European|M|66.3|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695360|N/A|N/A|N/A|N/A|N/A|Hepatocellular Cancer|Liver|Liver Cell Line|in_vitro|case|N/A|N/A|Disease
+GSM694435|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695682|N/A|European|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695237|N/A|European|F|34.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695471|N/A|European|F|40.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695044|N/A|European|F|69.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695626|N/A|European|M|36.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695410|N/A|European|M|59.8|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695583|N/A|European|M|70.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695332|N/A|European|F|55.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695814|N/A|European|F|78.1|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694667|N/A|European|M|4.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695413|N/A|European|F|77.3|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695042|N/A|European|F|55.0|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695968|N/A|European|F|52.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694602|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695215|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|Pancreas Cell Line|in_vitro|case|N/A|N/A|Disease
+GSM694657|N/A|European|F|66.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695012|N/A|European|M|80.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694470|N/A|European|M|83.0|N/A|Healthy|Bladder|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695126|N/A|European|M|75.0|N/A|Dementia|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694986|N/A|European|M|60.0|N/A|Kidney Metastases|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695922|N/A|European|M|59.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696001|N/A|European|M|64.0|N/A|Colon Metastases|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694815|N/A|European|M|20.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694810|N/A|European|M|14.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694715|N/A|European|N/A|N/A|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695497|N/A|European|F|59.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694472|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694747|N/A|European|F|80.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694427|N/A|European|M|65.0|N/A|Healthy|Bladder|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694827|N/A|European|F|81.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695177|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694636|N/A|European|M|79.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694637|N/A|European|M|76.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695356|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694928|N/A|European|F|71.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695566|N/A|European|F|62.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695686|N/A|European|N/A|N/A|N/A|Systemic Sclerosis|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695720|N/A|European|M|69.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695736|N/A|European|M|57.2|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694462|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695115|N/A|European|M|52.0|N/A|Atheroma|Artery|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695628|N/A|European|M|1.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694547|N/A|European|F|21.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695911|N/A|European|M|66.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695967|N/A|European|M|75.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695379|N/A|European|F|59.3|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696050|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694490|N/A|European|M|63.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695601|N/A|European|F|67.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695376|N/A|European|F|54.5|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695481|N/A|European|F|57.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695091|N/A|European|M|38.0|N/A|Adenoma|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695344|N/A|European|M|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696049|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695036|N/A|European|F|85.0|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695217|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|Pancreas Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695564|N/A|European|F|35.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695629|N/A|European|F|0.3|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694501|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694854|N/A|Asian|M|69.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695892|N/A|European|F|89.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695244|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|Breast Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695022|N/A|European|M|67.0|N/A|Colon Metastases|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695953|N/A|European|F|56.0|N/A|Colon Metastases|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695156|N/A|European|M|1.0|N/A|Neuroblastoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695453|N/A|European|F|55.6|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695935|N/A|European|F|56.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694721|N/A|European|M|7.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696036|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|Prostate Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694505|N/A|European|N/A|N/A|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695799|N/A|European|M|53.4|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694979|N/A|European|N/A|N/A|N/A|Healthy|Other|Mesenchymal Stem Cell|in_vitro|ctrl|N/A|N/A|None
+GSM695157|N/A|European|F|0.0|N/A|Neuroblastoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695069|N/A|European|M|75.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695057|N/A|European|M|61.0|N/A|Healthy|Skin|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695651|N/A|European|F|54.0|N/A|Lung Cancer|Lung|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694853|N/A|Asian|M|68.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694855|N/A|Asian|M|59.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694601|N/A|European|F|74.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695131|N/A|European|M|77.0|N/A|Dementia|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695664|N/A|N/A|N/A|N/A|N/A|Lung Cancer|Lung|Lung Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695080|N/A|European|F|35.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695969|N/A|European|M|60.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696037|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694617|N/A|European|M|18.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695702|N/A|European|M|78.4|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695314|N/A|European|F|67.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695890|N/A|European|F|47.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695454|N/A|European|M|64.6|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695718|N/A|European|M|69.9|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695117|N/A|European|M|68.0|N/A|Atherosclerosis|Artery|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695908|N/A|European|M|55.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694741|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695092|N/A|European|M|38.0|N/A|Adenoma|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695932|N/A|European|M|49.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695500|N/A|European|F|59.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695429|N/A|European|N/A|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695990|N/A|European|M|74.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694989|N/A|European|M|68.0|N/A|Colon Metastases|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695077|N/A|European|M|56.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695747|N/A|European|F|75.3|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694553|N/A|Asian|N/A|N/A|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694849|N/A|Asian|M|60.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694929|N/A|European|M|84.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695259|N/A|European|F|72.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695670|N/A|N/A|N/A|N/A|N/A|Lung Cancer|Lung|Lung Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694438|N/A|European|M|72.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695974|N/A|European|M|64.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695954|N/A|European|F|66.0|N/A|Colon Metastases|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695055|N/A|European|F|86.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695187|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694723|N/A|European|M|0.1|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695822|N/A|European|M|100.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694998|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694678|N/A|European|M|57.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695132|N/A|European|F|81.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695112|N/A|European|F|63.0|N/A|Atheroma|Artery|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695122|N/A|European|M|52.0|N/A|Atheroma|Artery|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695896|N/A|European|M|61.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695298|N/A|European|F|42.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695758|N/A|European|M|81.2|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694512|N/A|European|M|73.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695160|N/A|European|M|0.9|N/A|Ganglioneuroma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695037|N/A|European|M|66.0|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695527|N/A|European|F|86.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695796|N/A|European|M|66.8|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695168|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695329|N/A|European|F|57.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695412|N/A|European|M|51.9|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695729|N/A|European|M|64.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694457|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694945|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695751|N/A|European|F|37.8|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695118|N/A|European|M|71.0|N/A|Atheroma|Artery|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695539|N/A|European|F|38.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694983|N/A|European|M|48.0|N/A|Colon Metastases|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695662|N/A|N/A|N/A|N/A|N/A|Lung Cancer|Lung|H441|in_vitro|N/A|N/A|N/A|Disease
+GSM695084|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695861|N/A|European|N/A|N/A|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695427|N/A|European|F|72.8|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695163|N/A|European|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695494|N/A|European|F|60.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695503|N/A|European|F|44.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694752|N/A|European|F|55.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694857|N/A|Asian|M|68.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695257|N/A|European|F|61.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694586|N/A|European|F|73.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695644|N/A|European|F|69.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694693|N/A|European|M|59.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695062|N/A|European|M|64.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695479|N/A|European|F|70.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695099|N/A|European|M|76.0|N/A|Adenoma|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694777|N/A|European|M|75.0|N/A|Mantle Cell Lymphoma (MCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695466|N/A|European|F|64.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695246|N/A|European|F|41.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695359|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|KARPAS|in_vitro|N/A|N/A|N/A|Disease
+GSM694466|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694624|N/A|European|F|77.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695058|N/A|European|F|46.0|N/A|Healthy|Skin|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695957|N/A|European|F|65.0|N/A|Colon Metastases|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695830|N/A|European|N/A|N/A|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694924|N/A|European|F|85.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694937|N/A|European|F|90.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694876|N/A|European|M|40.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695322|N/A|European|F|47.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694835|N/A|Asian|M|55.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695366|N/A|N/A|N/A|N/A|N/A|Cervical Cancer|Cervix|HeLa|in_vitro|N/A|N/A|N/A|Disease
+GSM695616|N/A|European|F|100.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695256|N/A|European|F|72.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694555|N/A|Asian|N/A|N/A|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695800|N/A|European|F|63.5|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694769|N/A|European|M|84.0|N/A|Mantle Cell Lymphoma (MCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694488|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694685|N/A|European|M|68.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694446|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695033|N/A|European|M|77.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695303|N/A|European|F|64.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695518|N/A|European|F|64.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694716|N/A|European|M|57.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694965|N/A|N/A|M|45.0|N/A|Healthy|Other|Lymphoblastoid Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM695612|N/A|European|M|72.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695056|N/A|European|M|46.0|N/A|Healthy|Skin|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695001|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695568|N/A|European|M|1.1|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695373|N/A|European|M|65.8|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695611|N/A|European|F|75.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694702|N/A|European|F|1.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694671|N/A|European|M|12.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695130|N/A|European|M|88.0|N/A|Dementia|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696011|N/A|European|M|72.0|N/A|Colon Metastases|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695532|N/A|European|F|54.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695326|N/A|European|F|67.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695818|N/A|European|F|72.3|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695149|N/A|European|F|0.5|N/A|Neuroblastoma|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694689|N/A|European|M|12.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696035|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|DU145|in_vitro|case|N/A|N/A|Disease
+GSM695048|N/A|European|M|66.0|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695558|N/A|European|F|60.0|N/A|Endometrial Hyperplasia|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694797|N/A|European|M|68.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694572|N/A|European|F|48.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695756|N/A|European|M|68.1|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695331|N/A|European|F|62.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694545|N/A|European|F|23.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694953|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|case|N/A|N/A|Disease
+GSM695983|N/A|European|M|68.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695496|N/A|European|F|58.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695431|N/A|European|M|42.5|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695014|N/A|European|M|67.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696045|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|HCC1937|in_vitro|case|N/A|N/A|Disease
+GSM695224|N/A|N/A|N/A|N/A|N/A|N/A|Other|Differentiated Adult Stem Cell Line|in_vitro|N/A|N/A|N/A|None
+GSM695964|N/A|European|M|75.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695689|N/A|European|N/A|N/A|N/A|Systemic Sclerosis|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695219|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vitro|case|N/A|N/A|Disease
+GSM695075|N/A|European|M|67.0|N/A|Melanoma|Skin|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694742|N/A|European|F|75.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695006|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695300|N/A|European|F|44.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695446|N/A|European|M|76.4|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695318|N/A|European|F|50.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694595|N/A|European|F|80.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694795|N/A|European|M|58.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695212|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vitro|case|N/A|N/A|Disease
+GSM695476|N/A|European|F|75.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694621|N/A|European|F|55.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695934|N/A|European|M|73.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695346|N/A|N/A|N/A|N/A|N/A|Melanoma|Other|Melanocyte Cell Line|in_vitro|case|N/A|N/A|Disease
+GSM695853|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694691|N/A|European|F|5.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694949|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|case|N/A|N/A|Disease
+GSM694733|N/A|European|M|82.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695636|N/A|European|F|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695474|N/A|European|F|40.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695575|N/A|European|M|38.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695106|N/A|European|M|62.0|N/A|Atheroma|Artery|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694822|N/A|European|M|31.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695070|N/A|European|M|78.0|N/A|Melanoma|Skin|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694705|N/A|European|F|37.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695846|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695529|N/A|N/A|N/A|N/A|N/A|Healthy|Other|Embryonic Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM695650|N/A|European|M|64.0|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695713|N/A|European|M|48.2|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695657|N/A|European|M|78.0|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694717|N/A|European|F|77.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696021|N/A|European|M|37.8|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694425|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696044|N/A|N/A|N/A|N/A|N/A|Leukemia|Other|Leukemia Cell Line|in_vitro|case|N/A|N/A|Disease
+GSM694918|N/A|European|M|N/A|N/A|Healthy|Testis|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694803|N/A|European|F|56.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695291|N/A|European|F|53.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695208|N/A|Other|N/A|N/A|N/A|Healthy|Pancreas|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694807|N/A|European|M|58.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695661|N/A|N/A|N/A|N/A|N/A|Lung Cancer|Lung|H1395|in_vitro|case|N/A|N/A|Disease
+GSM695005|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694569|N/A|European|F|63.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695802|N/A|European|M|70.7|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694952|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|REC1|in_vitro|case|N/A|N/A|Disease
+GSM695137|N/A|European|F|77.0|N/A|Dementia|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694605|N/A|European|F|72.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695320|N/A|European|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694606|N/A|European|M|63.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694825|N/A|European|F|30.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695929|N/A|European|M|59.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695477|N/A|European|F|52.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694907|N/A|Asian|F|47.0|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694516|N/A|European|M|70.0|N/A|Healthy|Prostate|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695703|N/A|European|F|56.6|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695749|N/A|European|M|63.9|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694838|N/A|Asian|M|60.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695663|N/A|N/A|N/A|N/A|N/A|Lung Cancer|Lung|H1155|in_vitro|N/A|N/A|N/A|Disease
+GSM695109|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694591|N/A|European|F|33.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694938|N/A|European|M|74.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694468|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694649|N/A|European|M|79.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694546|N/A|European|F|55.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694526|N/A|European|M|66.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695774|N/A|European|M|48.2|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695550|N/A|European|F|61.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695233|N/A|European|F|30.0|N/A|Lupus|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694585|N/A|European|F|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694540|N/A|European|M|48.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695844|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695028|N/A|European|M|60.0|N/A|Kidney Cancer|Kidney|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695485|N/A|European|F|74.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695093|N/A|European|M|25.0|N/A|Adenoma|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695267|N/A|European|F|37.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694893|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695877|N/A|European|F|62.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694484|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695535|N/A|European|F|55.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695868|N/A|European|M|58.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694703|N/A|European|M|13.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695722|N/A|European|M|56.1|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695004|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695656|N/A|European|M|69.0|N/A|Lung Cancer|Lung|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695096|N/A|European|M|71.0|N/A|Adenoma|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695538|N/A|European|F|57.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694565|N/A|European|M|77.0|N/A|Head and Neck Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694527|N/A|European|F|25.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694664|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694846|N/A|Asian|M|69.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695304|N/A|European|F|68.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694766|N/A|European|F|15.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695486|N/A|European|F|63.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694672|N/A|European|F|54.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695305|N/A|European|F|37.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695311|N/A|European|F|68.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695421|N/A|European|M|54.2|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694969|N/A|European|N/A|N/A|N/A|Healthy|Other|Multipotent Adult Progenitor Cell|in_vitro|ctrl|N/A|N/A|None
+GSM695810|N/A|European|F|63.7|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695404|N/A|European|M|54.5|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695542|N/A|European|F|40.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696025|N/A|European|M|68.4|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695606|N/A|European|F|100.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695120|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695681|N/A|European|N/A|N/A|N/A|Mixed Lineage Leukemia (MLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695278|N/A|European|F|72.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694719|N/A|European|M|5.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695108|N/A|European|F|79.0|N/A|Atheroma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695633|N/A|European|F|66.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695596|N/A|European|F|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695912|N/A|European|M|44.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694886|N/A|European|M|30.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695803|N/A|European|M|72.0|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694745|N/A|European|M|49.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694584|N/A|European|F|68.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694862|N/A|Asian|M|54.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694819|N/A|European|M|25.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695483|N/A|N/A|N/A|N/A|N/A|Healthy|Heart|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695074|N/A|European|F|27.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695623|N/A|European|M|66.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695739|N/A|European|M|67.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695821|N/A|European|M|53.2|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695655|N/A|European|F|41.0|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695608|N/A|European|M|0.3|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694948|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694513|N/A|European|M|59.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694848|N/A|Asian|M|61.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695302|N/A|European|F|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695856|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694668|N/A|European|M|5.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694730|N/A|European|F|66.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695667|N/A|N/A|N/A|N/A|N/A|Lung Cancer|Lung|A427KO|in_vitro|N/A|N/A|N/A|Disease
+GSM694661|N/A|European|M|33.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695484|N/A|European|F|57.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694789|N/A|European|F|73.0|N/A|Myelodysplastic Syndromes (MDS)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695243|N/A|European|F|0.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695341|N/A|N/A|N/A|N/A|N/A|Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome (ICF)|Other|ICF Cell Line|in_vitro|N/A|N/A|N/A|Genetic
+GSM695750|N/A|European|F|65.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694626|N/A|European|F|60.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695383|N/A|European|F|33.7|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695700|N/A|European|N/A|N/A|N/A|Primary Biliary Cirrhosis|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695543|N/A|European|F|67.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695982|N/A|European|M|58.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696023|N/A|European|M|58.3|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695465|N/A|European|M|37.0|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695981|N/A|European|F|78.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695185|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695087|N/A|European|F|31.0|N/A|Lupus|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694473|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695222|N/A|N/A|N/A|N/A|N/A|Healthy|Other|Differentiated Adult Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM694823|N/A|European|F|19.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695180|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695891|N/A|European|M|58.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695021|N/A|European|F|76.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694992|N/A|European|M|70.0|N/A|Colon Cancer Metastases|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694597|N/A|European|F|46.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695195|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695286|N/A|European|F|42.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694662|N/A|European|F|24.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695352|N/A|N/A|N/A|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694645|N/A|European|F|52.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694780|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes (MDS)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694562|N/A|European|M|53.0|N/A|Head and Neck Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695685|N/A|European|M|72.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694481|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695491|N/A|European|F|62.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694814|N/A|European|M|14.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695254|N/A|European|F|0.1|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696009|N/A|European|M|69.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694552|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694833|N/A|Asian|M|63.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695843|N/A|N/A|N/A|N/A|N/A|Colon Cancer|Colon|SW48|in_vitro|N/A|N/A|N/A|Disease
+GSM694629|N/A|European|M|66.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694487|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695236|N/A|European|M|0.1|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695202|N/A|Other|N/A|N/A|N/A|Healthy|Pancreas|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695411|N/A|European|M|62.6|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694508|N/A|European|N/A|96.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695409|N/A|European|M|57.2|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695480|N/A|European|F|70.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695895|N/A|European|F|61.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695475|N/A|European|F|69.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695582|N/A|European|F|69.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694981|N/A|European|M|74.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695223|N/A|N/A|N/A|N/A|N/A|Healthy|Other|Differentiated Adult Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM694474|N/A|European|N/A|N/A|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694658|N/A|European|F|66.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694801|N/A|European|M|85.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695919|N/A|European|M|60.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695323|N/A|European|M|27.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695319|N/A|European|F|32.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695469|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|U-937|in_vitro|N/A|N/A|N/A|Disease
+GSM695733|N/A|European|F|59.6|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694463|N/A|European|N/A|N/A|N/A|Stomach Cancer|Stomach|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695017|N/A|European|M|68.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694556|N/A|European|M|0.1|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695325|N/A|European|F|63.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695273|N/A|European|F|74.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694625|N/A|European|M|76.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695211|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|L36PL|in_vitro|N/A|N/A|N/A|Disease
+GSM695499|N/A|European|F|54.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694686|N/A|European|F|9.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694440|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695762|N/A|European|M|46.5|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694493|N/A|European|N/A|N/A|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695078|N/A|European|M|61.0|N/A|Melanoma|Skin|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695444|N/A|European|M|50.7|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694607|N/A|European|F|60.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695737|N/A|European|F|66.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695394|N/A|European|F|69.2|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694500|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695690|N/A|European|N/A|N/A|N/A|Systemic Sclerosis|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695002|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695272|N/A|European|F|48.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695541|N/A|European|F|67.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694563|N/A|European|M|50.0|N/A|Head and Neck Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694816|N/A|European|F|86.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694844|N/A|Asian|M|52.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694997|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695771|N/A|European|M|83.8|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694576|N/A|European|F|65.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695854|N/A|European|M|95.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695706|N/A|European|M|64.8|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695501|N/A|European|F|66.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695240|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|MDA-231|in_vitro|N/A|N/A|N/A|Disease
+GSM695402|N/A|European|F|54.6|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695860|N/A|European|N/A|N/A|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694820|N/A|European|M|42.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694904|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695837|N/A|European|F|35.6|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694639|N/A|European|M|67.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695065|N/A|European|F|65.0|N/A|Melanoma|Skin|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694962|N/A|N/A|F|39.0|N/A|Healthy|Other|Lymphoblastoid Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM694800|N/A|European|F|64.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694604|N/A|European|F|76.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695645|N/A|European|M|69.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694987|N/A|European|M|73.0|N/A|Colon Metastases|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694522|N/A|European|M|55.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695127|N/A|European|M|90.0|N/A|Dementia|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694888|N/A|European|M|43.0|N/A|Testis Cancer|Testis|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694734|N/A|European|M|63.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695369|N/A|N/A|N/A|N/A|N/A|Colon Cancer|Colon|LoVo|in_vitro|N/A|N/A|N/A|Disease
+GSM694696|N/A|European|F|83.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695030|N/A|European|F|66.0|N/A|Kidney Cancer|Kidney|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695960|N/A|European|F|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694847|N/A|Asian|M|54.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694868|N/A|Asian|M|65.0|N/A|Healthy|Liver|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694782|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes (MDS)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694738|N/A|European|F|52.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695666|N/A|N/A|N/A|N/A|N/A|Lung Cancer|Lung|H23KO|in_vitro|N/A|N/A|N/A|Disease
+GSM695102|N/A|European|F|79.0|N/A|Adenoma|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694532|N/A|European|F|23.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694874|N/A|European|M|37.0|N/A|Testis Cancer|Testis|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695129|N/A|N/A|N/A|N/A|N/A|Healthy|Other|Differentiated Adult Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM695292|N/A|European|M|29.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694638|N/A|European|M|54.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695695|N/A|European|N/A|N/A|N/A|Systemic Sclerosis|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695545|N/A|European|F|82.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695013|N/A|European|M|48.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694523|N/A|European|M|71.0|N/A|Healthy|Prostate|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695498|N/A|European|F|82.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695949|N/A|European|F|98.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695252|N/A|European|F|54.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695029|N/A|European|F|0.4|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695019|N/A|European|F|62.0|N/A|Kidney Cancer|Kidney|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694497|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695855|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694612|N/A|European|M|60.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695487|N/A|European|F|54.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695567|N/A|European|F|0.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695438|N/A|European|F|68.2|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694489|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694633|N/A|European|M|43.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695530|N/A|European|F|36.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694861|N/A|European|F|62.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694659|N/A|European|F|79.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694641|N/A|European|M|61.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695933|N/A|European|M|51.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695321|N/A|European|F|51.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695389|N/A|European|M|59.5|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695976|N/A|European|M|74.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695863|N/A|European|F|37.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694701|N/A|European|M|4.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695557|N/A|European|F|48.0|N/A|Endometrial Hyperplasia|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694599|N/A|European|F|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694644|N/A|European|M|27.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695334|N/A|European|F|76.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695675|N/A|European|N/A|N/A|N/A|Mixed Lineage Leukemia (MLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695669|N/A|N/A|N/A|N/A|N/A|Lung Cancer|Lung|A549KO|in_vitro|N/A|N/A|N/A|Disease
+GSM695425|N/A|European|F|65.2|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695287|N/A|European|F|58.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695520|N/A|European|F|80.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695050|N/A|European|F|77.0|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695133|N/A|European|M|78.0|N/A|Dementia|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694560|N/A|European|M|48.0|N/A|Head and Neck Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695416|N/A|European|F|84.7|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695218|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|ASPC1|in_vitro|N/A|N/A|N/A|Disease
+GSM694713|N/A|European|N/A|N/A|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694913|N/A|Asian|M|48.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695367|N/A|N/A|N/A|N/A|N/A|Cervical Cancer|Cervix|C4I|in_vitro|N/A|N/A|N/A|Disease
+GSM695730|N/A|European|M|57.2|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695377|N/A|European|M|58.4|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695525|N/A|European|F|53.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695184|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694520|N/A|European|M|68.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696020|N/A|European|F|41.3|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694872|N/A|European|M|35.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695249|N/A|European|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695308|N/A|European|F|43.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696017|N/A|European|M|53.8|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694776|N/A|European|M|69.0|N/A|Mantle Cell Lymphoma (MCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694456|N/A|European|M|0.1|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695614|N/A|European|F|103.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695668|N/A|N/A|N/A|N/A|N/A|Lung Cancer|Lung|H522KO|in_vitro|N/A|N/A|N/A|Disease
+GSM695089|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695719|N/A|European|M|54.6|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695035|N/A|European|F|77.0|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695403|N/A|European|F|51.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695950|N/A|European|M|49.0|N/A|Colon Metastases|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694771|N/A|European|M|71.0|N/A|Mantle Cell Lymphoma (MCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695792|N/A|European|F|70.8|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695548|N/A|European|F|69.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695647|N/A|European|F|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695985|N/A|European|M|0.1|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695728|N/A|European|F|59.6|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695921|N/A|European|F|65.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695152|N/A|European|M|6.0|N/A|Neuroblastoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695609|N/A|European|F|45.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694860|N/A|Asian|M|65.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695794|N/A|European|M|70.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694652|N/A|European|F|75.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694724|N/A|European|M|50.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694836|N/A|Asian|F|66.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695715|N/A|European|M|69.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694431|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695790|N/A|European|M|66.8|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694890|N/A|European|M|29.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695789|N/A|European|M|70.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695959|N/A|European|M|68.0|N/A|Colon Metastases|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694436|N/A|European|M|69.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695978|N/A|European|F|60.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695478|N/A|European|F|63.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695462|N/A|European|F|89.6|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695276|N/A|European|F|83.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694465|N/A|European|M|77.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696046|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694973|N/A|European|N/A|N/A|N/A|Healthy|Adipose|Adipose Stem Cell|in_vitro|ctrl|N/A|N/A|None
+GSM695627|N/A|European|M|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694692|N/A|European|M|62.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694695|N/A|European|F|14.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695040|N/A|European|M|64.0|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695104|N/A|European|F|78.0|N/A|Atheroma|Artery|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694564|N/A|European|M|64.0|N/A|Head and Neck Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694608|N/A|European|F|70.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695460|N/A|European|M|64.4|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695045|N/A|European|M|61.0|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695716|N/A|European|F|68.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695437|N/A|European|F|68.1|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695260|N/A|European|F|60.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694966|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694839|N/A|European|F|65.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694571|N/A|European|F|66.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694519|N/A|European|F|69.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695415|N/A|European|M|51.3|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695426|N/A|European|F|53.4|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695806|N/A|European|F|74.0|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694960|N/A|European|M|78.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695680|N/A|European|N/A|N/A|N/A|Mixed Lineage Leukemia (MLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694909|N/A|Asian|M|73.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695417|N/A|European|F|60.5|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695459|N/A|European|F|56.5|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694735|N/A|European|M|67.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695225|N/A|N/A|N/A|N/A|N/A|Healthy|Other|Differentiated Adult Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM694809|N/A|European|M|5.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695082|N/A|European|N/A|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695167|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695531|N/A|N/A|N/A|N/A|N/A|Leukemia|Other|Leukemia Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695723|N/A|European|M|69.9|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695947|N/A|European|M|66.0|N/A|Colon Metastases|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695506|N/A|European|F|82.0|N/A|Endometrial Cancer|Uterus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695559|N/A|European|F|80.0|N/A|Endometrial Hyperplasia|Uterus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694589|N/A|European|F|80.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694622|N/A|European|M|69.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694646|N/A|European|F|63.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695834|N/A|European|M|41.3|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695463|N/A|European|N/A|N/A|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695097|N/A|European|M|54.0|N/A|Adenoma|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695391|N/A|European|F|71.2|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695495|N/A|N/A|N/A|N/A|N/A|Healthy|Heart|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695418|N/A|European|M|22.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694932|N/A|European|F|75.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695277|N/A|European|F|73.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694648|N/A|European|M|52.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695166|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694805|N/A|N/A|N/A|N/A|N/A|Colon Cancer|Colon|DKO|in_vitro|N/A|N/A|N/A|Disease
+GSM694885|N/A|European|M|27.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695374|N/A|European|F|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695813|N/A|European|F|74.4|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695364|N/A|European|F|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694729|N/A|European|M|81.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695653|N/A|European|F|75.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694655|N/A|European|F|76.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695144|N/A|European|F|0.0|N/A|Neuroblastoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695196|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694550|N/A|European|F|13.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694779|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes (MDS)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694486|N/A|European|M|81.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695562|N/A|European|F|57.0|N/A|Healthy|Uterus|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695179|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694687|N/A|European|F|62.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696047|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695798|N/A|European|F|70.8|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694665|N/A|European|M|40.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694761|N/A|European|F|82.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695382|N/A|European|M|62.4|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695422|N/A|European|F|68.5|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695492|N/A|European|F|70.0|N/A|Endometrial Cancer|Uterus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694718|N/A|European|M|16.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694583|N/A|European|F|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694901|N/A|Asian|F|72.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695782|N/A|European|M|76.9|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694727|N/A|European|F|74.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695998|N/A|European|M|72.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694509|N/A|European|M|69.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695381|N/A|European|M|60.3|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695221|N/A|N/A|N/A|N/A|N/A|Healthy|Other|Differentiated Adult Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM695993|N/A|European|F|60.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695878|N/A|European|F|74.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695593|N/A|European|F|106.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695317|N/A|European|F|48.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694763|N/A|European|F|58.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694991|N/A|European|M|44.0|N/A|Kidney Cancer|Kidney|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695517|N/A|N/A|N/A|N/A|N/A|Healthy|Other|Embryonic Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM695067|N/A|European|M|84.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694510|N/A|European|M|60.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694573|N/A|European|F|46.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695552|N/A|N/A|N/A|N/A|N/A|Healthy|Other|Embryonic Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM694942|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695094|N/A|European|M|83.0|N/A|Adenoma|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694677|N/A|European|M|4.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694492|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695534|N/A|European|F|72.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694442|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694758|N/A|European|M|71.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694531|N/A|European|M|18.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695992|N/A|European|F|49.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695176|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695161|N/A|European|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695634|N/A|European|M|68.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696002|N/A|European|M|73.0|N/A|Colon Metastases|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695838|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695958|N/A|European|M|59.0|N/A|Colon Metastases|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695743|N/A|European|M|62.6|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696005|N/A|European|F|60.0|N/A|Colon Metastases|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695671|N/A|European|N/A|N/A|N/A|Mixed Lineage Leukemia (MLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695368|N/A|N/A|N/A|N/A|N/A|Colon Cancer|Colon|HCT115|in_vitro|N/A|N/A|N/A|Disease
+GSM695742|N/A|European|F|75.3|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695164|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694958|N/A|N/A|M|20.0|N/A|Healthy|Other|Lymphoblastoid Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM695741|N/A|European|F|78.9|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695284|N/A|European|F|47.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694708|N/A|European|N/A|N/A|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695598|N/A|European|M|0.3|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696038|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|BC3|in_vitro|N/A|N/A|N/A|Disease
+GSM695773|N/A|European|M|61.8|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694714|N/A|European|N/A|N/A|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695142|N/A|European|M|0.5|N/A|Neuroblastoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695624|N/A|European|M|104.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695345|N/A|N/A|N/A|N/A|N/A|Melanoma|Other|Melanocyte Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695405|N/A|European|M|48.9|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695615|N/A|European|M|42.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695717|N/A|European|M|56.1|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695763|N/A|European|F|57.4|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695455|N/A|European|M|43.1|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695678|N/A|European|N/A|N/A|N/A|Mixed Lineage Leukemia (MLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694543|N/A|European|M|18.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695828|N/A|European|M|65.1|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694927|N/A|European|M|85.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695765|N/A|European|F|59.5|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694690|N/A|European|M|49.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695786|N/A|European|F|30.9|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695755|N/A|European|F|31.8|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695788|N/A|European|M|46.5|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695435|N/A|European|M|64.9|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695183|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695401|N/A|European|M|71.8|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694568|N/A|European|F|33.0|N/A|Healthy|Ovary|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695939|N/A|European|F|65.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695872|N/A|European|F|61.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695220|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|P1005|in_vitro|N/A|N/A|N/A|Disease
+GSM695510|N/A|European|F|83.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694529|N/A|European|F|27.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695991|N/A|European|F|100.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695456|N/A|European|M|58.2|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695420|N/A|European|F|45.2|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694756|N/A|European|M|39.0|N/A|Follicular Lymphoma|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695784|N/A|European|F|72.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695528|N/A|European|F|74.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695946|N/A|European|M|59.0|N/A|Colon Metastases|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694699|N/A|European|F|4.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695536|N/A|European|F|73.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695095|N/A|European|M|71.0|N/A|Adenoma|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695191|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695316|N/A|European|F|58.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695513|N/A|European|F|48.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695554|N/A|N/A|F|79.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695449|N/A|European|F|64.7|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694984|N/A|European|F|66.0|N/A|Kidney Metastases|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694494|N/A|European|F|76.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695641|N/A|European|F|70.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694926|N/A|European|N/A|81.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695348|N/A|N/A|N/A|N/A|N/A|Head and Neck Cancer|Cells|Head-Neck Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695355|N/A|N/A|N/A|N/A|N/A|Lymphoma|Cells|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695864|N/A|European|M|46.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695907|N/A|European|M|97.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695199|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695553|N/A|European|F|46.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695162|N/A|European|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695371|N/A|N/A|N/A|N/A|N/A|Colon Cancer|Colon|RKO|in_vitro|N/A|N/A|N/A|Disease
+GSM696051|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695101|N/A|European|M|70.0|N/A|Adenoma|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695963|N/A|European|M|54.0|N/A|Colon Metastases|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694640|N/A|European|M|73.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696024|N/A|European|F|74.5|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695898|N/A|European|F|69.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696008|N/A|European|M|58.0|N/A|Colon Metastases|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695414|N/A|European|F|70.1|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694448|N/A|European|N/A|N/A|N/A|Bladder Cancer|Stomach|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695537|N/A|European|F|65.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695620|N/A|European|F|34.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695997|N/A|European|M|68.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695336|N/A|European|F|48.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695146|N/A|European|M|0.1|N/A|Neuroblastoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695604|N/A|European|F|100.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695560|N/A|European|F|50.0|N/A|Endometrial Hyperplasia|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694549|N/A|European|F|72.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695408|N/A|European|M|38.9|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695602|N/A|European|F|66.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695710|N/A|European|M|67.3|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695043|N/A|European|M|77.0|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694972|N/A|European|N/A|N/A|N/A|Healthy|Adipose|Adipose Stem Cell|in_vitro|ctrl|N/A|N/A|None
+GSM695270|N/A|European|F|64.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694775|N/A|European|F|64.0|N/A|Mantle Cell Lymphoma (MCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694744|N/A|European|F|67.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694939|N/A|European|M|84.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695297|N/A|European|F|45.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694444|N/A|European|M|78.0|N/A|Healthy|Bladder|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694594|N/A|European|F|74.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695268|N/A|European|F|61.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694829|N/A|Asian|F|78.0|N/A|Healthy|Esophagus|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695351|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|Melanocyte Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM694533|N/A|European|F|23.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694931|N/A|European|M|82.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695051|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|Breast Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695299|N/A|European|F|70.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694910|N/A|Asian|M|48.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695174|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694923|N/A|European|M|81.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695347|N/A|N/A|N/A|N/A|N/A|Head and Neck Cancer|Cells|Head-Neck Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694688|N/A|European|F|3.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696032|N/A|European|F|34.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695190|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695923|N/A|European|M|68.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694515|N/A|European|M|67.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695140|N/A|European|M|91.0|N/A|Dementia|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695512|N/A|European|F|42.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694627|N/A|European|M|41.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695068|N/A|European|M|69.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695777|N/A|European|M|76.9|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695805|N/A|European|F|27.2|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696013|N/A|European|F|59.0|N/A|Colon Cancer Metastasis|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694878|N/A|European|M|19.0|N/A|Testicular Cancer|Testis|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695175|N/A|European|F|47.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695945|N/A|European|M|58.0|N/A|Colon Cancer Metastasis|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695910|N/A|European|M|59.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695901|N/A|European|F|74.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695307|N/A|European|F|52.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695301|N/A|European|F|42.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695767|N/A|European|M|61.8|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694544|N/A|European|F|23.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695772|N/A|European|M|67.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695038|N/A|European|F|74.0|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695473|N/A|European|F|64.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695026|N/A|European|M|69.0|N/A|Kidney Cancer|Kidney|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695709|N/A|European|F|56.6|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695178|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694567|N/A|European|F|73.0|N/A|Healthy|Ovary|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695876|N/A|European|F|62.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695817|N/A|European|M|27.4|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695687|N/A|European|N/A|N/A|N/A|Systemic Sclerosis|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695869|N/A|European|F|89.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695447|N/A|European|M|57.3|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695842|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694464|N/A|European|M|84.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695230|N/A|European|F|45.0|N/A|Healthy|Cervix|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695924|N/A|European|F|68.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694882|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694906|N/A|Asian|F|80.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695310|N/A|European|F|48.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695801|N/A|European|F|78.6|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694469|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695570|N/A|European|M|30.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695920|N/A|European|F|71.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695640|N/A|European|M|0.4|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695748|N/A|European|M|62.6|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695172|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694881|N/A|European|M|28.0|N/A|Testicular Cancer|Testis|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695309|N/A|European|F|50.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695987|N/A|European|F|59.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695971|N/A|European|F|100.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695125|N/A|European|M|71.0|N/A|Parkinson's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694768|N/A|European|M|76.0|N/A|Mantle Cell Lymphoma (MCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694977|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694577|N/A|European|F|85.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695339|N/A|N/A|N/A|N/A|N/A|Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome (ICF)|Other|ICF Cell Line|in_vitro|N/A|N/A|N/A|Genetic
+GSM695134|N/A|European|M|78.0|N/A|Dementia|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694725|N/A|European|M|78.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694964|N/A|N/A|F|N/A|N/A|Healthy|Other|Lymphoblastoid Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM694955|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695489|N/A|European|F|70.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694968|N/A|European|N/A|N/A|N/A|Healthy|Other|Multipotent Adult Progenitor Cell|in_vitro|ctrl|N/A|N/A|None
+GSM695407|N/A|European|F|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694915|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694441|N/A|European|M|70.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695515|N/A|European|F|53.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696041|N/A|European|F|93.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695399|N/A|European|F|54.2|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695200|N/A|Other|N/A|N/A|N/A|Healthy|Pancreas|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694865|N/A|Asian|F|65.0|N/A|Healthy|Liver|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695708|N/A|European|M|78.4|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695812|N/A|European|F|59.1|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695811|N/A|European|F|82.0|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694802|N/A|European|M|77.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695365|N/A|N/A|N/A|N/A|N/A|Cervical Cancer|Cervix|CasKi|in_vitro|N/A|N/A|N/A|Disease
+GSM694491|N/A|European|M|83.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695514|N/A|European|F|68.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695155|N/A|European|M|3.0|N/A|Neuroblastoma|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695721|N/A|European|M|69.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694870|N/A|European|M|29.0|N/A|Testicular Cancer|Testis|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694959|N/A|N/A|F|15.0|N/A|Healthy|Other|Lymphoblastoid Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM695111|N/A|European|M|73.0|N/A|Atherosclerosis|Artery|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694711|N/A|European|N/A|N/A|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695697|N/A|European|N/A|N/A|N/A|Primary Biliary Cirrhosis|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694574|N/A|European|F|68.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694903|N/A|Asian|M|59.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695726|N/A|European|F|70.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694746|N/A|European|F|62.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694760|N/A|European|F|58.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695003|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696043|N/A|N/A|N/A|N/A|N/A|Leukemia|Other|Leukemia Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695906|N/A|European|F|71.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694709|N/A|European|N/A|N/A|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695312|N/A|European|M|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695637|N/A|European|M|36.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694459|N/A|European|F|58.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695085|N/A|European|M|37.0|N/A|Lupus|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695674|N/A|European|N/A|N/A|N/A|Mixed Lineage Leukemia (MLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694732|N/A|European|F|83.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695182|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694993|N/A|European|M|68.0|N/A|Colon Metastases|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695569|N/A|European|N/A|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695041|N/A|European|F|64.0|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695327|N/A|European|F|36.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694578|N/A|European|F|90.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695951|N/A|European|M|51.0|N/A|Colon Metastases|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695858|N/A|European|N/A|N/A|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694793|N/A|European|F|72.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695143|N/A|European|M|75.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695071|N/A|European|M|82.0|N/A|Melanoma|Skin|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694804|N/A|European|F|78.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695349|N/A|N/A|N/A|N/A|N/A|Esophageal Cancer|Esophagus|Esophageal Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694679|N/A|European|F|26.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694460|N/A|European|M|78.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695547|N/A|European|F|51.0|N/A|Endometrial Cancer|Uterus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694990|N/A|European|M|68.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694813|N/A|European|M|7.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695450|N/A|European|N/A|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695171|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695679|N/A|European|N/A|N/A|N/A|Mixed Lineage Leukemia (MLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695524|N/A|European|F|35.0|N/A|Endometrial Cancer|Uterus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694975|N/A|European|N/A|N/A|N/A|Healthy|Adipose|Adipose Stem Cell|in_vitro|ctrl|N/A|N/A|None
+GSM694826|N/A|European|M|18.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694879|N/A|European|M|34.0|N/A|Testis Cancer|Testis|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694934|N/A|European|M|61.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695683|N/A|European|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694772|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694615|N/A|European|M|81.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695406|N/A|European|F|72.0|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695226|N/A|European|F|58.0|N/A|Cervical Cancer|Cervix|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694433|N/A|European|M|51.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696040|N/A|N/A|N/A|N/A|N/A|Neuroblastoma|Other|Neuroblastoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694828|N/A|Asian|M|48.0|N/A|Healthy|Esophagus|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695025|N/A|European|M|68.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694551|N/A|Asian|N/A|N/A|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695658|N/A|European|M|73.0|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694908|N/A|Asian|F|47.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694765|N/A|European|M|45.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695594|N/A|European|F|103.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696003|N/A|European|M|74.0|N/A|Colon Metastases|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695136|N/A|European|M|83.0|N/A|Dementia|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695387|N/A|European|M|62.1|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694790|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes (MDS)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694676|N/A|European|M|9.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694806|N/A|European|M|62.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694866|N/A|Asian|M|53.0|N/A|Healthy|Liver|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695613|N/A|European|F|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694454|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695205|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695986|N/A|European|F|67.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694940|N/A|European|M|70.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695395|N/A|European|F|64.8|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695757|N/A|European|M|73.9|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695150|N/A|European|M|1.3|N/A|Neuroblastoma|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695914|N/A|European|M|51.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695900|N/A|European|F|62.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695052|N/A|European|N/A|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695941|N/A|European|M|68.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695098|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695229|N/A|European|F|47.0|N/A|Cervical Cancer|Cervix|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694499|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695544|N/A|European|F|56.0|N/A|Endometrial Cancer|Uterus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694783|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694542|N/A|European|F|27.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694704|N/A|European|M|11.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695000|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695306|N/A|European|F|82.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694754|N/A|European|M|38.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695672|N/A|European|N/A|N/A|N/A|Mixed Lineage Leukemia (MLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695619|N/A|European|F|0.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695779|N/A|European|M|74.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696029|N/A|European|M|61.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695519|N/A|European|F|38.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694925|N/A|European|M|77.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695165|N/A|European|F|65.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694759|N/A|European|M|58.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695372|N/A|European|M|66.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696006|N/A|European|M|58.0|N/A|Colon Cancer Metastasis|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694548|N/A|European|M|27.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695936|N/A|European|F|66.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694978|N/A|European|N/A|N/A|N/A|Healthy|Other|Mesenchymal Stem Cell|in_vitro|ctrl|N/A|N/A|None
+GSM696022|N/A|European|M|45.3|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695639|N/A|European|F|0.2|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694613|N/A|European|M|78.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695105|N/A|European|M|52.0|N/A|Atheroma|Artery|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694588|N/A|European|F|55.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695398|N/A|European|M|74.7|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694951|N/A|European|F|84.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696039|N/A|N/A|N/A|N/A|N/A|Neuroblastoma|Other|Neuroblastoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694461|N/A|European|M|69.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695482|N/A|European|F|40.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695467|N/A|European|F|48.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694753|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694694|N/A|European|M|48.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695296|N/A|European|F|32.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694914|N/A|European|M|N/A|N/A|Healthy|Testis|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694632|N/A|European|M|63.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695342|N/A|N/A|N/A|N/A|N/A|Colon Cancer|Colon|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM695289|N/A|European|F|45.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695988|N/A|European|M|64.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694616|N/A|European|M|81.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695688|N/A|European|N/A|N/A|N/A|Systemic Sclerosis|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694851|N/A|Asian|M|60.0|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695103|N/A|European|M|34.0|N/A|Atheroma|Artery|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695587|N/A|European|F|0.4|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695962|N/A|European|M|69.0|N/A|Colon Cancer Metastasis|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694537|N/A|European|F|19.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695865|N/A|European|F|100.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694943|N/A|European|M|2.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694631|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694507|N/A|European|M|71.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695727|N/A|European|M|64.8|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696007|N/A|European|F|78.0|N/A|Colon Cancer Metastasis|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694843|N/A|Asian|F|78.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695086|N/A|European|F|21.0|N/A|Lupus|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695015|N/A|European|M|73.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695917|N/A|European|M|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694592|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695880|N/A|European|M|65.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695617|N/A|European|F|1.1|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696026|N/A|European|M|55.5|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695849|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695659|N/A|European|M|72.0|N/A|Lung Cancer|Lung|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695063|N/A|European|M|62.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694895|N/A|European|M|26.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695734|N/A|European|M|64.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695079|N/A|European|F|68.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694570|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696034|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Other|LNCap|in_vitro|N/A|N/A|N/A|Disease
+GSM695746|N/A|European|F|78.9|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694653|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695201|N/A|Other|N/A|N/A|N/A|Healthy|Pancreas|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694611|N/A|European|M|42.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694590|N/A|European|F|62.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695621|N/A|European|M|66.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694538|N/A|European|F|18.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695357|N/A|N/A|N/A|N/A|N/A|Lymphoma|N/A|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695930|N/A|European|M|66.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694467|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695148|N/A|European|M|2.0|N/A|Neuroblastoma|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695039|N/A|European|M|64.0|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695881|N/A|European|F|45.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694880|N/A|European|M|23.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694739|N/A|European|N/A|44.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695579|N/A|European|N/A|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695340|N/A|N/A|N/A|N/A|N/A|ICF Syndrome|N/A|ICF Cell Line|in_vitro|N/A|N/A|N/A|Genetic
+GSM694748|N/A|European|M|61.0|N/A|Chronic Lymphocytic Leukemia (CLL)|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695819|N/A|European|F|74.2|N/A|Acute Myeloid Leukemia (AML)|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694736|N/A|European|M|52.0|N/A|Chronic Lymphocytic Leukemia (CLL)|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695563|N/A|N/A|N/A|N/A|N/A|Healthy|N/A|Differentiated Embryonic Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM695740|N/A|European|F|68.9|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695293|N/A|European|F|47.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695965|N/A|European|F|52.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695288|N/A|European|F|43.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694534|N/A|European|F|55.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695504|N/A|European|F|81.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694598|N/A|European|F|72.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695338|N/A|N/A|N/A|N/A|N/A|ICF Syndrome|N/A|ICF Cell Line|in_vitro|N/A|N/A|N/A|Genetic
+GSM694894|N/A|European|M|34.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695897|N/A|European|M|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695330|N/A|European|F|56.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695282|N/A|European|F|56.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695419|N/A|European|M|36.1|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694430|N/A|European|M|79.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694582|N/A|European|F|67.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694917|N/A|European|M|N/A|N/A|Healthy|Testis|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695948|N/A|European|M|44.0|N/A|Colon Cancer Metastasis|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695358|N/A|N/A|N/A|N/A|N/A|Lymphoma|N/A|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694535|N/A|European|F|21.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694449|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695263|N/A|European|F|58.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696018|N/A|European|M|77.4|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694426|N/A|European|N/A|N/A|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695732|N/A|European|M|64.8|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695797|N/A|European|F|64.7|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695169|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695448|N/A|European|M|63.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695261|N/A|European|F|58.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694579|N/A|European|F|72.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695396|N/A|European|F|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694455|N/A|European|F|59.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695490|N/A|European|F|77.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695464|N/A|European|M|38.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694458|N/A|European|M|74.0|N/A|Healthy|Bladder|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695886|N/A|European|F|37.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695841|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695826|N/A|European|M|48.8|N/A|Acute Myeloid Leukemia (AML)|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695269|N/A|European|F|62.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695151|N/A|European|F|1.0|N/A|Neuroblastoma|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695759|N/A|European|M|59.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695787|N/A|European|M|58.3|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695649|N/A|European|M|101.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695889|N/A|European|M|76.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695110|N/A|European|M|50.0|N/A|Healthy|Artery|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694781|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes (MDS)|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695994|N/A|European|M|58.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696031|N/A|European|F|18.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695313|N/A|European|F|62.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694541|N/A|European|F|21.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694437|N/A|European|M|83.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695210|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|Pancreas Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694950|N/A|N/A|N/A|N/A|N/A|Lymphoma|N/A|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694707|N/A|European|F|84.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695989|N/A|European|M|73.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694930|N/A|European|F|72.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695915|N/A|European|M|73.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695809|N/A|European|F|52.1|N/A|Acute Myeloid Leukemia (AML)|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695701|N/A|European|N/A|N/A|N/A|Healthy|Breast|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695380|N/A|European|M|56.4|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694902|N/A|Asian|M|52.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695836|N/A|European|F|74.2|N/A|Acute Myeloid Leukemia (AML)|N/A|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695385|N/A|European|M|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695333|N/A|European|F|33.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695940|N/A|European|M|59.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694883|N/A|European|M|29.0|N/A|Testis Cancer|Testis|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696027|N/A|European|M|30.6|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695434|N/A|European|M|53.9|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695916|N/A|European|F|56.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694428|N/A|European|N/A|N/A|N/A|Stomach Cancer|Stomach|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696030|N/A|European|F|71.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696048|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695238|N/A|European|F|2.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695173|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694453|N/A|European|M|64.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695290|N/A|European|F|41.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695294|N/A|European|F|31.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694666|N/A|European|F|63.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694941|N/A|European|M|89.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694961|N/A|N/A|M|39.0|N/A|Healthy|Other|Lymphoblastoid Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM694796|N/A|European|F|74.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695820|N/A|European|M|47.0|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694681|N/A|European|M|19.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695857|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694946|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694892|N/A|European|M|37.0|N/A|Testis Cancer|Testis|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695081|N/A|European|F|54.0|N/A|Melanoma|Skin|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695018|N/A|European|M|70.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695859|N/A|European|N/A|N/A|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695378|N/A|European|M|64.7|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695882|N/A|European|F|73.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695361|N/A|N/A|N/A|N/A|N/A|Hepatocellular Cancer|Liver|SNU-368|in_vitro|case|N/A|N/A|Disease
+GSM695337|N/A|European|F|43.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695753|N/A|European|M|73.9|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694445|N/A|European|M|74.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695735|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Raji|in_vitro|N/A|N/A|N/A|Disease
+GSM695572|N/A|European|F|66.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694600|N/A|European|F|49.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694697|N/A|European|M|47.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695905|N/A|European|M|61.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694517|N/A|European|M|70.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695665|N/A|European|M|73.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694503|N/A|European|F|66.0|N/A|Healthy|Bladder|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695113|N/A|European|F|57.0|N/A|Atheroma|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694889|N/A|European|M|33.0|N/A|Testis Cancer|Testis|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695451|N/A|European|F|72.7|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695970|N/A|European|M|75.0|N/A|Colon Metastases|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695607|N/A|European|F|1.3|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694799|N/A|European|F|60.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695918|N/A|European|F|66.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694525|N/A|European|M|60.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694911|N/A|Asian|F|46.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694871|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695893|N/A|European|M|65.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695181|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694897|N/A|Asian|F|68.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695540|N/A|European|F|75.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695778|N/A|European|F|76.9|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695605|N/A|European|M|38.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695648|N/A|European|F|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694731|N/A|European|M|69.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695847|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695852|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694630|N/A|European|F|66.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694443|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695884|N/A|European|F|71.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695116|N/A|European|M|34.0|N/A|Atherosclerosis|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695024|N/A|European|M|69.0|N/A|Kidney Metastases|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694628|N/A|European|M|60.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695275|N/A|European|F|0.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695248|N/A|European|F|45.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695975|N/A|European|M|73.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695586|N/A|European|F|104.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695088|N/A|European|F|13.0|N/A|Lupus|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695979|N/A|European|M|58.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695090|N/A|European|M|34.0|N/A|Adenoma|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695851|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694873|N/A|European|M|32.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694818|N/A|European|M|46.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695335|N/A|European|F|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695871|N/A|European|F|66.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695870|N/A|European|M|65.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695944|N/A|European|M|54.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694518|N/A|European|M|68.0|N/A|Healthy|Prostate|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694976|N/A|European|N/A|N/A|N/A|Healthy|Other|Mesenchymal Stem Cell|in_vitro|ctrl|N/A|N/A|None
+GSM694957|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695894|N/A|European|F|66.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695064|N/A|European|M|50.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695227|N/A|European|F|45.0|N/A|Cervical Cancer|Cervix|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695761|N/A|European|M|70.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695707|N/A|European|F|64.3|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695011|N/A|European|M|72.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695845|N/A|European|M|96.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695392|N/A|European|M|60.1|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694680|N/A|European|M|70.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694726|N/A|European|F|86.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695961|N/A|European|F|68.0|N/A|Colon Metastases|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694887|N/A|European|M|29.0|N/A|Testis Cancer|Testis|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694852|N/A|Asian|M|55.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694536|N/A|European|M|27.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695980|N/A|European|M|99.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694476|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695781|N/A|European|F|64.4|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695816|N/A|European|F|67.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694785|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes (MDS)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694898|N/A|Asian|F|89.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694700|N/A|European|M|33.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695350|N/A|N/A|N/A|N/A|N/A|Esophageal Cancer|Esophagus|Esophageal Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695280|N/A|European|F|42.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695903|N/A|European|F|45.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695522|N/A|European|F|54.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694762|N/A|European|F|53.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695549|N/A|European|F|52.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694634|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695461|N/A|European|F|37.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695712|N/A|European|F|64.3|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695523|N/A|European|F|77.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695159|N/A|European|M|0.4|N/A|Neuroblastoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695631|N/A|European|M|39.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695216|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|Pancreas Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM694900|N/A|Asian|F|72.0|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694614|N/A|European|F|52.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695443|N/A|European|M|51.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695909|N/A|European|M|58.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695770|N/A|European|F|59.5|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694749|N/A|European|M|78.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695295|N/A|European|F|26.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695008|N/A|European|N/A|N/A|N/A|Lung Cancer|Lung|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695574|N/A|European|F|101.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694587|N/A|European|F|61.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695600|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695526|N/A|European|F|76.0|N/A|Endometrial Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695926|N/A|European|M|54.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696019|N/A|European|F|57.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694834|N/A|European|F|1.2|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694856|N/A|Asian|M|53.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694650|N/A|European|F|61.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694620|N/A|European|M|56.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694896|N/A|Asian|F|83.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694669|N/A|European|M|13.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694530|N/A|European|F|68.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694755|N/A|European|F|38.0|N/A|Follicular Lymphoma (FL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694559|N/A|European|M|61.0|N/A|Head and Neck Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694619|N/A|European|F|85.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695213|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|Pancreas Cell Line|in_vitro|N/A|N/A|N/A|Disease
+GSM695154|N/A|European|F|80.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694593|N/A|European|F|27.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695253|N/A|European|F|38.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694482|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695393|N/A|European|M|65.4|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695023|N/A|European|M|68.0|N/A|Colon Metastases|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695887|N/A|European|M|98.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695283|N/A|European|F|58.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695561|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|Embryonic Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM694447|N/A|European|M|69.0|N/A|Healthy|Bladder|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695232|N/A|European|F|18.0|N/A|Lupus|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695595|N/A|European|F|44.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695714|N/A|European|M|69.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694999|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695031|N/A|European|F|62.0|N/A|Kidney Metastases|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695592|N/A|European|M|71.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694859|N/A|Asian|M|43.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695059|N/A|European|F|30.0|N/A|Melanoma|Skin|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694434|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695956|N/A|European|F|71.0|N/A|Colon Metastases|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695632|N/A|European|F|68.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695783|N/A|European|F|76.9|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695397|N/A|European|M|63.2|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695769|N/A|European|M|72.7|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694877|N/A|European|M|24.0|N/A|Testis Cancer|Testis|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695610|N/A|European|F|70.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694767|N/A|European|M|73.0|N/A|Mantle Cell Lymphoma (MCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694985|N/A|European|M|70.0|N/A|Colon Metastases|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695384|N/A|European|F|57.1|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694995|N/A|European|M|73.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694919|N/A|European|M|82.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695995|N/A|European|F|78.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695938|N/A|European|F|71.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695775|N/A|European|F|37.8|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695660|N/A|European|M|70.0|N/A|Lung Cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694737|N/A|European|F|61.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695049|N/A|European|F|55.0|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695831|N/A|European|M|38.6|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695577|N/A|European|F|0.3|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694967|N/A|European|N/A|N/A|N/A|Healthy|Cells|Mesenchymal Stem Cell|in_vitro|ctrl|N/A|N/A|None
+GSM695204|N/A|European|F|0.8|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694788|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes (MDS)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695324|N/A|N/A|N/A|N/A|N/A|Colon Cancer|Colon|HCT116AZA|in_vitro|case|N/A|N/A|Disease
+GSM694651|N/A|European|F|48.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694524|N/A|European|M|71.0|N/A|Prostate Cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695440|N/A|European|F|73.8|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694994|N/A|European|M|53.0|N/A|Colon Metastases|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694954|N/A|N/A|N/A|N/A|N/A|Lymphoma|Other|Lymphoma Cell Line|in_vitro|case|N/A|N/A|Disease
+GSM695692|N/A|European|N/A|N/A|N/A|Systemic Sclerosis|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696014|N/A|European|F|43.7|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694504|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695977|N/A|European|F|49.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695551|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|Embryonic Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM695927|N/A|European|M|58.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694832|N/A|Asian|M|54.0|N/A|Healthy|Esophagus|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695135|N/A|European|M|81.0|N/A|Dementia|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM696016|N/A|European|M|32.2|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695913|N/A|European|M|49.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695955|N/A|European|M|60.0|N/A|Colon Metastases|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695673|N/A|European|N/A|N/A|N/A|Mixed Lineage Leukemia (MLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695694|N/A|European|F|72.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695599|N/A|European|N/A|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694603|N/A|European|F|71.0|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695054|N/A|European|M|50.0|N/A|Healthy|Skin|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694710|N/A|European|N/A|N/A|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695925|N/A|European|M|69.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694528|N/A|European|F|21.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694751|N/A|European|F|84.0|N/A|Chronic Lymphocytic Leukemia (CLL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694660|N/A|European|M|8.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694869|N/A|Asian|M|60.0|N/A|Healthy|Liver|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695704|N/A|European|M|67.3|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694429|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695521|N/A|European|F|87.0|N/A|Endometrial Cancer|Uterus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695555|N/A|European|F|41.0|N/A|Endometrial Hyperplasia|Uterus|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695676|N/A|European|M|73.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694831|N/A|Asian|M|69.0|N/A|Healthy|Esophagus|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694824|N/A|European|M|37.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695452|N/A|European|M|74.6|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694921|N/A|European|M|80.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695724|N/A|European|M|54.6|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695241|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|SKBr3|in_vitro|case|N/A|N/A|Disease
+GSM695262|N/A|European|F|83.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694670|N/A|European|F|13.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696033|N/A|European|F|17.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694654|N/A|European|M|59.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695791|N/A|European|F|64.7|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694623|N/A|European|M|76.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695804|N/A|European|M|84.0|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695400|N/A|European|M|48.5|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694673|N/A|European|M|4.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695247|N/A|European|F|22.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695245|N/A|European|N/A|N/A|N/A|Healthy|Breast|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694642|N/A|European|M|66.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695430|N/A|European|M|52.3|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM696015|N/A|European|M|61.8|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695242|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|BT-474|in_vitro|N/A|N/A|N/A|Disease
+GSM695585|N/A|European|M|38.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694786|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes (MDS)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695139|N/A|European|M|81.0|N/A|Dementia|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694557|N/A|European|N/A|N/A|N/A|Head and Neck Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695281|N/A|European|F|61.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695630|N/A|European|N/A|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694684|N/A|European|F|25.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695119|N/A|European|M|32.0|N/A|Healthy|Artery|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694554|N/A|Asian|N/A|N/A|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694452|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695696|N/A|European|N/A|N/A|N/A|Systemic Sclerosis|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694439|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695083|N/A|European|N/A|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695458|N/A|European|M|58.7|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695580|N/A|European|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695698|N/A|European|N/A|N/A|N/A|Primary Biliary Cirrhosis|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694663|N/A|European|F|2.0|N/A|Mature B-Cell Leukemia (mBL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695363|N/A|N/A|N/A|N/A|N/A|Cervical Cancer|Cervix|SiHa|in_vitro|N/A|N/A|N/A|Disease
+GSM695937|N/A|European|M|60.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695370|N/A|N/A|N/A|N/A|N/A|Colon Cancer|Colon|Co115|in_vitro|N/A|N/A|N/A|Disease
+GSM694580|N/A|European|F|67.0|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695147|N/A|European|M|1.1|N/A|Neuroblastoma|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695589|N/A|European|N/A|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695638|N/A|European|F|100.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695258|N/A|European|F|63.0|N/A|Breast Cancer|Breast|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695652|N/A|European|M|65.0|N/A|Lung Cancer|Lung|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695433|N/A|European|F|55.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695231|N/A|European|F|0.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695020|N/A|European|M|44.0|N/A|Kidney Metastases|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694963|N/A|European|M|80.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694920|N/A|European|M|86.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695188|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695141|N/A|European|F|85.0|N/A|Dementia|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694683|N/A|European|M|28.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695840|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695848|N/A|European|N/A|N/A|N/A|Myopathy|Muscle|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694916|N/A|European|M|N/A|N/A|Healthy|Testis|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695952|N/A|European|M|73.0|N/A|Colon Metastases|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694988|N/A|European|N/A|N/A|N/A|Autism|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694867|N/A|Asian|M|68.0|N/A|Healthy|Liver|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695943|N/A|European|M|69.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695731|N/A|European|F|66.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695973|N/A|European|M|60.0|N/A|Colon Metastases|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695209|N/A|N/A|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|XPA-4|in_vitro|N/A|N/A|N/A|Disease
+GSM694610|N/A|European|M|61.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694539|N/A|European|F|25.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695441|N/A|European|F|82.0|N/A|Glioma|Brain|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694798|N/A|European|F|78.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695207|N/A|Other|N/A|N/A|N/A|Healthy|Pancreas|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695642|N/A|European|N/A|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694864|N/A|Asian|M|58.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694974|N/A|European|N/A|N/A|N/A|Healthy|Adipose|N/A|in_vitro|ctrl|N/A|N/A|None
+GSM696000|N/A|European|F|59.0|N/A|Colon Cancer|Colon|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695072|N/A|European|F|74.0|N/A|Melanoma|Skin|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694971|N/A|European|N/A|N/A|N/A|Healthy|Other|Multipotent Adult Progenitor Cell|in_vitro|ctrl|N/A|N/A|None
+GSM695121|N/A|European|M|66.0|N/A|Atheroma|Artery|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM695866|N/A|European|M|76.0|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695362|N/A|N/A|N/A|N/A|N/A|Hepatocellular Cancer|Liver|HEPG2|in_vitro|N/A|N/A|N/A|Disease
+GSM695114|N/A|European|M|53.0|N/A|Atheroma|Artery|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694936|N/A|European|M|81.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|N/A|N/A|N/A|Disease
+GSM694485|N/A|European|N/A|N/A|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694842|N/A|Asian|M|49.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695386|N/A|European|F|51.1|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695124|N/A|European|M|61.0|N/A|Atheroma|Artery|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695250|N/A|European|F|19.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695468|N/A|European|F|39.0|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695618|N/A|European|M|0.6|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695198|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694502|N/A|European|M|89.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695388|N/A|European|M|74.1|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695511|N/A|European|F|65.0|N/A|Endometrial Cancer|Uterus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695533|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|Embryonic Stem Cell Line|in_vitro|ctrl|N/A|N/A|None
+GSM694837|N/A|Asian|M|69.0|N/A|Esophageal Cancer|Esophagus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694899|N/A|Asian|M|66.0|N/A|Stomach Cancer|Stomach|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694770|N/A|European|M|75.0|N/A|Mantle Cell Lymphoma (MCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695061|N/A|European|M|89.0|N/A|Melanoma|Skin|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695158|N/A|European|F|1.6|N/A|Neuroblastoma|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694495|N/A|European|M|65.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695228|N/A|European|F|29.0|N/A|Cervical Cancer|Cervix|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694496|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695829|N/A|European|M|55.0|N/A|Acute Myeloid Leukemia (AML)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695972|N/A|European|F|52.0|N/A|Colon Metastases|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695016|N/A|European|M|53.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694891|N/A|European|M|29.0|N/A|Testis Cancer|Testis|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694479|N/A|European|N/A|N/A|N/A|Cancer of Unknown Primary (CUP)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695206|N/A|Other|N/A|N/A|N/A|Healthy|Pancreas|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694471|N/A|European|F|58.0|N/A|Healthy|Bladder|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM696004|N/A|European|F|49.0|N/A|Colon Metastases|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694811|N/A|European|M|30.0|N/A|Acute Lymphoblastic Leukemia (T-ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694647|N/A|European|F|74.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695279|N/A|European|F|55.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695705|N/A|European|M|71.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM695439|N/A|European|N/A|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694722|N/A|European|M|10.0|N/A|Acute Lymphoblastic Leukemia (ALL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695234|N/A|European|F|43.0|N/A|Lupus|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695328|N/A|European|F|72.0|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695472|N/A|European|F|71.0|N/A|Endometrial Cancer|Uterus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695556|N/A|European|F|50.0|N/A|Endometrial Hyperplasia|Uterus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695128|N/A|European|M|1.8|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM694858|N/A|Asian|M|64.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694643|N/A|European|M|71.0|N/A|Diffuse Large B-Cell Lymphoma (DLBCL)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694792|N/A|European|M|78.0|N/A|Multiple Myeloma (MM)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695107|N/A|European|M|47.0|N/A|Atheroma|Artery|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695931|N/A|European|M|44.0|N/A|Colon Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694863|N/A|Asian|M|52.0|N/A|Hepatocellular Cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694935|N/A|European|M|59.0|N/A|Bladder Cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695436|N/A|European|M|55.3|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695189|N/A|Other|N/A|N/A|N/A|Pancreatic Cancer|Pancreas|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695428|N/A|European|F|60.6|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695423|N/A|European|M|62.1|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM694791|N/A|European|N/A|N/A|N/A|Myelodysplastic Syndromes (MDS)|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695507|N/A|European|F|59.0|N/A|Endometrial Cancer|Uterus|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695432|N/A|European|F|73.2|N/A|Glioma|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM695571|N/A|European|F|67.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None

@@ -1,0 +1,73 @@
+GSM796576|N/A|N/A|M|3.5|Colon|healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796577|N/A|N/A|F|15|Colon|healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796578|N/A|N/A|M|16.5|Colon|healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796579|N/A|N/A|F|17|Colon|healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796580|N/A|N/A|F|17|Colon|healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796581|N/A|N/A|F|17.5|Colon|healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796582|N/A|N/A|F|8|Colon|healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796583|N/A|N/A|M|12|Colon|healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796584|N/A|N/A|M|13|Colon|healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796585|N/A|N/A|M|10|Colon|healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796586|N/A|N/A|M|16|Colon|Crohn's disease|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796587|N/A|N/A|M|17|Colon|Crohn's disease|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796588|N/A|N/A|M|14|Colon|Crohn's disease|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796589|N/A|N/A|F|9|Colon|Crohn's disease|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796590|N/A|N/A|F|16|Colon|Crohn's disease|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796591|N/A|N/A|F|13|Colon|Crohn's disease|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796592|N/A|N/A|F|9|Colon|Crohn's disease|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796593|N/A|N/A|F|16|Colon|Crohn's disease|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796594|N/A|N/A|M|17|Colon|Crohn's disease|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796595|N/A|N/A|F|10|Colon|ulcerative colitis|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796596|N/A|N/A|F|15|Colon|ulcerative colitis|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796597|N/A|N/A|M|19|Colon|ulcerative colitis|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796598|N/A|N/A|F|13|Colon|Crohn's disease|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796599|N/A|N/A|M|13|Colon|ulcerative colitis|Colon|N/A|in_vivo|case|N/A|6-mercaptopurine and mesalamine|Disease
+GSM796660|N/A|N/A|M|49|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796661|N/A|N/A|M|49|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796662|N/A|N/A|F|43|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796663|N/A|N/A|F|43|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796664|N/A|N/A|F|44|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796665|N/A|N/A|F|44|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796666|N/A|N/A|M|3.5|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796667|N/A|N/A|F|13.5|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796668|N/A|N/A|M|14|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796669|N/A|N/A|F|15|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796670|N/A|N/A|M|16.5|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796671|N/A|N/A|F|17|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796672|N/A|N/A|F|17|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796673|N/A|N/A|F|17.5|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796674|N/A|N/A|F|8|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796675|N/A|N/A|M|12|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796676|N/A|N/A|M|13|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796677|N/A|N/A|M|10|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796678|N/A|N/A|F|5|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796679|N/A|N/A|F|8|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796680|N/A|N/A|M|16|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796681|N/A|N/A|M|17|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796682|N/A|N/A|M|14|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796683|N/A|N/A|M|15|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796684|N/A|N/A|F|9|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796685|N/A|N/A|F|16|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796686|N/A|N/A|F|13|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796687|N/A|N/A|F|9|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796688|N/A|N/A|F|16|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796689|N/A|N/A|M|17|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796690|N/A|N/A|F|14|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796691|N/A|N/A|M|17|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796692|N/A|N/A|M|16|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796693|N/A|N/A|M|13|Whole Blood|Crohn's disease|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796694|N/A|N/A|F|60|Whole Blood|ulcerative colitis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796695|N/A|N/A|F|60|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796696|N/A|N/A|M|N/A|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796697|N/A|N/A|M|N/A|Whole Blood|ulcerative colitis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796698|N/A|N/A|F|76|Whole Blood|ulcerative colitis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796699|N/A|N/A|F|76|Whole Blood|healthy|N/A|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM796700|N/A|N/A|F|10|Whole Blood|ulcerative colitis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796701|N/A|N/A|M|14|Whole Blood|ulcerative colitis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796702|N/A|N/A|F|10|Whole Blood|ulcerative colitis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796703|N/A|N/A|M|9|Whole Blood|ulcerative colitis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796704|N/A|N/A|M|17|Whole Blood|ulcerative colitis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796705|N/A|N/A|M|13|Whole Blood|ulcerative colitis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796706|N/A|N/A|M|15|Whole Blood|ulcerative colitis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM796707|N/A|N/A|F|15|Whole Blood|ulcerative colitis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1291186|N/A|N/A|M|13|Colon|ulcerative colitis|Colon|N/A|in_vivo|case|N/A|6-mercaptopurine and mesalamine|Disease

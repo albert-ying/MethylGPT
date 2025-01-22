@@ -1,0 +1,158 @@
+GSM831063|2928|White|F|44|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831064|2719|White|F|47|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831065|2717|White|F|69|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831066|2730|White|F|35|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831067|2940|White|F|27|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831068|72290|White|F|46|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831069|72902|White|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831070|72708|White|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831071|72722|White|F|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831072|2216|White|F|49|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831073|72773|White|F|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831074|2089|White|F|50|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831075|72730|White|F|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831076|72820|White|F|48|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831077|72729|White|F|45|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831078|72806|White|F|53|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831079|72881|White|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831080|116|White|F|55|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831081|72887|White|F|61|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831082|72895|White|F|56|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831083|72827|White|F|56|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831084|948|White|F|43|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831085|72920|White|F|72|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831086|72906|Black|F|55|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831087|72925|White|F|43|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831088|2213|White|F|51|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831089|72935|White|F|28|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831090|72970|White|F|65|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831091|72976|White|F|35|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831092|612|White|F|56|N/A|Melanoma|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831093|72979|White|F|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831094|72666|White|F|65|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831095|73009|Black|F|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831096|72975|White|F|41|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831097|72082|White|F|48|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831098|73020|White|F|42|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831099|1049|White|F|62|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831100|73021|White|F|49|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831101|73025|White|F|42|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831102|73026|White|F|53|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831103|73035|White|F|60|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831104|73038|White|F|47|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831105|73039|White|F|38|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831106|73030|White|F|39|N/A|Melanoma|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831107|73054|Black|F|33|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831108|73056|Black|F|49|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831109|73072|White|F|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831110|73074|White|F|50|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831111|73080|White|F|55|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831112|73083|White|F|55|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831113|73090|White|F|56|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831114|73095|White|F|65|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831115|73099|White|F|58|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831116|73102|White|F|47|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831117|73103|White|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831118|73106|Black|F|43|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831119|73112|Other|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831120|73113|Other|F|52|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831121|73115|White|F|45|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831122|73121|White|F|47|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831123|73124|White|F|44|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831124|73125|White|F|37|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831125|73129|White|F|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831126|73130|White|F|50|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831127|73131|White|F|46|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831128|73155|White|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831129|73138|White|F|33|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831130|73145|White|F|62|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831131|73146|White|F|46|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831132|73153|White|F|48|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831133|73166|White|F|38|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831134|72601|White|F|74|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831135|72828|White|F|75|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831136|72186|White|F|48|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831140|2716|White|F|72|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831141|2926|White|F|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831142|2717|White|F|69|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831143|2730|White|F|35|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831144|72739|White|F|46|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831145|2940|White|F|27|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831146|170|White|F|52|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831147|3493|White|F|60|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831148|3495|White|F|54|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831149|1838|White|F|63|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831150|3514|White|F|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831151|72568|White|F|41|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831152|72364|White|F|65|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831153|72569|White|F|50|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831154|72582|White|F|49|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831155|3512|White|F|57|N/A|Head/Face/Neck Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831156|72565|White|F|88|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831157|72601|White|F|74|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831158|72902|White|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831159|3460|White|F|39|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831160|72594|White|F|45|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831161|2216|White|F|49|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831162|2347|White|F|49|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831163|72816|White|F|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831164|72806|White|F|53|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831165|72923|White|F|20|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831166|72828|White|F|75|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831167|72881|White|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831168|72862|White|F|73|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831169|72863|White|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831170|72895|White|F|56|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831171|72920|White|F|72|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831172|72906|Black|F|55|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831173|72925|White|F|43|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831174|72970|White|F|65|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831175|72976|White|F|35|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831176|612|White|F|56|N/A|Melanoma|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831177|72979|White|F|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831178|72980|White|F|42|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831179|72981|White|F|69|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831180|73009|Black|F|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831181|73057|White|F|53|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831182|73058|White|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831183|72082|White|F|48|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831184|1049|White|F|62|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831185|73021|White|F|49|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831186|73026|White|F|53|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831187|73030|White|F|39|N/A|Melanoma|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831188|73060|White|F|48|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831189|73147|White|F|57|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831190|73080|White|F|55|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831191|73081|White|F|59|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831192|73083|White|F|55|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831193|73090|White|F|56|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831194|73123|White|F|31|N/A|Acute Lymphoblastic Leukemia|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831195|73095|White|F|65|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831196|73099|White|F|58|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831197|3504|White|F|55|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831198|73101|White|F|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831199|73102|White|F|47|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831200|73103|White|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831201|73106|Black|F|43|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831202|1852|White|F|65|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831203|73112|Other|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831204|73113|Other|F|52|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831205|73115|White|F|45|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831206|73116|White|F|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831207|73121|White|F|47|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831208|73124|White|F|44|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831209|73125|White|F|37|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831210|73129|White|F|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831211|73130|White|F|50|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831212|73131|White|F|46|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831213|72186|White|F|48|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Pos|N/A|Genetic
+GSM831214|73154|White|F|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831215|73155|White|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831216|73135|White|F|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831217|73138|White|F|33|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831218|73146|White|F|46|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831219|73153|White|F|48|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831220|73109|White|F|41|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic
+GSM831221|73082|White|F|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Neg|N/A|Genetic
+GSM831222|73166|White|F|38|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_Mutation_Pos|N/A|Genetic
+GSM831296|541|White|F|38|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Case_Mutation_Neg|N/A|Genetic

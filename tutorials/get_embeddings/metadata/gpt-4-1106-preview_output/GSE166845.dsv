@@ -1,0 +1,23 @@
+GSM5086544|9|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|ctrl|control exp 3|Control|None
+GSM5086545|10|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|low glucose exp 3|Acute Hypo|Disease
+GSM5086546|11|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|antecedent RLG exp 3|Antecedent hypo|Disease
+GSM5086547|12|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|recurrent low glucose exp 3|Recurrent hypo|Disease
+GSM5086548|13|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|ctrl|control exp 4|Control|None
+GSM5086549|14|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|low glucose exp 4|Acute Hypo|Disease
+GSM5086550|15|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|antecedent RLG exp 4|Antecedent hypo|Disease
+GSM5086551|17|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|ctrl|control exp 5|Control|None
+GSM5086552|18|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|low glucose exp 5|Acute Hypo|Disease
+GSM5086553|19|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|antecedent RLG exp 5|Antecedent hypo|Disease
+GSM5086554|20|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|recurrent low glucose exp 5|Recurrent hypo|Disease
+GSM5086555|21|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|ctrl|control exp 6|Control|None
+GSM5086556|22|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|low glucose exp 6|Acute Hypo|Disease
+GSM5086557|23|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|antecedent RLG exp 6|Antecedent hypo|Disease
+GSM5086558|24|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|recurrent low glucose exp 6|Recurrent hypo|Disease
+GSM5086559|1|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|ctrl|control exp 1|Control|None
+GSM5086560|2|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|low glucose exp 1|Acute Hypo|Disease
+GSM5086561|3|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|antecedent RLG exp 1|Antecedent hypo|Disease
+GSM5086562|4|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|recurrent low glucose exp 1|Recurrent hypo|Disease
+GSM5086563|5|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|ctrl|control exp 2|Control|None
+GSM5086564|6|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|low glucose exp 2|Acute Hypo|Disease
+GSM5086565|7|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|antecedent RLG exp 2|Antecedent hypo|Disease
+GSM5086566|8|N/A|N/A|N/A|N/A|healthy|Cells|Astrocyte Primary Cell Line|in_vitro|case|recurrent low glucose exp 2|Recurrent hypo|Disease

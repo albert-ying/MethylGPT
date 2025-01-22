@@ -1,0 +1,198 @@
+GSM933820|3|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933821|3|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933822|3|N/A|N/A|N/A|N/A|Prostate cancer|Kidney|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933823|3|N/A|N/A|N/A|N/A|Prostate cancer|Kidney|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933824|3|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933825|3|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933826|3|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933827|3|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933828|3|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933829|3|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933830|16|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933831|16|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933832|16|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933833|16|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933834|16|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933835|16|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933836|16|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933837|16|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933838|17|N/A|N/A|N/A|N/A|Prostate cancer|Kidney|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933839|17|N/A|N/A|N/A|N/A|Prostate cancer|Kidney|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933840|17|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933841|17|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933842|17|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933843|17|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933844|17|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933845|17|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933846|17|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933847|17|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933848|17|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933849|17|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933850|19|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933851|19|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933852|19|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933853|19|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933854|19|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933855|19|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933856|19|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933857|19|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933858|21|N/A|N/A|N/A|N/A|Prostate cancer|Kidney|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933859|21|N/A|N/A|N/A|N/A|Prostate cancer|Kidney|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933860|21|N/A|N/A|N/A|N/A|Prostate cancer|Adrenal Gland|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933861|21|N/A|N/A|N/A|N/A|Prostate cancer|Adrenal Gland|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933862|21|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933863|21|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933864|21|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933865|21|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933866|21|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933867|21|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933868|21|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933869|21|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933870|22|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933871|22|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933872|22|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933873|22|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933874|22|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933875|22|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933876|22|N/A|N/A|N/A|N/A|Prostate cancer|Adrenal Gland|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933877|22|N/A|N/A|N/A|N/A|Prostate cancer|Adrenal Gland|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933878|22|N/A|N/A|N/A|N/A|Prostate cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933879|22|N/A|N/A|N/A|N/A|Prostate cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933880|24|N/A|N/A|N/A|N/A|Prostate cancer|Spleen|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933881|24|N/A|N/A|N/A|N/A|Prostate cancer|Spleen|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933882|24|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933883|24|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933884|24|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933885|24|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933886|24|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933887|24|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933888|24|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933889|24|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933890|28|N/A|N/A|N/A|N/A|Prostate cancer|Spleen|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933891|28|N/A|N/A|N/A|N/A|Prostate cancer|Spleen|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933892|28|N/A|N/A|N/A|N/A|Prostate cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933893|28|N/A|N/A|N/A|N/A|Prostate cancer|Bladder|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933894|28|N/A|N/A|N/A|N/A|Prostate cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933895|28|N/A|N/A|N/A|N/A|Prostate cancer|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933896|28|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933897|28|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933898|28|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933899|28|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933900|30|N/A|N/A|N/A|N/A|Prostate cancer|Spleen|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933901|30|N/A|N/A|N/A|N/A|Prostate cancer|Spleen|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933902|30|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933903|30|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933904|30|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933905|30|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933906|30|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933907|30|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933908|30|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933909|30|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933910|31|N/A|N/A|N/A|N/A|Prostate cancer|Spleen|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933911|31|N/A|N/A|N/A|N/A|Prostate cancer|Spleen|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933912|31|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933913|31|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933914|31|N/A|N/A|N/A|N/A|Prostate cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933915|31|N/A|N/A|N/A|N/A|Prostate cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933916|31|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933917|31|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933918|31|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933919|31|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933920|31|N/A|N/A|N/A|N/A|Prostate cancer|Adrenal Gland|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933921|31|N/A|N/A|N/A|N/A|Prostate cancer|Adrenal Gland|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933922|31|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933923|31|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933924|32|N/A|N/A|N/A|N/A|Prostate cancer|Spleen|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933925|32|N/A|N/A|N/A|N/A|Prostate cancer|Spleen|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933926|32|N/A|N/A|N/A|N/A|Prostate cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933927|32|N/A|N/A|N/A|N/A|Prostate cancer|Prostate|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933928|32|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933929|32|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933930|32|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933931|32|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933932|32|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933933|32|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933934|32|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933935|32|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933936|33|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933937|33|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM933938|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933939|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933940|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933941|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933942|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933943|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933944|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933945|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933946|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933947|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933948|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933949|33|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933950|34|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933951|34|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933952|34|N/A|N/A|N/A|N/A|Healthy|Spleen|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933953|34|N/A|N/A|N/A|N/A|Healthy|Spleen|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933954|34|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933955|34|N/A|N/A|N/A|N/A|Prostate cancer|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933956|34|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933957|34|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933958|34|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933959|34|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933960|34|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933961|34|N/A|N/A|N/A|N/A|Prostate cancer|Liver|N/A|in_vivo|case|N/A|N/A|Disease
+GSM933962|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933963|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933964|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933965|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933966|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933967|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933968|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933969|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933970|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933971|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933972|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933973|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933974|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933975|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933976|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933977|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933978|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933979|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933980|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933981|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933982|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933983|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933984|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933985|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933986|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933987|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933988|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933989|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933990|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933991|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933992|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933993|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933994|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933995|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933996|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933997|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933998|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM933999|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM934000|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM934001|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM934002|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM934003|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM934004|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM934005|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM934006|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM934007|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM934008|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM934009|NA|N/A|N/A|N/A|N/A|Healthy|Prostate|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM934010|CS1|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|N/A|N/A|N/A
+GSM934011|CS1|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|N/A|N/A|N/A
+GSM934012|CS2|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|N/A|N/A|N/A
+GSM934013|CS2|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|N/A|N/A|N/A
+GSM934014|CS3|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|N/A|N/A|N/A
+GSM934015|CS3|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|N/A|N/A|N/A
+GSM934016|CS4|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|N/A|N/A|N/A
+GSM934017|CS4|N/A|N/A|N/A|N/A|Healthy|N/A|N/A|in_vitro|ctrl|N/A|N/A|N/A

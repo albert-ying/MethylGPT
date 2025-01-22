@@ -1,0 +1,81 @@
+GSM1680475|TCGA-07-0227-20A|N/A|N/A|N/A|N/A|healthy|N/A|N/A|in_vitro|ctrl|Control_Group|N/A|N/A
+GSM1680476|TCGA-AF-3913-01A|N/A|M|60|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Primary_Tumor|N/A|Disease
+GSM1680477|TCGA-AF-3913-11A|N/A|M|60|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|ctrl|Solid_Normal_Tissue|N/A|Disease
+GSM1680478|TCGA-AG-3728-01A|N/A|M|73|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIB|N/A|Disease
+GSM1680479|TCGA-AG-3887-01A|N/A|M|69|N/A|Rectal Mucinous Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680480|TCGA-AG-3890-01A|N/A|M|63|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680481|TCGA-AG-3892-01A|N/A|F|57|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680482|TCGA-AG-3893-01A|N/A|M|75|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIB|N/A|Disease
+GSM1680483|TCGA-AG-3894-01A|N/A|M|66|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680484|TCGA-AG-3896-01A|N/A|F|85|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680485|TCGA-AG-3898-01A|N/A|M|61|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680486|TCGA-AG-3901-01A|N/A|F|67|N/A|Rectal Mucinous Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIB|N/A|Disease
+GSM1680487|TCGA-AG-3902-01A|N/A|M|61|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680488|TCGA-AG-3909-01A|N/A|F|69|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIB|N/A|Disease
+GSM1680489|TCGA-AG-3999-01A|N/A|F|61|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIC|N/A|Disease
+GSM1680490|TCGA-AG-4001-01A|N/A|F|75|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680491|TCGA-AG-4005-01A|N/A|M|64|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IV|N/A|Disease
+GSM1680492|TCGA-AG-4007-01A|N/A|M|87|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IV|N/A|Disease
+GSM1680493|TCGA-AG-4008-01A|N/A|M|63|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680494|TCGA-AG-4015-01A|N/A|F|85|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680495|TCGA-07-0227-20A|N/A|N/A|N/A|N/A|healthy|N/A|N/A|in_vitro|ctrl|Control_Group|N/A|N/A
+GSM1680496|TCGA-AG-3726-01A|N/A|F|64|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680497|TCGA-AG-3727-01A|N/A|F|79|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_III|N/A|Disease
+GSM1680498|TCGA-AG-3728-01A|N/A|M|73|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIB|N/A|Disease
+GSM1680499|TCGA-AG-3878-01A|N/A|M|65|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680500|TCGA-AG-3881-01A|N/A|F|83|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680501|TCGA-AG-3882-01A|N/A|F|66|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680502|TCGA-AG-3883-01A|N/A|M|69|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680503|TCGA-AG-3885-01A|N/A|F|71|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIB|N/A|Disease
+GSM1680504|TCGA-07-0227-20A|N/A|N/A|N/A|N/A|healthy|N/A|N/A|in_vitro|ctrl|Control_Group|N/A|N/A
+GSM1680505|TCGA-AF-2689-01A|N/A|F|41|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Primary_Tumor|N/A|Disease
+GSM1680506|TCGA-AF-2689-11A|N/A|F|41|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|ctrl|Solid_Normal_Tissue|N/A|Disease
+GSM1680507|TCGA-AF-2691-01A|N/A|F|48|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680508|TCGA-AF-2691-11A|N/A|F|48|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|ctrl|Solid_Normal_Tissue|N/A|Disease
+GSM1680509|TCGA-AF-2692-01A|N/A|F|54|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680510|TCGA-AF-2692-11A|N/A|F|54|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|ctrl|Solid_Normal_Tissue|N/A|Disease
+GSM1680511|TCGA-AF-3400-01A|N/A|M|54|N/A|Rectal Mucinous Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680512|TCGA-AF-3400-11A|N/A|M|54|N/A|Rectal Mucinous Adenocarcinoma|Other|N/A|in_vivo|ctrl|Solid_Normal_Tissue|N/A|Disease
+GSM1680513|TCGA-AG-3574-01A|N/A|F|89|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_II|N/A|Disease
+GSM1680514|TCGA-AG-3575-01A|N/A|M|52|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_II|N/A|Disease
+GSM1680515|TCGA-AG-3578-01A|N/A|F|76|N/A|Rectal Mucinous Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680516|TCGA-AG-3580-01A|N/A|M|68|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680517|TCGA-AG-3581-01A|N/A|M|64|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680518|TCGA-AG-3582-01A|N/A|M|75|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IV|N/A|Disease
+GSM1680519|TCGA-AG-3583-01A|N/A|M|66|N/A|Rectal Mucinous Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IV|N/A|Disease
+GSM1680520|TCGA-AG-3584-01A|N/A|M|61|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IV|N/A|Disease
+GSM1680521|TCGA-AG-3586-01A|N/A|F|72|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_III|N/A|Disease
+GSM1680522|TCGA-AG-3587-01A|N/A|M|66|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680523|TCGA-AG-3593-01A|N/A|F|73|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680524|TCGA-AG-3594-01A|N/A|M|77|N/A|Rectal Mucinous Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680525|TCGA-AG-3598-01A|N/A|M|69|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680526|TCGA-AG-3599-01A|N/A|M|71|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680527|TCGA-AG-3600-01A|N/A|M|62|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIC|N/A|Disease
+GSM1680528|TCGA-AG-3601-01A|N/A|M|68|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIB|N/A|Disease
+GSM1680529|TCGA-AG-3602-01A|N/A|F|66|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIC|N/A|Disease
+GSM1680530|TCGA-AG-3605-01A|N/A|F|85|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IV|N/A|Disease
+GSM1680531|TCGA-AG-3608-01A|N/A|F|79|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680532|TCGA-AG-3609-01A|N/A|F|65|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIC|N/A|Disease
+GSM1680533|TCGA-AG-3611-01A|N/A|M|73|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680534|TCGA-AG-3612-01A|N/A|F|56|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIB|N/A|Disease
+GSM1680535|TCGA-AV-A03D-20A|N/A|N/A|N/A|N/A|healthy|N/A|N/A|in_vitro|ctrl|Control_Group|N/A|N/A
+GSM1680536|TCGA-AG-A002-01A|N/A|M|35|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680537|TCGA-AG-A008-01A|N/A|F|50|N/A|Rectal Mucinous Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680538|TCGA-AG-A00C-01A|N/A|F|49|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIB|N/A|Disease
+GSM1680539|TCGA-AG-A00Y-01A|N/A|M|68|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680540|TCGA-AG-A011-01A|N/A|M|80|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680541|TCGA-AG-A014-01A|N/A|M|86|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680542|TCGA-AG-A015-01A|N/A|F|64|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680543|TCGA-AG-A016-01A|N/A|M|55|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1680544|TCGA-AG-A01L-01A|N/A|M|58|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIB|N/A|Disease
+GSM1680545|TCGA-AV-A03E-20A|N/A|N/A|N/A|N/A|healthy|N/A|N/A|in_vitro|ctrl|Control_Group|N/A|N/A
+GSM1680546|TCGA-AG-A00H-01A|N/A|M|75|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680547|TCGA-AG-A01J-01A|N/A|F|59|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIA|N/A|Disease
+GSM1680548|TCGA-AG-A01N-01A|N/A|F|68|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1680549|TCGA-AG-A023-01A|N/A|F|62|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1680550|TCGA-AG-A025-01A|N/A|F|62|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680551|TCGA-AG-A026-01A|N/A|M|66|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1680552|TCGA-AG-A02G-01A|N/A|M|66|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1680553|TCGA-AG-A02X-01A|N/A|M|77|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_I|N/A|Disease
+GSM1680554|TCGA-AG-A032-01A|N/A|M|68|N/A|Rectal Adenocarcinoma|Other|N/A|in_vivo|case|Stage_IIIB|N/A|Disease
+GSM1680555|TCGA-AV-A03D-20A|N/A|N/A|N/A|N/A|healthy|N/A|N/A|in_vitro|ctrl|Control_Group|N/A|N/A

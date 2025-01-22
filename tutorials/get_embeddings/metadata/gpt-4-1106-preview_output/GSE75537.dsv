@@ -1,0 +1,108 @@
+GSM1958696|OT1|N/A|F|31|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT1_T|N/A|Disease
+GSM1958697|OT1|N/A|F|31|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT1_N|N/A|N/A
+GSM1958698|OT2|N/A|M|36|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT2_T|N/A|Disease
+GSM1958699|OT2|N/A|M|36|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT2_N|N/A|N/A
+GSM1958700|OT3|N/A|M|45|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT3_T|N/A|Disease
+GSM1958701|OT3|N/A|M|45|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT3_B|N/A|N/A
+GSM1958702|OT4|N/A|M|37|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT4_T|N/A|Disease
+GSM1958703|OT4|N/A|M|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT4_B|N/A|N/A
+GSM1958704|OT5|N/A|M|45|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT5_T|N/A|Disease
+GSM1958705|OT5|N/A|M|45|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT5_N|N/A|N/A
+GSM1958706|OT6|N/A|M|41|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT6_T|N/A|Disease
+GSM1958707|OT6|N/A|M|41|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT6_N|N/A|N/A
+GSM1958708|OT7|N/A|M|36|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT7_T|N/A|Disease
+GSM1958709|OT7|N/A|M|36|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT7_B|N/A|N/A
+GSM1958710|OT8|N/A|M|37|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT8_T|N/A|Disease
+GSM1958711|OT8|N/A|M|37|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT8_N|N/A|N/A
+GSM1958712|OT9|N/A|M|38|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT9_T|N/A|Disease
+GSM1958713|OT9|N/A|M|38|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT9_B|N/A|N/A
+GSM1958714|OT10|N/A|M|66|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT10_T|N/A|Disease
+GSM1958715|OT10|N/A|M|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT10_B|N/A|N/A
+GSM1958716|OT11|N/A|M|58|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT11_T|N/A|Disease
+GSM1958717|OT11|N/A|M|58|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT11_N|N/A|N/A
+GSM1958718|OT12|N/A|M|45|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT12_T|N/A|Disease
+GSM1958719|OT12|N/A|M|45|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT12_N|N/A|N/A
+GSM1958720|OT13|N/A|M|65|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT13_T|N/A|Disease
+GSM1958721|OT13|N/A|M|65|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT13_N|N/A|N/A
+GSM1958722|OT14|N/A|M|39|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT14_T|N/A|Disease
+GSM1958723|OT14|N/A|M|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT14_B|N/A|N/A
+GSM1958724|OT15|N/A|M|66|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT15_T|N/A|Disease
+GSM1958725|OT15|N/A|M|66|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT15_N|N/A|N/A
+GSM1958726|OT16|N/A|F|56|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT16_T|N/A|Disease
+GSM1958727|OT16|N/A|F|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT16_B|N/A|N/A
+GSM1958728|OT17|N/A|M|31|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT17_T|N/A|Disease
+GSM1958729|OT17|N/A|M|31|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT17_N|N/A|N/A
+GSM1958730|OT18|N/A|M|71|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT18_T|N/A|Disease
+GSM1958731|OT18|N/A|M|71|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT18_N|N/A|N/A
+GSM1958732|OT19|N/A|M|71|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT19_T|N/A|Disease
+GSM1958733|OT19|N/A|M|71|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT19_N|N/A|N/A
+GSM1958734|OT20|N/A|M|39|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT20_T|N/A|Disease
+GSM1958735|OT20|N/A|M|39|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT20_N|N/A|N/A
+GSM1958736|OT21|N/A|M|42|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT21_T|N/A|Disease
+GSM1958737|OT21|N/A|M|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT21_B|N/A|N/A
+GSM1958738|OT22|N/A|M|28|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT22_T|N/A|Disease
+GSM1958739|OT22|N/A|M|28|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT22_N|N/A|N/A
+GSM1958740|OT23|N/A|M|34|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT23_T|N/A|Disease
+GSM1958741|OT23|N/A|M|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT23_B|N/A|N/A
+GSM1958742|OT24|N/A|M|73|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT24_T|N/A|Disease
+GSM1958743|OT24|N/A|M|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT24_B|N/A|N/A
+GSM1958744|OT25|N/A|F|40|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT25_T|N/A|Disease
+GSM1958745|OT25|N/A|F|40|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT25_B|N/A|N/A
+GSM1958746|OT26|N/A|F|64|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT26_T|N/A|Disease
+GSM1958747|OT26|N/A|F|64|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT26_N|N/A|N/A
+GSM1958748|OT27|N/A|M|38|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT27_T|N/A|Disease
+GSM1958749|OT27|N/A|M|38|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT27_N|N/A|N/A
+GSM1958750|OT28|N/A|F|47|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT28_T|N/A|Disease
+GSM1958751|OT28|N/A|F|47|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT28_N|N/A|N/A
+GSM1958752|OT29|N/A|M|56|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT29_T|N/A|Disease
+GSM1958753|OT29|N/A|M|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT29_B|N/A|N/A
+GSM1958754|OT30|N/A|M|53|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT30_T|N/A|Disease
+GSM1958755|OT30|N/A|M|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT30_B|N/A|N/A
+GSM1958756|OT31|N/A|M|65|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT31_T|N/A|Disease
+GSM1958757|OT31|N/A|M|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT31_B|N/A|N/A
+GSM1958758|OT32|N/A|M|60|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT32_T|N/A|Disease
+GSM1958759|OT32|N/A|M|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT32_B|N/A|N/A
+GSM1958760|OT33|N/A|M|42|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT33_T|N/A|Disease
+GSM1958761|OT33|N/A|M|42|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT33_N|N/A|N/A
+GSM1958762|OT34|N/A|M|28|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT34_T|N/A|Disease
+GSM1958763|OT34|N/A|M|28|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT34_B|N/A|N/A
+GSM1958764|OT35|N/A|M|58|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT35_T|N/A|Disease
+GSM1958765|OT35|N/A|M|58|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT35_N|N/A|N/A
+GSM1958766|OT36|N/A|M|40|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT36_T|N/A|Disease
+GSM1958767|OT36|N/A|M|40|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT36_N|N/A|N/A
+GSM1958768|OT37|N/A|F|65|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT37_T|N/A|Disease
+GSM1958769|OT37|N/A|F|65|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT37_N|N/A|N/A
+GSM1958770|OT38|N/A|M|37|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT38_T|N/A|Disease
+GSM1958771|OT38|N/A|M|37|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT38_N|N/A|N/A
+GSM1958772|OT40|N/A|M|40|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT40_T|N/A|Disease
+GSM1958773|OT40|N/A|M|40|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT40_B|N/A|N/A
+GSM1958774|OT41|N/A|F|38|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT41_T|N/A|Disease
+GSM1958775|OT41|N/A|F|38|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT41_N|N/A|N/A
+GSM1958776|OT42|N/A|M|57|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT42_T|N/A|Disease
+GSM1958777|OT42|N/A|M|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT42_B|N/A|N/A
+GSM1958778|OT43|N/A|M|50|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT43_T|N/A|Disease
+GSM1958779|OT43|N/A|M|50|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT43_B|N/A|N/A
+GSM1958780|OT44|N/A|M|74|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT44_T|N/A|Disease
+GSM1958781|OT44|N/A|M|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT44_B|N/A|N/A
+GSM1958782|OT45|N/A|F|62|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT45_T|N/A|Disease
+GSM1958783|OT45|N/A|F|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT45_B|N/A|N/A
+GSM1958784|OT46|N/A|M|48|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT46_T|N/A|Disease
+GSM1958785|OT46|N/A|M|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT46_B|N/A|N/A
+GSM1958786|OT47|N/A|M|60|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT47_T|N/A|Disease
+GSM1958787|OT47|N/A|M|60|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT47_T|N/A|Disease
+GSM1958788|OT48|N/A|M|38|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT48_T|N/A|Disease
+GSM1958789|OT48|N/A|M|38|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT48_B|N/A|N/A
+GSM1958790|OT49|N/A|M|40|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT49_T|N/A|Disease
+GSM1958791|OT49|N/A|M|40|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT49_N|N/A|N/A
+GSM1958792|OT50|N/A|M|35|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT50_T|N/A|Disease
+GSM1958793|OT50|N/A|M|35|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT50_N|N/A|N/A
+GSM1958794|OT51|N/A|F|79|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT51_T|N/A|Disease
+GSM1958795|OT51|N/A|F|79|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT51_N|N/A|N/A
+GSM1958796|OT52|N/A|F|48|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT52_T|N/A|Disease
+GSM1958797|OT52|N/A|F|48|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT52_N|N/A|N/A
+GSM1958798|OT53|N/A|M|45|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT53_T|N/A|Disease
+GSM1958799|OT53|N/A|M|45|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT53_N|N/A|N/A
+GSM1958800|OT54|N/A|F|42|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT54_T|N/A|Disease
+GSM1958801|OT54|N/A|F|42|N/A|Healthy|Other|N/A|in_vivo|ctrl|OT54_N|N/A|N/A
+GSM1958802|OT55|N/A|M|68|N/A|Oral tongue squamous cell carcinoma|Other|N/A|in_vivo|case|OT55_T|N/A|Disease
+GSM1958803|OT55|N/A|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|OT55_B|N/A|N/A

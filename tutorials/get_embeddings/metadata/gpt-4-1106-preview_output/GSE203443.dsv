@@ -1,0 +1,7 @@
+GSM6172111|N/A|N/A|N/A|N/A|N/A|healthy|Cells|K-562|in_vitro|ctrl|treatment-naive|N/A|None
+GSM6172112|N/A|N/A|N/A|N/A|N/A|resistant to 0.5 uM imatinib|Cells|K-562|in_vitro|case|0.5 µM imatinib R1|imatinib|Small Molecule
+GSM6172113|N/A|N/A|N/A|N/A|N/A|resistant to 0.5 uM imatinib|Cells|K-562|in_vitro|case|0.5 µM imatinib R2|imatinib|Small Molecule
+GSM6172114|N/A|N/A|N/A|N/A|N/A|resistant to 2 uM imatinib|Cells|K-562|in_vitro|case|2 µM imatinib R1|imatinib|Small Molecule
+GSM6172115|N/A|N/A|N/A|N/A|N/A|resistant to 2 uM imatinib|Cells|K-562|in_vitro|case|2 µM imatinib R2|imatinib|Small Molecule
+GSM6172116|N/A|N/A|N/A|N/A|N/A|resistant to 0.1 uM nilotinib|Cells|K-562|in_vitro|case|0.1 µM nilotinib R1|nilotinib|Small Molecule
+GSM6172117|N/A|N/A|N/A|N/A|N/A|resistant to 0.1 uM nilotinib|Cells|K-562|in_vitro|case|0.1 µM nilotinib R2|nilotinib|Small Molecule

@@ -1,0 +1,131 @@
+GSM4831778|PM365|N/A|F|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831779|PL293|N/A|M|9.6|N/A|Healthy|Other|Stromal cs|in_vivo|case|N/A|N/A|N/A
+GSM4831780|PL292|N/A|M|7.1|N/A|Healthy|Other|Endothelial cs|in_vivo|case|N/A|N/A|N/A
+GSM4831781|PM376|N/A|F|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831782|PM370|N/A|F|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831783|PM368|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831784|PM368|N/A|M|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831785|PL293|N/A|M|9.6|N/A|Healthy|Other|Hofbauer cs|in_vivo|case|N/A|N/A|N/A
+GSM4831786|PM372|N/A|M|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831787|PM376|N/A|F|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831788|PM367|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831789|PM371|N/A|F|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831790|PM378|N/A|M|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831791|PM374|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts enz|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831792|PM374|N/A|M|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831793|PM366|N/A|F|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831794|PM362|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831795|PL290|N/A|F|10.5|N/A|Healthy|Other|Villi|in_vivo|case|N/A|N/A|N/A
+GSM4831796|PL295|N/A|F|11.6|N/A|Healthy|Other|Trophoblasts cs|in_vivo|case|N/A|N/A|N/A
+GSM4831797|PL296|N/A|M|11.5|N/A|Healthy|Other|Villi|in_vivo|case|N/A|N/A|N/A
+GSM4831798|PM364|N/A|M|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831799|PM359|N/A|M|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831800|PM369|N/A|F|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831801|PM367|N/A|F|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831802|P131|N/A|F|12.6|N/A|Healthy|Other|Trophoblasts cs|in_vivo|case|N/A|N/A|N/A
+GSM4831803|PM365|N/A|F|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831804|PM365|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831805|PM371|N/A|F|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831806|PM368|N/A|M|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831807|PM362|N/A|M|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831808|PL295|N/A|F|11.6|N/A|Healthy|Other|Stromal cs|in_vivo|case|N/A|N/A|N/A
+GSM4831809|PM371|N/A|F|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831810|PL296|N/A|M|11.5|N/A|Healthy|Other|Endothelial cs|in_vivo|case|N/A|N/A|N/A
+GSM4831811|PM377|N/A|F|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831812|PM377|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831813|PM371|N/A|F|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831814|PL292|N/A|M|7.1|N/A|Healthy|Other|Villi|in_vivo|case|N/A|N/A|N/A
+GSM4831815|PM372|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts enz|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831816|PM375|N/A|F|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831817|PL295|N/A|F|11.6|N/A|Healthy|Other|Endothelial cs|in_vivo|case|N/A|N/A|N/A
+GSM4831818|PM376|N/A|F|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831819|PM379|N/A|F|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831820|PM359|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831821|PM366|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831822|PL289|N/A|M|6.4|N/A|Healthy|Other|Endothelial cs|in_vivo|case|N/A|N/A|N/A
+GSM4831823|PL289|N/A|M|6.4|N/A|Healthy|Other|Villi|in_vivo|case|N/A|N/A|N/A
+GSM4831824|PM375|N/A|F|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831825|PM379|N/A|F|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831826|PM381|N/A|M|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831827|PM365|N/A|F|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831828|PM364|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831829|PM378|N/A|M|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831830|PM377|N/A|F|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831831|P131|N/A|F|12.6|N/A|Healthy|Other|Endothelial cs|in_vivo|case|N/A|N/A|N/A
+GSM4831832|PL289|N/A|M|6.4|N/A|Healthy|Other|Stromal cs|in_vivo|case|N/A|N/A|N/A
+GSM4831833|PL293|N/A|M|9.6|N/A|Healthy|Other|Trophoblasts cs|in_vivo|case|N/A|N/A|N/A
+GSM4831834|PL295|N/A|F|11.6|N/A|Healthy|Other|Hofbauer cs|in_vivo|case|N/A|N/A|N/A
+GSM4831835|PM368|N/A|M|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831836|PM375|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts enz|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831837|PM370|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831838|PM381|N/A|M|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831839|PM370|N/A|F|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831840|PM373|N/A|M|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831841|PM364|N/A|M|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831842|PM370|N/A|F|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831843|PM379|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831844|PM369|N/A|F|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831845|PM381|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831846|PL294|N/A|F|11.6|N/A|Healthy|Other|Villi|in_vivo|case|N/A|N/A|N/A
+GSM4831847|PM378|N/A|M|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831848|PM369|N/A|F|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831849|PM378|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831850|PM369|N/A|F|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831851|PM379|N/A|F|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831852|PM367|N/A|F|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831853|PL290|N/A|F|10.5|N/A|Healthy|Other|Stromal cs|in_vivo|case|N/A|N/A|N/A
+GSM4831854|PM373|N/A|M|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831855|PM373|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts enz|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831856|P128|N/A|F|12.3|N/A|Healthy|Other|Endothelial cs|in_vivo|case|N/A|N/A|N/A
+GSM4831857|PL296|N/A|M|11.5|N/A|Healthy|Other|Stromal cs|in_vivo|case|N/A|N/A|N/A
+GSM4831858|PM373|N/A|M|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831859|PM374|N/A|M|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831860|PM381|N/A|M|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831861|PL294|N/A|F|11.6|N/A|Healthy|Other|Hofbauer cs|in_vivo|case|N/A|N/A|N/A
+GSM4831862|PL293|N/A|M|9.6|N/A|Healthy|Other|Villi|in_vivo|case|N/A|N/A|N/A
+GSM4831863|P128|N/A|F|12.3|N/A|Healthy|Other|Trophoblasts cs|in_vivo|case|N/A|N/A|N/A
+GSM4831864|PM359|N/A|M|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831932|PM376|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831933|PM372|N/A|M|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831934|PM359|N/A|M|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831935|PM379|N/A|F|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831936|PM375|N/A|F|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831937|PM381|N/A|M|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831938|PM375|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831939|PL294|N/A|F|11.6|N/A|Healthy|Other|Stromal cs|in_vivo|case|N/A|N/A|N/A
+GSM4831940|PM372|N/A|M|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831941|PM367|N/A|F|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831942|PM370|N/A|F|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831943|PM373|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831944|PM362|N/A|M|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831945|P128|N/A|F|12.3|N/A|Healthy|Other|Stromal cs|in_vivo|case|N/A|N/A|N/A
+GSM4831946|PL290|N/A|F|10.5|N/A|Healthy|Other|Endothelial cs|in_vivo|case|N/A|N/A|N/A
+GSM4831947|PM365|N/A|F|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831948|PM366|N/A|F|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831949|PL290|N/A|F|10.5|N/A|Healthy|Other|Trophoblasts cs|in_vivo|case|N/A|N/A|N/A
+GSM4831950|PM377|N/A|F|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831951|PM373|N/A|M|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831952|PM366|N/A|F|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831953|PM369|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831954|PM359|N/A|M|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831955|PL292|N/A|M|7.1|N/A|Healthy|Other|Stromal cs|in_vivo|case|N/A|N/A|N/A
+GSM4831956|PM366|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts enz|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831957|PM375|N/A|F|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831958|PM368|N/A|M|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831959|PM362|N/A|M|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831960|PM377|N/A|F|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831961|PM371|N/A|F|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831962|PM372|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831963|PM378|N/A|M|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831964|PM366|N/A|F|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831965|PM362|N/A|M|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831966|PL294|N/A|F|11.6|N/A|Healthy|Other|Endothelial cs|in_vivo|case|N/A|N/A|N/A
+GSM4831967|P131|N/A|F|12.6|N/A|Healthy|Other|Stromal cs|in_vivo|case|N/A|N/A|N/A
+GSM4831968|PM372|N/A|M|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831969|PM374|N/A|M|N/A|N/A|Healthy|Other|Trophoblasts cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831970|PM374|N/A|M|N/A|N/A|Healthy|Other|Villi|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831971|PM367|N/A|F|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831972|PM376|N/A|F|N/A|N/A|Healthy|Other|Endothelial cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831973|PM364|N/A|M|N/A|N/A|Healthy|Other|Stromal cs|in_vivo|ctrl|N/A|N/A|N/A
+GSM4831974|PL295|N/A|F|11.6|N/A|Healthy|Other|Villi|in_vivo|case|N/A|N/A|N/A
+GSM4831975|PM374|N/A|M|N/A|N/A|Healthy|Other|Hofbauer cs|in_vivo|ctrl|N/A|N/A|N/A

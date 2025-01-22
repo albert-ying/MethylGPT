@@ -1,0 +1,92 @@
+GSM785012|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy Control|N/A|None
+GSM785013|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy Control|N/A|None
+GSM785014|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy Control|N/A|None
+GSM785015|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Healthy Control|N/A|None
+GSM785016|N/A|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Healthy Control|N/A|None
+GSM785017|N/A|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Healthy Control|N/A|None
+GSM785018|N/A|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Healthy Control|N/A|None
+GSM785019|N/A|N/A|N/A|N/A|N/A|Healthy|Other|N/A|in_vivo|ctrl|Healthy Control|N/A|None
+GSM1031062|N/A|N/A|F|67|46,XX,del(20)(q12)|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031063|N/A|N/A|F|72|46,XX[30]|Polycythemia Vera|Other|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031064|N/A|N/A|F|79|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031065|N/A|N/A|M|67|46,XY[30]|Polycythemia Vera|Other|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031066|N/A|N/A|M|76|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031067|N/A|N/A|M|82|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031068|N/A|N/A|M|85|46,XY[30]|Polycythemia Vera|Other|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031069|N/A|N/A|M|78|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031070|N/A|N/A|M|85|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031071|N/A|N/A|F|N/A|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031072|N/A|N/A|M|62|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031073|N/A|N/A|F|76|46,XX[30]|Polycythemia Vera|Other|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031074|N/A|N/A|M|54|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031075|N/A|N/A|M|46|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031076|N/A|N/A|M|63|N/A|Polycythemia Vera|Other|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031077|N/A|N/A|F|N/A|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031078|N/A|N/A|M|80|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031079|N/A|N/A|F|68|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031080|N/A|N/A|M|55|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031081|N/A|N/A|M|N/A|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031082|N/A|N/A|F|82|46,XX[30]|Polycythemia Vera|Other|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031083|N/A|N/A|F|74|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031084|N/A|N/A|F|87|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031085|N/A|N/A|M|64|N/A|Polycythemia Vera|Whole Blood|N/A|in_vivo|case|Polycythemia Vera|N/A|Disease
+GSM1031086|N/A|N/A|M|78|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031087|N/A|N/A|M|71|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031088|N/A|N/A|F|80|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031089|N/A|N/A|F|80|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031090|N/A|N/A|F|80|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031091|N/A|N/A|M|61|46,XY[30]|Essential Thrombocythemia|Other|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031092|N/A|N/A|F|61|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031093|N/A|N/A|M|87|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031094|N/A|N/A|M|61|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031095|N/A|N/A|M|55|46,XY[30]|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031096|N/A|N/A|M|55|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031097|N/A|N/A|F|81|46,XX[30]|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031098|N/A|N/A|M|50|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031099|N/A|N/A|F|65|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031100|N/A|N/A|F|71|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031101|N/A|N/A|M|60|N/A|Essential Thrombocythemia|Other|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031102|N/A|N/A|M|28|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031103|N/A|N/A|M|84|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031104|N/A|N/A|M|N/A|46,XY[30]|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031105|N/A|N/A|F|31|N/A|Essential Thrombocythemia|Other|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031106|N/A|N/A|F|65|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031107|N/A|N/A|F|60|46,XX[30]|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031108|N/A|N/A|F|90|N/A|Essential Thrombocythemia|Whole Blood|N/A|in_vivo|case|Essential Thrombocythemia|N/A|Disease
+GSM1031109|N/A|N/A|F|77|N/A|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031110|N/A|N/A|F|79|73980T>TG;660L>L/V|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031111|N/A|N/A|M|70|46,XY[30]|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031112|N/A|N/A|F|77|46,XX[30]|Primary Myelofibrosis|Other|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031113|N/A|N/A|F|47|N/A|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031114|N/A|N/A|M|59|46,XY,t(8;12)(q12;p11) [7%]|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031115|N/A|N/A|F|52|46,XX [37];47,XX,+8 [63]|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031116|N/A|N/A|M|70|N/A|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031117|N/A|N/A|M|61|N/A|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031118|N/A|N/A|M|60|46,XY [30]|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031119|N/A|N/A|M|48|N/A|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031120|N/A|N/A|F|69|N/A|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031121|N/A|N/A|F|63|N/A|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031122|N/A|N/A|F|67|46,XX [30]|Primary Myelofibrosis|Other|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031123|N/A|N/A|F|N/A|N/A|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031124|N/A|N/A|F|57|N/A|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031125|N/A|N/A|F|N/A|N/A|Primary Myelofibrosis|Other|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031126|N/A|N/A|M|65|N/A|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031127|N/A|N/A|M|69|N/A|Primary Myelofibrosis|Whole Blood|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031128|N/A|N/A|M|74|46,XY [30]|Primary Myelofibrosis|Other|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031129|N/A|N/A|M|61|46,XY [30]|Primary Myelofibrosis|Other|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031130|N/A|N/A|M|72|46,XY [30]|Primary Myelofibrosis|Other|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031131|N/A|N/A|M|43|46,XY [30]|Primary Myelofibrosis|Other|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031132|N/A|N/A|M|78|47,XY,+8 [1] / 46,XY[29]|Primary Myelofibrosis|Other|N/A|in_vivo|case|Primary Myelofibrosis|N/A|Disease
+GSM1031133|N/A|N/A|M|73|59,X,Y,+1,+2,+6,+8,+9,+13,+14,+15,+19,+20,+4mar [40]. 45,X,-Y  [10]|PV Transformed to AML|Whole Blood|N/A|in_vivo|case|PV Transformed to AML|N/A|Disease
+GSM1031134|N/A|N/A|M|80|46,XY,der(20)t(1;20)(q21,q1) [30]|PV Transformed to AML|Other|N/A|in_vivo|case|PV Transformed to AML|N/A|Disease
+GSM1031135|N/A|N/A|M|75|44,X,-Y,-17,der(19)t(17;19)(p13;q12) [27]. 45,X,-Y [23]|PV Transformed to AML|Whole Blood|N/A|in_vivo|case|PV Transformed to AML|N/A|Disease
+GSM1031136|N/A|N/A|M|76|44,XY,del(2)(q?),-4,del(5)(q13q32)-17 [13]. 45,XY,del(5)(q13q32),del(12)(p13)-17 [14].  46,XY [3]|PV Transformed to AML|Other|N/A|in_vivo|case|PV Transformed to AML|N/A|Disease
+GSM1031137|N/A|N/A|M|77|46,XY,-5,add(6)(p25),+mar [20]|ET Transformed to AML|Other|N/A|in_vivo|case|ET Transformed to AML|N/A|Disease
+GSM1031138|N/A|N/A|F|60|47,XX,del(20)(q13)x2 [3]. 46,XX [27]|ET Transformed to AML|Other|N/A|in_vivo|case|ET Transformed to AML|N/A|Disease
+GSM1031139|N/A|N/A|F|46|46,XX,del(5)(q15q31),del(20)(q11) [50]|ET Transformed to AML|Other|N/A|in_vivo|case|ET Transformed to AML|N/A|Disease
+GSM1031140|N/A|N/A|F|68|47,XX,del(5)(q13q32),-13,-17,+21,+2mar [17]. 46,XX [13]|ET Transformed to AML|Other|N/A|in_vivo|case|ET Transformed to AML|N/A|Disease
+GSM1031141|N/A|N/A|M|47|46,XY,del(1)(p33) [23]. 46,XY [7]|PMF Transformed to AML|Other|N/A|in_vivo|case|PMF Transformed to AML|N/A|Disease
+GSM1031142|N/A|N/A|M|75|46,XY,add(12)(p13) [12]. 46,XY [18]|PMF Transformed to AML|Other|N/A|in_vivo|case|PMF Transformed to AML|N/A|Disease
+GSM1031143|N/A|N/A|F|N/A|46,XX,-7,+mar [30]|PMF Transformed to AML|Whole Blood|N/A|in_vivo|case|PMF Transformed to AML|N/A|Disease
+GSM1031144|N/A|N/A|M|62|46,XY,del(1)(p32),-7,-8,-12,add(16)(q24),+3mar [24]. 46,XY [6]|PMF Transformed to AML|Other|N/A|in_vivo|case|PMF Transformed to AML|N/A|Disease
+GSM1031145|N/A|N/A|M|64|46,XY,+der(1)del(1)(p21),-7 [30]|PMF Transformed to AML|Whole Blood|N/A|in_vivo|case|PMF Transformed to AML|N/A|Disease

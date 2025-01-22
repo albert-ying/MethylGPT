@@ -1,0 +1,380 @@
+GSM938274|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938184|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938131|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM938257|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938290|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092872|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938280|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938216|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM938198|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938119|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092747|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM1092879|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092770|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092877|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092722|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938178|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938122|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938202|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092830|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938194|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938265|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092738|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938225|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM1092788|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938180|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938218|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM938277|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938212|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Down_SNP|N/A|Genetic
+GSM1092803|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092852|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092886|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938193|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092771|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092807|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938114|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092827|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092746|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM938282|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092724|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092878|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092764|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938186|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938102|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092824|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938138|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938176|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092837|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092905|N/A|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vivo|ctrl|Normal_T|N/A|N/A
+GSM1092842|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092806|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092840|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM938191|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938215|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Down_SNP|N/A|Genetic
+GSM938124|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092733|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092897|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938239|N/A|N/A|N/A|N/A|hypodiploid karyotype|ALL|Other|N/A|in_vivo|case|Hypodip_SNP|N/A|Genetic
+GSM1092757|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092775|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938233|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938143|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938238|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092843|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938276|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092904|N/A|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vivo|ctrl|Normal_T|N/A|N/A
+GSM938183|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092894|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092813|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092728|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092810|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092838|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM938108|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092863|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092778|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092785|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092798|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938205|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092860|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938153|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938252|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092821|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092729|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938288|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938199|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938266|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092835|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM1092853|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938268|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092855|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938157|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938208|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938182|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938213|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938261|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938227|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938116|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092859|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938234|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092823|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092862|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938271|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938256|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938103|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938287|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938206|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM938181|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938275|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938146|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092765|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092839|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM1092719|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092720|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092723|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092814|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938148|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092854|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Genetic
+GSM1092730|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938177|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092899|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092816|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM938214|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092731|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938222|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938188|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092857|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092750|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938141|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938221|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092848|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092866|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938107|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938162|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092754|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092718|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092774|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938109|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938120|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938243|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092889|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092780|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092826|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM1092761|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092745|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM1092869|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938247|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938269|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938249|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938226|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938117|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092892|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938129|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM1092793|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092751|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938229|N/A|N/A|N/A|N/A|pseudodiploid karyotype|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM1092847|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938115|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938197|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938112|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938167|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938289|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938128|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM938145|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938179|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938236|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938151|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092781|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938219|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092741|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM1092769|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092831|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938125|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092874|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092743|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM938273|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092744|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM938244|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Genetic
+GSM1092820|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM1092739|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092858|N/A|N/A|N/A|N/A|N/A|T-lineage ALL and early thymic progenitor immunophenotype|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092790|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938204|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092846|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092756|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938272|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938251|N/A|N/A|N/A|N/A|N/A|T-lineage ALL and early thymic progenitor immunophenotype|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938152|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938211|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938248|N/A|N/A|N/A|N/A|N/A|T-lineage ALL and early thymic progenitor immunophenotype|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938281|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938263|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092786|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092890|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938139|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938173|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938228|N/A|N/A|N/A|N/A|pseudodiploid karyotype|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM1092787|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938168|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092815|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092861|N/A|N/A|N/A|N/A|N/A|T-lineage ALL and early thymic progenitor immunophenotype|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092895|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092819|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM1092802|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092902|N/A|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vivo|ctrl|Normal_T|N/A|N/A
+GSM1092762|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092870|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938232|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092850|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938130|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM938250|N/A|N/A|N/A|N/A|N/A|T-lineage ALL and early thymic progenitor immunophenotype|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092737|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092907|N/A|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vivo|ctrl|Normal_T|N/A|N/A
+GSM938220|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092755|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938123|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938284|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092836|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092791|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092881|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938200|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938165|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092871|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092885|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938137|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092876|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092777|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938126|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092800|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938278|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092779|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092884|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092773|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938285|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938170|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938283|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938127|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092732|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092817|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM1092812|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938237|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938189|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938217|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938132|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM938246|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938253|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092873|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092903|N/A|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vivo|ctrl|Normal_T|N/A|N/A
+GSM938245|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092760|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938106|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092845|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM938111|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938224|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092891|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092766|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092822|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Down_SNP|N/A|Genetic
+GSM1092825|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Down_SNP|N/A|Genetic
+GSM938118|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938136|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM1092841|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM938104|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092759|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092875|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092784|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938209|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM1092797|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938105|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092849|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Hypodip_SNP|N/A|Genetic
+GSM1092809|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938135|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM1092832|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092736|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092901|N/A|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vivo|ctrl|Normal_T|N/A|N/A
+GSM1092717|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092768|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938163|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938267|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938260|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938113|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938242|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938133|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM1092896|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938149|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092818|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092880|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938286|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092772|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938160|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938121|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938254|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938240|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938259|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092796|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092742|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM938196|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938169|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092865|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092804|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938110|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938142|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092758|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092799|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938187|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092898|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938241|N/A|N/A|N/A|N/A|low hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM1092829|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938203|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092749|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM1092868|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938235|N/A|N/A|N/A|N/A|pseudodiploid karyotype|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM1092867|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938231|N/A|N/A|N/A|N/A|pseudodiploid karyotype|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM1092726|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938262|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092805|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938230|N/A|N/A|N/A|N/A|pseudodiploid karyotype|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM938264|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092856|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092795|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092721|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092782|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938174|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092789|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938172|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092864|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938192|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938140|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938210|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Pseudodip_SNP|N/A|Genetic
+GSM1092783|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092834|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM938171|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938166|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092908|N/A|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vivo|ctrl|Normal_T|N/A|N/A
+GSM938258|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092776|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092715|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092725|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938156|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092716|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938154|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938134|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM1092735|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092727|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM1092833|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092794|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM938147|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938190|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092906|N/A|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vivo|ctrl|Normal_T|N/A|N/A
+GSM938223|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092801|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938185|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092740|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938161|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938164|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092748|N/A|N/A|N/A|N/A|TCF3-PBX1 rearrangement|ALL|Other|N/A|in_vivo|case|E2A_PBX1_SNP|N/A|Genetic
+GSM1092887|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092767|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938175|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092851|N/A|N/A|N/A|N/A|low hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM1092828|N/A|N/A|N/A|N/A|alteration of ERG|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM938144|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092752|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938207|N/A|N/A|N/A|N/A|CRLF2 rearrangement|ALL|Other|N/A|in_vivo|case|Hyperdip47_50_SNP|N/A|Genetic
+GSM938255|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM1092883|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092882|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092792|N/A|N/A|N/A|N/A|MLL rearrangement|ALL|Other|N/A|in_vivo|case|MLL_SNP|N/A|Genetic
+GSM1092808|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092753|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092763|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM938195|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM1092900|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092734|N/A|N/A|N/A|N/A|high hyperdiploid karyotype|ALL|Other|N/A|in_vivo|case|Hyperdip_50_SNP|N/A|Genetic
+GSM938150|N/A|N/A|N/A|N/A|ETV6-RUNX1 rearrangement|ALL|Other|N/A|in_vivo|case|TEL_AML1_SNP|N/A|Genetic
+GSM1092888|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092844|N/A|N/A|N/A|N/A|miscellaneous karyotype|ALL|Other|N/A|in_vivo|case|Other_SNP|N/A|Genetic
+GSM1092893|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM938201|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic
+GSM938270|N/A|N/A|N/A|N/A|N/A|T-lineage ALL|Other|N/A|in_vivo|case|T_ALL_SNP|N/A|Disease
+GSM938279|N/A|N/A|N/A|N/A|N/A|healthy|Other|N/A|in_vivo|ctrl|Normal_B|N/A|N/A
+GSM1092811|N/A|N/A|N/A|N/A|BCR-ABL1 rearrangement|ALL|Other|N/A|in_vivo|case|BCR_ABL_SNP|N/A|Genetic

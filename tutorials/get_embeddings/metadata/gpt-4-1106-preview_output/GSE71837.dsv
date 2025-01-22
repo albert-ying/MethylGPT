@@ -1,0 +1,15 @@
+GSM1846578|donor 1|N/A|N/A|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|CD14_monocyte|N/A|N/A
+GSM1846579|donor 2|N/A|N/A|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|CD14_monocyte|N/A|N/A
+GSM1846580|donor 3|N/A|N/A|N/A|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|CD14_monocyte|N/A|N/A
+GSM1846581|donor 1|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|iDC|GM-CSF/IL-4|Small Molecule
+GSM1846582|donor 2|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|iDC|GM-CSF/IL-4|Small Molecule
+GSM1846583|donor 3|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|iDC|GM-CSF/IL-4|Small Molecule
+GSM1846584|donor 1|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|mDC|LPS|Small Molecule
+GSM1846585|donor 2|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|mDC|LPS|Small Molecule
+GSM1846586|donor 3|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|mDC|LPS|Small Molecule
+GSM1846587|donor 1|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|iMAC|GM-CSF|Small Molecule
+GSM1846588|donor 2|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|iMAC|GM-CSF|Small Molecule
+GSM1846589|donor 3|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|iMAC|GM-CSF|Small Molecule
+GSM1846590|donor 1|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|mMAC|LPS|Small Molecule
+GSM1846591|donor 2|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|mMAC|LPS|Small Molecule
+GSM1846592|donor 3|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|case|mMAC|LPS|Small Molecule

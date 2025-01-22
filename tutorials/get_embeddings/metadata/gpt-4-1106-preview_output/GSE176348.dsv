@@ -1,0 +1,24 @@
+GSM5363063|N/A|N/A|F|>65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_IP|N/A|Disease
+GSM5363064|N/A|N/A|M|>65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_IP|N/A|Disease
+GSM5363065|N/A|N/A|F|<=65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_IP|N/A|Disease
+GSM5363066|N/A|N/A|M|>65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_IP|N/A|Disease
+GSM5363067|N/A|N/A|M|>65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_IP|N/A|Disease
+GSM5363068|N/A|N/A|M|<=65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_IP|N/A|Disease
+GSM5363069|N/A|N/A|F|>65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_IP|N/A|None
+GSM5363070|N/A|N/A|M|>65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_IP|N/A|None
+GSM5363071|N/A|N/A|F|<=65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_IP|N/A|None
+GSM5363072|N/A|N/A|M|>65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_IP|N/A|None
+GSM5363073|N/A|N/A|M|>65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_IP|N/A|None
+GSM5363074|N/A|N/A|M|<=65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_IP|N/A|None
+GSM5363075|N/A|N/A|F|>65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_Sup|N/A|Disease
+GSM5363076|N/A|N/A|M|>65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_Sup|N/A|Disease
+GSM5363077|N/A|N/A|F|<=65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_Sup|N/A|Disease
+GSM5363078|N/A|N/A|M|>65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_Sup|N/A|Disease
+GSM5363079|N/A|N/A|M|>65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_Sup|N/A|Disease
+GSM5363080|N/A|N/A|M|<=65|N/A|Lung adenocarcinoma|Lung|N/A|in_vivo|case|LUAD_Tumor_Sup|N/A|Disease
+GSM5363081|N/A|N/A|F|>65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_Sup|N/A|None
+GSM5363082|N/A|N/A|M|>65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_Sup|N/A|None
+GSM5363083|N/A|N/A|F|<=65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_Sup|N/A|None
+GSM5363084|N/A|N/A|M|>65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_Sup|N/A|None
+GSM5363085|N/A|N/A|M|>65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_Sup|N/A|None
+GSM5363086|N/A|N/A|M|<=65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|LUAD_Adjacent_NonTumor_Sup|N/A|None

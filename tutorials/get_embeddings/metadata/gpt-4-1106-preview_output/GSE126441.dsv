@@ -1,0 +1,56 @@
+GSM3601886|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|Kidney|N/A|in_vivo|case|HLRCC1|N/A|Disease
+GSM3601887|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|Kidney|N/A|in_vivo|ctrl|HLRCC1 N|N/A|Disease
+GSM3601888|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|Kidney|N/A|in_vivo|case|HLRCC3|N/A|Disease
+GSM3601889|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|Kidney|N/A|in_vivo|case|HLRCC4|N/A|Disease
+GSM3601890|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|Kidney|N/A|in_vivo|case|HLRCC5|N/A|Disease
+GSM3601891|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|Kidney|N/A|in_vivo|case|HLRCC6 Lt|N/A|Disease
+GSM3601892|N/A|N/A|N/A|N/A|N/A|Healthy|Kidney|Human Renal Cortical Epithelial cells|in_vitro|ctrl|HRCE Normal|N/A|None
+GSM3601893|N/A|N/A|N/A|N/A|N/A|Healthy|Kidney|Renal Proximal Tubule Epithelial Cells|in_vitro|ctrl|RPTEC Normal|N/A|None
+GSM3601894|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|case|SDHB-RCC1|N/A|Disease
+GSM3601895|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|ctrl|SDHB-RCC1 N|N/A|Disease
+GSM3601896|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|case|SDHB-RCC2|N/A|Disease
+GSM3601897|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|ctrl|SDHB-RCC2 N|N/A|Disease
+GSM3601898|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|case|SDHB-RCC5|N/A|Disease
+GSM3601899|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|case|SDHB-RCC6|N/A|Disease
+GSM3601900|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|case|SDHB-RCC7|N/A|Disease
+GSM3601901|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|ctrl|SDHB-RCC7 N|N/A|Disease
+GSM3601902|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|N/A|Patient-derived RCC cell line|in_vitro|case|UOK130 VHL|N/A|Disease
+GSM3601903|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|N/A|Patient-derived RCC cell line|in_vitro|case|UOK140 VHL|N/A|Disease
+GSM3601904|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|N/A|Patient-derived RCC cell line|in_vitro|case|UOK150 VHL|N/A|Disease
+GSM3601905|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|N/A|Patient-derived RCC cell line|in_vitro|case|UOK220 VHL|N/A|Disease
+GSM3601906|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|N/A|Patient-derived RCC cell line|in_vitro|case|UOK262 HLRCC|N/A|Disease
+GSM3601907|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|N/A|Patient-derived RCC cell line|in_vitro|case|UOK262WT|N/A|Genetic
+GSM3601908|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|N/A|Patient-derived RCC cell line|in_vitro|case|UOK268 HLRCC|N/A|Disease
+GSM3601909|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|N/A|Patient-derived RCC cell line|in_vitro|case|UOK269 SDHB|N/A|Disease
+GSM3601910|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|N/A|Patient-derived RCC cell line|in_vitro|case|UOK269WT|N/A|Genetic
+GSM3601911|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|N/A|Patient-derived RCC cell line|in_vitro|case|UOK271 HLRCC|N/A|Disease
+GSM3601912|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|case|VHL1|N/A|Disease
+GSM3601913|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|ctrl|VHL1 N|N/A|Disease
+GSM3601914|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|case|VHL2|N/A|Disease
+GSM3601915|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|ctrl|VHL2 N|N/A|Disease
+GSM3601916|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|case|VHL3|N/A|Disease
+GSM3601917|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|ctrl|VHL3 N|N/A|Disease
+GSM3601918|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|case|VHL4|N/A|Disease
+GSM3601919|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|case|VHL5|N/A|Disease
+GSM3601920|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|case|VHL6|N/A|Disease
+GSM3601921|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|case|VHL7|N/A|Disease
+GSM3601922|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|case|VHL8|N/A|Disease
+GSM3601923|N/A|N/A|N/A|N/A|N/A|von Hippel-Lindau disease|Kidney|N/A|in_vivo|case|VHL9|N/A|Disease
+GSM3601924|N/A|N/A|N/A|N/A|N/A|Birt-Hogg-Dubé syndrome|Kidney|N/A|in_vivo|case|BHD1|N/A|Disease
+GSM3601925|N/A|N/A|N/A|N/A|N/A|Birt-Hogg-Dubé syndrome|Kidney|N/A|in_vivo|case|BHD2|N/A|Disease
+GSM3601926|N/A|N/A|N/A|N/A|N/A|Birt-Hogg-Dubé syndrome|Kidney|N/A|in_vivo|case|BHD3|N/A|Disease
+GSM3601927|N/A|N/A|N/A|N/A|N/A|Birt-Hogg-Dubé syndrome|Kidney|N/A|in_vivo|case|BHD4|N/A|Disease
+GSM3601928|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|Kidney|N/A|in_vivo|case|HLRCC8|N/A|Disease
+GSM3601929|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|Kidney|N/A|in_vivo|case|HLRCC2|N/A|Disease
+GSM3601930|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|Kidney|N/A|in_vivo|ctrl|HLRCC2 N|N/A|Disease
+GSM3601931|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|Kidney|N/A|in_vivo|case|HLRCC6 Rt|N/A|Disease
+GSM3601932|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|Kidney|N/A|in_vivo|case|HLRCC7|N/A|Disease
+GSM3601933|N/A|N/A|N/A|N/A|N/A|Hereditary papillary renal cell carcinoma|Kidney|N/A|in_vivo|case|HPRC1|N/A|Disease
+GSM3601934|N/A|N/A|N/A|N/A|N/A|Hereditary papillary renal cell carcinoma|Kidney|N/A|in_vivo|case|HPRC2|N/A|Disease
+GSM3601935|N/A|N/A|N/A|N/A|N/A|Hereditary papillary renal cell carcinoma|Kidney|N/A|in_vivo|case|HPRC3|N/A|Disease
+GSM3601936|N/A|N/A|N/A|N/A|N/A|Hereditary papillary renal cell carcinoma|Kidney|N/A|in_vivo|case|HPRC4|N/A|Disease
+GSM3601937|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|ctrl|SDHB-RCC3 N|N/A|Disease
+GSM3601938|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|case|SDHB-RCC3|N/A|Disease
+GSM3601939|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|case|SDHB-RCC4|N/A|Disease
+GSM3601940|N/A|N/A|N/A|N/A|N/A|Succinate dehydrogenase deficient renal cell carcinoma|Kidney|N/A|in_vivo|ctrl|SDHB-RCC4 N|N/A|Disease
+GSM3601941|N/A|N/A|N/A|N/A|N/A|Hereditary leiomyomatosis and renal cell carcinoma|N/A|Patient-derived RCC cell line|in_vitro|case|UOK268WT|N/A|Genetic

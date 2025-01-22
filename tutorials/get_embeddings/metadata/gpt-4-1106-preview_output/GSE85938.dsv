@@ -1,0 +1,33 @@
+GSM2288076|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|ctrl|SV4_M1minus|N/A|Genetic
+GSM2288077|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|SV5_M1plus|N/A|Genetic
+GSM2288078|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|SV6_M1off|N/A|Genetic
+GSM2288079|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|ctrl|SV10_M5minus|N/A|Genetic
+GSM2288080|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|SV11_M5plus|N/A|Genetic
+GSM2288081|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|SV12_M5off|N/A|Genetic
+GSM2288082|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|ctrl|SV16_M10minus|N/A|Genetic
+GSM2288083|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|SV17_M10plus|N/A|Genetic
+GSM2288084|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|SV18_M10off|N/A|Genetic
+GSM2288085|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|ctrl|SV22_M20minus|N/A|Genetic
+GSM2288086|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|SV23_M20plus|N/A|Genetic
+GSM2288087|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|SV24_M20off|N/A|Genetic
+GSM2288088|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|ctrl|M70-|N/A|Genetic
+GSM2288089|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|M70 +|N/A|Genetic
+GSM2288090|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|M70 off 40|N/A|Genetic
+GSM2288091|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|ctrl|P70-|N/A|None
+GSM2288092|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|case|P70+|N/A|None
+GSM2288093|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|case|P70 off 40|N/A|None
+GSM2288094|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|ctrl|SV1_P1minus|N/A|None
+GSM2288095|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|case|SV2_P1plus|N/A|None
+GSM2288096|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|ctrl|SV7_P5minus|N/A|None
+GSM2288097|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|case|SV8_P5plus|N/A|None
+GSM2288098|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|case|SV9_P5off|N/A|None
+GSM2288099|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|ctrl|SV13_P10minus|N/A|None
+GSM2288100|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|case|SV14_P10plus|N/A|None
+GSM2288101|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|case|SV15_P10off|N/A|None
+GSM2288102|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|ctrl|SV19_P20minus|N/A|None
+GSM2288103|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|case|SV20_P20plus|N/A|None
+GSM2288104|N/A|N/A|N/A|N/A|empty vector|healthy|Cells|N/A|in_vitro|case|SV21_P20off|N/A|None
+GSM2288105|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|CD24minus|N/A|Genetic
+GSM2288106|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|case|CD24plus|N/A|Genetic
+GSM2288107|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|N/A|TS603_1|N/A|Genetic
+GSM2288108|N/A|N/A|N/A|N/A|IDH1 R132H|glioma|Cells|N/A|in_vitro|N/A|TS603_2|N/A|Genetic

@@ -1,0 +1,5 @@
+GSM4138054|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|J-Lat 8.4|in_vitro|ctrl|Mock-transduced|Mock|None
+GSM4138055|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|J-Lat 8.4|in_vitro|ctrl|Non-targeting shRNA-transduced|shNT|Genetic
+GSM4138056|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|J-Lat 8.4|in_vitro|case|shUHRF1-transduced|shUHRF1|Genetic
+GSM4138057|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|J-Lat 8.4|in_vitro|ctrl|Mock-treated|Mock|None
+GSM4138058|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|J-Lat 8.4|in_vitro|case|EGCG-treated|EGCG|Small Molecule

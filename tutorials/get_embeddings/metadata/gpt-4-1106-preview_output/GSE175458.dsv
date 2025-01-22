@@ -1,0 +1,547 @@
+GSM5334587|N/A|White|M|53|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334412|N/A|Black|M|42|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334294|N/A|White|F|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334434|N/A|White|F|56|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334375|N/A|White|M|72|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334560|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334533|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334626|N/A|White|M|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334346|N/A|White|F|62|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334525|N/A|Black|F|42|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334262|N/A|Black|M|63|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334700|N/A|White|M|57|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334403|N/A|White|M|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334726|N/A|White|F|33|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334519|N/A|White|M|48|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334622|N/A|Black|M|38|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334374|N/A|Black|M|46|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334599|N/A|White|F|32|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334273|N/A|White|F|51|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334531|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334439|N/A|White|F|55|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334239|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334390|N/A|White|M|88|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334245|N/A|White|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334732|N/A|White|M|71|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334369|N/A|White|M|39|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334254|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334308|N/A|White|M|72|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334561|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334507|N/A|White|M|84|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334733|N/A|White|F|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334376|N/A|White|F|59|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334609|N/A|White|M|55|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334778|N/A|White|M|72|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334290|N/A|Hispanic and Latino|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334753|N/A|White|M|68|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334601|N/A|White|F|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334355|N/A|Black|M|61|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334725|N/A|White|F|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334312|N/A|White|M|71|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334361|N/A|White|M|35|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334489|N/A|Black|F|45|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334604|N/A|White|M|59|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334695|N/A|White|M|56|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334674|N/A|White|F|81|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334777|N/A|White|F|50|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334460|N/A|White|M|77|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334370|N/A|White|F|55|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334484|N/A|White|F|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334256|N/A|White|M|47|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334572|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334418|N/A|White|F|26|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334402|N/A|White|F|60|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334385|N/A|White|F|49|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334350|N/A|Other|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334630|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334711|N/A|White|M|74|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334535|N/A|Hispanic and Latino|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334565|N/A|White|M|72|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334707|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334313|N/A|White|M|46|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334316|N/A|White|M|26|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334710|N/A|Asian|M|72|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334661|N/A|Black|M|55|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334509|N/A|Black|F|67|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334754|N/A|White|M|78|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334416|N/A|White|M|84|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334461|N/A|White|F|50|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334266|N/A|Black|F|49|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334741|N/A|White|M|53|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334654|N/A|Black|M|62|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334441|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334747|N/A|White|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334437|N/A|White|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334464|N/A|White|M|60|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334338|N/A|White|M|59|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334542|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334357|N/A|White|M|45|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334301|N/A|White|M|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334760|N/A|White|M|48|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334400|N/A|White|F|51|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334362|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334491|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334281|N/A|Other|M|47|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334503|N/A|White|F|54|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334578|N/A|White|M|55|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334271|N/A|White|F|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334580|N/A|White|F|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334738|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334638|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334298|N/A|White|M|41|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334596|N/A|White|M|74|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334701|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334739|N/A|White|M|61|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334349|N/A|Other|M|59|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334410|N/A|Black|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334616|N/A|Black|F|65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334467|N/A|White|F|47|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334468|N/A|White|F|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334328|N/A|White|M|64|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334397|N/A|White|F|59|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334703|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334540|N/A|White|F|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334320|N/A|Hispanic and Latino|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334459|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334487|N/A|White|F|64|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334451|N/A|White|F|60|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334452|N/A|White|F|58|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334420|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334539|N/A|N/A|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334334|N/A|White|M|26|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334297|N/A|White|F|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334446|N/A|White|F|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334331|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334429|N/A|White|M|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334341|N/A|N/A|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334414|N/A|White|M|54|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334782|N/A|White|M|54|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334498|N/A|White|M|81|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334384|N/A|White|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334666|N/A|Hispanic and Latino|M|53|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334432|N/A|White|M|67|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334607|N/A|White|M|22|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334405|N/A|White|F|69|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334466|N/A|White|F|73|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334345|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334605|N/A|White|F|71|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334653|N/A|White|M|74|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334444|N/A|White|M|67|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334265|N/A|White|M|59|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334636|N/A|White|M|48|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334526|N/A|Hispanic and Latino|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334289|N/A|Black|F|18|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334292|N/A|White|F|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334496|N/A|White|F|54|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334704|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334649|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334453|N/A|White|M|62|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334536|N/A|White|M|52|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334336|N/A|White|F|73|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334502|N/A|White|F|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334713|N/A|White|M|56|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334651|N/A|Black|F|76|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334495|N/A|White|F|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334780|N/A|White|F|53|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334506|N/A|White|F|74|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334353|N/A|White|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334241|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334342|N/A|Hispanic and Latino|M|56|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334270|N/A|White|F|71|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334538|N/A|N/A|F|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334267|N/A|White|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334670|N/A|N/A|F|51|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334646|N/A|White|M|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334705|N/A|White|M|71|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334556|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334317|N/A|Hispanic and Latino|F|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334553|N/A|White|M|28|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334398|N/A|White|F|67|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334263|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334284|N/A|White|F|60|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334685|N/A|Black|M|46|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334305|N/A|Hispanic and Latino|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334686|N/A|Asian|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334762|N/A|White|M|62|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334663|N/A|Other|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334379|N/A|White|M|65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334257|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334643|N/A|White|M|51|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334515|N/A|White|F|65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334323|N/A|White|M|45|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334240|N/A|White|M|56|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334344|N/A|White|M|41|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334285|N/A|White|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334773|N/A|White|M|51|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334302|N/A|White|M|33|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334752|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334360|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334555|N/A|White|M|83|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334475|N/A|White|F|48|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334577|N/A|White|F|48|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334249|N/A|White|F|66|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334748|N/A|White|M|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334295|N/A|White|F|73|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334299|N/A|White|M|56|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334520|N/A|White|M|51|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334332|N/A|Asian|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334276|N/A|Hispanic and Latino|M|58|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334343|N/A|White|F|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334477|N/A|White|M|38|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334699|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334687|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334337|N/A|White|M|46|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334383|N/A|White|M|35|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334248|N/A|White|M|25|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334583|N/A|White|M|52|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334765|N/A|White|M|40|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334724|N/A|White|M|70|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334620|N/A|White|F|64|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334617|N/A|White|M|74|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334751|N/A|White|F|64|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334631|N/A|White|M|59|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334261|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334395|N/A|White|F|59|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334413|N/A|White|M|49|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334692|N/A|White|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334708|N/A|White|F|61|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334571|N/A|Black|F|51|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334282|N/A|White|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334443|N/A|Other|F|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334600|N/A|White|M|57|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334391|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334356|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334781|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334614|N/A|Hispanic and Latino|M|59|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334457|N/A|White|M|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334550|N/A|White|M|51|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334367|N/A|White|M|46|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334750|N/A|Asian|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334516|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334371|N/A|White|M|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334427|N/A|White|M|75|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334576|N/A|White|M|56|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334545|N/A|Hispanic and Latino|M|53|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334304|N/A|White|F|42|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334277|N/A|N/A|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334735|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334485|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334543|N/A|Black|F|64|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334608|N/A|White|F|58|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334716|N/A|White|F|66|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334689|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334288|N/A|Other|M|41|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334658|N/A|Other|M|29|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334641|N/A|White|F|74|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334339|N/A|White|M|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334329|N/A|White|F|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334756|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334393|N/A|White|M|42|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334309|N/A|White|F|58|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334721|N/A|White|M|35|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334669|N/A|Black|M|48|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334465|N/A|White|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334359|N/A|White|M|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334729|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334423|N/A|White|M|55|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334378|N/A|White|M|54|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334347|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334696|N/A|White|M|43|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334693|N/A|White|F|41|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334697|N/A|White|M|54|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334494|N/A|White|F|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334590|N/A|White|F|74|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334372|N/A|White|F|35|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334348|N/A|Other|M|52|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334529|N/A|White|M|53|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334691|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334702|N/A|White|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334368|N/A|White|M|52|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334628|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334648|N/A|Black|M|59|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334326|N/A|N/A|F|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334250|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334322|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334757|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334287|N/A|White|F|27|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334606|N/A|Black|F|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334633|N/A|White|M|55|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334431|N/A|White|F|86|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334255|N/A|Black|M|50|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334554|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334647|N/A|White|M|71|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334671|N/A|White|F|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334242|N/A|White|M|38|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334624|N/A|N/A|M|67|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334264|N/A|Black|M|54|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334389|N/A|Other|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334783|N/A|White|M|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334532|N/A|Black|F|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334656|N/A|White|M|44|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334440|N/A|White|F|69|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334335|N/A|N/A|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334340|N/A|Black|M|14|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334763|N/A|White|M|45|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334363|N/A|White|F|54|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334251|N/A|White|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334678|N/A|N/A|M|58|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334746|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334450|N/A|Asian|M|73|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334582|N/A|White|M|72|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334629|N/A|White|M|67|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334758|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334774|N/A|White|M|14|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334623|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334584|N/A|White|M|65|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334470|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334478|N/A|White|M|56|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334274|N/A|White|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334743|N/A|White|M|47|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334406|N/A|White|M|64|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334511|N/A|White|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334574|N/A|White|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334456|N/A|White|M|87|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334396|N/A|White|M|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334637|N/A|White|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334246|N/A|White|M|69|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334585|N/A|Black|F|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334422|N/A|White|M|69|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334504|N/A|Black|F|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334642|N/A|White|M|65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334779|N/A|Hispanic and Latino|M|52|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334769|N/A|White|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334430|N/A|White|F|50|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334528|N/A|White|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334493|N/A|White|M|60|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334483|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334537|N/A|White|M|67|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334482|N/A|Black|M|52|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334530|N/A|White|M|77|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334424|N/A|White|F|44|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334694|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334698|N/A|White|M|55|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334731|N/A|White|F|73|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334352|N/A|White|F|44|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334260|N/A|White|F|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334524|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334564|N/A|White|F|64|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334688|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334462|N/A|White|M|68|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334548|N/A|White|F|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334557|N/A|White|M|47|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334718|N/A|White|F|52|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334625|N/A|White|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|N/A
+GSM5334634|N/A|White|F|56|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334244|N/A|White|M|71|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334373|N/A|White|M|33|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334734|N/A|White|M|40|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334657|N/A|Black|F|66|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334568|N/A|White|M|54|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334445|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334303|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334720|N/A|White|F|80|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334736|N/A|White|M|58|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|N/A
+GSM5334269|N/A|White|F|63|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334351|N/A|Other|M|46|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334730|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334680|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334563|N/A|White|M|60|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334407|N/A|White|M|52|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334547|N/A|Black|M|52|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334552|N/A|White|M|80|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334722|N/A|White|M|72|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334307|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334311|N/A|Other|F|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334594|N/A|Black|M|53|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334411|N/A|White|M|59|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334668|N/A|Asian|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334392|N/A|White|F|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334280|N/A|White|M|53|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334448|N/A|N/A|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334238|N/A|White|M|59|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334300|N/A|White|M|25|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334293|N/A|White|M|56|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334279|N/A|White|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334759|N/A|White|M|46|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334534|N/A|White|M|50|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334253|N/A|Hispanic and Latino|M|55|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334306|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334463|N/A|White|M|71|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334615|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334247|N/A|White|F|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334454|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334315|N/A|Hispanic and Latino|M|52|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334715|N/A|White|F|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|N/A
+GSM5334268|N/A|White|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334768|N/A|White|F|73|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334675|N/A|White|F|71|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334321|N/A|White|F|57|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334381|N/A|White|F|38|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334728|N/A|White|F|33|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334551|N/A|White|M|49|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334258|N/A|Hispanic and Latino|F|53|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334603|N/A|White|F|83|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334324|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334544|N/A|White|F|41|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334719|N/A|White|M|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334611|N/A|White|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334421|N/A|White|M|73|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334517|N/A|White|M|59|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334388|N/A|White|M|31|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334673|N/A|White|M|72|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334635|N/A|White|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334764|N/A|White|M|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334428|N/A|White|F|36|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334296|N/A|White|M|37|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334472|N/A|White|M|56|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334522|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334259|N/A|White|M|51|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334652|N/A|White|M|56|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334771|N/A|White|M|43|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334386|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334358|N/A|White|F|42|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334664|N/A|Black|F|48|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334591|N/A|White|M|72|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334272|N/A|White|M|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334399|N/A|White|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334433|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334709|N/A|White|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334595|N/A|White|F|33|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334283|N/A|White|F|58|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334354|N/A|N/A|M|55|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334500|N/A|White|M|67|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334632|N/A|White|M|38|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334598|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334417|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334684|N/A|N/A|F|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334569|N/A|Black|M|57|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334655|N/A|White|M|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334639|N/A|White|M|56|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334426|N/A|White|F|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334723|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334325|N/A|White|M|25|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334514|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334479|N/A|White|M|65|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334679|N/A|White|M|58|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334377|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334618|N/A|White|M|59|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334458|N/A|White|F|66|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334662|N/A|Hispanic and Latino|F|77|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334570|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334455|N/A|White|M|54|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334592|N/A|White|M|78|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334243|N/A|White|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334740|N/A|White|M|50|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334558|N/A|White|F|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334501|N/A|White|M|69|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334581|N/A|Hispanic and Latino|M|66|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334566|N/A|White|F|58|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334366|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334775|N/A|White|F|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334510|N/A|White|M|72|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334319|N/A|White|M|46|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334365|N/A|Hispanic and Latino|M|51|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334333|N/A|White|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334690|N/A|White|F|62|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334490|N/A|White|M|65|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334499|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334562|N/A|Black|F|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334275|N/A|Other|F|51|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334579|N/A|White|F|43|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334627|N/A|White|M|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334409|N/A|White|F|36|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334291|N/A|White|F|59|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334492|N/A|White|F|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334330|N/A|White|M|38|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334237|N/A|White|M|23|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334546|N/A|White|M|51|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334776|N/A|White|M|36|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334415|N/A|White|F|88|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334541|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334681|N/A|White|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334575|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334436|N/A|White|M|79|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334677|N/A|White|M|63|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334278|N/A|White|M|19|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334449|N/A|White|F|64|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334488|N/A|White|F|72|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334749|N/A|White|M|64|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334394|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334621|N/A|Black|M|66|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334589|N/A|White|F|49|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334559|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334586|N/A|White|F|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334727|N/A|White|F|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334766|N/A|White|F|68|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334310|N/A|White|F|17|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334508|N/A|White|M|50|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334672|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334549|N/A|White|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334480|N/A|White|M|47|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334744|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334486|N/A|White|F|67|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334613|N/A|Black|F|55|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334683|N/A|White|M|71|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334438|N/A|White|M|55|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334513|N/A|White|M|56|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334770|N/A|Hispanic and Latino|M|51|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334314|N/A|White|F|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334497|N/A|White|F|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334527|N/A|N/A|M|74|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334401|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334419|N/A|White|M|54|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334505|N/A|White|M|86|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334318|N/A|White|F|77|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334676|N/A|White|M|73|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334404|N/A|White|M|65|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334447|N/A|White|M|58|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334573|N/A|White|M|59|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334717|N/A|White|M|52|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334659|N/A|White|M|52|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334610|N/A|White|M|28|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334714|N/A|White|F|67|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334523|N/A|White|M|66|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334745|N/A|White|F|29|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334612|N/A|White|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334473|N/A|Black|F|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334469|N/A|White|M|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334593|N/A|White|M|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334474|N/A|White|F|70|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334619|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334644|N/A|White|F|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334645|N/A|White|M|50|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334425|N/A|White|F|56|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334382|N/A|White|F|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334327|N/A|White|F|58|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334597|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334442|N/A|White|M|59|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334588|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334364|N/A|White|F|46|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334476|N/A|White|M|66|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334286|N/A|White|F|69|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334682|N/A|White|F|85|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334387|N/A|White|M|52|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334512|N/A|White|F|51|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334640|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334665|N/A|White|F|59|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334481|N/A|White|F|79|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334761|N/A|White|M|48|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334650|N/A|White|M|54|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334252|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334712|N/A|White|M|64|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334518|N/A|White|M|23|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334521|N/A|White|F|72|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334737|N/A|White|M|35|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334408|N/A|White|F|70|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334706|N/A|White|M|60|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334380|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334667|N/A|White|M|55|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334435|N/A|White|M|57|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334772|N/A|White|F|61|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334602|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334567|N/A|Hispanic and Latino|M|52|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334471|N/A|White|M|72|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM5334660|N/A|Hispanic and Latino|M|67|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334767|N/A|White|M|50|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334742|N/A|White|M|62|N/A|Idiopathic Pulmonary Fibrosis|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM5334755|N/A|White|M|63|N/A|Other|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A

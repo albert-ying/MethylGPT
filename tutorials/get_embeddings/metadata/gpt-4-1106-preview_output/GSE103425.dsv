@@ -1,0 +1,24 @@
+GSM2771070|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|NT_rep1|0 nM atRA & 0 uM Decitabine|None
+GSM2771071|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|atRA_rep1|100 nM atRA & 0 uM Decitabine|Small Molecule
+GSM2771072|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|DAC_rep1|0 nM atRA & 1 uM Decitabine|Small Molecule
+GSM2771073|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|1a3_NT_rep1|0 nM atRA & 0 uM Decitabine|Genetic
+GSM2771074|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|SMP_DAC_rep1|0 nM atRA & 1 uM Decitabine|Small Molecule
+GSM2771075|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|SMP_NT_rep1|0 nM atRA & 0 uM Decitabine|None
+GSM2771076|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|SMP_RA_rep1|100 nM atRA & 0 uM Decitabine|Small Molecule
+GSM2771077|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|1a3kd_NT_rep1|0 nM atRA & 0 uM Decitabine|Genetic
+GSM2771078|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|NT_rep2|0 nM atRA & 0 uM Decitabine|None
+GSM2771079|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|atRA_rep2|100 nM atRA & 0 uM Decitabine|Small Molecule
+GSM2771080|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|DAC_rep2|0 nM atRA & 1 uM Decitabine|Small Molecule
+GSM2771081|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|1a3_NT_rep2|0 nM atRA & 0 uM Decitabine|Genetic
+GSM2771082|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|SMP_DAC_rep2|0 nM atRA & 1 uM Decitabine|Small Molecule
+GSM2771083|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|SMP_NT_rep2|0 nM atRA & 0 uM Decitabine|None
+GSM2771084|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|SMP_RA_rep2|100 nM atRA & 0 uM Decitabine|Small Molecule
+GSM2771085|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|1a3kd_NT_rep2|0 nM atRA & 0 uM Decitabine|Genetic
+GSM2771086|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|NT_rep3|0 nM atRA & 0 uM Decitabine|None
+GSM2771087|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|atRA_rep3|100 nM atRA & 0 uM Decitabine|Small Molecule
+GSM2771088|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|DAC_rep3|0 nM atRA & 1 uM Decitabine|Small Molecule
+GSM2771089|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-231|in_vitro|ctrl|1a3_NT_rep3|0 nM atRA & 0 uM Decitabine|Genetic
+GSM2771090|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|SMP_DAC_rep3|0 nM atRA & 1 uM Decitabine|Small Molecule
+GSM2771091|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|SMP_NT_rep3|0 nM atRA & 0 uM Decitabine|None
+GSM2771092|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|SMP_RA_rep3|100 nM atRA & 0 uM Decitabine|Small Molecule
+GSM2771093|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|MDA-MB-468|in_vitro|ctrl|1a3kd_NT_rep3|0 nM atRA & 0 uM Decitabine|Genetic

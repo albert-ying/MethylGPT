@@ -1,0 +1,154 @@
+GSM799844|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep2|N/A|Small Molecule
+GSM795362|N/A|N/A|N/A|N/A|IDH2mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_E5|N/A|Disease
+GSM795406|N/A|N/A|N/A|N/A|wildtype|colorectal cancer|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|SssI_Methylated_rep2|N/A|Genetic
+GSM799865|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|DKO_WGA_rep8|N/A|Genetic
+GSM795386|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_P01|N/A|Disease
+GSM853930|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_Q11|N/A|Disease
+GSM799782|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_F05|N/A|Disease
+GSM795358|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_B8|N/A|Disease
+GSM799854|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep7|N/A|Small Molecule
+GSM853936|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_Q10|N/A|Disease
+GSM799797|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_L12|N/A|Disease
+GSM795393|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_P12|N/A|Disease
+GSM795378|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_D5|N/A|Disease
+GSM795411|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|HCT116_DKO_rep4|N/A|Genetic
+GSM795370|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_B1|N/A|Disease
+GSM795381|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_E2|N/A|Disease
+GSM799808|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_G04|N/A|Disease
+GSM795372|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_B6|N/A|Disease
+GSM795395|N/A|N/A|N/A|N/A|wildtype|colorectal cancer|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep1|N/A|Small Molecule
+GSM799799|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_M06|N/A|Disease
+GSM799864|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|DKO_WGA_rep7|N/A|Genetic
+GSM795368|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_A8|N/A|Disease
+GSM795373|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_B10|N/A|Disease
+GSM853935|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_Q09|N/A|Disease
+GSM853929|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_Q03|N/A|Disease
+GSM799814|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_H09|N/A|Disease
+GSM799780|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_F01|N/A|Disease
+GSM795396|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep2|N/A|Small Molecule
+GSM799850|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep5|N/A|Small Molecule
+GSM799806|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_F08|N/A|Disease
+GSM799823|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_K11|N/A|Disease
+GSM795410|N/A|N/A|N/A|N/A|wildtype|colorectal cancer|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|SssI_Methylated_rep4|N/A|Genetic
+GSM795371|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_B5|N/A|Disease
+GSM799811|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_G12|N/A|Disease
+GSM795379|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_D7|N/A|Disease
+GSM799793|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_J12|N/A|Disease
+GSM795389|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_P05|N/A|Disease
+GSM799843|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep1|N/A|Small Molecule
+GSM799828|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_L05|N/A|Disease
+GSM795407|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|HCT116_DKO_rep2|N/A|Genetic
+GSM799848|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep4|N/A|Small Molecule
+GSM853933|N/A|N/A|N/A|N/A|IDH2mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_Q04|N/A|Disease
+GSM799849|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep4|N/A|Small Molecule
+GSM799842|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep1|N/A|Small Molecule
+GSM799821|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_K09|N/A|Disease
+GSM795366|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_A4|N/A|Disease
+GSM795409|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|HCT116_DKO_rep3|N/A|Genetic
+GSM799853|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep6|N/A|Small Molecule
+GSM795374|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_B12|N/A|Disease
+GSM795385|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_E12|N/A|Disease
+GSM799815|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_J07|N/A|Disease
+GSM799831|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_L11|N/A|Disease
+GSM799796|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_L08|N/A|Disease
+GSM795394|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep1|N/A|Small Molecule
+GSM799832|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_M02|N/A|Disease
+GSM799818|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_K02|N/A|Disease
+GSM799816|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_J08|N/A|Disease
+GSM799787|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_H05|N/A|Disease
+GSM795356|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_A10|N/A|Disease
+GSM799855|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep7|N/A|Small Molecule
+GSM795364|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_P07|N/A|Disease
+GSM799790|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_J02|N/A|Disease
+GSM795361|N/A|N/A|N/A|N/A|IDH2mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_D9|N/A|Disease
+GSM795357|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_B3|N/A|Disease
+GSM853937|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep6|N/A|Small Molecule
+GSM795354|N/A|N/A|N/A|N/A|IDH2mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_A2|N/A|Disease
+GSM799861|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|DKO_WGA_rep4|N/A|Genetic
+GSM799830|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_L09|N/A|Disease
+GSM795388|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_P03|N/A|Disease
+GSM799803|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_N06|N/A|Disease
+GSM853928|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_Q12|N/A|Disease
+GSM799845|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep2|N/A|Small Molecule
+GSM795402|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep5|N/A|Small Molecule
+GSM799804|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_N08|N/A|Disease
+GSM795400|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep4|N/A|Small Molecule
+GSM799852|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep6|N/A|Small Molecule
+GSM799792|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_J10|N/A|Disease
+GSM799802|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_N05|N/A|Disease
+GSM795404|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|SssI_Methylated_rep1|N/A|Genetic
+GSM799840|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_N09|N/A|Disease
+GSM853931|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_Q01|N/A|Disease
+GSM799820|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_K07|N/A|Disease
+GSM799812|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_H03|N/A|Disease
+GSM795399|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep3|N/A|Small Molecule
+GSM799784|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_G03|N/A|Disease
+GSM799810|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_G09|N/A|Disease
+GSM795398|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep3|N/A|Small Molecule
+GSM799801|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_N04|N/A|Disease
+GSM799856|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep8|N/A|Small Molecule
+GSM795359|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_B11|N/A|Disease
+GSM795391|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_P08|N/A|Disease
+GSM799795|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_K05|N/A|Disease
+GSM799813|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_H06|N/A|Disease
+GSM799839|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_N03|N/A|Disease
+GSM795408|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|SssI_Methylated_rep3|N/A|Genetic
+GSM795367|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_A7|N/A|Disease
+GSM795380|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_D12|N/A|Disease
+GSM795360|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_D1|N/A|Disease
+GSM795365|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_P11|N/A|Disease
+GSM799783|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_F12|N/A|Disease
+GSM799785|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_G08|N/A|Disease
+GSM799789|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_H11|N/A|Disease
+GSM799863|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|DKO_WGA_rep6|N/A|Genetic
+GSM799800|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_M07|N/A|Disease
+GSM795363|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_E7|N/A|Disease
+GSM799827|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_L04|N/A|Disease
+GSM853927|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_Q02|N/A|Disease
+GSM795382|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_E4|N/A|Disease
+GSM795375|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_D2|N/A|Disease
+GSM799841|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_N10|N/A|Disease
+GSM799781|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_F04|N/A|Disease
+GSM799798|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_M01|N/A|Disease
+GSM799835|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_M08|N/A|Disease
+GSM799826|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_L02|N/A|Disease
+GSM799822|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_K10|N/A|Disease
+GSM853932|N/A|N/A|N/A|N/A|IDH2mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_Q07|N/A|Disease
+GSM799807|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_G02|N/A|Disease
+GSM799851|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep5|N/A|Small Molecule
+GSM799819|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_K06|N/A|Disease
+GSM799788|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_H07|N/A|Disease
+GSM799837|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_M11|N/A|Disease
+GSM799805|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_N12|N/A|Disease
+GSM795383|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_E9|N/A|Disease
+GSM799846|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|DMSO_72hr_rep3|N/A|Small Molecule
+GSM799825|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_L01|N/A|Disease
+GSM799829|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_L07|N/A|Disease
+GSM799860|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|DKO_WGA_rep3|N/A|Genetic
+GSM795390|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_P06|N/A|Disease
+GSM795369|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_A11|N/A|Disease
+GSM799862|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|DKO_WGA_rep5|N/A|Genetic
+GSM799791|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_J06|N/A|Disease
+GSM795376|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_D3|N/A|Disease
+GSM799794|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_K03|N/A|Disease
+GSM799833|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_M03|N/A|Disease
+GSM799786|N/A|N/A|N/A|N/A|IDH1mutant|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_H04|N/A|Disease
+GSM795392|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_P10|N/A|Disease
+GSM795387|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_P02|N/A|Disease
+GSM853934|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_Q08|N/A|Disease
+GSM795377|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_D4|N/A|Disease
+GSM799847|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep3|N/A|Small Molecule
+GSM799838|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_N01|N/A|Disease
+GSM799817|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_J09|N/A|Disease
+GSM799859|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|DKO_WGA_rep2|N/A|Genetic
+GSM799809|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_G05|N/A|Disease
+GSM799834|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_M04|N/A|Disease
+GSM799836|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_M10|N/A|Disease
+GSM799857|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep8|N/A|Small Molecule
+GSM795401|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep4|N/A|Small Molecule
+GSM799824|N/A|N/A|N/A|N/A|wildtype|glioblastoma|N/A|N/A|N/A|case|Glioblastoma_K12|N/A|Disease
+GSM795384|N/A|N/A|N/A|N/A|wildtype|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_E11|N/A|Disease
+GSM795405|N/A|N/A|N/A|N/A|wildtype|colorectal cancer|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|HCT116_DKO_rep1|N/A|Genetic
+GSM795355|N/A|N/A|N/A|N/A|IDH1mutant|cholangiocarcinoma|N/A|N/A|N/A|case|Cholangiocarcinoma_A6|N/A|Disease
+GSM799858|N/A|N/A|N/A|N/A|wildtype|healthy|Cells|HCT116 DNMT1;DNMT3 double knockout|in_vitro|ctrl|DKO_WGA_rep1|N/A|Genetic
+GSM795397|N/A|N/A|N/A|N/A|wildtype|colorectal cancer|Cells|HCT116|in_vitro|ctrl|1uM_5azadC_72hr_rep2|N/A|Small Molecule

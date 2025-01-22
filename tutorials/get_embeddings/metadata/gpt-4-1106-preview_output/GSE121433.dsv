@@ -1,0 +1,8 @@
+GSM3436251|N/A|N/A|N/A|N/A|N/A|N/A|Lung|HBEC2|in_vitro|ctrl|vehicle|N/A|Environmental
+GSM3436252|N/A|N/A|N/A|N/A|N/A|N/A|Lung|HBEC2|in_vitro|case|treated|Bleomycin|Environmental
+GSM3436253|N/A|N/A|N/A|N/A|N/A|N/A|Lung|HBEC2|in_vitro|case|knockdown|N/A|Genetic
+GSM3436254|N/A|N/A|N/A|N/A|N/A|N/A|Lung|HBEC2|in_vitro|case|treated knockdown|Bleomycin|Genetic
+GSM3436255|N/A|N/A|N/A|N/A|N/A|N/A|Lung|HBEC3|in_vitro|ctrl|vehicle|N/A|Environmental
+GSM3436256|N/A|N/A|N/A|N/A|N/A|N/A|Lung|HBEC3|in_vitro|case|treated|Bleomycin|Environmental
+GSM3436257|N/A|N/A|N/A|N/A|N/A|N/A|Lung|HBEC3|in_vitro|case|knockdown|N/A|Genetic
+GSM3436258|N/A|N/A|N/A|N/A|N/A|N/A|Lung|HBEC3|in_vitro|case|treated knockdown|Bleomycin|Genetic

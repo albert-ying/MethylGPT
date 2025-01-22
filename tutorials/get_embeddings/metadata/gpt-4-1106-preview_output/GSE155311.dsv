@@ -1,0 +1,33 @@
+GSM4698868|5|White|F|N/A|N/A|Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient5|N/A|Disease
+GSM4698869|5|White|F|N/A|N/A|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient5|N/A|N/A
+GSM4698870|1|White|F|66|BRCA2 mutation|Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|case|STIC_Patient1|N/A|Genetic
+GSM4698871|1|White|F|66|BRCA2 mutation|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient1|N/A|N/A
+GSM4698872|6|White|F|75|N/A|Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|case|STIC_Patient6|N/A|Disease
+GSM4698873|6|White|F|75|N/A|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient6|N/A|N/A
+GSM4698874|2|White|F|50|N/A|Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|case|STIC_Patient2|N/A|Disease
+GSM4698875|2|White|F|50|N/A|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient2|N/A|N/A
+GSM4698876|7|White|F|71|N/A|Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|case|STIC_Patient7|N/A|Disease
+GSM4698877|7|White|F|71|N/A|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient7|N/A|N/A
+GSM4698878|3|White|F|79|N/A|Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|case|STIC_Patient3|N/A|Disease
+GSM4698879|3|White|F|79|N/A|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient3|N/A|N/A
+GSM4698880|8|White|F|61|BRCA2 mutation|Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|case|STIC_Patient8|N/A|Genetic
+GSM4698881|8|White|F|61|BRCA2 mutation|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient8|N/A|N/A
+GSM4698882|4|White|F|58|N/A|Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|case|STIC_Patient4|N/A|Disease
+GSM4698883|4|White|F|58|N/A|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient4|N/A|N/A
+GSM4698884|6|White|F|75|N/A|High Grade Serous Carcinoma|Fallopian Tube|N/A|in_vivo|case|Tumor_Patient6|N/A|Disease
+GSM4698885|8|White|F|61|BRCA2 mutation|High Grade Serous Carcinoma|Fallopian Tube|N/A|in_vivo|case|Tumor_Patient8|N/A|Genetic
+GSM4698886|9|White|F|74|N/A|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient9|N/A|N/A
+GSM4698887|9|White|F|74|N/A|Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|case|STIC_Patient9|N/A|Disease
+GSM4698888|12|White|F|49|BRCA2 mutation|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient12|N/A|N/A
+GSM4698889|12|White|F|49|BRCA2 mutation|Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|case|STIC_Patient12|N/A|Genetic
+GSM4698890|11|White|F|56|N/A|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient11|N/A|N/A
+GSM4698891|11|White|F|56|N/A|P53 Signature Lesion|Fallopian Tube|N/A|in_vivo|case|p53Signature_Patient11|N/A|Disease
+GSM4698892|13|White|F|56|N/A|Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|case|STIC_Patient13|N/A|Disease
+GSM4698893|13|White|F|70|N/A|Healthy|Fallopian Tube|N/A|in_vivo|ctrl|AdjacentNormal_Patient13|N/A|N/A
+GSM4698894|13|White|F|70|N/A|Dormant Serous Tubal Intraepithelial Carcinoma|Fallopian Tube|N/A|in_vivo|case|DormantSTIC_Patient13|N/A|Disease
+GSM4698895|N/A|N/A|F|N/A|N/A|N/A|N/A|N/A|in_vitro|N/A|50446_LCM_500ng|N/A|N/A
+GSM4698896|N/A|N/A|F|N/A|N/A|N/A|N/A|N/A|in_vitro|N/A|50446_LCM_50ng|N/A|N/A
+GSM4698897|N/A|N/A|F|N/A|N/A|N/A|N/A|N/A|in_vitro|N/A|50446_LCM_10ng|N/A|N/A
+GSM4698898|N/A|N/A|F|N/A|N/A|N/A|N/A|N/A|in_vitro|N/A|C4T_500ng|N/A|N/A
+GSM4698899|N/A|N/A|F|N/A|N/A|N/A|N/A|N/A|in_vitro|N/A|C4T_50ng|N/A|N/A
+GSM4698900|N/A|N/A|F|N/A|N/A|N/A|N/A|N/A|in_vitro|N/A|C4T_10ng|N/A|N/A

@@ -1,0 +1,215 @@
+GSM763111|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763263|N/A|N/A|F|37|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763115|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763248|N/A|N/A|F|57|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763129|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763151|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763280|N/A|N/A|F|55|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763109|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763282|N/A|N/A|F|51|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763074|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763078|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763165|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763195|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763087|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763161|N/A|N/A|F|40|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763213|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763104|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763251|N/A|N/A|F|47|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763148|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763231|N/A|N/A|F|48|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763163|N/A|N/A|F|50|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763220|N/A|N/A|F|34|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763119|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763271|N/A|N/A|F|42|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763250|N/A|N/A|F|38|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763265|N/A|N/A|F|29|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763128|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763222|N/A|N/A|F|33|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763149|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763094|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763201|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763223|N/A|N/A|F|70|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763239|N/A|N/A|F|35|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763153|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763131|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763072|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763188|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763162|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763170|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763224|N/A|N/A|F|67|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763199|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763093|N/A|N/A|F|40|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763070|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763192|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763227|N/A|N/A|F|73|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763238|N/A|N/A|F|50|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763158|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763067|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763183|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763079|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763194|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763107|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763123|N/A|N/A|F|40|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763146|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763071|N/A|N/A|F|50|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763189|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763245|N/A|N/A|F|38|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763140|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763204|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763075|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763234|N/A|N/A|F|33|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763143|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763080|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763240|N/A|N/A|F|39|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763118|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763101|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763273|N/A|N/A|F|63|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763113|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763076|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763069|N/A|N/A|F|50|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763203|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763156|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763276|N/A|N/A|F|38|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763174|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763230|N/A|N/A|F|46|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763278|N/A|N/A|F|52|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763096|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763108|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763229|N/A|N/A|F|48|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763064|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763277|N/A|N/A|F|24|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763254|N/A|N/A|F|50|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763185|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763249|N/A|N/A|F|43|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763089|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763190|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763081|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763212|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763262|N/A|N/A|F|50|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763126|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763243|N/A|N/A|F|42|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763202|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763233|N/A|N/A|F|61|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763209|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763173|N/A|N/A|F|50|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763120|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763228|N/A|N/A|F|60|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763142|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763252|N/A|N/A|F|59|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763144|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763256|N/A|N/A|F|42|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763197|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763099|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763155|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763091|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763274|N/A|N/A|F|26|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763090|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763134|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763179|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763225|N/A|N/A|F|39|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763275|N/A|N/A|F|49|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763198|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763191|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763181|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763073|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763068|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763103|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763180|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763095|N/A|N/A|F|50|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763235|N/A|N/A|F|69|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763150|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763208|N/A|N/A|F|40|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763186|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763269|N/A|N/A|F|29|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763167|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763232|N/A|N/A|F|43|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763122|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763169|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763092|N/A|N/A|F|55|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763065|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763187|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763077|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763147|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763132|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763184|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763214|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763247|N/A|N/A|F|60|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763088|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763097|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763221|N/A|N/A|F|45|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763171|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763100|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763084|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763106|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763168|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763267|N/A|N/A|F|91|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763141|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763253|N/A|N/A|F|38|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763258|N/A|N/A|F|39|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763117|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763226|N/A|N/A|F|62|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763082|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763124|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763264|N/A|N/A|F|37|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763175|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763130|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763125|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763270|N/A|N/A|F|68|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763114|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763177|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763242|N/A|N/A|F|43|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763085|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763110|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763268|N/A|N/A|F|66|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763098|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763154|N/A|N/A|F|45|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763133|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763205|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763272|N/A|N/A|F|71|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763127|N/A|N/A|F|40|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763260|N/A|N/A|F|53|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763176|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763237|N/A|N/A|F|42|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763135|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763193|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763259|N/A|N/A|F|54|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763063|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763241|N/A|N/A|F|56|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763112|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763136|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763182|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763178|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763102|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763266|N/A|N/A|F|70|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763164|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763207|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763200|N/A|N/A|F|40|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763206|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763166|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763281|N/A|N/A|F|51|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763139|N/A|N/A|F|45|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763160|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763157|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763152|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763279|N/A|N/A|F|50|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763172|N/A|N/A|F|50|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763261|N/A|N/A|F|47|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763211|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763255|N/A|N/A|F|40|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763236|N/A|N/A|F|37|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763121|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763105|N/A|N/A|F|40|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763159|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763137|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763257|N/A|N/A|F|39|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763086|N/A|N/A|F|19|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763083|N/A|N/A|F|35|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763196|N/A|N/A|F|40|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763145|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763244|N/A|N/A|F|38|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease
+GSM763116|N/A|N/A|F|25|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763138|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|case|Normal|N/A|N/A
+GSM763066|N/A|N/A|F|40|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763210|N/A|N/A|F|30|N/A|healthy|Cervix|N/A|in_vitro|ctrl|Normal|N/A|N/A
+GSM763246|N/A|N/A|F|51|N/A|Cervical Cancer|Cervix|N/A|in_vitro|case|Cancer|N/A|Disease

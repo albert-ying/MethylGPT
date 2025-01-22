@@ -1,0 +1,20 @@
+GSM1832662|patient 1|N/A|M|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient1_BS|Bisulfite|Disease
+GSM1832663|patient 1|N/A|M|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient1_BS|Bisulfite|Disease
+GSM1832664|patient 1|N/A|M|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient1_oxBS|Oxidative Bisulfite|Disease
+GSM1832665|patient 1|N/A|M|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient1_oxBS|Oxidative Bisulfite|Disease
+GSM1832666|patient 2|N/A|M|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient2_BS|Bisulfite|Disease
+GSM1832667|patient 2|N/A|M|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient2_BS|Bisulfite|Disease
+GSM1832668|patient 2|N/A|M|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient2_oxBS|Oxidative Bisulfite|Disease
+GSM1832669|patient 2|N/A|M|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient2_oxBS|Oxidative Bisulfite|Disease
+GSM1832670|N/A|N/A|Other|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|control_blood_BS|Bisulfite|None
+GSM1832671|N/A|N/A|Other|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|control_blood_BS|Bisulfite|None
+GSM1832672|N/A|N/A|Other|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|control_blood_oxBS|Oxidative Bisulfite|None
+GSM1832673|N/A|N/A|Other|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|control_blood_oxBS|Oxidative Bisulfite|None
+GSM1832674|patient 3|N/A|F|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient3_BS|Bisulfite|Disease
+GSM1832675|patient 3|N/A|F|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient3_BS|Bisulfite|Disease
+GSM1832676|patient 3|N/A|F|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient3_oxBS|Oxidative Bisulfite|Disease
+GSM1832677|patient 3|N/A|F|N/A|N/A|Kagami-Ogata syndrome|Whole Blood|N/A|in_vivo|case|KOS14_patient3_oxBS|Oxidative Bisulfite|Disease
+GSM1832678|N/A|N/A|M|N/A|N/A|Healthy|Brain|N/A|in_vivo|ctrl|control_brain_BS|Bisulfite|None
+GSM1832679|N/A|N/A|M|N/A|N/A|Healthy|Brain|N/A|in_vivo|ctrl|control_brain_BS|Bisulfite|None
+GSM1832680|N/A|N/A|M|N/A|N/A|Healthy|Brain|N/A|in_vivo|ctrl|control_brain_oxBS|Oxidative Bisulfite|None
+GSM1832681|N/A|N/A|M|N/A|N/A|Healthy|Brain|N/A|in_vivo|ctrl|control_brain_oxBS|Oxidative Bisulfite|None

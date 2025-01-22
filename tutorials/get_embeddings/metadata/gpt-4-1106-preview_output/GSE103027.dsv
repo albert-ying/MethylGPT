@@ -1,0 +1,100 @@
+GSM2752617|Patient 08|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752618|Patient 08|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752619|Patient 17|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752620|Patient 17|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752621|Patient 26|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752622|Patient 26|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752623|Patient 43|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752624|Patient 43|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752625|Patient 19|N/A|M|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM2752626|Patient 12|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752627|Patient 12|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752628|Patient 30|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752629|Patient 30|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752630|Patient 41|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752631|Patient 41|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752632|Patient 53|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752633|Patient 53|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752634|Patient 56|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752635|Patient 56|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752636|Patient 49|N/A|M|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM2752637|Patient 28|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752638|Patient 31|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752639|Patient 31|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752640|Patient 36|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752641|Patient 36|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752642|Patient 38|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752643|Patient 38|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752644|Patient 48|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752645|Patient 48|N/A|M|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752646|Patient 52|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM2752647|Patient 52|N/A|F|N/A|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM2752648|Patient 42|N/A|M|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM2752649|Patient 51|N/A|F|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM2752650|Patient 55|N/A|F|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM2752651|Patient 56|N/A|M|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292287|sCD02|N/A|F|30|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292288|sCD03|N/A|F|34|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292289|sCD03|N/A|F|34|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292290|sCD05|N/A|F|48|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292291|sCD05|N/A|F|48|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292292|sCD07|N/A|M|34|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292293|sCD07|N/A|M|34|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292294|sCD09|N/A|M|44|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292295|sCD09|N/A|M|44|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292296|sCD13|N/A|F|41|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292297|sCD13|N/A|F|41|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292298|sCD14|N/A|F|30|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292299|sCD14|N/A|F|30|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292300|sCD18|N/A|M|55|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292301|sCD18|N/A|M|55|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292302|sCD20|N/A|M|47|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292303|sCD20|N/A|M|47|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292304|sCD22|N/A|M|65|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292305|sCD22|N/A|M|65|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292306|sCD24|N/A|F|38|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292307|sCD24|N/A|F|38|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292308|sCD42|N/A|M|40|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292309|sCD42|N/A|M|40|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292310|sCD44|N/A|F|34|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292311|sCD45|N/A|F|25|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292312|sCD45|N/A|F|25|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292313|sCD47|N/A|F|48|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292314|sCD47|N/A|F|48|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292315|sCD49|N/A|F|32|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292316|sCD49|N/A|F|32|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292317|sCD50|N/A|F|52|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292318|sCD50|N/A|F|52|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292319|sCD51|N/A|F|22|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292320|sCD51|N/A|F|22|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292321|sCD54|N/A|M|43|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292322|sCD54|N/A|M|43|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292323|sCD55|N/A|F|22|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns non-inflamed|N/A|Disease
+GSM4292324|sCD57|N/A|M|55|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292325|sCD58|N/A|F|45|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292326|sCD58|N/A|F|45|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292327|sCD59|N/A|F|46|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292328|sCD59|N/A|F|46|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292329|sCD60|N/A|F|47|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292330|sCD60|N/A|F|47|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292331|sCD62|N/A|F|42|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292332|sCD62|N/A|F|42|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292333|sCD63|N/A|F|33|N/A|Crohn's Disease|Colon|N/A|in_vivo|case|Crohns inflamed|N/A|Disease
+GSM4292334|sCD63|N/A|F|33|N/A|Crohn's Disease|Colon|N/A|in_vivo|ctrl|Crohns non-inflamed|N/A|Disease
+GSM4292335|sHT14|N/A|M|39|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292336|sHT16|N/A|F|62|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292337|sHT17|N/A|M|70|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292338|sHT24|N/A|F|58|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292339|sHT30|N/A|M|68|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292340|sHT34|N/A|F|65|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292341|sHT41|N/A|F|46|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292342|sHT43|N/A|M|50|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292343|sHT44|N/A|F|50|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292344|sHT45|N/A|M|68|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292345|sHT46|N/A|M|70|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292346|sHT47|N/A|F|56|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292347|sHT48|N/A|M|41|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292348|sHT50|N/A|F|39|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292349|sHT52|N/A|F|48|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292350|sHT53|N/A|F|48|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None
+GSM4292351|sHT57|N/A|M|51|N/A|Healthy|Colon|N/A|in_vivo|ctrl|Healthy non-inflamed|N/A|None

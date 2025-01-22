@@ -1,0 +1,190 @@
+GSM2808875|Dnr01|N/A|F|78|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808876|Dnr01|N/A|F|78|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808877|Dnr02|N/A|M|76|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808878|Dnr02|N/A|M|76|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808879|Dnr03|N/A|F|75|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808880|Dnr03|N/A|F|75|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808881|Dnr04|N/A|F|85|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808882|Dnr04|N/A|F|85|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808883|Dnr05|N/A|M|94|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808884|Dnr05|N/A|M|94|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808885|Dnr06|N/A|M|18|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808886|Dnr06|N/A|M|18|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808887|Dnr10|N/A|F|88|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808888|Dnr10|N/A|F|88|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808889|Dnr11|N/A|F|81|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808890|Dnr11|N/A|F|81|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808891|Dnr12|N/A|F|77|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808892|Dnr12|N/A|F|77|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808893|Dnr13|N/A|F|77|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808894|Dnr13|N/A|F|77|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808895|Dnr14|N/A|F|77|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808896|Dnr14|N/A|F|77|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808897|Dnr15|N/A|F|83|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808898|Dnr15|N/A|F|83|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808899|Dnr16|N/A|F|88|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808900|Dnr16|N/A|F|88|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808901|Dnr17|N/A|M|19|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808902|Dnr17|N/A|M|19|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808903|Dnr18|N/A|M|87|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808904|Dnr18|N/A|M|87|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808905|Dnr19|N/A|M|71|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808906|Dnr19|N/A|M|71|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808907|Dnr20|N/A|M|75|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808908|Dnr20|N/A|M|75|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808909|2014.002|N/A|F|77|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808910|2014.002|N/A|F|77|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808911|2014.003|N/A|M|76|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808912|2014.003|N/A|M|76|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808913|2014.004|N/A|F|75|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808914|2014.004|N/A|F|75|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808915|2014.005|N/A|M|71|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808916|2014.005|N/A|M|71|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808917|2014.006|N/A|M|75|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808918|2014.006|N/A|M|75|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808919|2015.007|N/A|M|63|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808920|2015.007|N/A|M|63|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808921|2015.008|N/A|M|85|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808922|2015.008|N/A|M|85|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808923|2015.009|N/A|F|85|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808924|2015.009|N/A|F|85|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808925|2015.011|N/A|F|63|N/A|Healthy|Brain|Glia|in_vivo|ctrl|CTRL_Glia|N/A|None
+GSM2808926|2015.011|N/A|F|63|N/A|Healthy|Brain|Neuron|in_vivo|ctrl|CTRL_Neuron|N/A|None
+GSM2808927|2015.012|N/A|F|78|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808928|2015.012|N/A|F|78|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808929|2015.013|N/A|F|93|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808930|2015.013|N/A|F|93|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808931|2015.014|N/A|M|70|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808932|2015.014|N/A|M|70|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808933|2015.015|N/A|M|85|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808934|2015.015|N/A|M|85|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808935|2015.016|N/A|F|73|N/A|Alzheimer's disease|Brain|Glia|in_vivo|case|AD_Glia|N/A|Disease
+GSM2808936|2015.016|N/A|F|73|N/A|Alzheimer's disease|Brain|Neuron|in_vivo|case|AD_Neuron|N/A|Disease
+GSM2808937|RZ021|N/A|M|81|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808938|RZ051|N/A|M|90|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808939|RZ052|N/A|F|82|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808940|RZ055|N/A|M|80|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808941|RZ057|N/A|F|88|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808942|RZ058|N/A|F|77|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808943|RZ059|N/A|M|75|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808944|RZ063|N/A|M|73|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808945|RZ065|N/A|F|65|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808946|RZ067|N/A|F|67|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808947|RZ068|N/A|F|93|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808948|RZ069|N/A|M|74|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808949|RZ070|N/A|M|53|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808950|RZ076|N/A|M|18|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808951|RZ077|N/A|M|57|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808952|RZ079|N/A|F|75|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808953|RZ081|N/A|F|76|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808954|RZ082|N/A|F|46|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808955|RZ084|N/A|M|50|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808956|RZ085|N/A|M|63|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808957|RZ089|N/A|M|53|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808958|RZ090|N/A|M|53|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808959|RZ092|N/A|M|71|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808960|RZ098|N/A|F|73|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808961|RZ099|N/A|F|55|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808962|RZ104|N/A|M|59|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808963|RZ109|N/A|F|89|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808964|RZ119|N/A|M|75|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808965|RZ121|N/A|M|83|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808966|RZ122|N/A|F|82|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808967|RZ133|N/A|M|85|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808968|RZ140|N/A|M|87|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808969|RZ143|N/A|M|61|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808970|RZ144|N/A|F|68|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808971|RZ145|N/A|F|85|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808972|RZ146|N/A|M|46|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808973|RZ147|N/A|F|80|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808974|RZ148|N/A|F|77|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808975|RZ149|N/A|F|78|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808976|RZ155|N/A|F|85|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808977|RZ160|N/A|M|62|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808978|RZ162|N/A|F|97|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808979|RZ163|N/A|F|85|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808980|RZ170|N/A|F|93|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808981|RZ171|N/A|F|73|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808982|RZ181|N/A|F|93|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808983|RZ244|N/A|F|76|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808984|RZ256|N/A|M|87|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808985|RZ261|N/A|F|88|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808986|RZ262|N/A|F|78|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808987|RZ296|N/A|M|87|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808988|RZ302|N/A|M|83|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808989|RZ307|N/A|F|78|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808990|RZ323|N/A|M|76|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808991|RZ339|N/A|M|60|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808992|RZ340|N/A|M|54|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808993|RZ342|N/A|F|83|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2808994|RZ369|N/A|F|88|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808995|RZ375|N/A|M|80|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808996|RZ391|N/A|F|80|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808997|RZ413|N/A|M|70|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808998|RZ433|N/A|F|75|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2808999|RZ459|N/A|F|79|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809000|RZ016|N/A|M|83|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809001|RZ021|N/A|M|81|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809002|RZ051|N/A|M|90|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809003|RZ052|N/A|F|82|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809004|RZ055|N/A|M|80|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809005|RZ057|N/A|F|88|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809006|RZ058|N/A|F|77|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809007|RZ059|N/A|M|75|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809008|RZ063|N/A|M|73|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809009|RZ065|N/A|F|65|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809010|RZ067|N/A|F|67|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809011|RZ068|N/A|F|93|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809012|RZ069|N/A|M|74|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809013|RZ070|N/A|M|53|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809014|RZ076|N/A|M|18|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809015|RZ077|N/A|M|57|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809016|RZ079|N/A|F|75|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809017|RZ081|N/A|F|76|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809018|RZ082|N/A|F|46|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809019|RZ084|N/A|M|50|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809020|RZ085|N/A|M|63|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809021|RZ089|N/A|M|53|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809022|RZ090|N/A|M|53|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809023|RZ092|N/A|M|71|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809024|RZ098|N/A|F|73|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809025|RZ099|N/A|F|55|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809026|RZ104|N/A|M|59|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809027|RZ109|N/A|F|89|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809028|RZ119|N/A|M|75|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809029|RZ121|N/A|M|83|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809030|RZ122|N/A|F|82|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809031|RZ133|N/A|M|85|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809032|RZ140|N/A|M|87|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809033|RZ143|N/A|M|61|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809034|RZ144|N/A|F|68|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809035|RZ145|N/A|F|85|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809036|RZ146|N/A|M|46|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809037|RZ147|N/A|F|80|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809038|RZ148|N/A|F|77|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809039|RZ149|N/A|F|78|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809040|RZ155|N/A|F|85|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809041|RZ160|N/A|M|62|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809042|RZ162|N/A|F|97|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809043|RZ163|N/A|F|85|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809044|RZ170|N/A|F|93|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809045|RZ171|N/A|F|73|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809046|RZ181|N/A|F|93|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809047|RZ244|N/A|F|76|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809048|RZ256|N/A|M|87|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809049|RZ261|N/A|F|88|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809050|RZ262|N/A|F|78|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809051|RZ296|N/A|M|87|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809052|RZ302|N/A|M|83|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809053|RZ307|N/A|F|78|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809054|RZ323|N/A|M|76|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809055|RZ339|N/A|M|60|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809056|RZ340|N/A|M|54|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809057|RZ342|N/A|F|83|N/A|Healthy|Brain|bulk|in_vivo|ctrl|CTRL_bulk|N/A|None
+GSM2809058|RZ369|N/A|F|88|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809059|RZ375|N/A|M|80|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809060|RZ391|N/A|F|80|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809061|RZ413|N/A|M|70|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809062|RZ433|N/A|F|75|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809063|RZ459|N/A|F|79|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease
+GSM2809064|RZ468|N/A|F|85|N/A|Alzheimer's disease|Brain|bulk|in_vivo|case|AD_bulk|N/A|Disease

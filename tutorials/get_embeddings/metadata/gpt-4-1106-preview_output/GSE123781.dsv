@@ -1,0 +1,41 @@
+GSM3511256|N/A|N/A|F|19|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511257|N/A|N/A|F|18|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511258|N/A|N/A|M|20|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511259|N/A|N/A|F|44|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511260|N/A|N/A|F|24|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511261|N/A|N/A|F|21|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511262|N/A|N/A|F|17|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511263|N/A|N/A|F|25|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511264|N/A|N/A|F|63|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511265|N/A|N/A|M|43|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511266|N/A|N/A|F|23|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511267|N/A|N/A|F|50|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511268|N/A|N/A|M|69|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511269|N/A|N/A|M|45|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511270|N/A|N/A|F|21|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511271|N/A|N/A|F|29|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511272|N/A|N/A|F|54|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511273|N/A|N/A|M|26|N/A|healthy|N/A|N/A|in_vivo|ctrl|control_group|N/A|N/A
+GSM3511274|N/A|N/A|F|73|N/A|oral lichen planus|N/A|N/A|in_vivo|case|lichen_planus_group|N/A|Disease
+GSM3511275|N/A|N/A|F|71|N/A|oral lichen planus|N/A|N/A|in_vivo|case|lichen_planus_group|N/A|Disease
+GSM3511276|N/A|N/A|F|62|N/A|oral lichen planus|N/A|N/A|in_vivo|case|lichen_planus_group|N/A|Disease
+GSM3511277|N/A|N/A|F|50|N/A|oral lichen planus|N/A|N/A|in_vivo|case|lichen_planus_group|N/A|Disease
+GSM3511278|N/A|N/A|F|54|N/A|oral lichen planus|N/A|N/A|in_vivo|case|lichen_planus_group|N/A|Disease
+GSM3511279|N/A|N/A|M|60|N/A|oral lichen planus|N/A|N/A|in_vivo|case|lichen_planus_group|N/A|Disease
+GSM3511280|N/A|N/A|F|61|N/A|oral lichen planus|N/A|N/A|in_vivo|case|lichen_planus_group|N/A|Disease
+GSM3511281|N/A|N/A|M|53|N/A|oral lichen planus|N/A|N/A|in_vivo|case|lichen_planus_group|N/A|Disease
+GSM3511282|N/A|N/A|M|47|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511283|N/A|N/A|F|66|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511284|N/A|N/A|M|69|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511285|N/A|N/A|F|47|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511286|N/A|N/A|F|68|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511287|N/A|N/A|F|70|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511288|N/A|N/A|M|43|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511289|N/A|N/A|M|62|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511290|N/A|N/A|M|67|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511291|N/A|N/A|F|55|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511292|N/A|N/A|M|89|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511293|N/A|N/A|M|70|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511294|N/A|N/A|M|61|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511295|N/A|N/A|F|60|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease
+GSM3511296|N/A|N/A|F|63|N/A|oral squamous cell carcinoma|N/A|N/A|in_vivo|case|oscc_group|N/A|Disease

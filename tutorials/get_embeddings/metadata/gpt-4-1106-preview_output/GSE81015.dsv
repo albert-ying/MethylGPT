@@ -1,0 +1,12 @@
+GSM2140687|N/A|N/A|N/A|N/A|N/A|Toxoplasma gondii infection|Cells|WERI-Rb-1|in_vitro|case|Infected 2 hours|Toxoplasma gondii|Disease
+GSM2140688|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|WERI-Rb-1|in_vitro|ctrl|Mock-infected 2 hours|None|None
+GSM2140689|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|WERI-Rb-1|in_vitro|ctrl|Mock-infected 2 hours|None|None
+GSM2140690|N/A|N/A|N/A|N/A|N/A|Toxoplasma gondii infection|Cells|WERI-Rb-1|in_vitro|case|Infected 6 hours|Toxoplasma gondii|Disease
+GSM2140691|N/A|N/A|N/A|N/A|N/A|Toxoplasma gondii infection|Cells|WERI-Rb-1|in_vitro|case|Infected 6 hours|Toxoplasma gondii|Disease
+GSM2140692|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|WERI-Rb-1|in_vitro|ctrl|Mock-infected 6 hours|None|None
+GSM2140693|N/A|N/A|N/A|N/A|N/A|Toxoplasma gondii infection|Cells|WERI-Rb-1|in_vitro|case|Infected 24 hours|Toxoplasma gondii|Disease
+GSM2140694|N/A|N/A|N/A|N/A|N/A|Toxoplasma gondii infection|Cells|WERI-Rb-1|in_vitro|case|Infected 24 hours|Toxoplasma gondii|Disease
+GSM2140695|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|WERI-Rb-1|in_vitro|ctrl|Mock-infected 24 hours|None|None
+GSM2140696|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|WERI-Rb-1|in_vitro|ctrl|Mock-infected 24 hours|None|None
+GSM2140697|N/A|N/A|N/A|N/A|N/A|Toxoplasma gondii infection|Cells|WERI-Rb-1|in_vitro|case|Infected 2 hours outlier|Toxoplasma gondii|Disease
+GSM2140698|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|WERI-Rb-1|in_vitro|ctrl|Mock-infected 6 hours outlier|None|None

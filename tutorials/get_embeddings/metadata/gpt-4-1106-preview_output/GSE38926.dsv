@@ -1,0 +1,28 @@
+GSM952305|N/A|N/A|N/A|N/A|Human urothelial cells|Healthy|Bladder|N/A|in_vitro|ctrl|Normal Urothelial|None|None
+GSM952306|N/A|N/A|N/A|N/A|Human urothelial cells|Healthy|Bladder|N/A|in_vitro|ctrl|Normal Urothelial|None|None
+GSM952307|N/A|N/A|N/A|N/A|Immortalized human urothelial cells|Immortal|Bladder|N/A|in_vitro|ctrl|Immortalized Urothelial|None|None
+GSM952308|N/A|N/A|N/A|N/A|Immortalized human urothelial cells|Immortal|Bladder|N/A|in_vitro|ctrl|Immortalized Urothelial|None|None
+GSM952309|N/A|N/A|N/A|N/A|Immortalized human urothelial cells|Immortal|Bladder|N/A|in_vitro|ctrl|Immortalized Urothelial|None|None
+GSM952310|N/A|N/A|N/A|N/A|Toxicant-transformed human urothelial cells|Malignant|Bladder|N/A|in_vitro|case|Toxicant-transformed Urothelial|Small Molecule|Environmental
+GSM952311|N/A|N/A|N/A|N/A|Toxicant-transformed human urothelial cells|Malignant|Bladder|N/A|in_vitro|case|Toxicant-transformed Urothelial|Small Molecule|Environmental
+GSM952312|N/A|N/A|N/A|N/A|Toxicant-transformed human urothelial cells|Malignant|Bladder|N/A|in_vitro|case|Toxicant-transformed Urothelial|Small Molecule|Environmental
+GSM952313|N/A|N/A|N/A|N/A|Toxicant-transformed human urothelial cells|Malignant|Bladder|N/A|in_vitro|case|Toxicant-transformed Urothelial|Small Molecule|Environmental
+GSM952314|N/A|N/A|N/A|N/A|Urothelial carcinoma cell line|Malignant|Bladder|BFTC-905|in_vitro|case|Urothelial Carcinoma|None|Disease
+GSM952315|N/A|N/A|N/A|N/A|Urothelial carcinoma cell line|Malignant|Bladder|BFTC-909|in_vitro|case|Urothelial Carcinoma|None|Disease
+GSM952316|N/A|N/A|N/A|N/A|Bladder tumor specimen|Malignant|Bladder|N/A|in_vivo|case|Bladder Tumor Specimen|None|Disease
+GSM952317|N/A|N/A|N/A|N/A|Bladder tumor specimen|Malignant|Bladder|N/A|in_vivo|case|Bladder Tumor Specimen|None|Disease
+GSM952318|N/A|N/A|N/A|N/A|Bladder tumor specimen|Malignant|Bladder|N/A|in_vivo|case|Bladder Tumor Specimen|None|Disease
+GSM952319|N/A|N/A|N/A|N/A|Bladder tumor specimen|Malignant|Bladder|N/A|in_vivo|case|Bladder Tumor Specimen|None|Disease
+GSM952320|N/A|N/A|N/A|N/A|Bladder tumor specimen|Malignant|Bladder|N/A|in_vivo|case|Bladder Tumor Specimen|None|Disease
+GSM952321|N/A|N/A|N/A|N/A|Bladder tumor specimen|Malignant|Bladder|N/A|in_vivo|case|Bladder Tumor Specimen|None|Disease
+GSM952322|N/A|N/A|N/A|N/A|Human prostate epithelial cells|Healthy|Prostate|N/A|in_vitro|ctrl|Normal Prostate|None|None
+GSM952323|N/A|N/A|N/A|N/A|Human prostate epithelial cells|Healthy|Prostate|N/A|in_vitro|ctrl|Normal Prostate|None|None
+GSM952324|N/A|N/A|N/A|N/A|Immortalized human prostate epithelial cells|Immortal|Prostate|RWPE-1|in_vitro|ctrl|Immortalized Prostate|None|None
+GSM952325|N/A|N/A|N/A|N/A|Immortalized human prostate epithelial cells|Immortal|Prostate|RWPE-1|in_vitro|ctrl|Immortalized Prostate|None|None
+GSM952326|N/A|N/A|N/A|N/A|Toxicant-transformed human prostate epithelial cells|Malignant|Prostate|RWPE-1|in_vitro|case|Toxicant-transformed Prostate|Small Molecule|Environmental
+GSM952327|N/A|N/A|N/A|N/A|Toxicant-transformed human prostate epithelial cells|Malignant|Prostate|RWPE-1|in_vitro|case|Toxicant-transformed Prostate|Small Molecule|Environmental
+GSM952328|N/A|N/A|N/A|N/A|Toxicant-transformed human prostate epithelial cells|Malignant|Prostate|RWPE-1|in_vitro|case|Toxicant-transformed Prostate|Small Molecule|Environmental
+GSM952329|N/A|N/A|N/A|N/A|Toxicant-transformed human prostate epithelial cells|Malignant|Prostate|RWPE-1|in_vitro|case|Toxicant-transformed Prostate|Small Molecule|Environmental
+GSM952330|N/A|N/A|N/A|N/A|Prostate carcinoma cell line|Malignant|Prostate|LNCaP|in_vitro|case|Prostate Carcinoma|None|Disease
+GSM952331|N/A|N/A|N/A|N/A|Prostate adenocarcinoma cell line|Malignant|Prostate|PC3|in_vitro|case|Prostate Adenocarcinoma|None|Disease
+GSM952332|N/A|N/A|N/A|N/A|Prostate carcinoma cell line|Malignant|Prostate|DU145|in_vitro|case|Prostate Carcinoma|None|Disease

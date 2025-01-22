@@ -1,0 +1,74 @@
+GSM1548150|BM2748|N/A|M|N/A|N/A|healthy|Other|Hematopoietic Stem Cells|in_vivo|ctrl|Normal_HSC|N/A|N/A
+GSM1548151|BM2748|N/A|M|N/A|N/A|healthy|Other|Multipotent Progenitor Cells|in_vivo|ctrl|Normal_MPP|N/A|N/A
+GSM1548152|BM2748|N/A|M|N/A|N/A|healthy|Other|Late-Multipotent Progenitor Cells|in_vivo|ctrl|Normal_L-MPP|N/A|N/A
+GSM1548153|BM2748|N/A|M|N/A|N/A|healthy|Other|Common Myeloid Progenitor|in_vivo|ctrl|Normal_CMP|N/A|N/A
+GSM1548154|BM2748|N/A|M|N/A|N/A|healthy|Other|Granulocyte-Macrophage Progenitor|in_vivo|ctrl|Normal_GMP|N/A|N/A
+GSM1548155|BM2748|N/A|M|N/A|N/A|healthy|Other|Megakaryocyte-Erythroid Progenitor|in_vivo|ctrl|Normal_MEP|N/A|N/A
+GSM1548156|BM2710|N/A|F|N/A|N/A|healthy|Other|Hematopoietic Stem Cells|in_vivo|ctrl|Normal_HSC|N/A|N/A
+GSM1548157|BM2710|N/A|F|N/A|N/A|healthy|Other|Multipotent Progenitor Cells|in_vivo|ctrl|Normal_MPP|N/A|N/A
+GSM1548158|BM2710|N/A|F|N/A|N/A|healthy|Other|Late-Multipotent Progenitor Cells|in_vivo|ctrl|Normal_L-MPP|N/A|N/A
+GSM1548159|BM2710|N/A|F|N/A|N/A|healthy|Other|Common Myeloid Progenitor|in_vivo|ctrl|Normal_CMP|N/A|N/A
+GSM1548160|BM2710|N/A|F|N/A|N/A|healthy|Other|Granulocyte-Macrophage Progenitor|in_vivo|ctrl|Normal_GMP|N/A|N/A
+GSM1548161|BM2710|N/A|F|N/A|N/A|healthy|Other|Megakaryocyte-Erythroid Progenitor|in_vivo|ctrl|Normal_MEP|N/A|N/A
+GSM1548162|BM2712|N/A|M|N/A|N/A|healthy|Other|Hematopoietic Stem Cells|in_vivo|ctrl|Normal_HSC|N/A|N/A
+GSM1548163|BM2712|N/A|M|N/A|N/A|healthy|Other|Multipotent Progenitor Cells|in_vivo|ctrl|Normal_MPP|N/A|N/A
+GSM1548164|BM2712|N/A|M|N/A|N/A|healthy|Other|Late-Multipotent Progenitor Cells|in_vivo|ctrl|Normal_L-MPP|N/A|N/A
+GSM1548165|BM2712|N/A|M|N/A|N/A|healthy|Other|Common Myeloid Progenitor|in_vivo|ctrl|Normal_CMP|N/A|N/A
+GSM1548166|BM2712|N/A|M|N/A|N/A|healthy|Other|Granulocyte-Macrophage Progenitor|in_vivo|ctrl|Normal_GMP|N/A|N/A
+GSM1548167|BM2712|N/A|M|N/A|N/A|healthy|Other|Megakaryocyte-Erythroid Progenitor|in_vivo|ctrl|Normal_MEP|N/A|N/A
+GSM1548168|BM2753|N/A|F|N/A|N/A|healthy|Other|Hematopoietic Stem Cells|in_vivo|ctrl|Normal_HSC|N/A|N/A
+GSM1548169|BM2753|N/A|F|N/A|N/A|healthy|Other|Multipotent Progenitor Cells|in_vivo|ctrl|Normal_MPP|N/A|N/A
+GSM1548170|BM2753|N/A|F|N/A|N/A|healthy|Other|Late-Multipotent Progenitor Cells|in_vivo|ctrl|Normal_L-MPP|N/A|N/A
+GSM1548171|BM2753|N/A|F|N/A|N/A|healthy|Other|Common Myeloid Progenitor|in_vivo|ctrl|Normal_CMP|N/A|N/A
+GSM1548172|BM2753|N/A|F|N/A|N/A|healthy|Other|Granulocyte-Macrophage Progenitor|in_vivo|ctrl|Normal_GMP|N/A|N/A
+GSM1548173|BM2753|N/A|F|N/A|N/A|healthy|Other|Megakaryocyte-Erythroid Progenitor|in_vivo|ctrl|Normal_MEP|N/A|N/A
+GSM1548174|BM2627|N/A|M|N/A|N/A|healthy|Other|Hematopoietic Stem Cells|in_vivo|ctrl|Normal_HSC|N/A|N/A
+GSM1548175|BM2627|N/A|M|N/A|N/A|healthy|Other|Multipotent Progenitor Cells|in_vivo|ctrl|Normal_MPP|N/A|N/A
+GSM1548176|BM2627|N/A|M|N/A|N/A|healthy|Other|Late-Multipotent Progenitor Cells|in_vivo|ctrl|Normal_L-MPP|N/A|N/A
+GSM1548177|BM2627|N/A|M|N/A|N/A|healthy|Other|Common Myeloid Progenitor|in_vivo|ctrl|Normal_CMP|N/A|N/A
+GSM1548178|BM2627|N/A|M|N/A|N/A|healthy|Other|Megakaryocyte-Erythroid Progenitor|in_vivo|ctrl|Normal_MEP|N/A|N/A
+GSM1548179|BM2627|N/A|M|N/A|N/A|healthy|Other|Granulocyte-Macrophage Progenitor|in_vivo|ctrl|Normal_GMP|N/A|N/A
+GSM1548180|SU001|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548181|SU001|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548182|SU001|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548183|SU006|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548184|SU006|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548185|SU006|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548186|SU008|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548187|SU008|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548188|SU008|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548189|SU029|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548190|SU029|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548191|SU029|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548192|SU032|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548193|SU032|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548194|SU032|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548195|SU035|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548196|SU035|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548197|SU035|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548198|SU036|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548199|SU036|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548200|SU036|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548201|SU042|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548202|SU042|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548203|SU042|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548204|SU046|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548205|SU046|N/A|F|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548206|SU056|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548207|SU056|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548208|SU056|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548209|SU014|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548210|SU014|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548211|SU014|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548212|SU266|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548213|SU266|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548214|SU266|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548215|SU267|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548216|SU267|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548217|SU267|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548218|SU302|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548219|SU302|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548220|SU302|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548221|SU306|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Leukemia Stem Cells|in_vivo|case|AML_LSC|N/A|Disease
+GSM1548222|SU306|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease
+GSM1548223|SU306|N/A|M|N/A|N/A|Acute Myeloid Leukemia|N/A|Blast Cells|in_vivo|case|AML_Blast|N/A|Disease

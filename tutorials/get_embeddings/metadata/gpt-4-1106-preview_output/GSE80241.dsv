@@ -1,0 +1,17 @@
+GSM2122594|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|ctrl|non CSC 1|N/A|Disease
+GSM2122595|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|case|CSC 1|N/A|Disease
+GSM2122596|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|ctrl|non CSC 2|N/A|Disease
+GSM2122597|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|case|CSC 2|N/A|Disease
+GSM2122598|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|ctrl|non CSC 3|N/A|Disease
+GSM2122599|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|case|CSC 3|N/A|Disease
+GSM2122600|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|ctrl|non CSC 4|N/A|Disease
+GSM2122601|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|case|CSC 4|N/A|Disease
+GSM2122602|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|ctrl|non CSC 5|N/A|Disease
+GSM2122603|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|case|CSC 5|N/A|Disease
+GSM2122604|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|ctrl|non CSC 6|N/A|Disease
+GSM2122605|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|case|CSC 6|N/A|Disease
+GSM2122606|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|ctrl|Control|N/A|None
+GSM2122607|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|case|Zebularine 1|Zebularine|Small Molecule
+GSM2122608|N/A|N/A|N/A|N/A|N/A|pancreatic ductal adenocarcinoma|Pancreas|N/A|in_vivo|case|Zebularine 2|Zebularine|Small Molecule
+GSM2122609|N/A|N/A|N/A|N/A|N/A|healthy|N/A|N/A|in_vitro|ctrl|IVD control 1|N/A|None
+GSM2122610|N/A|N/A|N/A|N/A|N/A|healthy|N/A|N/A|in_vitro|ctrl|IVD control 2|N/A|None

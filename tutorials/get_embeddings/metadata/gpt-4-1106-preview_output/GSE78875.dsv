@@ -1,0 +1,36 @@
+GSM2080288|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|BT20|in_vitro|ctrl|NT|None|None
+GSM2080289|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|BT474|in_vitro|ctrl|NT|None|None
+GSM2080290|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|BT549|in_vitro|ctrl|NT|None|None
+GSM2080291|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|Du4475|in_vitro|ctrl|NT|None|None
+GSM2080292|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|HCC1143|in_vitro|ctrl|NT|None|None
+GSM2080293|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|HCC1187|in_vitro|ctrl|NT|None|None
+GSM2080294|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|HCC1187|in_vitro|case|DAC|Small Molecule|None
+GSM2080295|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|HCC1395|in_vitro|ctrl|NT|None|None
+GSM2080296|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|HCC1599|in_vitro|ctrl|NT|None|None
+GSM2080297|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|HCC1806|in_vitro|ctrl|NT|None|None
+GSM2080298|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|HCC1806|in_vitro|case|DAC|Small Molecule|None
+GSM2080299|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|HCC1937|in_vitro|ctrl|NT|None|None
+GSM2080300|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|HCC1937|in_vitro|case|DAC|Small Molecule|None
+GSM2080301|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|HCC38|in_vitro|ctrl|NT|None|None
+GSM2080302|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|HCC70|in_vitro|ctrl|NT|None|None
+GSM2080303|N/A|N/A|N/A|N/A|Breast|Healthy|Breast|Hs578Bst|in_vitro|ctrl|NT|None|None
+GSM2080304|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|Hs578T|in_vitro|ctrl|NT|None|None
+GSM2080305|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|Hs578T|in_vitro|case|DAC|Small Molecule|None
+GSM2080306|N/A|N/A|N/A|N/A|Breast|Healthy|Breast|MCF10A|in_vitro|ctrl|NT|None|None
+GSM2080307|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|MCF7|in_vitro|ctrl|NT|None|None
+GSM2080308|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|MDA-MB-157|in_vitro|ctrl|NT|None|None
+GSM2080309|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|MDA-MB-231|in_vitro|ctrl|NT|None|None
+GSM2080310|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|MDA-MB-436|in_vitro|ctrl|NT|None|None
+GSM2080311|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|MDA-MB-436|in_vitro|case|DAC|Small Molecule|None
+GSM2080312|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|MDA-MB-453|in_vitro|ctrl|NT|None|None
+GSM2080313|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|MDA-MB-468|in_vitro|ctrl|NT|None|None
+GSM2080314|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A
+GSM2080315|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A
+GSM2080316|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|SKBR3|in_vitro|ctrl|NT|None|None
+GSM2080317|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|SUM1315|in_vitro|ctrl|NT|None|None
+GSM2080318|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|SUM1315|in_vitro|case|DAC|Small Molecule|None
+GSM2080319|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|T47D|in_vitro|ctrl|NT|None|None
+GSM2080320|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|SUM149|in_vitro|ctrl|NT|None|None
+GSM2080321|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|SUM149|in_vitro|case|DAC|Small Molecule|None
+GSM2080322|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|SUM159|in_vitro|ctrl|NT|None|None
+GSM2080323|N/A|N/A|N/A|N/A|Breast|Breast Cancer|Breast|SUM159|in_vitro|case|DAC|Small Molecule|None

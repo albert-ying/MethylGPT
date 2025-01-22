@@ -1,0 +1,145 @@
+GSM2773223|Patient0|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773224|Patient0|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773225|Patient0|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773226|Patient0|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773227|Patient0|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773228|Patient1|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773229|Patient1|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773230|Patient1|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773231|Patient1|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773232|Patient1|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773233|Patient2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773234|Patient2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773235|Patient2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773236|Patient2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773237|Patient2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773238|Patient3|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773239|Patient3|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773240|Patient3|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773241|Patient3|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773242|Patient3|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773243|Patient4|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773244|Patient4|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773245|Patient4|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773246|Patient4|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773247|Patient4|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773248|Patient5|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773249|Patient5|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773250|Patient5|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773251|Patient5|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773252|Patient5|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773253|Patient6|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773254|Patient6|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773255|Patient6|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773256|Patient6|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773257|Patient6|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773258|Patient7|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773259|Patient7|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773260|Patient7|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773261|Patient7|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773262|Patient7|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773263|Patient8|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773264|Patient8|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773265|Patient8|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773266|Patient8|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773267|Patient8|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773268|Patient9|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773269|Patient9|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773270|Patient9|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773271|Patient9|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773272|Patient9|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773273|Patient10|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773274|Patient10|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773275|Patient10|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773276|Patient10|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773277|Patient10|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773278|Patient11|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773279|Patient11|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773280|Patient11|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773281|Patient11|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773282|Patient11|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773283|Patient12|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773284|Patient12|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773285|Patient12|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773286|Patient12|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773287|Patient12|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773288|Patient13|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773289|Patient13|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773290|Patient13|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773291|Patient13|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773292|Patient13|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773293|Patient14|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773294|Patient14|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773295|Patient14|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773296|Patient14|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773297|Patient14|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773298|Patient15|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773299|Patient15|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773300|Patient15|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773301|Patient15|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773302|Patient15|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773303|Patient16|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773304|Patient16|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773305|Patient16|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773306|Patient16|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773307|Patient16|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773308|Patient17|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773309|Patient17|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773310|Patient17|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773311|Patient17|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773312|Patient17|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773313|Patient18|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773314|Patient18|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773315|Patient18|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773316|Patient18|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773317|Patient18|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773318|Patient19|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773319|Patient19|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773320|Patient19|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773321|Patient19|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773322|Patient19|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773323|Patient20|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773324|Patient20|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773325|Patient20|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773326|Patient20|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773327|Patient20|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773328|Patient21|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773329|Patient21|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773330|Patient21|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773331|Patient21|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773332|Patient21|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773333|Patient22|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773334|Patient22|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773335|Patient22|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773336|Patient22|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773337|Patient22|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773338|Patient23|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773339|Patient23|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773340|Patient23|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773341|Patient23|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773342|Patient23|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773343|Patient24|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773344|Patient24|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773345|Patient24|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773346|Patient24|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773347|Patient24|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773348|Patient25|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773349|Patient25|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773350|Patient25|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773351|Patient25|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773352|Patient25|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773353|Patient26|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773354|Patient26|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773355|Patient26|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773356|Patient26|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773357|Patient26|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773358|Patient27|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773359|Patient27|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773360|Patient27|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773361|Patient27|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773362|Patient27|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773363|Patient28|N/A|N/A|N/A|N/A|Healthy|Whole Blood|B-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773364|Patient28|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD4 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773365|Patient28|N/A|N/A|N/A|N/A|Healthy|Whole Blood|CD8 T-cells|in_vivo|ctrl|N/A|N/A|None
+GSM2773366|Patient28|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Granulocytes|in_vivo|ctrl|N/A|N/A|None
+GSM2773367|Patient28|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vivo|ctrl|N/A|N/A|None

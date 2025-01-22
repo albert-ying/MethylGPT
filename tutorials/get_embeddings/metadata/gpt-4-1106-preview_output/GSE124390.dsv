@@ -1,0 +1,32 @@
+GSM3530952|HD01|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vitro|ctrl|HD01|N/A|N/A
+GSM3530953|HD02|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vitro|ctrl|HD02|N/A|N/A
+GSM3530954|HD03|N/A|M|71|N/A|Healthy|Cells|N/A|in_vitro|ctrl|HD03|N/A|N/A
+GSM3530955|HD04|N/A|M|N/A|N/A|Healthy|Cells|N/A|in_vitro|ctrl|HD04|N/A|N/A
+GSM3530956|HD05|N/A|M|N/A|N/A|Healthy|Cells|N/A|in_vitro|ctrl|HD05|N/A|N/A
+GSM3530957|HD06|N/A|M|75|N/A|Healthy|Cells|N/A|in_vitro|ctrl|HD06|N/A|N/A
+GSM3530958|HD07|N/A|M|56|N/A|Healthy|Cells|N/A|in_vitro|ctrl|HD07|N/A|N/A
+GSM3530959|HD08|N/A|M|72|N/A|Healthy|Cells|N/A|in_vitro|ctrl|HD08|N/A|N/A
+GSM3530960|HD09|N/A|M|81|N/A|Healthy|Cells|N/A|in_vitro|ctrl|HD09|N/A|N/A
+GSM3530961|HD10|N/A|M|81|N/A|Healthy|Cells|N/A|in_vitro|ctrl|HD10|N/A|N/A
+GSM3530962|HD11|N/A|F|97|N/A|Healthy|Cells|N/A|in_vitro|ctrl|HD11|N/A|N/A
+GSM3530963|MDS01|N/A|F|72|N/A|Myelodysplastic Syndromes|Cells|N/A|in_vitro|case|MDS01|N/A|Disease
+GSM3530964|MDS02|N/A|M|70|N/A|Myelodysplastic Syndromes|Cells|N/A|in_vitro|case|MDS02|N/A|Disease
+GSM3530965|MDS03|N/A|F|70|N/A|Myelodysplastic Syndromes|Cells|N/A|in_vitro|case|MDS03|N/A|Disease
+GSM3530966|MDS04|N/A|M|83|N/A|Myelodysplastic Syndromes|Cells|N/A|in_vitro|case|MDS04|N/A|Disease
+GSM3530967|MDS05|N/A|M|80|N/A|Myelodysplastic Syndromes|Cells|N/A|in_vitro|case|MDS05|N/A|Disease
+GSM3530968|MDS06|N/A|M|87|N/A|Myelodysplastic Syndromes|Cells|N/A|in_vitro|case|MDS06|N/A|Disease
+GSM3530969|MDS07|N/A|M|77|N/A|Myelodysplastic Syndromes|Cells|N/A|in_vitro|case|MDS07|N/A|Disease
+GSM3530970|MDS08|N/A|F|62|N/A|Myelodysplastic Syndromes|Cells|N/A|in_vitro|case|MDS08|N/A|Disease
+GSM3530971|MDS09|N/A|M|94|N/A|Myelodysplastic Syndromes|Cells|N/A|in_vitro|case|MDS09|N/A|Disease
+GSM3530972|MDS10|N/A|M|69|N/A|Myelodysplastic Syndromes|Cells|N/A|in_vitro|case|MDS10|N/A|Disease
+GSM3530973|MDS11|N/A|M|85|N/A|Myelodysplastic Syndromes|Cells|N/A|in_vitro|case|MDS11|N/A|Disease
+GSM3530974|AML01|N/A|F|53|N/A|Acute Myeloid Leukemia|Cells|N/A|in_vitro|case|AML01|N/A|Disease
+GSM3530975|AML02|N/A|F|40|N/A|Acute Myeloid Leukemia|Cells|N/A|in_vitro|case|AML02|N/A|Disease
+GSM3530976|AML03|N/A|F|64|N/A|Acute Myeloid Leukemia|Cells|N/A|in_vitro|case|AML03|N/A|Disease
+GSM3530977|AML04|N/A|M|43|N/A|Acute Myeloid Leukemia|Cells|N/A|in_vitro|case|AML04|N/A|Disease
+GSM3530978|AML05|N/A|F|53|N/A|Acute Myeloid Leukemia|Cells|N/A|in_vitro|case|AML05|N/A|Disease
+GSM3530979|AML06|N/A|F|65|N/A|Acute Myeloid Leukemia|Cells|N/A|in_vitro|case|AML06|N/A|Disease
+GSM3530980|AML07|N/A|M|54|N/A|Acute Myeloid Leukemia|Cells|N/A|in_vitro|case|AML07|N/A|Disease
+GSM3530981|AML08|N/A|M|37|N/A|Acute Myeloid Leukemia|Cells|N/A|in_vitro|case|AML08|N/A|Disease
+GSM3530982|AML09|N/A|F|66|N/A|Acute Myeloid Leukemia|Cells|N/A|in_vitro|case|AML09|N/A|Disease
+GSM3530983|AML10|N/A|M|71|N/A|Acute Myeloid Leukemia|Cells|N/A|in_vitro|case|AML10|N/A|Disease

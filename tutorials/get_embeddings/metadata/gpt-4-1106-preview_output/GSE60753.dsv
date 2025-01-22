@@ -1,0 +1,199 @@
+GSM1487220|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487254|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487257|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487231|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|HCC cell line|in_vitro|N/A|HCC_cell_line|N/A|Disease
+GSM1487309|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487115|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487263|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487161|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487154|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_Genetic|N/A|Genetic
+GSM1487297|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487188|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487146|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487233|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|HCC cell line|in_vitro|N/A|HCC_cell_line|N/A|Disease
+GSM1487165|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487207|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487205|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487261|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487311|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487209|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487171|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487166|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487164|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487185|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487271|N/A|N/A|N/A|N/A|N/A|Metastatic Tumor|Liver|N/A|in_vivo|case|Metastatic_Tumor|N/A|Disease
+GSM1487258|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487266|N/A|N/A|N/A|N/A|N/A|Metastatic Tumor|Liver|N/A|in_vivo|case|Metastatic_Tumor|N/A|Disease
+GSM1487268|N/A|N/A|N/A|N/A|N/A|Metastatic Tumor|Liver|N/A|in_vivo|case|Metastatic_Tumor|N/A|Disease
+GSM1487225|N/A|N/A|N/A|N/A|N/A|Biliary Tumor|Liver|N/A|in_vivo|case|Biliary_Tumor|N/A|Disease
+GSM1487275|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487210|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487224|N/A|N/A|N/A|N/A|N/A|Biliary Tumor|Liver|N/A|in_vivo|case|Biliary_Tumor|N/A|Disease
+GSM1487232|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|HCC cell line|in_vitro|N/A|HCC_cell_line|N/A|Disease
+GSM1487138|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487242|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487216|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487132|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487151|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_Biliary|N/A|Disease
+GSM1487202|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487123|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487174|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487120|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487222|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487282|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487226|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|Cryptogenic_HCC|N/A|Disease
+GSM1487149|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cryptogenic_Cirrhosis|N/A|Disease
+GSM1487260|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487284|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487191|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487301|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487219|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487218|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487178|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487172|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487124|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487136|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487264|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487299|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487211|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487223|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487187|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487113|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487163|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487259|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487194|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487203|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487272|N/A|N/A|N/A|N/A|N/A|Metastatic Tumor|Liver|N/A|in_vivo|case|Metastatic_Tumor|N/A|Disease
+GSM1487229|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|Cryptogenic_HCC|N/A|Disease
+GSM1487276|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487295|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487114|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487176|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487148|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cryptogenic_Cirrhosis|N/A|Disease
+GSM1487249|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487170|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487143|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487287|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487274|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487126|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487292|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487248|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487288|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487189|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487175|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487159|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487306|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487196|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487235|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|HCC cell line|in_vitro|N/A|HCC_cell_line|N/A|Disease
+GSM1487157|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_Immune|N/A|Disease
+GSM1487140|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487129|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487256|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487247|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487300|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487285|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487156|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_Immune|N/A|Disease
+GSM1487269|N/A|N/A|N/A|N/A|N/A|Metastatic Tumor|Liver|N/A|in_vivo|case|Metastatic_Tumor|N/A|Disease
+GSM1487152|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_Genetic|N/A|Genetic
+GSM1487255|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487278|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487234|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|HCC cell line|in_vitro|N/A|HCC_cell_line|N/A|Disease
+GSM1487130|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487197|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487135|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487204|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487117|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487236|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|HCC cell line|in_vitro|N/A|HCC_cell_line|N/A|Disease
+GSM1487213|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487246|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487239|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487116|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487200|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487186|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487131|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487150|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_Biliary|N/A|Disease
+GSM1487145|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487121|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487304|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487227|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|Cryptogenic_HCC|N/A|Disease
+GSM1487308|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487230|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|Cryptogenic_HCC|N/A|Disease
+GSM1487286|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487122|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487251|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487193|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487215|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487144|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487133|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487137|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487180|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HBV|N/A|Disease
+GSM1487125|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487177|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487310|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487243|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487169|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487265|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487307|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487184|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HBV|N/A|Disease
+GSM1487160|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487267|N/A|N/A|N/A|N/A|N/A|Metastatic Tumor|Liver|N/A|in_vivo|case|Metastatic_Tumor|N/A|Disease
+GSM1487273|N/A|N/A|N/A|N/A|N/A|Metastatic Tumor|Liver|N/A|in_vivo|case|Metastatic_Tumor|N/A|Disease
+GSM1487179|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HBV|N/A|Disease
+GSM1487162|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487277|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487228|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|Cryptogenic_HCC|N/A|Disease
+GSM1487221|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487253|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487298|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487155|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_Genetic|N/A|Genetic
+GSM1487305|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487127|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487290|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487237|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|HCC cell line|in_vitro|N/A|HCC_cell_line|N/A|Disease
+GSM1487283|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487250|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487208|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487296|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487153|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_Genetic|N/A|Genetic
+GSM1487303|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487168|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487206|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487181|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HBV|N/A|Disease
+GSM1487281|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487291|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487199|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487252|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487294|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487139|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487289|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487182|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HBV|N/A|Disease
+GSM1487262|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_HCV|N/A|Disease
+GSM1487192|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487183|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HBV|N/A|Disease
+GSM1487212|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487119|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487198|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487190|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487128|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487238|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|HCC cell line|in_vitro|N/A|HCC_cell_line|N/A|Disease
+GSM1487173|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487302|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487147|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cryptogenic_Cirrhosis|N/A|Disease
+GSM1487195|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487201|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487134|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487141|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487118|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487167|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487240|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487217|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487241|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487293|N/A|N/A|N/A|N/A|N/A|N/A|Liver|N/A|in_vivo|N/A|unclassified|N/A|N/A
+GSM1487245|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487279|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487158|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_EtOH|N/A|Lifestyle
+GSM1487280|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|normal hepatocyte|in_vitro|ctrl|Plated_Hepatocyte|N/A|N/A
+GSM1487142|N/A|N/A|N/A|N/A|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Normal|N/A|N/A
+GSM1487214|N/A|N/A|N/A|N/A|N/A|Cirrhosis|Liver|N/A|in_vivo|ctrl|Cirrhosis_HCV|N/A|Disease
+GSM1487244|N/A|N/A|N/A|N/A|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_EtOH|N/A|Lifestyle
+GSM1487270|N/A|N/A|N/A|N/A|N/A|Metastatic Tumor|Liver|N/A|in_vivo|case|Metastatic_Tumor|N/A|Disease

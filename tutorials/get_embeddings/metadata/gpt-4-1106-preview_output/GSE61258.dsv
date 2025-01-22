@@ -1,0 +1,79 @@
+GSM1500908|S11a10882|N/A|M|70|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500909|S11a10bc2|N/A|F|55|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500910|S11a10bf2|N/A|F|76|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500911|S11a10f02|N/A|F|73|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500912|S11a112b2|N/A|M|68|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500913|S11a11342|N/A|M|86|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500914|S11a113c2|N/A|M|70|N/A|Nonalcoholic Steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1500915|S11a11452|N/A|F|78|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500916|S11a114f2|N/A|M|54|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500917|S11a11592|N/A|F|75|N/A|Healthy Obese|Liver|N/A|in_vivo|ctrl|HealthyObese|N/A|Lifestyle
+GSM1500918|S11a115d2|N/A|M|72|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500919|S11a11622|N/A|M|67|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500920|S11a11972|N/A|F|67|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500921|S11a11a92|N/A|F|85|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500922|S11a11b22|N/A|M|77|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500923|S11a11f52|N/A|F|59|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500924|S11a120c2|N/A|M|39|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500925|S11a121b2|N/A|M|71|N/A|Healthy Obese|Liver|N/A|in_vivo|ctrl|HealthyObese|N/A|Lifestyle
+GSM1500926|S11a13962|N/A|F|48|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500927|S11a13992|N/A|F|49|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500928|S11a13c02|N/A|F|38|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500929|S11a13c32|N/A|F|53|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500930|S11a13c52|N/A|F|81|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500931|S11a13c82|N/A|M|64|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500932|S11a13eb2|N/A|M|61|N/A|Healthy Obese|Liver|N/A|in_vivo|ctrl|HealthyObese|N/A|Lifestyle
+GSM1500933|S11a13f42|N/A|M|53|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500934|S11a141b2|N/A|F|48|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500935|S11a142a2|N/A|M|41|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500936|S11a14452|N/A|F|35|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500937|S11a14482|N/A|F|48|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500938|S11a14772|N/A|M|57|N/A|Healthy Obese|Liver|N/A|in_vivo|ctrl|HealthyObese|N/A|Lifestyle
+GSM1500939|S11a14992|N/A|F|46|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500940|S11a14d42|N/A|F|55|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500941|S11a14e52|N/A|F|55|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500942|S11a14ee2|N/A|M|44|N/A|Healthy Obese|Liver|N/A|in_vivo|ctrl|HealthyObese|N/A|Lifestyle
+GSM1500943|S11a14f02|N/A|F|63|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500944|S11a14f22|N/A|F|57|N/A|Primary Biliary Cholangitis|Liver|N/A|in_vivo|case|PBC|N/A|Disease
+GSM1500945|S11a150f2|N/A|M|62|N/A|Healthy Obese|Liver|N/A|in_vivo|ctrl|HealthyObese|N/A|Lifestyle
+GSM1500946|S11a151c2|N/A|F|46|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500947|S11a15572|N/A|M|30|N/A|Nonalcoholic Steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1500948|S11a155d2|N/A|M|77|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500949|S11a157c2|N/A|F|75|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500950|S11a15c62|N/A|M|32|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500951|S11a15e92|N/A|M|77|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500952|S11a15fc2|N/A|F|49|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500953|S11a16232|N/A|M|41|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500954|S11a16252|N/A|M|35|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500955|S11a162b2|N/A|M|43|N/A|Nonalcoholic Steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1500956|S11a16502|N/A|F|33|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500957|S11a16572|N/A|F|58|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500958|S11a16692|N/A|M|41|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500959|S11a16962|N/A|M|39|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500960|S11a16ec2|N/A|F|71|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500961|S11a16f92|N/A|F|77|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500962|S11a17062|N/A|M|41|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500963|S11a17072|N/A|M|38|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500964|S11a17282|N/A|M|40|N/A|Nonalcoholic Steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1500965|S11a17342|N/A|F|34|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500966|S11a17362|N/A|M|43|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500967|S11a17502|N/A|M|46|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500968|S11a175c2|N/A|M|21|N/A|Nonalcoholic Steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1500969|S11a175f2|N/A|F|46|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500970|S11a17672|N/A|M|49|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500971|S11a176a2|N/A|M|35|N/A|Nonalcoholic Steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1500972|S11a17722|N/A|M|46|N/A|Nonalcoholic Fatty Liver Disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1500973|S11a177c2|N/A|M|33|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM1500974|S11a17952|N/A|M|60|N/A|Nonalcoholic Steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1500975|S11a17a62|N/A|M|23|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500976|S11a17a72|N/A|F|52|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500977|S11a17a82|N/A|M|38|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500978|S11a17a92|N/A|M|57|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500979|S11a17aa2|N/A|F|61|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500980|S11a17ab2|N/A|M|55|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500981|S11a17ae2|N/A|M|37|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500982|S11a17af2|N/A|M|36|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500983|S11a17b02|N/A|F|46|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500984|S11a17b12|N/A|F|53|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500985|S11a17b22|N/A|M|60|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease
+GSM1500986|S11a17b32|N/A|M|54|N/A|Primary Sclerosing Cholangitis|Liver|N/A|in_vivo|case|PSC|N/A|Disease

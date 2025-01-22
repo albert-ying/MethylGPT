@@ -1,0 +1,62 @@
+GSM4052028|Patient 004|Other|M|70|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_004|N/A|Disease
+GSM4052029|Patient 015|Other|F|32|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_015|N/A|Disease
+GSM4052030|Patient 025|Other|M|15|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_025|N/A|Disease
+GSM4052031|Patient 026|Other|M|36|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_026|N/A|Disease
+GSM4052032|Patient 034|Other|F|28|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_034|N/A|Disease
+GSM4052033|Patient 047|Other|F|78|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_047|N/A|Disease
+GSM4052034|Patient 054|Other|F|46|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_054|N/A|Disease
+GSM4052035|Patient 068|Other|M|62|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_068|N/A|Disease
+GSM4052036|Patient 070|Other|M|64|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_070|N/A|Disease
+GSM4052037|Patient 083|Other|M|73|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_083|N/A|Disease
+GSM4052038|Patient 088|Other|M|67|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_088|N/A|Disease
+GSM4052039|Patient 091|Other|M|65|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_091|N/A|Disease
+GSM4052040|Patient 092|Other|M|76|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_092|N/A|Disease
+GSM4052041|Patient 093|Other|M|35|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_093|N/A|Disease
+GSM4052042|Patient 095|Other|M|30|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_095|N/A|Disease
+GSM4052043|Patient 099|Other|F|32|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_099|N/A|Disease
+GSM4052044|Patient 100|Other|F|44|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_100|N/A|Disease
+GSM4052045|Patient 101|Other|M|24|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_101|N/A|Disease
+GSM4052046|Patient 104|Other|M|72|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_104|N/A|Disease
+GSM4052047|Patient 106|Other|M|72|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_106|N/A|Disease
+GSM4052048|Patient 109|Other|M|38|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_109|N/A|Disease
+GSM4052049|Patient 116|Other|M|77|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_116|N/A|Disease
+GSM4052050|Patient 117|Other|F|44|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_117|N/A|Disease
+GSM4052051|Patient 120|Other|F|20|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_120|N/A|Disease
+GSM4052052|Patient 121|Other|F|82|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_121|N/A|Disease
+GSM4052053|Patient 179|Other|M|33|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_179|N/A|Disease
+GSM4052054|Patient 180|Other|M|34|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_180|N/A|Disease
+GSM4052055|Patient 188|Other|F|94|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_188|N/A|Disease
+GSM4052056|Patient 190|Other|F|46|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_190|N/A|Disease
+GSM4052057|Patient 200|Other|M|42|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_200|N/A|Disease
+GSM4052058|Patient 201|Other|M|76|N/A|Hepatocellular Carcinoma|Liver|N/A|in_vivo|case|HCC_Patient_201|N/A|Disease
+GSM4052059|Patient 004|Other|M|70|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_004|N/A|None
+GSM4052060|Patient 015|Other|F|32|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_015|N/A|None
+GSM4052061|Patient 025|Other|M|15|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_025|N/A|None
+GSM4052062|Patient 026|Other|M|36|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_026|N/A|None
+GSM4052063|Patient 034|Other|F|28|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_034|N/A|None
+GSM4052064|Patient 047|Other|F|78|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_047|N/A|None
+GSM4052065|Patient 054|Other|F|46|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_054|N/A|None
+GSM4052066|Patient 068|Other|M|62|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_068|N/A|None
+GSM4052067|Patient 070|Other|M|64|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_070|N/A|None
+GSM4052068|Patient 083|Other|M|73|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_083|N/A|None
+GSM4052069|Patient 088|Other|M|67|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_088|N/A|None
+GSM4052070|Patient 091|Other|M|65|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_091|N/A|None
+GSM4052071|Patient 092|Other|M|76|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_092|N/A|None
+GSM4052072|Patient 093|Other|M|35|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_093|N/A|None
+GSM4052073|Patient 095|Other|M|30|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_095|N/A|None
+GSM4052074|Patient 099|Other|F|32|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_099|N/A|None
+GSM4052075|Patient 100|Other|F|44|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_100|N/A|None
+GSM4052076|Patient 101|Other|M|24|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_101|N/A|None
+GSM4052077|Patient 104|Other|M|72|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_104|N/A|None
+GSM4052078|Patient 106|Other|M|72|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_106|N/A|None
+GSM4052079|Patient 109|Other|M|38|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_109|N/A|None
+GSM4052080|Patient 116|Other|M|77|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_116|N/A|None
+GSM4052094|Patient 117|Other|F|44|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_117|N/A|None
+GSM4052095|Patient 120|Other|F|20|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_120|N/A|None
+GSM4052096|Patient 121|Other|F|82|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_121|N/A|None
+GSM4052097|Patient 179|Other|M|33|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_179|N/A|None
+GSM4052098|Patient 180|Other|M|34|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_180|N/A|None
+GSM4052099|Patient 188|Other|F|94|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_188|N/A|None
+GSM4052100|Patient 190|Other|F|46|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_190|N/A|None
+GSM4052101|Patient 200|Other|M|42|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_200|N/A|None
+GSM4052102|Patient 201|Other|M|76|N/A|Healthy|Liver|N/A|in_vivo|ctrl|NTL_Patient_201|N/A|None

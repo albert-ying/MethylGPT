@@ -1,0 +1,64 @@
+GSM3169168|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day0|N/A|N/A
+GSM3169169|donor2|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day0|N/A|N/A
+GSM3169170|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day0|N/A|N/A
+GSM3169171|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day0|N/A|N/A
+GSM3169172|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day0|N/A|N/A
+GSM3169173|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|case|Day2|CXCL4|Small Molecule
+GSM3169174|donor2|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|case|Day2|CXCL4|Small Molecule
+GSM3169175|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|case|Day2|CXCL4|Small Molecule
+GSM3169176|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|case|Day2|CXCL4|Small Molecule
+GSM3169177|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|case|Day2|CXCL4|Small Molecule
+GSM3169178|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day2|N/A|N/A
+GSM3169179|donor2|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day2|N/A|N/A
+GSM3169180|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day2|N/A|N/A
+GSM3169181|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day2|N/A|N/A
+GSM3169182|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|case|Day4|CXCL4|Small Molecule
+GSM3169183|donor4|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|case|Day4|CXCL4|Small Molecule
+GSM3169184|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|case|Day4|CXCL4|Small Molecule
+GSM3169185|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|case|Day4|CXCL4|Small Molecule
+GSM3169186|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|case|Day4|CXCL4|Small Molecule
+GSM3169187|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day4|N/A|N/A
+GSM3169188|donor4|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day4|N/A|N/A
+GSM3169189|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day4|N/A|N/A
+GSM3169190|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day4|N/A|N/A
+GSM3169191|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day4|N/A|N/A
+GSM3169192|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|case|Day6|CXCL4|Small Molecule
+GSM3169193|donor6|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|case|Day6|CXCL4|Small Molecule
+GSM3169194|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|case|Day6|CXCL4|Small Molecule
+GSM3169195|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|case|Day6|CXCL4|Small Molecule
+GSM3169196|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|case|Day6|CXCL4|Small Molecule
+GSM3169197|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day6|N/A|N/A
+GSM3169198|donor6|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day6|N/A|N/A
+GSM3169199|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day6|N/A|N/A
+GSM3169200|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day6|N/A|N/A
+GSM3169201|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day6|N/A|N/A
+GSM3169202|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|case|Day7|CXCL4|Small Molecule
+GSM3169203|donor2|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|case|Day7|CXCL4|Small Molecule
+GSM3169204|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|case|Day7|CXCL4|Small Molecule
+GSM3169205|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|case|Day7|CXCL4|Small Molecule
+GSM3169206|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|case|Day7|CXCL4|Small Molecule
+GSM3169207|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day7|N/A|N/A
+GSM3169208|donor2|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day7|N/A|N/A
+GSM3169209|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day7|N/A|N/A
+GSM3169210|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day7|N/A|N/A
+GSM3169211|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day7|N/A|N/A
+GSM3169212|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|case|Day7|CXCL4|Small Molecule
+GSM3169213|donor2|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|case|Day7|CXCL4|Small Molecule
+GSM3169214|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|case|Day7|CXCL4|Small Molecule
+GSM3169215|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|case|Day7|CXCL4|Small Molecule
+GSM3169216|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|case|Day7|CXCL4|Small Molecule
+GSM3169217|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day7|N/A|N/A
+GSM3169218|donor2|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day7|N/A|N/A
+GSM3169219|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day7|N/A|N/A
+GSM3169220|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day7|N/A|N/A
+GSM3169221|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day7|N/A|N/A
+GSM3169222|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|case|Day8|CXCL4|Small Molecule
+GSM3169223|donor2|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|case|Day8|CXCL4|Small Molecule
+GSM3169224|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|case|Day8|CXCL4|Small Molecule
+GSM3169225|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|case|Day8|CXCL4|Small Molecule
+GSM3169226|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|case|Day8|CXCL4|Small Molecule
+GSM3169227|donor1|N/A|F|43|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day8|N/A|N/A
+GSM3169228|donor2|N/A|F|48|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day8|N/A|N/A
+GSM3169229|donor3|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day8|N/A|N/A
+GSM3169230|donor4|N/A|M|30|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day8|N/A|N/A
+GSM3169231|donor5|N/A|M|47|N/A|healthy|Cells|N/A|in_vitro|ctrl|Day8|N/A|N/A

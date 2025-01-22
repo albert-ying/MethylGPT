@@ -1,0 +1,28 @@
+GSM1255293|SP-09|N/A|M|66|N/A|Healthy|N/A|N/A|in_vitro|ctrl|CON|N/A|N/A
+GSM1255294|SP-11|N/A|F|48|N/A|Healthy|N/A|N/A|in_vitro|ctrl|CON|N/A|N/A
+GSM1255295|SP-15|N/A|F|47|N/A|Healthy|N/A|N/A|in_vitro|ctrl|CON|N/A|N/A
+GSM1255296|SP-17|N/A|M|52|N/A|Healthy|N/A|N/A|in_vitro|ctrl|CON|N/A|N/A
+GSM1255297|SP-01|N/A|F|63|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|IPD|N/A|Disease
+GSM1255298|SP-02|N/A|M|55|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|IPD|N/A|Disease
+GSM1255299|SP-04|N/A|M|46|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|IPD|N/A|Disease
+GSM1255300|SP-08|N/A|F|66|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|IPD|N/A|Disease
+GSM1255301|SP-10|N/A|M|58|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|IPD|N/A|Disease
+GSM1255302|SP-16|N/A|F|51|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|IPD|N/A|Disease
+GSM1255303|SP-05|N/A|M|66|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|L2PD|N/A|Genetic
+GSM1255304|SP-06|N/A|M|44|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|L2PD|N/A|Genetic
+GSM1255305|SP-12|N/A|F|63|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|L2PD|N/A|Genetic
+GSM1255306|SP-13|N/A|F|68|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|L2PD|N/A|Genetic
+GSM1255307|SP-09|N/A|M|66|N/A|Healthy|N/A|N/A|in_vitro|ctrl|CON|N/A|N/A
+GSM1255308|SP-11|N/A|F|48|N/A|Healthy|N/A|N/A|in_vitro|ctrl|CON|N/A|N/A
+GSM1255309|SP-17|N/A|M|52|N/A|Healthy|N/A|N/A|in_vitro|ctrl|CON|N/A|N/A
+GSM1255310|SP-04|N/A|M|46|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|sPD|N/A|Disease
+GSM1255311|SP-16|N/A|F|51|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|sPD|N/A|Disease
+GSM1255312|SP-06|N/A|M|44|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|L2PD|N/A|Genetic
+GSM1255313|SP-13|N/A|F|68|N/A|Parkinson's disease|N/A|N/A|in_vitro|case|L2PD|N/A|Genetic
+GSM1255314|SP-09|N/A|M|66|N/A|Healthy|N/A|N/A|in_vivo|ctrl|CON|N/A|N/A
+GSM1255315|SP-11|N/A|F|48|N/A|Healthy|N/A|N/A|in_vivo|ctrl|CON|N/A|N/A
+GSM1255316|SP-17|N/A|M|52|N/A|Healthy|N/A|N/A|in_vivo|ctrl|CON|N/A|N/A
+GSM1255317|SP-04|N/A|M|46|N/A|Parkinson's disease|N/A|N/A|in_vivo|case|sPD|N/A|Disease
+GSM1255318|SP-16|N/A|F|51|N/A|Parkinson's disease|N/A|N/A|in_vivo|case|sPD|N/A|Disease
+GSM1255319|SP-06|N/A|M|44|N/A|Parkinson's disease|N/A|N/A|in_vivo|case|L2PD|N/A|Genetic
+GSM1255320|SP-13|N/A|F|68|N/A|Parkinson's disease|N/A|N/A|in_vivo|case|L2PD|N/A|Genetic

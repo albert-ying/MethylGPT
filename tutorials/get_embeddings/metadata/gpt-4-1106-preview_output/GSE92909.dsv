@@ -1,0 +1,6 @@
+GSM2440272|N/A|N/A|N/A|N/A|N/A|Triple-negative breast cancer|Breast|HCC1806|in_vitro|ctrl|Control|DMSO|Small Molecule
+GSM2440273|N/A|N/A|N/A|N/A|N/A|Triple-negative breast cancer|Breast|HCC1806|in_vitro|case|LBH589_96h|LBH589 (10nM) for 96 hours|Small Molecule
+GSM2440274|N/A|N/A|N/A|N/A|N/A|Triple-negative breast cancer|Breast|HCC1806|in_vitro|case|LBH589_4w|LBH589 (10nM) for 28 days|Small Molecule
+GSM2440275|N/A|N/A|N/A|N/A|N/A|Triple-negative breast cancer|Breast|MDA-MB-231|in_vitro|ctrl|Control|DMSO|Small Molecule
+GSM2440276|N/A|N/A|N/A|N/A|N/A|Triple-negative breast cancer|Breast|MDA-MB-231|in_vitro|case|LBH589_96h|LBH589 (10nM) for 96 hours|Small Molecule
+GSM2440277|N/A|N/A|N/A|N/A|N/A|Triple-negative breast cancer|Breast|MDA-MB-231|in_vitro|case|LBH589_4w|LBH589 (10nM) for 28 days|Small Molecule

@@ -1,0 +1,341 @@
+GSM5463372|129|N/A|F|59|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463532|274|N/A|F|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463341|98|N/A|F|59|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463451|199|N/A|F|49|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463405|158|N/A|F|41|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463463|211|N/A|M|53|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463323|81|N/A|F|52|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463548|290|N/A|F|43|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463268|31|N/A|M|60|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463302|62|N/A|F|34|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463509|253|N/A|F|58|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463526|269|N/A|F|51|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463330|87|N/A|F|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463473|221|N/A|F|75|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463320|10|N/A|F|30|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463399|152|N/A|F|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463424|175|N/A|F|66|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463380|135|N/A|F|58|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463557|299|N/A|F|44|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463366|123|N/A|F|34|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463360|117|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463293|54|N/A|F|38|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463555|297|N/A|F|36|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463350|107|N/A|F|38|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463495|240|N/A|M|61|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463400|153|N/A|F|53|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463455|203|N/A|M|61|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463306|66|N/A|F|23|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463318|77|N/A|F|61|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463359|116|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463357|114|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463292|53|N/A|F|28|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463315|74|N/A|F|49|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463421|173|N/A|F|51|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463519|263|N/A|F|43|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463261|25|N/A|M|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463523|267|N/A|F|61|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463351|108|N/A|F|30|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463462|210|N/A|F|33|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463327|84|N/A|F|46|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463386|140|N/A|F|56|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463520|264|N/A|F|38|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463294|55|N/A|F|53|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463522|266|N/A|F|41|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463492|237|N/A|F|37|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463458|206|N/A|F|32|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463449|197|N/A|F|34|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463346|103|N/A|F|51|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463550|292|N/A|F|66|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463472|220|N/A|F|61|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463295|56|N/A|F|64|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463303|63|N/A|F|59|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463271|34|N/A|M|69|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463505|249|N/A|F|56|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463419|171|N/A|F|42|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463308|67|N/A|F|70|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463253|17|N/A|M|69|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463251|15|N/A|M|55|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463587|325|N/A|F|41|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463508|252|N/A|F|32|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463392|146|N/A|F|53|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463403|156|N/A|F|48|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463434|185|N/A|F|70|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463333|90|N/A|F|61|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463503|247|N/A|F|51|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463312|71|N/A|F|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463356|113|N/A|F|44|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463459|207|N/A|F|40|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463444|7|N/A|M|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463321|79|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463583|321|N/A|F|46|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463535|277|N/A|F|29|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463255|19|N/A|M|38|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463561|303|N/A|F|63|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463336|93|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463559|301|N/A|F|49|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463342|99|N/A|F|19|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463453|201|N/A|F|43|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463326|83|N/A|F|56|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463374|9|N/A|F|46|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463581|7|N/A|M|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463554|296|N/A|F|51|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463579|319|N/A|M|47|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463416|168|N/A|M|47|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463443|193|N/A|M|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463549|291|N/A|F|37|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463355|112|N/A|F|54|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463533|275|N/A|F|59|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463565|307|N/A|F|58|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463369|126|N/A|F|58|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463525|2|N/A|F|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463262|26|N/A|M|41|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463488|233|N/A|F|35|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463454|202|N/A|M|52|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463354|111|N/A|F|23|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463528|271|N/A|F|49|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463328|85|N/A|F|50|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463254|18|N/A|M|61|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463265|6|N/A|M|53|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463576|316|N/A|M|51|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463277|39|N/A|M|58|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463384|138|N/A|F|33|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463531|273|N/A|F|33|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463248|12|N/A|M|36|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463396|2|N/A|F|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463407|160|N/A|F|59|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463470|218|N/A|F|46|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463574|10|N/A|F|30|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463388|142|N/A|F|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463275|8|N/A|M|65|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463582|5|N/A|F|55|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463573|314|N/A|M|35|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463539|281|N/A|F|55|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463370|127|N/A|F|36|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463567|309|N/A|M|45|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463298|59|N/A|F|44|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463545|287|N/A|F|51|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463452|200|N/A|F|52|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463427|178|N/A|F|64|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463313|72|N/A|F|55|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463485|232|N/A|F|44|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463414|167|N/A|M|71|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463450|198|N/A|F|28|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463247|11|N/A|M|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463493|238|N/A|M|45|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463259|23|N/A|M|56|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463317|76|N/A|F|45|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463393|147|N/A|F|44|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463480|227|N/A|F|56|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463577|317|N/A|F|33|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463335|92|N/A|F|68|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463394|148|N/A|F|26|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463404|157|N/A|M|52|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463541|283|N/A|F|46|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463569|311|N/A|M|53|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463290|51|N/A|F|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463390|144|N/A|F|39|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463536|278|N/A|F|63|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463391|145|N/A|F|51|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463474|10|N/A|F|30|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463544|286|N/A|F|30|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463339|96|N/A|F|34|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463324|1|N/A|F|60|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463373|130|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463518|262|N/A|F|53|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463266|29|N/A|M|51|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463322|80|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463478|225|N/A|F|29|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463563|305|N/A|F|48|N/A|Healthy|Liver|N/A|in_vivo|ctrl|Grade0|N/A|None
+GSM5463260|24|N/A|M|42|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463430|181|N/A|F|59|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463420|172|N/A|F|64|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463516|260|N/A|F|41|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463501|245|N/A|F|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463435|186|N/A|F|53|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463291|52|N/A|F|64|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463344|101|N/A|F|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463332|89|N/A|F|66|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463367|124|N/A|F|62|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463299|60|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463534|276|N/A|F|39|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463378|133|N/A|F|55|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463287|48|N/A|F|46|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463270|33|N/A|M|40|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463438|189|N/A|M|72|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463570|312|N/A|M|66|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463466|214|N/A|M|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463289|50|N/A|F|61|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463305|65|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463385|139|N/A|M|33|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463468|216|N/A|F|37|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463272|35|N/A|M|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463441|191|N/A|F|52|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463521|265|N/A|F|53|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463543|285|N/A|F|36|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463497|242|N/A|F|68|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463263|27|N/A|F|37|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463537|279|N/A|F|60|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463562|304|N/A|F|48|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463512|256|N/A|F|56|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463311|70|N/A|F|71|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463530|272|N/A|F|28|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463381|136|N/A|M|45|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463489|234|N/A|F|65|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463484|231|N/A|F|41|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463281|4|N/A|F|59|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463479|226|N/A|F|39|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463413|166|N/A|M|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463471|219|N/A|F|29|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463486|4|N/A|F|59|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463348|105|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463429|180|N/A|F|28|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463580|320|N/A|M|32|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463500|244|N/A|F|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463377|132|N/A|M|32|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463329|86|N/A|F|71|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463276|38|N/A|M|72|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463280|42|N/A|F|30|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463556|298|N/A|F|64|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463578|318|N/A|M|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463301|10|N/A|F|30|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463363|120|N/A|F|67|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463440|10|N/A|F|30|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463517|261|N/A|F|60|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463334|91|N/A|F|42|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463278|40|N/A|M|56|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463465|213|N/A|F|40|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463566|308|N/A|M|40|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463460|208|N/A|M|51|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463504|248|N/A|F|36|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463426|177|N/A|F|60|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463389|143|N/A|F|52|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463502|246|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463475|222|N/A|F|46|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463352|109|N/A|F|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463387|141|N/A|M|63|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463398|151|N/A|F|44|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463558|300|N/A|F|51|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463365|122|N/A|F|34|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463552|294|N/A|F|46|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463418|170|N/A|F|32|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463256|20|N/A|M|48|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463250|14|N/A|M|52|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463538|280|N/A|F|49|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463353|110|N/A|F|46|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463586|324|N/A|M|31|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463383|1|N/A|F|60|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463300|61|N/A|F|44|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463431|182|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463464|212|N/A|M|33|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463448|10|N/A|F|30|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463476|223|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463428|179|N/A|F|31|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463314|73|N/A|F|52|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463529|3|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463564|306|N/A|M|18|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463456|204|N/A|M|62|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463307|9|N/A|F|46|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463401|154|N/A|F|32|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463524|268|N/A|F|27|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463269|32|N/A|M|64|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463264|28|N/A|F|34|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463433|184|N/A|F|44|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463284|45|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463252|16|N/A|M|69|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463445|194|N/A|F|37|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463296|57|N/A|F|61|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463337|94|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463338|95|N/A|F|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463477|224|N/A|F|31|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463439|190|N/A|F|55|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463375|3|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463411|164|N/A|F|36|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463279|41|N/A|F|34|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463376|131|N/A|F|35|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463395|149|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463442|192|N/A|M|52|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463467|215|N/A|M|59|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463274|37|N/A|M|46|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463288|49|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463286|47|N/A|F|55|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463571|6|N/A|M|53|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463345|102|N/A|F|41|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463297|58|N/A|F|62|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463494|239|N/A|M|55|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463368|125|N/A|F|29|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463482|229|N/A|F|55|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463461|209|N/A|M|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463309|68|N/A|F|44|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463257|21|N/A|F|30|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463406|159|N/A|F|36|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463349|106|N/A|F|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463347|104|N/A|F|33|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463379|134|N/A|F|56|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463408|161|N/A|M|33|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463425|176|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463542|284|N/A|F|66|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463483|230|N/A|F|67|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463409|162|N/A|M|70|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463553|295|N/A|F|28|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463340|97|N/A|F|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463507|251|N/A|F|45|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463285|46|N/A|F|36|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463249|13|N/A|M|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463506|250|N/A|F|37|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463331|88|N/A|F|38|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463547|289|N/A|F|55|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463343|100|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463410|163|N/A|M|46|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463496|241|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463499|243|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463422|5|N/A|F|55|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463273|36|N/A|M|70|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463382|137|N/A|F|44|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463267|30|N/A|M|59|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463446|195|N/A|M|48|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463575|315|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463585|323|N/A|M|44|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463568|310|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463397|150|N/A|F|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463310|69|N/A|F|56|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463316|75|N/A|F|38|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463283|44|N/A|F|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463546|288|N/A|F|52|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463515|259|N/A|F|56|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463304|64|N/A|F|67|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463436|187|N/A|M|31|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463447|196|N/A|F|40|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463319|78|N/A|F|32|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463490|235|N/A|F|52|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463510|254|N/A|F|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463417|169|N/A|M|57|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463584|322|N/A|M|58|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463258|22|N/A|M|61|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463432|183|N/A|F|47|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463361|118|N/A|F|32|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463325|82|N/A|F|56|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463469|217|N/A|F|37|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463540|282|N/A|F|61|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463491|236|N/A|F|30|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463498|10|N/A|F|30|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463572|313|N/A|M|44|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463481|228|N/A|F|64|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463358|115|N/A|F|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463527|270|N/A|F|55|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463282|43|N/A|F|48|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463457|205|N/A|F|44|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463560|302|N/A|F|52|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463402|155|N/A|F|46|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463412|165|N/A|M|55|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463415|8|N/A|M|65|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463514|258|N/A|F|54|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463551|293|N/A|F|50|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463487|10|N/A|F|30|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463362|119|N/A|F|56|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade4|N/A|Disease
+GSM5463423|174|N/A|F|27|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463437|188|N/A|F|41|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade34|N/A|Disease
+GSM5463513|257|N/A|F|51|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463371|128|N/A|F|37|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease
+GSM5463511|255|N/A|F|39|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|ctrl|Grade0|N/A|Disease
+GSM5463364|121|N/A|F|29|N/A|Nonalcoholic fatty liver disease|Liver|N/A|in_vivo|case|Grade3|N/A|Disease

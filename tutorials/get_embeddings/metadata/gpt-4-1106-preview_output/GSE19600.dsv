@@ -1,0 +1,10 @@
+GSM488984|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|Normal cells|in_vitro|ctrl|PrEC|PrEGM media (Cambrex)|None
+GSM488985|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|Normal cells|in_vitro|ctrl|PrEC|H3K9Ac Ab|None
+GSM488986|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|Normal cells|in_vitro|ctrl|PrEC|H3K4me3 Ab|None
+GSM488987|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|Normal cells|in_vitro|ctrl|PrEC|H3K9me2 Ab|None
+GSM488988|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|Normal cells|in_vitro|ctrl|PrEC|H3K27me3 Ab|None
+GSM488989|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|Cancer cell line|in_vitro|case|LNCaP|T-medium w/ 10% FCS|None
+GSM488990|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|Cancer cell line|in_vitro|case|LNCaP|H3K9Ac Ab|None
+GSM488991|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|Cancer cell line|in_vitro|case|LNCaP|H3K4me3 Ab|None
+GSM488992|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|Cancer cell line|in_vitro|case|LNCaP|H3K9me2 Ab|None
+GSM488993|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|Cancer cell line|in_vitro|case|LNCaP|H3K27me3 Ab|None

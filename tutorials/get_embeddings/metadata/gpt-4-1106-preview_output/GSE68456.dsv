@@ -1,0 +1,62 @@
+GSM1672154|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|T cell|in_vivo|ctrl|standard_FACS_ind1|N/A|N/A
+GSM1672155|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|standard_FACS_ind1|N/A|N/A
+GSM1672156|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|nRBC|in_vivo|ctrl|standard_FACS_ind1|N/A|N/A
+GSM1672157|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|T cell|in_vivo|ctrl|standard_FACS_ind2|N/A|N/A
+GSM1672158|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|standard_FACS_ind2|N/A|N/A
+GSM1672159|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|nRBC|in_vivo|ctrl|standard_FACS_ind2|N/A|N/A
+GSM1672160|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|T cell|in_vivo|ctrl|standard_FACS_ind3|N/A|N/A
+GSM1672161|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|standard_FACS_ind3|N/A|N/A
+GSM1672162|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|nRBC|in_vivo|ctrl|standard_FACS_ind3|N/A|N/A
+GSM1672163|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|T cell|in_vivo|ctrl|standard_FACS_ind4|N/A|N/A
+GSM1672164|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|standard_FACS_ind4|N/A|N/A
+GSM1672165|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|nRBC|in_vivo|ctrl|standard_FACS_ind4|N/A|N/A
+GSM1672166|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|T cell|in_vivo|ctrl|standard_FACS_ind5|N/A|N/A
+GSM1672167|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|standard_FACS_ind5|N/A|N/A
+GSM1672168|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|nRBC|in_vivo|ctrl|standard_FACS_ind5|N/A|N/A
+GSM1672169|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|B cell|in_vivo|ctrl|stringent_FACS_ind6|N/A|N/A
+GSM1672170|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|CD4 T cell|in_vivo|ctrl|stringent_FACS_ind6|N/A|N/A
+GSM1672171|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|CD8 T cell|in_vivo|ctrl|stringent_FACS_ind6|N/A|N/A
+GSM1672172|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Granulocyte|in_vivo|ctrl|stringent_FACS_ind6|N/A|N/A
+GSM1672173|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|stringent_FACS_ind6|N/A|N/A
+GSM1672174|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|NK cell|in_vivo|ctrl|stringent_FACS_ind6|N/A|N/A
+GSM1672175|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|RBC nRBC|in_vivo|ctrl|stringent_FACS_ind6|N/A|N/A
+GSM1672176|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|B cell|in_vivo|ctrl|stringent_FACS_ind7|N/A|N/A
+GSM1672177|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|CD4 T cell|in_vivo|ctrl|stringent_FACS_ind7|N/A|N/A
+GSM1672178|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|CD8 T cell|in_vivo|ctrl|stringent_FACS_ind7|N/A|N/A
+GSM1672179|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|Granulocyte|in_vivo|ctrl|stringent_FACS_ind7|N/A|N/A
+GSM1672180|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|stringent_FACS_ind7|N/A|N/A
+GSM1672181|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|NK cell|in_vivo|ctrl|stringent_FACS_ind7|N/A|N/A
+GSM1672182|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|RBC nRBC|in_vivo|ctrl|stringent_FACS_ind7|N/A|N/A
+GSM1672183|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|B cell|in_vivo|ctrl|stringent_FACS_ind8|N/A|N/A
+GSM1672184|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|CD4 T cell|in_vivo|ctrl|stringent_FACS_ind8|N/A|N/A
+GSM1672185|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|CD8 T cell|in_vivo|ctrl|stringent_FACS_ind8|N/A|N/A
+GSM1672186|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|Granulocyte|in_vivo|ctrl|stringent_FACS_ind8|N/A|N/A
+GSM1672187|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|stringent_FACS_ind8|N/A|N/A
+GSM1672188|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|NK cell|in_vivo|ctrl|stringent_FACS_ind8|N/A|N/A
+GSM1672189|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|RBC nRBC|in_vivo|ctrl|stringent_FACS_ind8|N/A|N/A
+GSM1672190|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|B cell|in_vivo|ctrl|stringent_FACS_ind9|N/A|N/A
+GSM1672191|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|CD4 T cell|in_vivo|ctrl|stringent_FACS_ind9|N/A|N/A
+GSM1672192|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Granulocyte|in_vivo|ctrl|stringent_FACS_ind9|N/A|N/A
+GSM1672193|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|stringent_FACS_ind9|N/A|N/A
+GSM1672194|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|NK cell|in_vivo|ctrl|stringent_FACS_ind9|N/A|N/A
+GSM1672195|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|RBC nRBC|in_vivo|ctrl|stringent_FACS_ind9|N/A|N/A
+GSM1672196|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|B cell|in_vivo|ctrl|stringent_FACS_ind10|N/A|N/A
+GSM1672197|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|CD4 T cell|in_vivo|ctrl|stringent_FACS_ind10|N/A|N/A
+GSM1672198|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|CD8 T cell|in_vivo|ctrl|stringent_FACS_ind10|N/A|N/A
+GSM1672199|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Granulocyte|in_vivo|ctrl|stringent_FACS_ind10|N/A|N/A
+GSM1672200|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|stringent_FACS_ind10|N/A|N/A
+GSM1672201|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|NK cell|in_vivo|ctrl|stringent_FACS_ind10|N/A|N/A
+GSM1672202|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|RBC nRBC|in_vivo|ctrl|stringent_FACS_ind10|N/A|N/A
+GSM1672203|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|B cell|in_vivo|ctrl|stringent_FACS_ind11|N/A|N/A
+GSM1672204|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|CD4 T cell|in_vivo|ctrl|stringent_FACS_ind11|N/A|N/A
+GSM1672205|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|CD8 T cell|in_vivo|ctrl|stringent_FACS_ind11|N/A|N/A
+GSM1672206|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Granulocyte|in_vivo|ctrl|stringent_FACS_ind11|N/A|N/A
+GSM1672207|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|stringent_FACS_ind11|N/A|N/A
+GSM1672208|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|RBC nRBC|in_vivo|ctrl|stringent_FACS_ind11|N/A|N/A
+GSM1672209|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|B cell|in_vivo|ctrl|stringent_FACS_ind12|N/A|N/A
+GSM1672210|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|CD4 T cell|in_vivo|ctrl|stringent_FACS_ind12|N/A|N/A
+GSM1672211|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|CD8 T cell|in_vivo|ctrl|stringent_FACS_ind12|N/A|N/A
+GSM1672212|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Granulocyte|in_vivo|ctrl|stringent_FACS_ind12|N/A|N/A
+GSM1672213|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|Monocyte|in_vivo|ctrl|stringent_FACS_ind12|N/A|N/A
+GSM1672214|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|NK cell|in_vivo|ctrl|stringent_FACS_ind12|N/A|N/A
+GSM1672215|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|RBC nRBC|in_vivo|ctrl|stringent_FACS_ind12|N/A|N/A

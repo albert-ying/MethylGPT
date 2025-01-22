@@ -1,0 +1,36 @@
+GSM2183265|A|N/A|M|26|N/A|Preterm birth|Whole Blood|nucleated red blood cells|in_vivo|case|Preterm_indA|N/A|Disease
+GSM2183266|A|N/A|M|26|N/A|Preterm birth|Whole Blood|T cells|in_vivo|case|Preterm_indA|N/A|Disease
+GSM2183267|B|N/A|F|29|N/A|Preterm birth|Whole Blood|granulocytes|in_vivo|case|Preterm_indB|N/A|Disease
+GSM2183268|B|N/A|F|29|N/A|Preterm birth|Whole Blood|monocytes|in_vivo|case|Preterm_indB|N/A|Disease
+GSM2183269|B|N/A|F|29|N/A|Preterm birth|Whole Blood|T cells|in_vivo|case|Preterm_indB|N/A|Disease
+GSM2183270|C|N/A|M|30|N/A|Preterm birth|Whole Blood|granulocytes|in_vivo|case|Preterm_indC|N/A|Disease
+GSM2183271|C|N/A|M|30|N/A|Preterm birth|Whole Blood|monocytes|in_vivo|case|Preterm_indC|N/A|Disease
+GSM2183272|C|N/A|M|30|N/A|Preterm birth|Whole Blood|nucleated red blood cells|in_vivo|case|Preterm_indC|N/A|Disease
+GSM2183273|C|N/A|M|30|N/A|Preterm birth|Whole Blood|T cells|in_vivo|case|Preterm_indC|N/A|Disease
+GSM2183274|D|N/A|F|30|N/A|Preterm birth|Whole Blood|monocytes|in_vivo|case|Preterm_indD|N/A|Disease
+GSM2183275|D|N/A|F|30|N/A|Preterm birth|Whole Blood|nucleated red blood cells|in_vivo|case|Preterm_indD|N/A|Disease
+GSM2183276|D|N/A|F|30|N/A|Preterm birth|Whole Blood|T cells|in_vivo|case|Preterm_indD|N/A|Disease
+GSM2183277|E|N/A|M|30|N/A|Preterm birth|Whole Blood|granulocytes|in_vivo|case|Preterm_indE|N/A|Disease
+GSM2183278|E|N/A|M|30|N/A|Preterm birth|Whole Blood|monocytes|in_vivo|case|Preterm_indE|N/A|Disease
+GSM2183279|E|N/A|M|30|N/A|Preterm birth|Whole Blood|nucleated red blood cells|in_vivo|case|Preterm_indE|N/A|Disease
+GSM2183280|E|N/A|M|30|N/A|Preterm birth|Whole Blood|T cells|in_vivo|case|Preterm_indE|N/A|Disease
+GSM2183281|1|N/A|M|N/A|N/A|Healthy|Whole Blood|granulocytes|in_vivo|ctrl|Term_ind1|N/A|None
+GSM2183282|1|N/A|M|N/A|N/A|Healthy|Whole Blood|monocytes|in_vivo|ctrl|Term_ind1|N/A|None
+GSM2183283|1|N/A|M|N/A|N/A|Healthy|Whole Blood|nucleated red blood cells|in_vivo|ctrl|Term_ind1|N/A|None
+GSM2183284|1|N/A|M|N/A|N/A|Healthy|Whole Blood|T cells|in_vivo|ctrl|Term_ind1|N/A|None
+GSM2183285|2|N/A|M|N/A|N/A|Healthy|Whole Blood|granulocytes|in_vivo|ctrl|Term_ind2|N/A|None
+GSM2183286|2|N/A|M|N/A|N/A|Healthy|Whole Blood|monocytes|in_vivo|ctrl|Term_ind2|N/A|None
+GSM2183287|2|N/A|M|N/A|N/A|Healthy|Whole Blood|nucleated red blood cells|in_vivo|ctrl|Term_ind2|N/A|None
+GSM2183288|2|N/A|M|N/A|N/A|Healthy|Whole Blood|T cells|in_vivo|ctrl|Term_ind2|N/A|None
+GSM2183289|3|N/A|F|N/A|N/A|Healthy|Whole Blood|granulocytes|in_vivo|ctrl|Term_ind3|N/A|None
+GSM2183290|3|N/A|F|N/A|N/A|Healthy|Whole Blood|monocytes|in_vivo|ctrl|Term_ind3|N/A|None
+GSM2183291|3|N/A|F|N/A|N/A|Healthy|Whole Blood|nucleated red blood cells|in_vivo|ctrl|Term_ind3|N/A|None
+GSM2183292|3|N/A|F|N/A|N/A|Healthy|Whole Blood|T cells|in_vivo|ctrl|Term_ind3|N/A|None
+GSM2183293|4|N/A|M|N/A|N/A|Healthy|Whole Blood|granulocytes|in_vivo|ctrl|Term_ind4|N/A|None
+GSM2183294|4|N/A|M|N/A|N/A|Healthy|Whole Blood|monocytes|in_vivo|ctrl|Term_ind4|N/A|None
+GSM2183295|4|N/A|M|N/A|N/A|Healthy|Whole Blood|nucleated red blood cells|in_vivo|ctrl|Term_ind4|N/A|None
+GSM2183296|4|N/A|M|N/A|N/A|Healthy|Whole Blood|T cells|in_vivo|ctrl|Term_ind4|N/A|None
+GSM2183297|5|N/A|M|N/A|N/A|Healthy|Whole Blood|granulocytes|in_vivo|ctrl|Term_ind5|N/A|None
+GSM2183298|5|N/A|M|N/A|N/A|Healthy|Whole Blood|monocytes|in_vivo|ctrl|Term_ind5|N/A|None
+GSM2183299|5|N/A|M|N/A|N/A|Healthy|Whole Blood|nucleated red blood cells|in_vivo|ctrl|Term_ind5|N/A|None
+GSM2183300|5|N/A|M|N/A|N/A|Healthy|Whole Blood|T cells|in_vivo|ctrl|Term_ind5|N/A|None

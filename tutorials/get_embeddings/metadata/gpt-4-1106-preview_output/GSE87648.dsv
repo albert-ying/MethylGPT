@@ -1,0 +1,384 @@
+GSM2337535|9007|N/A|M|20|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337352|9144|N/A|F|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337389|8804|N/A|M|64|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337622|7902|N/A|M|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337568|9120|N/A|M|21|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337573|9161|N/A|M|54|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337345|8171|N/A|M|37|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337426|8500|N/A|F|50|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337569|3919|N/A|F|27|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337485|8007|N/A|F|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337391|5955|N/A|M|22|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337358|3883|N/A|F|23|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337245|8608|N/A|M|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337472|9085|N/A|M|52|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337455|7917|N/A|M|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337247|8960|N/A|M|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337350|4140|N/A|F|24|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337325|7444|N/A|M|23|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337314|8617|N/A|M|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337537|8674|N/A|F|52|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337340|8425|N/A|F|29|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337266|9102|N/A|M|41|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337508|9134|N/A|M|58|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337572|8496|N/A|F|22|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337273|4311|N/A|F|56|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337254|9008|N/A|M|22|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337451|8792|N/A|M|48|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337287|9146|N/A|F|24|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337574|7812|N/A|F|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337320|8775|N/A|M|22|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337313|7856|N/A|M|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337241|7414|N/A|F|18|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337377|8111|N/A|M|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337446|8780|N/A|F|26|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337577|9024|N/A|F|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337403|9006|N/A|F|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337614|9122|N/A|F|36|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337607|9026|N/A|M|31|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337538|9133|N/A|M|52|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337343|8005|N/A|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337528|7890|N/A|M|22|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337596|8740|N/A|F|25|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337542|6317|N/A|M|35|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337469|7455|N/A|F|79|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337521|7140|N/A|F|76|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337329|7916|N/A|M|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337473|8800|N/A|M|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337416|7276|N/A|F|27|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337497|8836|N/A|M|28|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337466|8465|N/A|M|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337257|7116|N/A|F|24|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337418|7896|N/A|M|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337374|6214|N/A|F|58|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337409|7993|N/A|M|33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337272|8979|N/A|F|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337482|9164|N/A|M|41|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337309|8987|N/A|F|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337259|8797|N/A|F|46|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337511|8627|N/A|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337395|8844|N/A|M|64|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337523|5766|N/A|F|25|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337564|8910|N/A|M|58|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337619|8776|N/A|M|64|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337563|8738|N/A|M|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337481|8510|N/A|M|23|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337610|8803|N/A|M|45|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337413|6112|N/A|F|60|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337505|8986|N/A|M|20|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337315|9153|N/A|M|31|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337283|9004|N/A|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337255|8798|N/A|F|28|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337277|5901|N/A|M|61|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337285|8791|N/A|M|50|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337594|8075|N/A|F|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337547|4302|N/A|F|49|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337357|8952|N/A|F|48|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337296|7864|N/A|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337543|7843|N/A|F|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337584|7850|N/A|M|38|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337355|8009|N/A|M|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337422|9050|N/A|M|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337509|9124|N/A|M|34|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337415|8466|N/A|M|18|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337615|7409|N/A|M|26|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337373|8861|N/A|F|60|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337493|8008|N/A|M|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337430|3923|N/A|F|46|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337306|9147|N/A|M|30|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337305|9128|N/A|F|41|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337264|3907|N/A|M|55|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337624|9088|N/A|F|32|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337533|9111|N/A|F|20|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337282|7905|N/A|M|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337279|8752|N/A|F|33|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337513|8808|N/A|F|28|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337474|9140|N/A|F|28|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337553|9108|N/A|M|45|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337390|9145|N/A|M|27|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337342|7964|N/A|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337510|7823|N/A|M|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337421|8469|N/A|M|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337586|3903|N/A|F|44|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337618|9050|N/A|M|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337348|9188|N/A|F|62|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337307|8995|N/A|M|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337502|9121|N/A|M|44|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337518|7135|N/A|M|23|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337302|9189|N/A|F|65|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337290|8830|N/A|F|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337557|8668|N/A|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337487|9178|N/A|M|73|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337603|8988|N/A|F|24|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337529|7855|N/A|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337498|7268|N/A|F|36|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337554|9022|N/A|M|32|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337570|7949|N/A|M|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337468|8843|N/A|M|53|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337452|7966|N/A|F|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337324|8061|N/A|M|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337620|8819|N/A|F|54|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337333|7158|N/A|M|58|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337366|8678|N/A|F|27|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337406|7876|N/A|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337427|8989|N/A|F|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337589|8464|N/A|M|45|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337515|7968|N/A|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337605|8904|N/A|F|51|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337284|7131|N/A|M|38|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337567|8513|N/A|F|31|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337609|6019|N/A|M|37|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337397|8837|N/A|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337438|8996|N/A|F|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337522|8980|N/A|F|54|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337600|8864|N/A|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337367|8778|N/A|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337275|3690|N/A|M|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337539|8794|N/A|M|44|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337300|8783|N/A|F|23|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337514|7892|N/A|M|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337591|9103|N/A|M|34|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337496|4180|N/A|F|32|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337334|7978|N/A|F|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337301|9138|N/A|F|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337341|6437|N/A|M|24|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337530|8928|N/A|M|28|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337242|8846|N/A|F|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337364|8838|N/A|M|67|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337604|9080|N/A|M|20|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337544|9084|N/A|F|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337317|8423|N/A|F|0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337440|4286|N/A|M|51|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337311|8826|N/A|F|18|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337349|7961|N/A|M|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337443|7913|N/A|M|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337359|7929|N/A|F|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337437|8673|N/A|F|51|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337291|8777|N/A|M|35|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337478|8621|N/A|F|24|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337322|8031|N/A|F|22|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337561|9117|N/A|M|22|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337595|8857|N/A|M|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337461|7920|N/A|M|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337292|8053|N/A|F|44|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337410|8110|N/A|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337297|8919|N/A|M|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337268|9123|N/A|M|23|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337289|7982|N/A|M|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337321|9113|N/A|M|66|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337361|8671|N/A|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337551|7410|N/A|F|64|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337464|9095|N/A|M|29|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337549|8811|N/A|M|42|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337372|8613|N/A|M|75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337249|9090|N/A|M|71|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337294|6320|N/A|M|30|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337248|8743|N/A|F|35|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337450|9171|N/A|M|18|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337326|8458|N/A|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337470|8820|N/A|F|40|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337429|6057|N/A|F|18|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337623|8041|N/A|M|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337386|9091|N/A|F|25|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337362|7857|N/A|F|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337621|7853|N/A|F|51|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337253|7883|N/A|F|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337369|8920|N/A|F|55|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337582|9002|N/A|F|45|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337441|8802|N/A|M|40|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337565|8638|N/A|M|60|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337445|8842|N/A|M|27|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337381|8839|N/A|M|51|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337402|9115|N/A|F|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337501|9139|N/A|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337399|6150|N/A|F|18|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337516|9010|N/A|F|32|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337562|6321|N/A|F|31|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337414|8722|N/A|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337335|3776|N/A|F|55|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337449|9106|N/A|M|49|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337404|8814|N/A|M|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337534|9041|N/A|F|43|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337251|7942|N/A|M|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337500|9157|N/A|M|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337383|7860|N/A|F|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337316|8736|N/A|F|50|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337269|7885|N/A|M|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337338|8077|N/A|M|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337331|9170|N/A|M|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337598|9075|N/A|M|21|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337579|7972|N/A|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337548|8424|N/A|M|29|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337360|8609|N/A|M|21|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337419|7233|N/A|F|32|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337387|8079|N/A|M|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337393|8454|N/A|F|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337483|8962|N/A|F|26|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337494|7848|N/A|F|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337477|9066|N/A|M|31|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337546|7817|N/A|F|36|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337519|9050|N/A|M|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337327|8636|N/A|F|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337456|8646|N/A|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337388|9036|N/A|M|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337310|6376|N/A|M|51|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337423|8000|N/A|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337375|7954|N/A|M|40|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337318|8810|N/A|F|25|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337293|8813|N/A|F|51|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337336|9181|N/A|M|40|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337370|9000|N/A|F|31|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337507|7297|N/A|F|36|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337424|9141|N/A|M|38|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337304|7840|N/A|M|36|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337581|8066|N/A|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337611|8459|N/A|F|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337337|8939|N/A|F|33|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337347|8485|N/A|M|23|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337280|7851|N/A|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337504|8997|N/A|F|63|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337462|8637|N/A|M|0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337271|8648|N/A|F|40|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337339|7845|N/A|M|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337616|8894|N/A|M|45|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337453|9072|N/A|F|36|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337436|7938|N/A|M|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337435|8892|N/A|M|28|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337588|5958|N/A|M|20|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337356|8967|N/A|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337398|8484|N/A|F|45|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337540|7808|N/A|M|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337420|8807|N/A|M|34|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337555|7147|N/A|F|47|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337560|8481|N/A|M|70|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337425|7846|N/A|M|41|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337250|8856|N/A|M|26|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337575|8982|N/A|F|27|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337328|6074|N/A|F|25|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337556|8790|N/A|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337432|6212|N/A|M|28|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337267|8004|N/A|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337602|8615|N/A|F|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337434|6137|N/A|F|37|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337303|8770|N/A|M|27|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337531|8817|N/A|M|52|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337263|8622|N/A|M|20|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337288|8959|N/A|M|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337517|8011|N/A|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337286|7893|N/A|M|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337319|9017|N/A|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337606|7955|N/A|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337265|8434|N/A|M|62|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337442|8848|N/A|M|18|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337593|6367|N/A|M|37|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337262|3996|N/A|F|23|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337612|8054|N/A|F|36|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337587|8795|N/A|M|30|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337392|9110|N/A|F|26|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337484|7137|N/A|F|58|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337368|8901|N/A|M|33|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337379|9112|N/A|F|37|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337520|9070|N/A|F|26|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337571|8786|N/A|M|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337475|8878|N/A|F|74|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337332|8499|N/A|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337382|6029|N/A|M|19|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337312|8094|N/A|F|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337541|8470|N/A|M|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337524|8965|N/A|M|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337503|8890|N/A|M|25|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337431|9129|N/A|M|29|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337412|8933|N/A|M|22|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337550|8625|N/A|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337252|9050|N/A|M|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337384|8977|N/A|F|28|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337417|8827|N/A|F|33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337576|8108|N/A|M|54|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337525|9059|N/A|M|42|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337274|9143|N/A|M|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337613|8785|N/A|M|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337400|8052|N/A|M|40|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337590|8507|N/A|M|54|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337608|8047|N/A|M|70|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337480|8013|N/A|M|41|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337488|8039|N/A|M|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337490|6101|N/A|M|43|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337394|7877|N/A|F|22|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337439|6285|N/A|F|39|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337405|3823|N/A|M|35|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337261|7921|N/A|M|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337276|8516|N/A|F|25|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337545|7909|N/A|M|45|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337365|7824|N/A|M|38|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337583|9166|N/A|M|29|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337459|8508|N/A|F|20|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337408|7012|N/A|F|47|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337559|9048|N/A|F|30|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337463|6173|N/A|F|27|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337585|9104|N/A|F|41|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337460|5893|N/A|F|43|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337476|9116|N/A|M|20|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337281|3773|N/A|M|25|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337298|8051|N/A|F|36|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337433|8950|N/A|F|58|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337371|7922|N/A|M|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337506|9100|N/A|M|23|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337471|7852|N/A|F|21|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337454|7200|N/A|F|78|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337526|8663|N/A|M|17|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337617|9094|N/A|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337491|7871|N/A|F|40|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337401|5853|N/A|M|25|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337330|6379|N/A|M|38|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337558|7935|N/A|M|20|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337270|5988|N/A|M|39|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337457|8055|N/A|F|36|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337295|8863|N/A|F|79|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337512|6140|N/A|F|24|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337378|8640|N/A|M|30|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337258|8941|N/A|M|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337489|8932|N/A|M|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337599|9023|N/A|F|54|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337385|7822|N/A|M|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337243|7990|N/A|F|51|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337499|8503|N/A|M|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337486|8467|N/A|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337601|4132|N/A|M|44|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337428|8082|N/A|F|36|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337353|6127|N/A|M|22|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337380|8832|N/A|M|41|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337363|6184|N/A|M|23|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337578|8951|N/A|M|28|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337308|7101|N/A|F|39|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337346|9097|N/A|F|33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337396|9020|N/A|F|48|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337465|9071|N/A|F|25|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337552|5805|N/A|F|19|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337244|8937|N/A|F|58|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337344|9183|N/A|M|22|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337597|8050|N/A|M|20|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337527|8002|N/A|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337566|8772|N/A|M|30|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337411|8488|N/A|M|24|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337260|4012|N/A|M|32|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337479|8058|N/A|M|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337299|7442|N/A|M|42|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337495|7847|N/A|F|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337580|8616|N/A|F|68|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337246|6144|N/A|F|37|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337323|7063|N/A|F|31|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337407|9158|N/A|M|29|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337458|9180|N/A|M|54|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337444|3936|N/A|F|19|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337256|7878|N/A|M|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337532|9162|N/A|F|21|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337448|8624|N/A|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337278|8935|N/A|F|48|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337467|9001|N/A|M|21|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337376|7405|N/A|F|21|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337536|9118|N/A|F|27|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337351|9175|N/A|M|51|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337592|8652|N/A|F|33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337447|8514|N/A|M|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337354|3914|N/A|M|57|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337492|8511|N/A|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None

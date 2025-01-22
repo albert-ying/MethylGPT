@@ -1,0 +1,4 @@
+GSM4030441|N/A|N/A|N/A|N/A|N/A|Healthy|Colon|HCT116|in_vitro|ctrl|NDI1_control|NDI1|None
+GSM4030442|N/A|N/A|N/A|N/A|N/A|Healthy|Colon|HCT116|in_vitro|case|UHRF1_WT_rescue|Wildtype UHRF1|Genetic
+GSM4030443|N/A|N/A|N/A|N/A|N/A|Healthy|Colon|HCT116|in_vitro|case|UHRF1_SUVH5_rescue|SUVH5 finger|Genetic
+GSM4030444|N/A|N/A|N/A|N/A|N/A|Healthy|Colon|HCT116|in_vitro|case|UHRF1_N489A_rescue|N489A|Genetic

@@ -1,0 +1,9 @@
+GSM2575446|P1|N/A|F|N/A|N/A|Gastric Cancer|Stomach|N/A|in_vivo|case|CAM1|N/A|Disease
+GSM2575447|P1|N/A|F|N/A|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|ATM1|N/A|N/A
+GSM2575448|P2|N/A|M|N/A|N/A|Gastric Cancer|Stomach|N/A|in_vivo|case|CAM2|N/A|Disease
+GSM2575449|P2|N/A|M|N/A|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|ATM2|N/A|N/A
+GSM2575450|P3|N/A|M|N/A|N/A|Gastric Cancer|Stomach|N/A|in_vivo|case|CAM3|N/A|Disease
+GSM2575451|P3|N/A|M|N/A|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|ATM3|N/A|N/A
+GSM2575452|P4|N/A|M|N/A|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|NTM1|N/A|N/A
+GSM2575453|P5|N/A|F|N/A|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|NTM2|N/A|N/A
+GSM2575454|P6|N/A|F|N/A|N/A|Healthy|Stomach|N/A|in_vivo|ctrl|NTM3|N/A|N/A

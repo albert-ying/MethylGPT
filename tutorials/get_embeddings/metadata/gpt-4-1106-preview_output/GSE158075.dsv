@@ -1,0 +1,110 @@
+GSM4790111|76701|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790112|76701|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790113|76964|N/A|N/A|N/A|N/A|non small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790114|76964|N/A|N/A|N/A|N/A|non small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790115|77146|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790116|77146|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790117|77213|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790118|77213|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790119|77473|N/A|N/A|N/A|N/A|non small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790120|77473|N/A|N/A|N/A|N/A|non small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790121|P01140093|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790122|P01140093|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790123|P01150170|N/A|N/A|N/A|N/A|non small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790124|P01150170|N/A|N/A|N/A|N/A|non small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790125|P02140094|N/A|N/A|N/A|N/A|large cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790126|P02140094|N/A|N/A|N/A|N/A|large cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790127|P02140095|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790128|P02140095|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790129|P02140100|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790130|P02140100|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790131|P02140101|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790132|P02140101|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790133|P02140103|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790134|P02140103|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790135|P03140107|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790136|P03140107|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790137|P03140111|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790138|P03140111|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790139|P03140113|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790140|P03140113|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790141|P04130019|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790142|P04130019|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790143|P04140117|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790144|P04140117|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790145|P04140119|N/A|N/A|N/A|N/A|non small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790146|P04140119|N/A|N/A|N/A|N/A|non small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790147|P05130022|N/A|N/A|N/A|N/A|non small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790148|P05130022|N/A|N/A|N/A|N/A|non small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790149|P05130025|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790150|P05130025|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790151|P05130026|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790152|P05130026|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790153|P05130027|N/A|N/A|N/A|N/A|N/A|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790154|P05130027|N/A|N/A|N/A|N/A|N/A|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790155|P05130030|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790156|P05130030|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790157|P05140123|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790158|P05140123|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790159|P05140125|N/A|N/A|N/A|N/A|N/A|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790160|P05140125|N/A|N/A|N/A|N/A|N/A|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790161|P06130031|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790162|P06130031|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790163|P06140126|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790164|P06140126|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790165|P07130042|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790166|P07130042|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790167|P07130044|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790168|P07130044|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790169|P07130046|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790170|P07130046|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790171|P07140130|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790172|P07140130|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790173|P07140131|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790174|P07140131|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790175|P07140133|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790176|P07140133|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790177|P07140136|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790178|P07140136|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790179|P07140137|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790180|P07140137|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790181|P07140141|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790182|P07140141|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790183|P08130053|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790184|P08130053|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790185|P08130054|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790186|P08130054|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790187|P08130055|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790188|P08130055|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790189|P09130057|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790190|P09130057|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790191|P09130061|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790192|P09130061|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790193|P09130063|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790194|P09130063|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790195|P09130064|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790196|P09130064|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790197|P09130069|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790198|P09130069|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790199|P10130072|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790200|P10130072|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790201|P10130073|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790202|P10130073|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790203|P10130074|N/A|N/A|N/A|N/A|N/A|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790204|P10130074|N/A|N/A|N/A|N/A|N/A|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790205|P10130076|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790206|P10130076|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790207|P10130077|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790208|P10130077|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790209|P10130078|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790210|P10130078|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790211|P10140153|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790212|P10140153|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790213|P11130082|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790214|P11130082|N/A|N/A|N/A|N/A|small cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790215|P11130083|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790216|P11130083|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790217|P11130085|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4790218|P11130085|N/A|N/A|N/A|N/A|squamous cell carcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790219|P12130087|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|ctrl|N/A|N/A|Disease
+GSM4790220|P12130087|N/A|N/A|N/A|N/A|adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease

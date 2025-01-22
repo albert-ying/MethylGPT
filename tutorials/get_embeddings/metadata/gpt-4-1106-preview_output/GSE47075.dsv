@@ -1,0 +1,48 @@
+GSM1144388|6|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa H3K27me3|N/A|Disease
+GSM1144389|6|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor H3K27me3|N/A|Disease
+GSM1144390|8|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa H3K27me3|N/A|Disease
+GSM1144391|8|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor H3K27me3|N/A|Disease
+GSM1144392|12|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa H3K27me3|N/A|Disease
+GSM1144393|12|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor H3K27me3|N/A|Disease
+GSM1144394|13|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa H3K27me3|N/A|Disease
+GSM1144395|13|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor H3K27me3|N/A|Disease
+GSM1144396|6|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa H3K4me3|N/A|Disease
+GSM1144397|6|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor H3K4me3|N/A|Disease
+GSM1144398|8|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa H3K4me3|N/A|Disease
+GSM1144399|8|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor H3K4me3|N/A|Disease
+GSM1144400|12|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa H3K4me3|N/A|Disease
+GSM1144401|12|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor H3K4me3|N/A|Disease
+GSM1144402|12|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa H3K4me3|N/A|Disease
+GSM1144403|12|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor H3K4me3|N/A|Disease
+GSM1144404|13|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa H3K4me3|N/A|Disease
+GSM1144405|13|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor H3K4me3|N/A|Disease
+GSM1144406|1|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144407|1|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144408|2|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144409|2|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144410|3|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144411|3|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144412|4|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144413|4|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144414|5|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144415|5|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144416|6|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144417|6|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144418|7|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144419|7|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144420|8|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144421|8|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144422|9|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144423|9|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144424|10|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144425|10|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144426|11|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144427|11|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144428|12|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144429|12|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144430|13|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144431|13|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144432|14|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144433|14|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease
+GSM1144434|15|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|ctrl|Normal Mucosa 5mC|N/A|Disease
+GSM1144435|15|N/A|N/A|N/A|N/A|colorectal cancer|Colon|N/A|in_vivo|case|Tumor 5mC|N/A|Disease

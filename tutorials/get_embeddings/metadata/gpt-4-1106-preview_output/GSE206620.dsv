@@ -1,0 +1,8 @@
+GSM6258243|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|THP-1|in_vitro|ctrl|shNC|DMSO|Small Molecule
+GSM6258244|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|THP-1|in_vitro|ctrl|shNC|PMA|Small Molecule
+GSM6258245|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|THP-1|in_vitro|case|shUHRF1|DMSO|Genetic
+GSM6258246|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|THP-1|in_vitro|case|shUHRF1|PMA|Genetic
+GSM6258247|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|THP-1|in_vitro|case|shDNMT1|DMSO|Genetic
+GSM6258248|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|THP-1|in_vitro|case|shDNMT1|PMA|Genetic
+GSM6258249|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|THP-1|in_vitro|case|shDNMT3B|DMSO|Genetic
+GSM6258250|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|THP-1|in_vitro|case|shDNMT3B|PMA|Genetic

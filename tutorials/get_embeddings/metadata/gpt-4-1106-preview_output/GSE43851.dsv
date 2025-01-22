@@ -1,0 +1,20 @@
+GSM1072272|N/A|N/A|M|N/A|N/A|healthy|Cells|HCT116|in_vitro|ctrl|Control|None|None
+GSM1072273|N/A|N/A|M|N/A|N/A|healthy|Cells|HCT116|in_vitro|case|Treated|M.SssI|Genetic
+GSM1072274|N/A|N/A|M|N/A|N/A|healthy|Cells|HCT116|in_vitro|case|Treated|AZA|Small Molecule
+GSM1072275|N/A|N/A|M|N/A|N/A|healthy|Cells|HCT116|in_vitro|case|Treated|AZA and M.SssI|Small Molecule
+GSM1072276|N/A|N/A|M|N/A|N/A|healthy|Cells|DKO1|in_vitro|ctrl|Control|None|None
+GSM1072277|N/A|N/A|M|N/A|N/A|healthy|Cells|DKO1|in_vitro|case|Treated|M.SssI|Genetic
+GSM1072278|N/A|N/A|M|N/A|N/A|healthy|Cells|DKO1|in_vitro|case|Treated|AZA|Small Molecule
+GSM1072279|N/A|N/A|M|N/A|N/A|healthy|Cells|DKO1|in_vitro|case|Treated|AZA and M.SssI|Small Molecule
+GSM1072280|N/A|N/A|F|N/A|N/A|healthy|Cells|MCF7|in_vitro|ctrl|Control|None|None
+GSM1072281|N/A|N/A|F|N/A|N/A|healthy|Cells|MCF7|in_vitro|case|Treated|M.SssI|Genetic
+GSM1072282|N/A|N/A|F|N/A|N/A|healthy|Cells|MCF7|in_vitro|case|Treated|AZA|Small Molecule
+GSM1072283|N/A|N/A|F|N/A|N/A|healthy|Cells|MCF7|in_vitro|case|Treated|AZA and M.SssI|Small Molecule
+GSM1072284|N/A|N/A|F|N/A|N/A|healthy|Cells|MCF7|in_vitro|case|Treated|SAHA|Small Molecule
+GSM1072285|N/A|N/A|F|N/A|N/A|healthy|Cells|MCF7|in_vitro|case|Treated|SAHA and M.SssI|Small Molecule
+GSM1072286|N/A|N/A|M|N/A|N/A|healthy|Cells|786-O|in_vitro|ctrl|Control|None|None
+GSM1072287|N/A|N/A|M|N/A|N/A|healthy|Cells|786-O|in_vitro|case|Treated|M.SssI|Genetic
+GSM1072288|N/A|N/A|M|N/A|N/A|healthy|Cells|786-O|in_vitro|case|Treated|AZA|Small Molecule
+GSM1072289|N/A|N/A|M|N/A|N/A|healthy|Cells|786-O|in_vitro|case|Treated|AZA and M.SssI|Small Molecule
+GSM1072290|N/A|N/A|M|N/A|N/A|healthy|Cells|786-O|in_vitro|case|Treated|SAHA|Small Molecule
+GSM1072291|N/A|N/A|M|N/A|N/A|healthy|Cells|786-O|in_vitro|case|Treated|SAHA and M.SssI|Small Molecule

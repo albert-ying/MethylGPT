@@ -1,0 +1,92 @@
+GSM2358635|N/A|N/A|F|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358636|N/A|N/A|F|65|N/A|Endometrial Cancer|Whole Blood|N/A|in_vivo|case|Endometrium|N/A|Disease
+GSM2358637|N/A|N/A|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358638|N/A|N/A|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358639|N/A|N/A|F|76|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358640|N/A|N/A|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358641|N/A|N/A|F|49|N/A|Melanoma|Whole Blood|N/A|in_vivo|case|Melanoma|N/A|Disease
+GSM2358642|N/A|N/A|F|73|N/A|Colon Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease
+GSM2358643|N/A|N/A|F|63|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358644|N/A|N/A|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358645|N/A|N/A|F|68|N/A|Rectal Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease
+GSM2358646|N/A|N/A|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358647|N/A|N/A|F|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358648|N/A|N/A|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358649|N/A|N/A|F|43|N/A|Cervical Cancer|Whole Blood|N/A|in_vivo|case|Cervix|N/A|Disease
+GSM2358650|N/A|N/A|F|49|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358651|N/A|N/A|F|60|N/A|Colon Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease
+GSM2358652|N/A|N/A|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358653|N/A|N/A|F|50|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358654|N/A|N/A|F|50|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358655|N/A|N/A|F|57|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358656|N/A|N/A|F|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358657|N/A|N/A|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358658|N/A|N/A|F|68|N/A|Melanoma|Whole Blood|N/A|in_vivo|case|Melanoma|N/A|Disease
+GSM2358659|N/A|N/A|F|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358660|N/A|N/A|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358661|N/A|N/A|F|63|N/A|Colon Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease
+GSM2358662|N/A|N/A|F|79|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358663|N/A|N/A|F|79|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358664|N/A|N/A|F|59|N/A|Colon Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease
+GSM2358665|N/A|N/A|F|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358666|N/A|N/A|F|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358667|N/A|N/A|F|53|N/A|Colon Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease
+GSM2358668|N/A|N/A|F|38|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358669|N/A|N/A|F|38|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358670|N/A|N/A|F|59|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358671|N/A|N/A|F|65|N/A|Colon Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease
+GSM2358672|N/A|N/A|F|68|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358673|N/A|N/A|F|45|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358674|N/A|N/A|F|45|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358675|N/A|N/A|F|78|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358676|N/A|N/A|F|78|N/A|Melanoma|Whole Blood|N/A|in_vivo|case|Melanoma|N/A|Disease
+GSM2358677|N/A|N/A|F|56|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358678|N/A|N/A|F|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358679|N/A|N/A|F|58|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358680|N/A|N/A|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358681|N/A|N/A|F|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358682|N/A|N/A|F|71|N/A|Thyroid Cancer|Whole Blood|N/A|in_vivo|case|Thyroid|N/A|Disease
+GSM2358683|N/A|N/A|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358684|N/A|N/A|F|68|N/A|Pancreatic Cancer|Whole Blood|N/A|in_vivo|case|Pancreas|N/A|Disease
+GSM2358685|N/A|N/A|F|52|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358686|N/A|N/A|F|52|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358687|N/A|N/A|F|61|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358688|N/A|N/A|F|60|N/A|Colon Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease
+GSM2358689|N/A|N/A|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358690|N/A|N/A|F|61|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358691|N/A|N/A|F|62|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358692|N/A|N/A|F|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358693|N/A|N/A|F|61|N/A|Colon Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease
+GSM2358694|N/A|N/A|F|70|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358695|N/A|N/A|F|70|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358696|N/A|N/A|F|59|N/A|Colon Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease
+GSM2358697|N/A|N/A|F|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358698|N/A|N/A|F|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358699|N/A|N/A|F|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358700|N/A|N/A|F|64|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358701|N/A|N/A|F|42|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358702|N/A|N/A|F|71|N/A|Colon Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease
+GSM2358703|N/A|N/A|F|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358704|N/A|N/A|F|63|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358705|N/A|N/A|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358706|N/A|N/A|F|70|N/A|Ovarian Cancer|Whole Blood|N/A|in_vivo|case|Ovary|N/A|Disease
+GSM2358707|N/A|N/A|F|70|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358708|N/A|N/A|F|59|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358709|N/A|N/A|F|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358710|N/A|N/A|F|73|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358711|N/A|N/A|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358712|N/A|N/A|F|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358713|N/A|N/A|F|73|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358714|N/A|N/A|F|44|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358715|N/A|N/A|F|44|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358716|N/A|N/A|F|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358717|N/A|N/A|F|57|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358718|N/A|N/A|F|61|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358719|N/A|N/A|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358720|N/A|N/A|F|60|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358721|N/A|N/A|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358722|N/A|N/A|F|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358723|N/A|N/A|F|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358724|N/A|N/A|F|51|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM2358725|N/A|N/A|F|51|N/A|Breast Cancer|Whole Blood|N/A|in_vivo|case|Breast|N/A|Disease
+GSM2358726|N/A|N/A|F|72|N/A|Colon Cancer|Whole Blood|N/A|in_vivo|case|Colon|N/A|Disease

@@ -2,7 +2,7 @@
 name = "methylgpt"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Jinyeop Song <you@example.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -19,7 +19,6 @@ leidenalg = "0.10.2"
 datasets = "2.21.0"
 typing-extensions = "4.12.2"
 scib = "1.1.5"
-orbax = "0.5.23"
 yarrowformat = "1.2.0"  # Latest version as of 2 months ago
 psutil = "6.1.0"  # Latest version as of 2 months ago
 

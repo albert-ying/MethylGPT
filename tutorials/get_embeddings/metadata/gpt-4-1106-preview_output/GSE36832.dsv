@@ -1,0 +1,6 @@
+GSM902704|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control|N/A|None
+GSM902705|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|1 month Post-HCT|N/A|None
+GSM902706|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|6 months Post-HCT|N/A|None
+GSM902707|N/A|N/A|M|N/A|N/A|Graft-versus-host disease|Whole Blood|N/A|in_vivo|case|GVHD|N/A|Disease
+GSM902708|N/A|N/A|F|N/A|N/A|Graft-versus-host disease|Whole Blood|N/A|in_vivo|case|1 month Post-HCT GVHD|N/A|Disease
+GSM902709|N/A|N/A|F|N/A|N/A|Graft-versus-host disease|Whole Blood|N/A|in_vivo|case|6 months Post-HCT GVHD|N/A|Disease

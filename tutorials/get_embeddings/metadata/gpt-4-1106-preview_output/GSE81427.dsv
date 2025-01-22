@@ -1,0 +1,5 @@
+GSM2152352|N/A|N/A|N/A|N/A|N/A|healthy|Ovary|A2780|in_vitro|ctrl|Scr_mock|N/A|Environmental
+GSM2152353|N/A|N/A|N/A|N/A|N/A|healthy|Ovary|A2780|in_vitro|case|Scr_H2O2|N/A|Environmental
+GSM2152354|N/A|N/A|N/A|N/A|N/A|healthy|Ovary|A2780|in_vitro|ctrl|shTET2_mock|N/A|Genetic
+GSM2152355|N/A|N/A|N/A|N/A|N/A|healthy|Ovary|A2780|in_vitro|case|shTET2_H2O2|N/A|Genetic
+GSM2152356|N/A|N/A|N/A|N/A|N/A|healthy|Ovary|A2780|in_vitro|case|shTET2_H2O2|N/A|Genetic

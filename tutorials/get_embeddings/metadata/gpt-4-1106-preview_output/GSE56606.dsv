@@ -1,0 +1,100 @@
+GSM1365585|T1Dpair1|N/A|F|37|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365586|T1Dpair1|N/A|F|37|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365587|T1Dpair2|N/A|F|47|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365588|T1Dpair2|N/A|F|47|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365589|T1Dpair3|N/A|F|35|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365590|T1Dpair3|N/A|F|35|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365591|T1Dpair4|N/A|F|16|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365592|T1Dpair4|N/A|F|16|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365593|T1Dpair5|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365594|T1Dpair5|N/A|N/A|N/A|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365595|T1Dpair6|N/A|M|37|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365596|T1Dpair6|N/A|M|37|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365597|T1Dpair7|N/A|F|38|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365598|T1Dpair7|N/A|F|38|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365599|T1Dpair8|N/A|F|20|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365600|T1Dpair8|N/A|F|20|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365601|T1Dpair10|N/A|M|33|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365602|T1Dpair10|N/A|M|33|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365603|T1Dpair11|N/A|M|25|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365604|T1Dpair11|N/A|M|25|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365605|T1Dpair12|N/A|M|48|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365606|T1Dpair12|N/A|M|48|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365607|T1Dpair13|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365608|T1Dpair13|N/A|F|44|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365609|T1Dpair14|N/A|F|68|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365610|T1Dpair14|N/A|F|68|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365611|Normalpair1|N/A|M|52|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365612|Normalpair1|N/A|M|52|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365613|Normalpair2|N/A|F|42|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365614|Normalpair2|N/A|F|42|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365615|Normalpair3|N/A|F|27|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365616|Normalpair3|N/A|F|27|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365617|Normalpair4|N/A|F|52|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365618|Normalpair4|N/A|F|52|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365619|Normalpair5|N/A|M|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365620|Normalpair5|N/A|M|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365621|Normalpair6|N/A|F|27|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365622|Normalpair6|N/A|F|27|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365623|Normalpair7|N/A|M|29|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365624|Normalpair7|N/A|M|29|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365625|Normalpair8|N/A|F|28|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365626|Normalpair8|N/A|F|28|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365627|Normalpair9|N/A|F|20|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365628|Normalpair9|N/A|F|20|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365629|T1Dpair1|N/A|F|30|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365630|T1Dpair1|N/A|F|30|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365631|T1Dpair2|N/A|F|18|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365632|T1Dpair2|N/A|F|18|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365633|T1Dpair3|N/A|F|37|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365634|T1Dpair3|N/A|F|37|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365635|T1Dpair4|N/A|F|47|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365636|T1Dpair4|N/A|F|47|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365637|T1Dpair5|N/A|F|35|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365638|T1Dpair5|N/A|F|35|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365639|T1Dpair6|N/A|F|16|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365640|T1Dpair6|N/A|F|16|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365641|T1Dpair7|N/A|F|24|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365642|T1Dpair7|N/A|F|24|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365643|T1Dpair8|N/A|M|37|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365644|T1Dpair8|N/A|M|37|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365645|T1Dpair10|N/A|F|38|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365646|T1Dpair10|N/A|F|38|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365647|T1Dpair11|N/A|F|20|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365648|T1Dpair11|N/A|F|20|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365649|T1Dpair12|N/A|M|33|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365650|T1Dpair12|N/A|M|33|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365651|T1Dpair13|N/A|M|25|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365652|T1Dpair13|N/A|M|25|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365653|T1Dpair14|N/A|M|48|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365654|T1Dpair14|N/A|M|48|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365655|T1Dpair16|N/A|F|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365656|T1Dpair16|N/A|F|44|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365657|T1Dpair17|N/A|F|68|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365658|T1Dpair17|N/A|F|68|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365659|Normalpair1|N/A|F|27|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365660|Normalpair1|N/A|F|27|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365661|Normalpair2|N/A|F|52|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365662|Normalpair2|N/A|F|52|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365663|Normalpair3|N/A|M|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365664|Normalpair3|N/A|M|44|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365665|Normalpair4|N/A|F|27|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365666|Normalpair4|N/A|F|27|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365667|Normalpair5|N/A|M|29|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365668|Normalpair5|N/A|M|29|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365669|Normalpair6|N/A|F|28|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365670|Normalpair6|N/A|F|28|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365671|Normalpair7|N/A|F|20|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365672|Normalpair7|N/A|F|20|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365673|Normalpair8|N/A|F|30|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365674|Normalpair8|N/A|F|30|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365675|Normalpair9|N/A|F|18|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365676|Normalpair9|N/A|F|18|N/A|healthy|Cells|N/A|in_vitro|ctrl|normal_MZ|N/A|None
+GSM1365677|T1Dpair101|N/A|N/A|N/A|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365678|T1Dpair102|N/A|N/A|N/A|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365679|T1Dpair103|N/A|N/A|N/A|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365680|T1Dpair104|N/A|N/A|N/A|N/A|Type 1 Diabetes|Cells|N/A|in_vitro|case|T1D|N/A|Disease
+GSM1365681|T1Dpair101|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365682|T1Dpair102|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365683|T1Dpair103|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease
+GSM1365684|T1Dpair104|N/A|N/A|N/A|N/A|healthy|Cells|N/A|in_vitro|ctrl|unaffected|N/A|Disease

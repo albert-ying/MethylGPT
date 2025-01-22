@@ -1,0 +1,12 @@
+GSM4824089|Donor 1|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|ctrl|noncultured|None|None
+GSM4824090|Donor 2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|ctrl|noncultured|None|None
+GSM4824091|Donor 3|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|ctrl|noncultured|None|None
+GSM4824092|Donor 1|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|ctrl|CTL|None|None
+GSM4824093|Donor 2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|ctrl|CTL|None|None
+GSM4824094|Donor 3|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|ctrl|CTL|None|None
+GSM4824095|Donor 1|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|case|LPS|Lipopolysaccharide|Small Molecule
+GSM4824096|Donor 2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|case|LPS|Lipopolysaccharide|Small Molecule
+GSM4824097|Donor 3|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|case|LPS|Lipopolysaccharide|Small Molecule
+GSM4824098|Donor 1|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|case|P3C|Pam3Cys|Small Molecule
+GSM4824099|Donor 2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|case|P3C|Pam3Cys|Small Molecule
+GSM4824100|Donor 3|N/A|N/A|N/A|N/A|Healthy|Whole Blood|Monocytes|in_vitro|case|P3C|Pam3Cys|Small Molecule

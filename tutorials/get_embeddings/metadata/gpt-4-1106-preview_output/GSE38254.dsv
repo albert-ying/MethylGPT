@@ -1,0 +1,30 @@
+GSM937500|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937501|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937502|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937503|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937504|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937505|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937506|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937507|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937508|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937509|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937510|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937511|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM937512|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM937513|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM937514|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM937515|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM937516|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM937517|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|MDA-MB-231|in_vitro|case|N/A|N/A|Disease
+GSM937518|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|MCF7|in_vitro|case|N/A|N/A|Disease
+GSM937519|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|BT549|in_vitro|case|N/A|N/A|Disease
+GSM937520|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|UACC1179|in_vitro|case|N/A|N/A|Disease
+GSM937521|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|MDA-MB-453|in_vitro|case|N/A|N/A|Disease
+GSM937522|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|MDA-MB-157|in_vitro|case|N/A|N/A|Disease
+GSM937523|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|MDA-MB-468|in_vitro|case|N/A|N/A|Disease
+GSM937524|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|HMEC 184D|in_vitro|ctrl|N/A|N/A|None
+GSM937525|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|HMEC 48RT|in_vitro|ctrl|N/A|N/A|None
+GSM937526|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|HMEC 240LB|in_vitro|ctrl|N/A|N/A|None
+GSM937527|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|HMF 184|in_vitro|ctrl|N/A|N/A|None
+GSM937528|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|HMF 48|in_vitro|ctrl|N/A|N/A|None
+GSM937529|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|HMF 240L|in_vitro|ctrl|N/A|N/A|None

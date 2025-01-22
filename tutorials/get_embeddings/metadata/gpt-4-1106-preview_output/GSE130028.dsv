@@ -1,0 +1,48 @@
+GSM3730349|NUP1|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP1-E2|Estrogen|Disease
+GSM3730350|NUP1|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP1-P4|Progesterone|Disease
+GSM3730351|NUP1|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP1-E2+P4|Estrogen+Progesterone|Disease
+GSM3730352|NUP1|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP1-Veh|Vehicle|Disease
+GSM3730353|NUP2|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP2-E2|Estrogen|Disease
+GSM3730354|NUP2|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP2-P4|Progesterone|Disease
+GSM3730355|NUP2|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP2-E2+P4|Estrogen+Progesterone|Disease
+GSM3730356|NUP2|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP2-Veh|Vehicle|Disease
+GSM3730357|NUP3|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP3-E2|Estrogen|Disease
+GSM3730358|NUP3|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP3-P4|Progesterone|Disease
+GSM3730359|NUP3|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP3-E2+P4|Estrogen+Progesterone|Disease
+GSM3730360|NUP3|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP3-Veh|Vehicle|Disease
+GSM3730361|NUP4|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP4-E2|Estrogen|Disease
+GSM3730362|NUP4|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP4-P4|Progesterone|Disease
+GSM3730363|NUP4|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP4-E2+P4|Estrogen+Progesterone|Disease
+GSM3730364|NUP4|N/A|F|N/A|N/A|Healthy|Uterus|N/A|in_vitro|ctrl|NUP4-Veh|Vehicle|Disease
+GSM3730365|Endo I-1|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-1 E2|Estrogen|Disease
+GSM3730366|Endo I-1|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-1 P4|Progesterone|Disease
+GSM3730367|Endo I-1|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-1 E2+P4|Estrogen+Progesterone|Disease
+GSM3730368|Endo I-1|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-1 Veh|Vehicle|Disease
+GSM3730369|Endo I-2|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-2 E2|Estrogen|Disease
+GSM3730370|Endo I-2|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-2 P4|Progesterone|Disease
+GSM3730371|Endo I-2|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-2 E2+P4|Estrogen+Progesterone|Disease
+GSM3730372|Endo I-2|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-2 Veh|Vehicle|Disease
+GSM3730373|Endo I-3|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-3 E2|Estrogen|Disease
+GSM3730374|Endo I-3|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-3 P4|Progesterone|Disease
+GSM3730375|Endo I-3|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-3 E2+P4|Estrogen+Progesterone|Disease
+GSM3730376|Endo I-3|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-3 Veh|Vehicle|Disease
+GSM3730377|Endo I-4|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-4 E2|Estrogen|Disease
+GSM3730378|Endo I-4|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-4 P4|Progesterone|Disease
+GSM3730379|Endo I-4|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-4 E2+P4|Estrogen+Progesterone|Disease
+GSM3730380|Endo I-4|N/A|F|N/A|N/A|Endometriosis Stage I|Uterus|N/A|in_vitro|case|Endo I-4 Veh|Vehicle|Disease
+GSM3730381|Endo IV-1|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-1 E2|Estrogen|Disease
+GSM3730382|Endo IV-1|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-1 P4|Progesterone|Disease
+GSM3730383|Endo IV-1|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-1 E2+P4|Estrogen+Progesterone|Disease
+GSM3730384|Endo IV-1|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-1 Veh|Vehicle|Disease
+GSM3730385|Endo IV-2|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-2 E2|Estrogen|Disease
+GSM3730386|Endo IV-2|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-2 P4|Progesterone|Disease
+GSM3730387|Endo IV-2|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-2 E2+P4|Estrogen+Progesterone|Disease
+GSM3730388|Endo IV-2|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-2 Veh|Vehicle|Disease
+GSM3730389|Endo IV-3|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-3 E2|Estrogen|Disease
+GSM3730390|Endo IV-3|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-3 P4|Progesterone|Disease
+GSM3730391|Endo IV-3|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-3 E2+P4|Estrogen+Progesterone|Disease
+GSM3730392|Endo IV-3|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-3 Veh|Vehicle|Disease
+GSM3730393|Endo IV-4|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-4 E2|Estrogen|Disease
+GSM3730394|Endo IV-4|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-4 P4|Progesterone|Disease
+GSM3730395|Endo IV-4|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-4 E2+P4|Estrogen+Progesterone|Disease
+GSM3730396|Endo IV-4|N/A|F|N/A|N/A|Endometriosis Stage IV|Uterus|N/A|in_vitro|case|Endo IV-4 Veh|Vehicle|Disease

@@ -1,0 +1,58 @@
+GSM1250505|N/A|N/A|F|N/A|N/A|cancer|Ovary|41M|in_vitro|case|N/A|N/A|Disease
+GSM1250506|N/A|N/A|F|N/A|N/A|cancer|Ovary|Caov-3|in_vitro|case|N/A|N/A|Disease
+GSM1250507|N/A|N/A|F|N/A|N/A|cancer|Ovary|DOV13|in_vitro|case|N/A|N/A|Disease
+GSM1250508|N/A|N/A|F|N/A|N/A|cancer|Ovary|ES-2|in_vitro|case|N/A|N/A|Disease
+GSM1250509|N/A|N/A|F|N/A|N/A|cancer|Ovary|IGROV1-NCI|in_vitro|case|N/A|N/A|Disease
+GSM1250510|N/A|N/A|F|N/A|N/A|cancer|Ovary|FUOV1|in_vitro|case|N/A|N/A|Disease
+GSM1250511|N/A|N/A|F|N/A|N/A|cancer|Ovary|JHOC-5|in_vitro|case|N/A|N/A|Disease
+GSM1250512|N/A|N/A|F|N/A|N/A|cancer|Ovary|JHOC-7|in_vitro|case|N/A|N/A|Disease
+GSM1250513|N/A|N/A|F|N/A|N/A|cancer|Ovary|JHOM-1|in_vitro|case|N/A|N/A|Disease
+GSM1250514|N/A|N/A|F|N/A|N/A|healthy|Ovary|HOSE/E7/hTERT|in_vitro|ctrl|N/A|N/A|None
+GSM1250515|N/A|N/A|F|N/A|N/A|control|Whole Blood|N/A|in_vitro|ctrl|N/A|N/A|None
+GSM1250516|N/A|N/A|F|N/A|N/A|cancer|Ovary|A2780-NCI|in_vitro|case|N/A|N/A|Disease
+GSM1250517|N/A|N/A|F|N/A|N/A|cancer|Ovary|JHOC-8|in_vitro|case|N/A|N/A|Disease
+GSM1250518|N/A|N/A|F|N/A|N/A|cancer|Ovary|JHOC-9|in_vitro|case|N/A|N/A|Disease
+GSM1250519|N/A|N/A|F|N/A|N/A|cancer|Ovary|JHOM-2B|in_vitro|case|N/A|N/A|Disease
+GSM1250520|N/A|N/A|F|N/A|N/A|cancer|Ovary|JHOS-2|in_vitro|case|N/A|N/A|Disease
+GSM1250521|N/A|N/A|F|N/A|N/A|cancer|Ovary|JHOS-3|in_vitro|case|N/A|N/A|Disease
+GSM1250522|N/A|N/A|F|N/A|N/A|cancer|Ovary|JHOS-4|in_vitro|case|N/A|N/A|Disease
+GSM1250523|N/A|N/A|F|N/A|N/A|cancer|Ovary|OVK-18|in_vitro|case|N/A|N/A|Disease
+GSM1250524|N/A|N/A|F|N/A|N/A|healthy|Ovary|IOSE80|in_vitro|ctrl|N/A|N/A|None
+GSM1250525|N/A|N/A|F|N/A|N/A|control|Whole Blood|N/A|in_vitro|ctrl|N/A|N/A|None
+GSM1250526|N/A|N/A|F|N/A|N/A|cancer|Ovary|Hey|in_vitro|case|N/A|N/A|Disease
+GSM1250527|N/A|N/A|F|N/A|N/A|cancer|Ovary|KOC-5c|in_vitro|case|N/A|N/A|Disease
+GSM1250528|N/A|N/A|F|N/A|N/A|cancer|Ovary|KOC-7c|in_vitro|case|N/A|N/A|Disease
+GSM1250529|N/A|N/A|F|N/A|N/A|cancer|Ovary|MCAS|in_vitro|case|N/A|N/A|Disease
+GSM1250530|N/A|N/A|F|N/A|N/A|cancer|Ovary|OV90|in_vitro|case|N/A|N/A|Disease
+GSM1250531|N/A|N/A|F|N/A|N/A|cancer|Ovary|ovary1847 (A1847)|in_vitro|case|N/A|N/A|Disease
+GSM1250532|N/A|N/A|F|N/A|N/A|cancer|Ovary|OVCA420|in_vitro|case|N/A|N/A|Disease
+GSM1250533|N/A|N/A|F|N/A|N/A|cancer|Ovary|TOV-112D|in_vitro|case|N/A|N/A|Disease
+GSM1250534|N/A|N/A|F|N/A|N/A|healthy|Ovary|IOSE144|in_vitro|ctrl|N/A|N/A|None
+GSM1250535|N/A|N/A|F|N/A|N/A|control|Whole Blood|N/A|in_vitro|ctrl|N/A|N/A|None
+GSM1250536|N/A|N/A|F|N/A|N/A|cancer|Ovary|OMC-3|in_vitro|case|N/A|N/A|Disease
+GSM1250537|N/A|N/A|F|N/A|N/A|cancer|Ovary|OVCA429|in_vitro|case|N/A|N/A|Disease
+GSM1250538|N/A|N/A|F|N/A|N/A|cancer|Ovary|OVCA432|in_vitro|case|N/A|N/A|Disease
+GSM1250539|N/A|N/A|F|N/A|N/A|cancer|Ovary|OVCAR2|in_vitro|case|N/A|N/A|Disease
+GSM1250540|N/A|N/A|F|N/A|N/A|cancer|Ovary|NIH:OVCAR-3|in_vitro|case|N/A|N/A|Disease
+GSM1250541|N/A|N/A|F|N/A|N/A|cancer|Ovary|OVCAR4-NCI|in_vitro|case|N/A|N/A|Disease
+GSM1250542|N/A|N/A|F|N/A|N/A|cancer|Ovary|OVISE|in_vitro|case|N/A|N/A|Disease
+GSM1250543|N/A|N/A|F|N/A|N/A|cancer|Ovary|OVTOKO|in_vitro|case|N/A|N/A|Disease
+GSM1250544|N/A|N/A|F|N/A|N/A|healthy|Other|Hs832.(C)T|in_vitro|ctrl|N/A|N/A|None
+GSM1250545|N/A|N/A|F|N/A|N/A|control|Whole Blood|N/A|in_vitro|ctrl|N/A|N/A|None
+GSM1250546|N/A|N/A|F|N/A|N/A|cancer|Ovary|OVCAR5|in_vitro|case|N/A|N/A|Disease
+GSM1250547|N/A|N/A|F|N/A|N/A|cancer|Ovary|OVCAR8|in_vitro|case|N/A|N/A|Disease
+GSM1250548|N/A|N/A|F|N/A|N/A|cancer|Ovary|PA1|in_vitro|case|N/A|N/A|Disease
+GSM1250549|N/A|N/A|F|N/A|N/A|cancer|Ovary|PEO1|in_vitro|case|N/A|N/A|Disease
+GSM1250550|N/A|N/A|F|N/A|N/A|cancer|Ovary|RMG-I|in_vitro|case|N/A|N/A|Disease
+GSM1250551|N/A|N/A|F|N/A|N/A|cancer|Ovary|RMG-II|in_vitro|case|N/A|N/A|Disease
+GSM1250552|N/A|N/A|F|N/A|N/A|cancer|Ovary|RMG-V|in_vitro|case|N/A|N/A|Disease
+GSM1250553|N/A|N/A|F|N/A|N/A|cancer|Ovary|SK-OV-3|in_vitro|case|N/A|N/A|Disease
+GSM1250554|N/A|N/A|F|N/A|N/A|cancer|Ovary|SK-OV-8|in_vitro|case|N/A|N/A|Disease
+GSM1250555|N/A|N/A|F|N/A|N/A|control|Whole Blood|N/A|in_vitro|ctrl|N/A|N/A|None
+GSM1250556|N/A|N/A|F|N/A|N/A|cancer|Ovary|TAYA|in_vitro|case|N/A|N/A|Disease
+GSM1250557|N/A|N/A|F|N/A|N/A|cancer|Ovary|TOV-21G|in_vitro|case|N/A|N/A|Disease
+GSM1250558|N/A|N/A|F|N/A|N/A|cancer|Ovary|TYK-nu|in_vitro|case|N/A|N/A|Disease
+GSM1250559|N/A|N/A|F|N/A|N/A|cancer|Ovary|UWB1.289|in_vitro|case|N/A|N/A|Disease
+GSM1250560|N/A|N/A|F|N/A|N/A|control|N/A|CpGenome Universal Methylated DNA|in_vitro|ctrl|N/A|N/A|None
+GSM1250561|N/A|N/A|F|N/A|N/A|control|N/A|CpGenome Universal Methylated DNA and lymphocytes|in_vitro|ctrl|N/A|N/A|None
+GSM1250562|N/A|N/A|F|N/A|N/A|control|Whole Blood|N/A|in_vitro|ctrl|N/A|N/A|None

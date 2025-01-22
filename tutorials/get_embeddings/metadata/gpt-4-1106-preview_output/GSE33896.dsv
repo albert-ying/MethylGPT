@@ -1,0 +1,16 @@
+GSM838506|donor 1|N/A|M|N/A|N/A|healthy|Adipose|N/A|in_vitro|ctrl|ASC|N/A|N/A
+GSM838507|donor 2|N/A|M|N/A|N/A|healthy|Adipose|N/A|in_vitro|ctrl|ASC|N/A|N/A
+GSM838508|donor 3|N/A|M|N/A|N/A|healthy|Adipose|N/A|in_vitro|ctrl|ASC|N/A|N/A
+GSM838509|donor 5|N/A|M|N/A|N/A|healthy|Adipose|N/A|in_vitro|ctrl|ASC|N/A|N/A
+GSM838510|donor 1|N/A|M|N/A|N/A|healthy|Adipose|N/A|in_vitro|case|Osteocyte Differentiation|N/A|N/A
+GSM838511|donor 2|N/A|M|N/A|N/A|healthy|Adipose|N/A|in_vitro|case|Osteocyte Differentiation|N/A|N/A
+GSM838512|donor 3|N/A|M|N/A|N/A|healthy|Adipose|N/A|in_vitro|case|Osteocyte Differentiation|N/A|N/A
+GSM838513|donor 1|N/A|M|N/A|N/A|healthy|Adipose|N/A|in_vitro|case|Myocyte Differentiation|N/A|N/A
+GSM838514|donor 2|N/A|M|N/A|N/A|healthy|Adipose|N/A|in_vitro|case|Myocyte Differentiation|N/A|N/A
+GSM838515|donor 3|N/A|M|N/A|N/A|healthy|Adipose|N/A|in_vitro|case|Myocyte Differentiation|N/A|N/A
+GSM838516|osteosarcoma cell line (ATCC CRL-1427)|N/A|M|N/A|N/A|osteosarcoma|N/A|MG-63|in_vitro|ctrl|Osteosarcoma Cell Line|N/A|Disease
+GSM838517|rhabdomyosarcoma (ATCC CRL-7731)|N/A|M|N/A|N/A|rhabdomyosarcoma|N/A|TE 32.T|in_vitro|ctrl|Rhabdomyosarcoma Cell Line|N/A|Disease
+GSM838518|rhabdomyosarcoma (ATCC CCL-136)|N/A|M|N/A|N/A|rhabdomyosarcoma|N/A|RD|in_vitro|ctrl|Rhabdomyosarcoma Cell Line|N/A|Disease
+GSM838519|donor 1|N/A|M|N/A|N/A|healthy|N/A|N/A|in_vivo|ctrl|Primary Osteocytes|N/A|N/A
+GSM838520|donor 1|N/A|M|N/A|N/A|healthy|N/A|N/A|in_vivo|ctrl|Primary Myocytes|N/A|N/A
+GSM838521|donor 2|N/A|M|N/A|N/A|healthy|N/A|N/A|in_vivo|ctrl|Primary Myocytes|N/A|N/A

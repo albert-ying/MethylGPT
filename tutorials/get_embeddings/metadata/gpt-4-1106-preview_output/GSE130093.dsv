@@ -1,0 +1,13 @@
+GSM3731779|N/A|N/A|F|N/A|MTAP deleted|Glioblastoma|Brain|N/A|in_vitro|ctrl|Control NSC p9|N/A|Genetic
+GSM3731780|N/A|N/A|F|N/A|MTAP expressed|Glioblastoma|Brain|N/A|in_vitro|case|MigR1-MTAP NSC p7|N/A|Genetic
+GSM3731781|N/A|N/A|F|N/A|MTAP deleted|Glioblastoma|Brain|N/A|in_vitro|ctrl|Control NSC p11|N/A|Genetic
+GSM3731782|N/A|N/A|F|N/A|MTAP expressed|Glioblastoma|Brain|N/A|in_vitro|case|MigR1-MTAP NSC p11|N/A|Genetic
+GSM3731783|N/A|N/A|M|N/A|MTAP expressed|Glioblastoma|Brain|N/A|in_vitro|ctrl|Parental NSC P10|N/A|Genetic
+GSM3731784|N/A|N/A|M|N/A|MTAP deleted|Glioblastoma|Brain|N/A|in_vitro|case|MTAP KO66 NSC p12|N/A|Genetic
+GSM3731785|N/A|N/A|M|N/A|MTAP expressed|N/A|Brain|N/A|in_vitro|ctrl|OMRP-1 DMSO Control|N/A|Small Molecule
+GSM3731786|N/A|N/A|M|N/A|MTAP inhibited|N/A|Brain|N/A|in_vitro|case|OMRP-1 3uM MTDIA|N/A|Small Molecule
+GSM3731787|N/A|N/A|M|N/A|MTAP expressed (PRMT5 inhibited)|N/A|Brain|N/A|in_vitro|case|OMRP-1 0.37EPZ015666|N/A|Small Molecule
+GSM3731788|N/A|N/A|M|N/A|MTAP Expressed|N/A|Brain|N/A|in_vitro|ctrl|OMRP-6 NTC|N/A|Genetic
+GSM3731789|N/A|N/A|M|N/A|MTAP deleted|N/A|Brain|N/A|in_vitro|case|OMRP-6 CRISPR MTAP -/-|N/A|Genetic
+GSM3731790|N/A|N/A|M|N/A|MTAP expressed|Glioblastoma|Brain|N/A|in_vitro|ctrl|NSCp13|N/A|Genetic
+GSM3731791|N/A|N/A|M|N/A|MTAP expressed (PRMT5 inhibited)|Glioblastoma|Brain|N/A|in_vitro|case|NSC p13 0.37EPZ015666|N/A|Small Molecule

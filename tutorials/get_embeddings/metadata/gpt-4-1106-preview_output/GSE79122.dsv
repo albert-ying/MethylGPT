@@ -1,0 +1,78 @@
+GSM2086323|N/A|N/A|M|25|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM2086324|N/A|N/A|F|15|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM2086325|N/A|N/A|F|51|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM2086326|N/A|N/A|F|33|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM2086327|N/A|N/A|F|23|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM2086328|N/A|N/A|M|32|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM2086329|N/A|N/A|M|28|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM2086330|N/A|N/A|N/A|N/A|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM2086331|N/A|N/A|N/A|N/A|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|N/A
+GSM2086332|N/A|N/A|F|24|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086333|N/A|N/A|M|40|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086334|N/A|N/A|M|31|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086335|N/A|N/A|M|30|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086336|N/A|N/A|M|25|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086337|N/A|N/A|M|22|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086338|N/A|N/A|F|25|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086339|N/A|N/A|M|26|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086340|N/A|N/A|M|28|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086341|N/A|N/A|F|37|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086342|N/A|N/A|M|32|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086343|N/A|N/A|M|26|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086344|N/A|N/A|M|60|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086345|N/A|N/A|M|32|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086346|N/A|N/A|M|39|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086347|N/A|N/A|F|37|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086348|N/A|N/A|M|36|N/A|Diffuse Astrocytoma|Brain|N/A|in_vivo|case|Diffuse Astrocytoma|N/A|Disease
+GSM2086349|N/A|N/A|F|40|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086350|N/A|N/A|F|38|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086351|N/A|N/A|M|38|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086352|N/A|N/A|M|19|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086353|N/A|N/A|M|48|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086354|N/A|N/A|M|24|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086355|N/A|N/A|M|19|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086356|N/A|N/A|M|46|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086357|N/A|N/A|F|35|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086358|N/A|N/A|M|32|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086359|N/A|N/A|M|40|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086360|N/A|N/A|F|39|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086361|N/A|N/A|M|45|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086362|N/A|N/A|M|35|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086363|N/A|N/A|M|36|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086364|N/A|N/A|M|37|N/A|Anaplastic Astrocytoma|Brain|N/A|in_vivo|case|Anaplastic Astrocytoma|N/A|Disease
+GSM2086365|N/A|N/A|M|58|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086366|N/A|N/A|M|56|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086367|N/A|N/A|M|58|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086368|N/A|N/A|M|55|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086369|N/A|N/A|M|48|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086370|N/A|N/A|M|45|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086371|N/A|N/A|M|63|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086372|N/A|N/A|M|45|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086373|N/A|N/A|F|61|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086374|N/A|N/A|M|60|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086375|N/A|N/A|F|55|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086376|N/A|N/A|M|37|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086377|N/A|N/A|M|50|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086378|N/A|N/A|M|65|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086379|N/A|N/A|M|20|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086380|N/A|N/A|M|34|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086381|N/A|N/A|M|45|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086382|N/A|N/A|M|45|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086383|N/A|N/A|M|45|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086384|N/A|N/A|M|50|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086385|N/A|N/A|M|50|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086386|N/A|N/A|F|55|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086387|N/A|N/A|F|45|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086388|N/A|N/A|F|40|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086389|N/A|N/A|M|70|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086390|N/A|N/A|F|54|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086391|N/A|N/A|M|43|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086392|N/A|N/A|F|49|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086393|N/A|N/A|M|60|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086394|N/A|N/A|M|55|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086395|N/A|N/A|M|59|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086396|N/A|N/A|M|54|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086397|N/A|N/A|M|51|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086398|N/A|N/A|M|55|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086399|N/A|N/A|M|60|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease
+GSM2086400|N/A|N/A|M|62|N/A|Glioblastoma|Brain|N/A|in_vivo|case|Glioblastoma|N/A|Disease

@@ -1,0 +1,8 @@
+GSM1701529|N/A|N/A|N/A|N/A|N/A|Bladder Cancer|Bladder|RT112|in_vitro|case|ANG_KD|angiogenin knock down|Genetic
+GSM1701530|N/A|N/A|N/A|N/A|N/A|Bladder Cancer|Bladder|RT112|in_vitro|case|ANG_KD|angiogenin knock down|Genetic
+GSM1701531|N/A|N/A|N/A|N/A|N/A|Bladder Cancer|Bladder|RT112|in_vitro|ctrl|SCR_KD|SCR knockdown|Genetic
+GSM1701532|N/A|N/A|N/A|N/A|N/A|Bladder Cancer|Bladder|RT112|in_vitro|ctrl|SCR_KD|SCR knockdown|Genetic
+GSM1701533|N/A|N/A|N/A|N/A|N/A|Healthy|Bladder|UROtsa|in_vitro|case|ANG_KI|angiogenin knock-in|Genetic
+GSM1701534|N/A|N/A|N/A|N/A|N/A|Healthy|Bladder|UROtsa|in_vitro|case|ANG_KI|angiogenin knock-in|Genetic
+GSM1701535|N/A|N/A|N/A|N/A|N/A|Healthy|Bladder|UROtsa|in_vitro|ctrl|Empty_Vector_Control|empty plasmid knock-in control|Genetic
+GSM1701536|N/A|N/A|N/A|N/A|N/A|Healthy|Bladder|UROtsa|in_vitro|ctrl|Empty_Vector_Control|empty plasmid knock-in control|Genetic

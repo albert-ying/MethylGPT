@@ -1,0 +1,5 @@
+GSM5520741|N/A|N/A|M|N/A|Wild type|Healthy|Colon|HCT116|in_vitro|ctrl|Parental|Vehicle|None
+GSM5520742|N/A|N/A|M|N/A|Wild type|Healthy|Colon|HCT116|in_vitro|case|GSK5032|GSK5032|Small Molecule
+GSM5520743|N/A|N/A|F|N/A|Wild type|Healthy|Colon|RKO|in_vitro|ctrl|Parental|Vehicle|None
+GSM5520744|N/A|N/A|F|N/A|Wild type|Healthy|Colon|RKO|in_vitro|case|GSK5032|GSK5032|Small Molecule
+GSM5520745|N/A|N/A|M|N/A|DNMT1 hypomorph, DNMT3B knockout|Healthy|Colon|HCT116|in_vitro|N/A|DKO1|Untreated|Genetic

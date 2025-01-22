@@ -1,0 +1,330 @@
+GSM2229196|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229115|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229337|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229158|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229042|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229070|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2229238|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229102|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229187|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229289|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229147|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229234|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229096|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229141|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229287|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229269|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229302|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2229299|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229124|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229232|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229151|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229206|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229208|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229111|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|N/A|Estrogen|Disease
+GSM2229252|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229094|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229233|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229185|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229260|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229222|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229168|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229320|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229165|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229130|N/A|N/A|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229316|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2229298|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229114|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229293|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229038|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229243|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229304|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229306|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229021|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229092|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229063|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229253|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229235|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229311|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229154|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229062|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229086|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229106|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229214|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229164|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229300|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229071|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229060|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229213|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229281|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229241|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229297|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229174|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229182|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229286|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229132|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229336|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229204|N/A|N/A|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229117|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229240|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229045|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229170|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229095|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229107|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229125|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229171|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229248|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229193|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229335|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229202|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229098|N/A|N/A|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229229|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229295|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229308|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229237|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229031|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|N/A|Estrogen|Disease
+GSM2229270|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229228|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|N/A|Estrogen|Disease
+GSM2229025|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|N/A|Estrogen|Disease
+GSM2229207|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229037|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229133|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229160|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229040|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229346|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229177|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229242|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229275|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|N/A|Estrogen|Disease
+GSM2229314|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229163|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229085|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Basal|Estrogen|Disease
+GSM2229145|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229280|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229265|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229054|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229153|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229339|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229334|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229347|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229161|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229190|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229036|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229328|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229271|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229110|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229180|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229075|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Basal|Estrogen|Disease
+GSM2229129|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229047|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229138|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229181|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229140|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229255|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|N/A|Estrogen|Disease
+GSM2229022|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229201|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229272|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229128|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229267|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2229330|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229313|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229112|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229066|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229072|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229236|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229093|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229276|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Normal|N/A|Disease
+GSM2229223|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229043|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229312|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229061|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229309|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229186|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229035|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229340|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229327|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229077|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229209|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229044|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229178|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229249|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|N/A|Estrogen|Disease
+GSM2229205|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|N/A|Estrogen|Disease
+GSM2229288|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229049|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229039|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229247|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229056|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229345|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229028|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Normal|N/A|Disease
+GSM2229318|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229291|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229250|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229172|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229189|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229277|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229053|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229150|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229344|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229212|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229091|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229029|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229210|N/A|N/A|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229069|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229264|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229179|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229224|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229216|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229257|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229211|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229073|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|N/A|Estrogen|Disease
+GSM2229076|N/A|N/A|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229266|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229099|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229137|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229226|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229136|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229103|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229146|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229198|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2229317|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|N/A|Estrogen|Disease
+GSM2229254|N/A|N/A|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229282|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229341|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229173|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229290|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229152|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229104|N/A|N/A|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229197|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229200|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229183|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229324|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229065|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229078|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229342|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229315|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229176|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Basal|Estrogen|Disease
+GSM2229322|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229080|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229089|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229199|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229120|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229329|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229325|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229113|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229273|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229027|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Normal|N/A|Disease
+GSM2229274|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229090|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229157|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229175|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229326|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Normal|N/A|Disease
+GSM2229100|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229219|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229285|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229155|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229244|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229278|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229307|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229119|N/A|N/A|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229105|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229218|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229292|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229059|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229263|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229084|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229319|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229296|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2229118|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229109|N/A|N/A|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229023|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229258|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229144|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229227|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229041|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229332|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229057|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229030|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229283|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229279|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229261|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229087|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229323|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|N/A|Estrogen|Disease
+GSM2229148|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229231|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229184|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229310|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229331|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229064|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229162|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229195|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2229051|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229301|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229246|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229058|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229131|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229055|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229191|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229348|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229123|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229142|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229081|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229262|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229259|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229284|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229159|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229067|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229194|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229082|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229268|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229256|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229079|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229215|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229046|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229026|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229239|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229338|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Normal|N/A|Disease
+GSM2229074|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229068|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229251|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229349|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229033|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229149|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229143|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229127|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229126|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229052|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229294|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229221|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229121|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229134|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Basal|Estrogen|Disease
+GSM2229350|N/A|N/A|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229203|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229321|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229108|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229088|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229188|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229333|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229048|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229034|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229167|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229024|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Normal|Estrogen|Disease
+GSM2229230|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229217|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229101|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229156|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229225|N/A|N/A|F|N/A|N/A|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229050|N/A|N/A|F|N/A|N/A|N/A|Breast|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM2229245|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229122|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229220|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229139|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229116|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229032|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|Her2|Estrogen|Disease
+GSM2229169|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229135|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease
+GSM2229192|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229083|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229343|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Basal|N/A|Disease
+GSM2229303|N/A|N/A|F|N/A|neg|Breast Cancer|Breast|N/A|in_vivo|case|Her2|N/A|Disease
+GSM2229097|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229166|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumA|Estrogen|Disease
+GSM2229305|N/A|N/A|F|N/A|pos|Breast Cancer|Breast|N/A|in_vivo|case|LumB|Estrogen|Disease

@@ -1,0 +1,22 @@
+GSM2062665|CRC_1|N/A|N/A|N/A|N/A|Colorectal Cancer|Colon|N/A|in_vivo|case|TumorNormal|N/A|Disease
+GSM2062666|CRC_2|N/A|N/A|N/A|N/A|Colorectal Cancer|Colon|N/A|in_vivo|case|TumorNormal|N/A|Disease
+GSM2062667|CRC_3|N/A|N/A|N/A|N/A|Colorectal Cancer|Colon|N/A|in_vivo|case|TumorNormal|N/A|Disease
+GSM2062668|CRC_4|N/A|N/A|N/A|N/A|Colorectal Cancer|Colon|N/A|in_vivo|case|TumorNormal|N/A|Disease
+GSM2062669|CRC_5|N/A|N/A|N/A|N/A|Colorectal Cancer|Colon|N/A|in_vivo|case|TumorNormal|N/A|Disease
+GSM2062670|CRC_6|N/A|N/A|N/A|N/A|Colorectal Cancer|Colon|N/A|in_vivo|case|TumorNormal|N/A|Disease
+GSM2062671|CRC_1|N/A|N/A|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|TumorNormal|N/A|None
+GSM2062672|CRC_2|N/A|N/A|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|TumorNormal|N/A|None
+GSM2062673|CRC_3|N/A|N/A|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|TumorNormal|N/A|None
+GSM2062674|CRC_4|N/A|N/A|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|TumorNormal|N/A|None
+GSM2062675|CRC_5|N/A|N/A|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|TumorNormal|N/A|None
+GSM2062676|CRC_6|N/A|N/A|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|TumorNormal|N/A|None
+GSM2062677|N/A|N/A|M|N/A|N/A|Colorectal Cancer|Colon|N/A|in_vivo|case|HCT116-derived xenograft|FrozenFFPE|Disease
+GSM2062678|N/A|N/A|M|N/A|N/A|Colorectal Cancer|Colon|N/A|in_vivo|case|HCT15-derived xenograft|FrozenFFPE|Disease
+GSM2062679|KKG1|N/A|M|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|N/A|in_vivo|case|KKG1|5-aza-2’-deoxycytidine|Small Molecule
+GSM2062680|KKG1|N/A|M|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|N/A|in_vivo|case|KKG1|5-aza-2’-deoxycytidine|Small Molecule
+GSM2062681|KKG1|N/A|M|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|N/A|in_vivo|ctrl|KKG1|control|None
+GSM2062682|KKG1|N/A|M|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|N/A|in_vivo|ctrl|KKG1|control|None
+GSM2062683|KKG1a|N/A|M|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|N/A|in_vivo|case|KKG1a|5-aza-2’-deoxycytidine|Small Molecule
+GSM2062684|KKG1a|N/A|M|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|N/A|in_vivo|case|KKG1a|5-aza-2’-deoxycytidine|Small Molecule
+GSM2062685|KKG1a|N/A|M|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|N/A|in_vivo|ctrl|KKG1a|control|None
+GSM2062686|KKG1a|N/A|M|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|N/A|in_vivo|ctrl|KKG1a|control|None

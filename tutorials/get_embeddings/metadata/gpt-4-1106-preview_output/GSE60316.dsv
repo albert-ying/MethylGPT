@@ -1,0 +1,6 @@
+GSM1471623|N/A|N/A|F|N/A|N/A|Healthy|Kidney|293T|in_vitro|ctrl|Mock|N/A|Genetic
+GSM1471624|N/A|N/A|F|N/A|N/A|Healthy|Kidney|293T|in_vitro|case|RUNX1|RUNX1|Genetic
+GSM2227495|N/A|N/A|F|N/A|N/A|Healthy|Kidney|293T|in_vitro|ctrl|TET2|TET2|Genetic
+GSM2227496|N/A|N/A|F|N/A|N/A|Healthy|Kidney|293T|in_vitro|case|TET2-RUNX1|TET2 and RUNX1|Genetic
+GSM2398357|N/A|N/A|F|N/A|N/A|Healthy|Kidney|293T|in_vitro|ctrl|TET3|TET3|Genetic
+GSM2398358|N/A|N/A|F|N/A|N/A|Healthy|Kidney|293T|in_vitro|case|TET3-RUNX1|TET3 and RUNX1|Genetic

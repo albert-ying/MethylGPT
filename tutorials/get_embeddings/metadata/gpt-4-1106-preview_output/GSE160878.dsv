@@ -1,0 +1,21 @@
+GSM4885442|1|Hispanic and Latino|M|58|N/A|Healthy|Skin|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM4885443|1|Hispanic and Latino|M|58|N/A|Merkel Cell Carcinoma|Other|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885444|2|White|F|82|N/A|Merkel Cell Carcinoma|Skin|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885445|3|White|M|53|N/A|Merkel Cell Carcinoma|Skin|N/A|in_vivo|case|N/A|Chemotherapy, Programmed Death-1 (PD-1) inhibitor, Cytotoxic T-Lymphocyte-Associated Protein 4 (CTLA-4) inhibitor, Talimogene Laherparepvec (TVEC)|N/A
+GSM4885446|3|White|M|53|N/A|Merkel Cell Carcinoma|Skin|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885447|4|White|M|72|N/A|Merkel Cell Carcinoma|Skin|N/A|in_vivo|case|N/A|Chemotherapy|N/A
+GSM4885448|4|White|M|72|N/A|Healthy|Skin|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM4885449|4|White|M|72|N/A|Merkel Cell Carcinoma|Skin|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885450|5|Hispanic and Latino|M|49|N/A|Healthy|Skin|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM4885451|5|Hispanic and Latino|M|49|N/A|Merkel Cell Carcinoma|Skin|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885452|6|Hispanic and Latino|M|66|N/A|Merkel Cell Carcinoma|Skin|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885453|7|Hispanic and Latino|M|53|N/A|Merkel Cell Carcinoma|Other|N/A|in_vivo|case|N/A|Chemotherapy|N/A
+GSM4885454|8|White|M|82|N/A|Merkel Cell Carcinoma|Skin|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885455|8|White|M|82|N/A|Merkel Cell Carcinoma|Skin|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885456|9|Hispanic and Latino|M|51|N/A|Merkel Cell Carcinoma|Skin|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885457|10|White|F|88|N/A|Merkel Cell Carcinoma|Skin|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885458|11|White|M|86|N/A|Healthy|Skin|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM4885459|11|White|M|86|N/A|Merkel Cell Carcinoma|Other|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885460|11|White|M|86|N/A|Merkel Cell Carcinoma|Other|N/A|in_vivo|case|N/A|N/A|N/A
+GSM4885461|N/A|N/A|F|59|N/A|N/A|Cells|MS1|in_vitro|N/A|N/A|N/A|N/A
+GSM4885462|N/A|N/A|F|80|N/A|N/A|Cells|MCC13|in_vitro|N/A|N/A|N/A|N/A

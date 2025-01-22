@@ -1,0 +1,4 @@
+GSM2417753|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|U937|in_vitro|ctrl|Vector_Control|None|Genetic
+GSM2417754|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|U937|in_vitro|case|DNMT3A_WT|None|Genetic
+GSM2417755|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|U937|in_vitro|case|DNMT3A_R882C|None|Genetic
+GSM2417756|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Whole Blood|U937|in_vitro|case|DNMT3A_R882H|None|Genetic

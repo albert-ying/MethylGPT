@@ -1,0 +1,104 @@
+GSM5453671|11A|N/A|M|N/A|N/A|Healthy|Cells|CD4+ T cell|in_vitro|ctrl|Control|N/A|Disease
+GSM5453672|14A|N/A|M|N/A|N/A|Healthy|Cells|CD4+ T cell|in_vitro|ctrl|Control|N/A|Disease
+GSM5453673|15A|N/A|M|N/A|N/A|Healthy|Cells|CD4+ T cell|in_vitro|ctrl|Control|N/A|Disease
+GSM5453674|16A|N/A|M|N/A|N/A|Healthy|Cells|CD4+ T cell|in_vitro|ctrl|Control|N/A|Disease
+GSM5453675|17A|N/A|M|N/A|N/A|Healthy|Cells|CD4+ T cell|in_vitro|ctrl|Control|N/A|Disease
+GSM5453676|21A|N/A|M|N/A|N/A|Healthy|Cells|CD4+ T cell|in_vitro|ctrl|Control|N/A|Disease
+GSM5453677|23A|N/A|M|N/A|N/A|Healthy|Cells|CD4+ T cell|in_vitro|ctrl|Control|N/A|Disease
+GSM5453678|29A|N/A|M|N/A|N/A|Healthy|Cells|CD4+ T cell|in_vitro|ctrl|Control|N/A|Disease
+GSM5453679|11A|N/A|M|N/A|N/A|Healthy|Cells|Monocyte|in_vitro|ctrl|Control|N/A|Disease
+GSM5453680|14A|N/A|M|N/A|N/A|Healthy|Cells|Monocyte|in_vitro|ctrl|Control|N/A|Disease
+GSM5453681|15A|N/A|M|N/A|N/A|Healthy|Cells|Monocyte|in_vitro|ctrl|Control|N/A|Disease
+GSM5453682|16A|N/A|M|N/A|N/A|Healthy|Cells|Monocyte|in_vitro|ctrl|Control|N/A|Disease
+GSM5453683|17A|N/A|M|N/A|N/A|Healthy|Cells|Monocyte|in_vitro|ctrl|Control|N/A|Disease
+GSM5453684|21A|N/A|M|N/A|N/A|Healthy|Cells|Monocyte|in_vitro|ctrl|Control|N/A|Disease
+GSM5453685|23A|N/A|M|N/A|N/A|Healthy|Cells|Monocyte|in_vitro|ctrl|Control|N/A|Disease
+GSM5453686|29A|N/A|M|N/A|N/A|Healthy|Cells|Monocyte|in_vitro|ctrl|Control|N/A|Disease
+GSM5453687|17|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453688|22|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453689|24|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453690|25|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453691|48|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453692|161|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453693|210|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453694|366|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453695|212|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453696|269|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453697|389|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453698|391|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453699|404|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453700|45|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453701|207|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453702|211|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453703|276|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453704|379|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453705|400|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453706|401|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453707|39|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453708|50|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Visit1|N/A|Disease
+GSM5453709|17|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453710|22|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453711|24|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453712|25|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453713|45|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453714|48|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453715|161|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453716|207|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453717|210|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453718|211|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453719|276|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453720|366|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453721|212|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453722|269|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453723|379|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453724|389|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453725|391|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453726|400|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453727|401|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453728|404|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453729|39|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453730|50|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Visit1|N/A|Disease
+GSM5453731|17|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453732|22|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453733|24|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453734|25|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453735|45|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453736|48|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453737|161|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453738|207|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453739|210|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453740|211|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453741|276|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453742|366|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453743|212|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453744|269|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453745|379|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453746|389|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453747|391|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453748|400|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453749|401|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453750|404|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453751|39|N/A|M|N/A|N/A|HIV|Cells|Monocyte|in_vitro|case|Post ART|N/A|Disease
+GSM5453752|17|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453753|22|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453754|24|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453755|25|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453756|48|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453757|161|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453758|210|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453759|366|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453760|212|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453761|269|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453762|389|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453763|391|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453764|404|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453765|45|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453766|207|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453767|211|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453768|276|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453769|379|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453770|400|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453771|401|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453772|39|N/A|M|N/A|N/A|HIV|Cells|CD4+ T cell|in_vitro|case|Post ART|N/A|Disease
+GSM5453773|Berlin|N/A|M|N/A|N/A|Healthy|Cells|CD4+ T cell|in_vitro|ctrl|Berlin|N/A|Disease
+GSM5453774|Berlin|N/A|M|N/A|N/A|Healthy|Cells|Monocyte|in_vitro|ctrl|Berlin|N/A|Disease

@@ -1,0 +1,48 @@
+GSM3815066|N/A|N/A|F|30|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_30-1|N/A|N/A
+GSM3815067|N/A|N/A|F|30|N/A|Atypical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_LMNA_30|N/A|Disease
+GSM3815068|N/A|N/A|M|37|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_37-1|N/A|N/A
+GSM3815069|N/A|N/A|M|37|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_37-1|N/A|Disease
+GSM3815070|N/A|N/A|F|9|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_9|N/A|N/A
+GSM3815071|N/A|N/A|F|9|N/A|MDP Syndrome|Whole Blood|N/A|in_vivo|case|patient_POLD1_9|N/A|Disease
+GSM3815072|N/A|N/A|M|45|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_45-2|N/A|N/A
+GSM3815073|N/A|N/A|M|45|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_45-2|N/A|Disease
+GSM3815074|N/A|N/A|M|39|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_39|N/A|Disease
+GSM3815075|N/A|N/A|M|39|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_39|N/A|N/A
+GSM3815076|N/A|N/A|F|37|N/A|Atypical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_LMNA_37|N/A|Disease
+GSM3815077|N/A|N/A|F|37|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_37|N/A|N/A
+GSM3815078|N/A|N/A|M|47|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_47|N/A|Disease
+GSM3815079|N/A|N/A|M|47|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_47|N/A|N/A
+GSM3815080|N/A|N/A|F|13|N/A|MDP Syndrome|Whole Blood|N/A|in_vivo|case|patient_POLD1_13|N/A|Disease
+GSM3815081|N/A|N/A|F|13|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_13|N/A|N/A
+GSM3815082|N/A|N/A|M|40|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_40|N/A|N/A
+GSM3815083|N/A|N/A|M|40|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_40|N/A|Disease
+GSM3815084|N/A|N/A|F|30|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_30-2|N/A|N/A
+GSM3815085|N/A|N/A|F|30|N/A|MDP Syndrome|Whole Blood|N/A|in_vivo|case|patient_POLD1_30|N/A|Disease
+GSM3815086|N/A|N/A|M|36|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_36|N/A|N/A
+GSM3815087|N/A|N/A|M|36|N/A|Atypical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_LMNA_36|N/A|Disease
+GSM3815088|N/A|N/A|M|49|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_49|N/A|N/A
+GSM3815089|N/A|N/A|M|49|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_49|N/A|Disease
+GSM3815090|N/A|N/A|M|18|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_18|N/A|Disease
+GSM3815091|N/A|N/A|M|18|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_18|N/A|N/A
+GSM3815092|N/A|N/A|M|43|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_43-1|N/A|Disease
+GSM3815093|N/A|N/A|M|43|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_43-1|N/A|N/A
+GSM3815094|N/A|N/A|M|37|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_37-2|N/A|Disease
+GSM3815095|N/A|N/A|M|37|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_37-2|N/A|N/A
+GSM3815096|N/A|N/A|F|31|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_31|N/A|Disease
+GSM3815097|N/A|N/A|F|31|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_31|N/A|N/A
+GSM3815098|N/A|N/A|M|37|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_37-3|N/A|N/A
+GSM3815099|N/A|N/A|M|37|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_37-3|N/A|Disease
+GSM3815100|N/A|N/A|M|43|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_43-2|N/A|N/A
+GSM3815101|N/A|N/A|M|43|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_43-2|N/A|Disease
+GSM3815102|N/A|N/A|M|22|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_22|N/A|N/A
+GSM3815103|N/A|N/A|M|22|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_22|N/A|Disease
+GSM3815104|N/A|N/A|M|59|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_59|N/A|N/A
+GSM3815105|N/A|N/A|F|59|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_59|N/A|Disease
+GSM3815106|N/A|N/A|M|45|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_45-1|N/A|Disease
+GSM3815107|N/A|N/A|M|45|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_45-1|N/A|N/A
+GSM3815108|N/A|N/A|M|32|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_32|N/A|Disease
+GSM3815109|N/A|N/A|M|32|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_32|N/A|N/A
+GSM3815110|N/A|N/A|F|36|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_36|N/A|Disease
+GSM3815111|N/A|N/A|F|36|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_36_2|N/A|N/A
+GSM3815112|N/A|N/A|M|38|N/A|Classical Werner Syndrome|Whole Blood|N/A|in_vivo|case|patient_WRN_38|N/A|Disease
+GSM3815113|N/A|N/A|M|38|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|control_38|N/A|N/A

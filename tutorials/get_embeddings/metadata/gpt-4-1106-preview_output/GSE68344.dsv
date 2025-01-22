@@ -1,0 +1,56 @@
+GSM1531259|N/A|N/A|N/A|N/A|N/A|N/A|Cells|DKO8|in_vitro|N/A|N/A|infected with EV control|Genetic
+GSM1531260|N/A|N/A|N/A|N/A|N/A|N/A|Cells|DKO8|in_vitro|N/A|N/A|infected with DNMT3B1|Genetic
+GSM1531261|N/A|N/A|N/A|N/A|N/A|N/A|Cells|DKO8|in_vitro|N/A|N/A|infected with DNMT3B1-M|Genetic
+GSM1531262|N/A|N/A|N/A|N/A|N/A|N/A|Cells|DKO8|in_vitro|N/A|N/A|infected with DNMT Delta 3B2|Genetic
+GSM1531263|N/A|N/A|N/A|N/A|N/A|N/A|Cells|DKO8|in_vitro|N/A|N/A|infected with DNMT Delta 3B2-M|Genetic
+GSM1531264|N/A|N/A|N/A|N/A|N/A|N/A|Cells|DKO8|in_vitro|N/A|N/A|infected with DNMT3B3|Genetic
+GSM1531265|N/A|N/A|N/A|N/A|N/A|N/A|Cells|DKO8|in_vitro|N/A|N/A|infected with DNMT Delta 3B4|Genetic
+GSM1531266|N/A|N/A|N/A|N/A|N/A|N/A|Cells|DKO8|in_vitro|N/A|N/A|infected with DNMT3L|Genetic
+GSM1668822|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with EV control Day 0 PBS control|Genetic
+GSM1668823|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B1 control Day 0 PBS control|Genetic
+GSM1668824|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B1M control Day 0 PBS control|Genetic
+GSM1668825|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B3 control Day 0 PBS control|Genetic
+GSM1668826|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B4 control Day 0 PBS control|Genetic
+GSM1668827|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3L control Day 0 PBS control|Genetic
+GSM1668828|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with EV control Day 5 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668829|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B1 control Day 5 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668830|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B1M control Day 5 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668831|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B3 control Day 5 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668832|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B4 control Day 5 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668833|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3L control Day 5 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668834|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with EV control Day 10 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668835|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B1 control Day 10 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668836|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B1M control Day 10 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668837|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B3 control Day 10 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668838|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B4 control Day 10 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668839|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3L control Day 10 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668840|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with EV control Day 42 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668841|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B1 control Day 42 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668842|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B1M control Day 42 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668843|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B3 control Day 42 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668844|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3B4 control Day 42 post 24 treatment with 5-Aza-CdR|Genetic
+GSM1668845|N/A|N/A|N/A|N/A|N/A|N/A|Cells|3BKO|in_vitro|N/A|N/A|infected with DNMT3L control Day 42 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100443|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with EV control Day 0 PBS control|Genetic
+GSM2100444|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B1 control Day 0 PBS control|Genetic
+GSM2100445|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B1M control Day 0 PBS control|Genetic
+GSM2100446|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B3 control Day 0 PBS control|Genetic
+GSM2100447|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3L control Day 0 PBS control|Genetic
+GSM2100448|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with EV control Day 5 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100449|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B1 control Day 5 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100450|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B1M control Day 5 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100451|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B3 control Day 5 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100452|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3L control Day 5 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100453|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with EV control Day 10 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100454|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B1 control Day 10 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100455|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B1M control Day 10 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100456|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B3 control Day 10 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100457|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3L control Day 10 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100458|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with EV control Day 42 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100459|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B1 control Day 42 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100460|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B1M control Day 42 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100461|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B3 control Day 42 post 24 treatment with 5-Aza-CdR|Genetic
+GSM2100462|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3L control Day 42 PBS control|Genetic
+GSM2100463|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B1 control Day 42 PBS control|Genetic
+GSM2100464|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B1M control Day 42 PBS control|Genetic
+GSM2100465|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3B3 control Day 42 PBS control|Genetic
+GSM2100466|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT derivative cell line 3ABDKO|in_vitro|N/A|N/A|infected with DNMT3L control Day 42 post 24 treatment with 5-Aza-CdR|Genetic

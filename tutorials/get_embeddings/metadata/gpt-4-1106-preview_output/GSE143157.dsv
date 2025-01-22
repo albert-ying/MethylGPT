@@ -1,0 +1,156 @@
+GSM4251132|BBN_4581||M|82.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251133|||F|74.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251134|BBN_20014||M|91.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251135|||F|70.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251136|BBN_24200||F|67.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251137|||M|55.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251138|BBN_16317||M|79.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251139|||F|71.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251140|||F|81.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251141|BBN_14408||M|90.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251142|||M|65.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251143|BBN_15752||M|79.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251144|BBN_10242||M|78.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251145|BBN_22991||F|73.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251146|BBN_10993||F|85.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251147|BBN_22617||F|66.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251148|BBN_21801||M|68.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251149|BBN_16291||M|81.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251150|BBN_18401||M|82.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251151|BBN_24381||F|66.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251152|BBN_24666||F|74.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251153|BBN_18816||M|84.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251154|BBN_15719||M|59.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251155|BBN_10209||M|63.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251156|||M|58.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251157|BBN_20040||F|80.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251158|BBN_23792||F|79.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251159|BBN_4193||F|51.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251160|BBN_16307||F|55.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251161|BBN_10208||M|67.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251162|BBN_16251||M|66.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251163|||F|74.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251164|BBN_21393||F|83.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251165|||M|58.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251166|BBN_9958||F|84.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251167|BBN_22594||F|77.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251168|BBN_11086||M|85.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251169|||F|63.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251170|||F|61.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251171|||M|63.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251172|BBN_15742||F|68.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251173|BBN_16329||M|66.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251174|BBN_15649||M|63.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251175|||M|60.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251176|BBN_15800||F|61.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251177|BBN_16259||M|70.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251178|||F|56.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251179|BBN_25639||M|81.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251180|||F|70.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251181|BBN_16308||F|63.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251182|||F|63.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251183|||F|70.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251184|BBN_15756||M|67.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251185|BBN_24394||F|65.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251186|||F|61.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251187|BBN_16378||F|56.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251188|||M|71.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251189|BBN_4245||F|70.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251190|||F|68.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251191|||M|74.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251192|||M|66.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251193|BBN_10287||M|57.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251194|BBN002.26915||F|62.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251195|BBN_15737||F|60.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251196|||F|75.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251197|BBN_15743||F|69.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251198|BBN_15731||F|69.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251199|||F|59.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251200|BBN_15764||F|66.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251201|BBN_15754||M|71.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251202|BBN_16441||M|73.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251203|BBN_15792||M|65.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251204|BBN_16830||M|72.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251205|||F|69.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251206|BBN002.28112||F|73.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251207|||M|57.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251208|||F|65.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251209|BBN_24372||M|71.0||Multiple system atrophy|Brain||in_vivo|case|MSA||Disease
+GSM4251210|BBN_4581||M|82.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251211|||F|74.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251212|BBN_20014||M|91.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251213|||F|70.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251214|BBN_24200||F|67.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251215|||M|55.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251216|BBN_16317||M|79.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251217|||F|71.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251218|||F|81.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251219|BBN_14408||M|90.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251220|||M|65.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251221|BBN_15752||M|79.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251222|BBN_10242||M|78.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251223|BBN_22991||F|73.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251224|BBN_10993||F|85.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251225|BBN_22617||F|66.0||Healthy|Brain||in_vivo|ctrl|Control||Disease
+GSM4251226|BBN_21801|N/A|M|68|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251245|BBN_22594|N/A|F|77|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251278|BBN_15764|N/A|F|66|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251247|N/A|N/A|F|63|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251248|N/A|N/A|F|61|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251259|BBN_16308|N/A|F|63|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251276|BBN_15731|N/A|F|69|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251235|BBN_20040|N/A|F|80|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251252|BBN_15649|N/A|M|63|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251246|BBN_11086|N/A|M|85|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251254|BBN_15800|N/A|F|61|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251281|BBN_15754|N/A|M|71|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251258|N/A|N/A|F|70|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251265|BBN_16378|N/A|F|56|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251244|BBN_9958|N/A|F|84|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251250|BBN_15742|N/A|F|68|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251282|BBN_16830|N/A|M|72|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251227|BBN_16291|N/A|M|81|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251274|N/A|N/A|F|75|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251239|BBN_10208|N/A|M|67|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251253|N/A|N/A|M|60|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251285|N/A|N/A|M|57|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251280|BBN_16441|N/A|M|73|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251273|BBN_15737|N/A|F|60|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251243|BBN_21393|N/A|F|83|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251272|BBN002.26915|N/A|F|62|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251242|BBN_22991|N/A|F|73|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251275|BBN_15743|N/A|F|69|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251277|N/A|N/A|F|59|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251236|BBN_23792|N/A|F|79|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251237|BBN_4193|N/A|F|51|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251286|N/A|N/A|M|57|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251241|N/A|N/A|F|74|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251267|BBN_4245|N/A|F|70|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251268|N/A|N/A|F|68|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251279|BBN_15764|N/A|F|66|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251234|N/A|N/A|M|58|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251231|BBN_18816|N/A|M|84|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251232|BBN_15719|N/A|M|59|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251255|BBN_16259|N/A|M|70|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251256|N/A|N/A|F|56|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251230|BBN_24666|N/A|F|74|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251261|N/A|N/A|F|70|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251284|BBN002.28112|N/A|F|73|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251251|BBN_16329|N/A|M|66|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251233|BBN_10209|N/A|M|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251262|BBN_15756|N/A|M|67|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251249|N/A|N/A|M|63|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251271|BBN_10287|N/A|M|57|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251270|N/A|N/A|M|66|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251238|BBN_16307|N/A|F|55|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251257|BBN_25639|N/A|M|81|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251266|N/A|N/A|M|71|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251260|N/A|N/A|F|63|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251228|BBN_18401|N/A|M|82|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251283|N/A|N/A|F|69|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251287|BBN_24372|N/A|M|71|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251263|BBN_24394|N/A|F|65|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251229|BBN_24381|N/A|F|66|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease
+GSM4251269|N/A|N/A|F|68|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251264|N/A|N/A|F|61|N/A|Multiple system atrophy|Brain|N/A|in_vivo|case|MSA|N/A|Disease
+GSM4251240|BBN_16251|N/A|M|66|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|Disease

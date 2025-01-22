@@ -1,0 +1,8 @@
+GSM1018544|N/A|N/A|F|N/A|N/A|N/A|Bladder|T24|in_vitro|ctrl|Control Group|none|None
+GSM1018545|N/A|N/A|F|N/A|N/A|N/A|Bladder|T24|in_vitro|case|Treatment Group|5-Aza-CdR|Small Molecule
+GSM1018546|N/A|N/A|F|N/A|N/A|N/A|Bladder|T24|in_vitro|case|Treatment Group|Clorgyline|Small Molecule
+GSM1018547|N/A|N/A|F|N/A|N/A|N/A|Bladder|T24|in_vitro|case|Treatment Group|5-Aza-CdR and Clorgyline|Small Molecule
+GSM1018548|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|ctrl|Control Group|none|None
+GSM1018549|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Group|5-Aza-CdR|Small Molecule
+GSM1018550|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Group|Clorgyline|Small Molecule
+GSM1018551|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Group|5-Aza-CdR and Clorgyline|Small Molecule

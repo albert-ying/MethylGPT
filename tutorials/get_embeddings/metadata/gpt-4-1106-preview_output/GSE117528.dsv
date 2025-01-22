@@ -1,0 +1,32 @@
+GSM3302484|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT with TET triple KO (TET1, TET2, TET3)|in_vitro|ctrl|mock_10w|N/A|Genetic
+GSM3302485|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT with TET triple KO (TET1, TET2, TET3)|in_vitro|case|NOC18_10w|NOC18|Genetic
+GSM3302486|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT with TET triple KO (TET1, TET2, TET3)|in_vitro|ctrl|mock_10w|N/A|Genetic
+GSM3302487|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT with TET triple KO (TET1, TET2, TET3)|in_vitro|case|NOC18_10w|NOC18|Genetic
+GSM3302488|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT wild type|in_vitro|ctrl|mock_10w|N/A|None
+GSM3302489|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT wild type|in_vitro|case|NOC18_10w|NOC18|Small Molecule
+GSM3302490|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT wild type|in_vitro|ctrl|mock_10w|N/A|None
+GSM3302491|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT wild type|in_vitro|case|NOC18_10w|NOC18|Small Molecule
+GSM4558678|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_10w|N/A|None
+GSM4558679|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_10w|NOC18|Small Molecule
+GSM4558680|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_10w|N/A|Genetic
+GSM4558681|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_10w|NOC18|Genetic
+GSM4558682|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_4w|N/A|None
+GSM4558683|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_4w|NOC18|Small Molecule
+GSM4558684|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_4w|N/A|Genetic
+GSM4558685|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_4w|NOC18|Genetic
+GSM4558686|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_20w|N/A|None
+GSM4558687|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_20w|NOC18|Small Molecule
+GSM4558688|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_20w|N/A|Genetic
+GSM4558689|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_20w|NOC18|Genetic
+GSM4559211|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_4w|N/A|Genetic
+GSM4559212|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_4w|NOC18|Genetic
+GSM4559213|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_4w|N/A|Genetic
+GSM4559214|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_4w|NOC18|Genetic
+GSM4559215|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_10w|N/A|Genetic
+GSM4559216|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_10w|NOC18|Genetic
+GSM4559217|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_10w|N/A|Genetic
+GSM4559218|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_10w|NOC18|Genetic
+GSM4559219|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_4w|N/A|None
+GSM4559220|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|ctrl|mock_4w|N/A|None
+GSM4559221|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_4w|NOC18|Small Molecule
+GSM4559222|N/A|N/A|N/A|N/A|N/A|N/A|Cells|293FT|in_vitro|case|NOC18_4w|NOC18|Small Molecule

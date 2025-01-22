@@ -1,0 +1,85 @@
+GSM1174837|N/A|N/A|F|54|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174838|N/A|N/A|M|82|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174839|N/A|N/A|M|53|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174840|N/A|N/A|F|51|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174841|N/A|N/A|F|70|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174842|N/A|N/A|M|23|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174843|N/A|N/A|M|83|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174844|N/A|N/A|M|80|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174845|N/A|N/A|M|80|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174846|N/A|N/A|F|44|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174847|N/A|N/A|F|45|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174848|N/A|N/A|F|44|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174849|N/A|N/A|M|47|N/A|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174850|N/A|N/A|F|39|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174851|N/A|N/A|F|51|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174852|N/A|N/A|F|43|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174853|N/A|N/A|F|48|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174854|N/A|N/A|F|46|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174855|N/A|N/A|F|46|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174856|N/A|N/A|F|51|bariatric surgery|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174857|N/A|N/A|F|24|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174858|N/A|N/A|M|55|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174859|N/A|N/A|F|32|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174860|N/A|N/A|F|40|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174861|N/A|N/A|F|50|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174862|N/A|N/A|F|48|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174863|N/A|N/A|F|60|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174864|N/A|N/A|F|45|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174865|N/A|N/A|F|32|bariatric surgery|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174866|N/A|N/A|M|61|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174867|N/A|N/A|F|56|N/A|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174868|N/A|N/A|F|51|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174869|N/A|N/A|F|28|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174870|N/A|N/A|F|47|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174871|N/A|N/A|F|46|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174872|N/A|N/A|M|49|N/A|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174873|N/A|N/A|M|48|N/A|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174874|N/A|N/A|F|42|bariatric surgery|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174875|N/A|N/A|F|33|bariatric surgery|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174876|N/A|N/A|F|41|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174877|N/A|N/A|F|44|N/A|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174878|N/A|N/A|F|33|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174879|N/A|N/A|F|24|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174880|N/A|N/A|M|47|N/A|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174881|N/A|N/A|F|37|bariatric surgery|N/A|Liver|N/A|in_vivo|N/A|unknown|N/A|None
+GSM1174882|N/A|N/A|F|42|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174883|N/A|N/A|M|61|bariatric surgery|N/A|Liver|N/A|in_vivo|N/A|unknown|N/A|None
+GSM1174884|N/A|N/A|M|65|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174885|N/A|N/A|F|58|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174886|N/A|N/A|F|44|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174887|N/A|N/A|F|50|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174888|N/A|N/A|F|40|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174889|N/A|N/A|F|38|N/A|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174890|N/A|N/A|F|44|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174891|N/A|N/A|F|56|bariatric surgery|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174892|N/A|N/A|F|48|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174893|N/A|N/A|M|38|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174894|N/A|N/A|F|73|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174895|N/A|N/A|F|50|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174896|N/A|N/A|F|45|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174897|N/A|N/A|F|48|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174898|N/A|N/A|M|38|bariatric surgery|N/A|Liver|N/A|in_vivo|N/A|unknown|N/A|None
+GSM1174899|N/A|N/A|F|47|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174900|N/A|N/A|F|33|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174901|N/A|N/A|F|44|N/A|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|None
+GSM1174902|N/A|N/A|F|38|bariatric surgery|N/A|Liver|N/A|in_vivo|N/A|unknown|N/A|None
+GSM1174903|N/A|N/A|F|58|bariatric surgery|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174904|N/A|N/A|M|47|bariatric surgery|N/A|Liver|N/A|in_vivo|N/A|unknown|N/A|None
+GSM1174905|N/A|N/A|F|33|bariatric surgery|N/A|Liver|N/A|in_vivo|N/A|unknown|N/A|None
+GSM1174906|N/A|N/A|M|65|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174907|N/A|N/A|F|38|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174908|N/A|N/A|F|60|bariatric surgery|N/A|Liver|N/A|in_vivo|N/A|unknown|N/A|None
+GSM1174909|N/A|N/A|F|32|bariatric surgery|Obesity|Liver|N/A|in_vivo|case|Healthy Obese|N/A|Lifestyle
+GSM1174910|N/A|N/A|F|30|N/A|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174911|N/A|N/A|F|42|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174912|N/A|N/A|F|44|N/A|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174913|N/A|N/A|M|49|N/A|Non-alcoholic steatohepatitis|Liver|N/A|in_vivo|case|NASH|N/A|Disease
+GSM1174914|N/A|N/A|F|32|N/A|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174915|N/A|N/A|F|59|N/A|Obesity|Liver|N/A|in_vivo|ctrl|Healthy Obese|N/A|None
+GSM1174916|N/A|N/A|F|50|bariatric surgery|healthy|Liver|N/A|in_vivo|ctrl|NORMAL|N/A|Lifestyle
+GSM1174917|N/A|N/A|F|57|bariatric surgery|Non-alcoholic fatty liver disease|Liver|N/A|in_vivo|case|NAFLD|N/A|Disease
+GSM1174918|N/A|N/A|F|56|bariatric surgery|N/A|Liver|N/A|in_vivo|N/A|unknown|N/A|None
+GSM1174919|N/A|N/A|F|38|bariatric surgery|N/A|Liver|N/A|in_vivo|N/A|unknown|N/A|None
+GSM1174920|N/A|N/A|M|38|bariatric surgery|N/A|Liver|N/A|in_vivo|N/A|unknown|N/A|None
+GSM1174921|N/A|N/A|M|47|bariatric surgery|N/A|Liver|N/A|in_vivo|N/A|unknown|N/A|None

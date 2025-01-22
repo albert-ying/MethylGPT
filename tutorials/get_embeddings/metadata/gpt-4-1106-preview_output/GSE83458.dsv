@@ -1,0 +1,18 @@
+GSM2203745|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|ctrl|CD14_monocyte_1_donor_1|N/A|N/A
+GSM2203746|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|ctrl|CD14_monocyte_2_donor_2|N/A|N/A
+GSM2203747|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|ctrl|CD14_monocyte_3_donor_3|N/A|N/A
+GSM2203748|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|DC_donor_1|IL4/GM-CSF|N/A
+GSM2203749|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|DC_donor_2|IL4/GM-CSF|N/A
+GSM2203750|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|DC_donor_3|IL4/GM-CSF|N/A
+GSM2203751|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_1|IL4/GM-CSF/PGE2|N/A
+GSM2203752|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_2|IL4/GM-CSF/PGE2|N/A
+GSM2203753|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_3|IL4/GM-CSF/PGE2|N/A
+GSM2203754|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_1_PF_04418948|IL4/GM-CSF/PGE2/PF_04418948|Small Molecule
+GSM2203755|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_2_PF_04418948|IL4/GM-CSF/PGE2/PF_04418948|Small Molecule
+GSM2203756|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_3_PF_04418948|IL4/GM-CSF/PGE2/PF_04418948|Small Molecule
+GSM2203757|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_1_L-161982|IL4/GM-CSF/PGE2/L-161982|Small Molecule
+GSM2203758|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_2_L-161982|IL4/GM-CSF/PGE2/L-161982|Small Molecule
+GSM2203759|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_3_L-161982|IL4/GM-CSF/PGE2/L-161982|Small Molecule
+GSM2203760|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_1_PF_04418948_L-161982|IL4/GM-CSF/PGE2/PF_04418948/L-161982|Small Molecule
+GSM2203761|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_2_PF_04418948_L-161982|IL4/GM-CSF/PGE2/PF_04418948/L-161982|Small Molecule
+GSM2203762|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vitro|case|MDSC_donor_3_PF_04418948_L-161982|IL4/GM-CSF/PGE2/PF_04418948/L-161982|Small Molecule

@@ -1,0 +1,48 @@
+GSM1198790|N/A|N/A|M|37|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198791|N/A|N/A|M|40|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198792|N/A|N/A|M|47|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198793|N/A|N/A|M|47|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198794|N/A|N/A|F|49|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198795|N/A|N/A|F|52|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198796|N/A|N/A|M|50|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198797|N/A|N/A|M|50|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198798|N/A|N/A|M|55|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198799|N/A|N/A|F|56|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198800|N/A|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198801|N/A|N/A|M|59|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198802|N/A|N/A|M|59|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198803|N/A|N/A|F|60|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198804|N/A|N/A|F|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198805|N/A|N/A|M|62|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198806|N/A|N/A|F|62|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198807|N/A|N/A|M|63|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198808|N/A|N/A|M|64|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198809|N/A|N/A|M|66|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198810|N/A|N/A|M|67|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198811|N/A|N/A|M|69|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198812|N/A|N/A|M|73|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198813|N/A|N/A|M|41|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198814|N/A|N/A|M|41|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198815|N/A|N/A|M|43|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198816|N/A|N/A|M|43|N/A|Alcohol Dependence|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198817|N/A|N/A|F|46|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198818|N/A|N/A|F|48|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198819|N/A|N/A|M|49|N/A|Alcohol Dependence|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198820|N/A|N/A|M|49|N/A|Alcohol Dependence|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198821|N/A|N/A|M|55|N/A|Alcohol Dependence|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198822|N/A|N/A|F|56|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198823|N/A|N/A|F|58|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198824|N/A|N/A|M|58|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198825|N/A|N/A|M|58|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198826|N/A|N/A|F|59|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198827|N/A|N/A|F|61|N/A|Alcohol Dependence|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198828|N/A|N/A|M|61|N/A|Alcohol Dependence|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198829|N/A|N/A|F|62|N/A|Alcohol Dependence|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198830|N/A|N/A|M|62|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198831|N/A|N/A|M|64|N/A|Alcohol Dependence|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198832|N/A|N/A|M|65|N/A|Alcohol Dependence|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198833|N/A|N/A|M|67|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198834|N/A|N/A|M|70|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198835|N/A|N/A|M|73|N/A|Alcohol Use Disorder|Brain|N/A|in_vivo|case|Case|N/A|Disease
+GSM1198836|N/A|N/A|F|49|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1198837|N/A|N/A|F|49|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None

@@ -1,0 +1,641 @@
+GSM1069186|26.0|N/A|F|87|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069076|63.0|N/A|M|66|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068891|81.0|N/A|F|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068952|77.0|N/A|F|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069317|22.0|N/A|F|91|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069121|69.0|N/A|F|90|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069405|123.0|N/A|M|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069154|49.0|N/A|F|68|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068965|1.0|N/A|F|82|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069014|34.0|N/A|M|71|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069405|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069390|108.0|N/A|F|83|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069428|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069191|102.0|N/A|F|94|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068989|41.0|N/A|F|93|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069105|92.0|N/A|F|92|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069226|21.0|N/A|F|90|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068847|85.0|N/A|F|81|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069493|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069043|19.0|N/A|F|81|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069481|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069203|77.0|N/A|F|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069213|43.0|N/A|M|79|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069080|1.0|N/A|F|82|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069511|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069068|107.0|N/A|F|87|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069100|17.0|N/A|F|84|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069008|99.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069288|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069408|119.0|N/A|M|73|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068877|83.0|N/A|M|74|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069258|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069015|47.0|N/A|M|86|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069259|7.0|N/A|M|86|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068840|86.0|N/A|M|77|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068984|65.0|N/A|M|86|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069115|95.0|N/A|M|97|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069495|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069265|41.0|N/A|F|93|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069496|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069029|23.0|N/A|F|96|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069262|30.0|N/A|M|80|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069147|8.0|N/A|F|96|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069225|27.0|N/A|F|85|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069090|81.0|N/A|F|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069389|117.0|N/A|M|82|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068978|16.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069176|1.0|N/A|F|82|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068895|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069120|51.0|N/A|F|80|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068909|104.0|N/A|F|95|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069010|24.0|N/A|F|85|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069124|27.0|N/A|F|85|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068943|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069434|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069099|33.0|N/A|F|92|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068916|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069415|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069215|56.0|N/A|M|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069398|15.0|N/A|M|84|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069212|40.0|N/A|F|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069312|45.0|N/A|F|88|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069275|107.0|N/A|F|87|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069361|123.0|N/A|M|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068882|8.0|N/A|F|96|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069271|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069221|76.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069117|88.0|N/A|M|75|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069370|111.0|N/A|F|88|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069197|90.0|N/A|M|86|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069473|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069300|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069247|23.0|N/A|F|96|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069189|69.0|N/A|F|90|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069338|119.0|N/A|M|73|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069346|105.0|N/A|M|89|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068875|80.0|N/A|F|84|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068872|84.0|N/A|M|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069276|75.0|N/A|F|79|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068841|51.0|N/A|F|80|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069506|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069474|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068954|17.0|N/A|F|84|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069305|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069388|113.0|N/A|M|83|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068918|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069005|22.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069477|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069420|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069273|100.0|N/A|M|88|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069228|11.0|N/A|F|89|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069158|91.0|N/A|F|84|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069085|43.0|N/A|M|79|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068908|42.0|N/A|F|55|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068983|103.0|N/A|M|105|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069323|113.0|N/A|M|83|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068827|89.0|N/A|F|92|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069236|60.0|N/A|M|81|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069263|17.0|N/A|F|84|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068912|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069048|108.0|N/A|F|83|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068927|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069087|34.0|N/A|M|71|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069476|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069057|39.0|N/A|F|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069266|65.0|N/A|M|86|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069468|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069245|112.0|N/A|F|95|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068974|13.0|N/A|F|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069030|93.0|N/A|F|79|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069311|32.0|N/A|M|81|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069464|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068900|32.0|N/A|M|81|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069166|58.0|N/A|M|72|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069027|104.0|N/A|F|95|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069109|96.0|N/A|F|N/A|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069277|40.0|N/A|F|80|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069456|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069208|52.0|N/A|M|40|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069193|37.0|N/A|M|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069392|121.0|N/A|M|66|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069337|93.0|N/A|F|79|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069098|101.0|N/A|M|97|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069351|106.0|N/A|F|83|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069233|205.0|N/A|M|N/A|N/A|C|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069509|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069248|105.0|N/A|M|89|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069315|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069287|2.0|N/A|F|82|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069179|75.0|N/A|F|79|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068862|57.0|N/A|F|98|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069445|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069286|93.0|N/A|F|79|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068906|16.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069382|118.0|N/A|M|67|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068969|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069058|8.0|N/A|F|96|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068949|95.0|N/A|M|97|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069501|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069243|77.0|N/A|F|89|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069264|18.0|N/A|F|82|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069223|87.0|N/A|M|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069335|125.0|N/A|F|79|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069202|38.0|N/A|M|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069374|109.0|N/A|F|90|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069126|11.0|N/A|F|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069414|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069458|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069402|125.0|N/A|F|79|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069055|45.0|N/A|F|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069255|71.0|N/A|M|88|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068914|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068832|23.0|N/A|F|96|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069242|76.0|N/A|F|85|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069441|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069355|108.0|N/A|F|83|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068851|69.0|N/A|F|90|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069119|104.0|N/A|F|95|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069448|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069020|39.0|N/A|F|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069290|38.0|N/A|M|88|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069322|124.0|N/A|M|95|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069230|99.0|N/A|F|85|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069307|88.0|N/A|M|75|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068981|28.0|N/A|F|80|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069232|104.0|N/A|F|95|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069377|124.0|N/A|M|95|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068910|39.0|N/A|F|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069097|13.0|N/A|F|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069332|110.0|N/A|F|N/A|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069125|28.0|N/A|F|80|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069372|94.0|N/A|F|92|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069135|83.0|N/A|M|74|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069198|89.0|N/A|F|92|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069241|103.0|N/A|M|105|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069136|6.0|N/A|M|78|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068834|12.0|N/A|M|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068926|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069211|45.0|N/A|F|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068878|58.0|N/A|M|72|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069453|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069145|85.0|N/A|F|81|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068823|43.0|N/A|M|79|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069084|30.0|N/A|M|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069308|36.0|N/A|M|90|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068838|93.0|N/A|F|79|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069122|58.0|N/A|M|72|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069413|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069362|120.0|N/A|F|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069514|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068991|79.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068920|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069065|31.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069111|9.0|N/A|F|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069316|86.0|N/A|M|77|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069140|11.0|N/A|F|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068961|57.0|N/A|F|98|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068941|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068884|17.0|N/A|F|84|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069331|111.0|N/A|F|88|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069373|118.0|N/A|M|67|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069168|47.0|N/A|M|86|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069391|116.0|N/A|M|77|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069424|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069484|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068911|35.0|N/A|F|94|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068937|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069104|75.0|N/A|F|79|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069187|100.0|N/A|M|88|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068876|36.0|N/A|M|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069056|2.0|N/A|F|82|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068936|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069482|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069144|23.0|N/A|F|96|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068948|7.0|N/A|M|86|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069024|80.0|N/A|F|84|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069358|109.0|N/A|F|90|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068852|97.0|N/A|F|98|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069462|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069504|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068859|22.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069395|54.0|N/A|F|73|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069341|122.0|N/A|F|83|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069118|77.0|N/A|F|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068881|4.0|N/A|F|81|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069038|110.0|N/A|F|72|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068874|61.0|N/A|F|90|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069451|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069089|56.0|N/A|M|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069110|67.0|N/A|M|82|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069224|94.0|N/A|F|92|N/A|C|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069169|5.0|N/A|F|92|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069071|7.0|N/A|M|86|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069270|82.0|N/A|F|103|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069363|120.0|N/A|F|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069383|10.0|N/A|M|82|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069249|59.0|N/A|F|98|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069454|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068929|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069133|82.0|N/A|F|103|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069017|31.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069026|6.0|N/A|M|78|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069088|14.0|N/A|M|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069031|53.0|N/A|F|55|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069042|62.0|N/A|M|81|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069281|90.0|N/A|M|86|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068863|82.0|N/A|F|103|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069349|110.0|N/A|F|72|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069101|2.0|N/A|F|82|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069045|76.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068855|20.0|N/A|F|69|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068980|54.0|N/A|F|73|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069102|89.0|N/A|F|92|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069103|25.0|N/A|F|97|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069237|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069108|60.0|N/A|M|81|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069289|19.0|N/A|F|81|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068934|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068899|49.0|N/A|F|68|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069051|109.0|N/A|F|90|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069432|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069107|59.0|N/A|F|98|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069081|12.0|N/A|M|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068967|51.0|N/A|F|80|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069095|20.0|N/A|F|69|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068883|62.0|N/A|M|81|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069177|42.0|N/A|F|55|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068903|31.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069007|44.0|N/A|M|80|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069011|82.0|N/A|F|103|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069078|99.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069072|93.0|N/A|F|79|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068901|7.0|N/A|M|86|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069469|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069350|126.0|N/A|F|91|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069196|10.0|N/A|M|82|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069410|86.0|N/A|M|77|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068982|50.0|N/A|M|59|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068894|79.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069150|99.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069096|111.0|N/A|F|88|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068869|37.0|N/A|M|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069360|105.0|N/A|M|89|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069324|126.0|N/A|F|91|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069500|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069013|62.0|N/A|M|81|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069129|57.0|N/A|F|98|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069002|11.0|N/A|F|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069181|21.0|N/A|F|90|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069016|83.0|N/A|M|74|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069347|107.0|N/A|F|87|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069073|16.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069049|6.0|N/A|M|78|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069376|26.0|N/A|F|87|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068835|56.0|N/A|M|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068921|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069343|121.0|N/A|M|66|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069299|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068853|65.0|N/A|M|86|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069025|9.0|N/A|F|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068986|58.0|N/A|M|72|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069465|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069342|117.0|N/A|M|82|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069174|64.0|N/A|F|88|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069417|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069336|94.0|N/A|F|92|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069149|86.0|N/A|M|77|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069416|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069329|108.0|N/A|F|83|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069182|33.0|N/A|F|92|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069061|102.0|N/A|F|94|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068962|91.0|N/A|F|84|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068960|42.0|N/A|F|55|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068857|3.0|N/A|M|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068843|72.0|N/A|M|80|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069310|25.0|N/A|F|97|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069321|115.0|N/A|M|79|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069267|108.0|N/A|F|83|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069152|48.0|N/A|F|87|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069421|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069134|16.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068828|95.0|N/A|M|97|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069199|13.0|N/A|F|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069430|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069131|101.0|N/A|M|97|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069423|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069091|96.0|N/A|F|80|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068957|30.0|N/A|M|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068976|85.0|N/A|F|81|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068985|33.0|N/A|F|92|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069475|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069254|67.0|N/A|M|82|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069059|4.0|N/A|F|81|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069461|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069053|18.0|N/A|F|82|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069333|114.0|N/A|M|74|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069246|31.0|N/A|F|91|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069234|96.0|N/A|F|80|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069353|118.0|N/A|M|67|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068950|38.0|N/A|M|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069326|107.0|N/A|F|87|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069478|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068907|33.0|N/A|F|92|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069297|203.0|N/A|F|N/A|N/A|C|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069067|85.0|N/A|F|81|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068971|43.0|N/A|M|79|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069457|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069035|20.0|N/A|F|69|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069365|117.0|N/A|M|82|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069479|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069293|14.0|N/A|M|89|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069219|19.0|N/A|F|81|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069488|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069502|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069284|89.0|N/A|F|92|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069443|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069486|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069023|88.0|N/A|M|75|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069161|62.0|N/A|M|81|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069238|92.0|N/A|F|92|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068919|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069192|96.0|N/A|F|80|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069251|13.0|N/A|F|80|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069222|24.0|N/A|F|85|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069507|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069397|40.0|N/A|F|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069201|61.0|N/A|F|90|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069463|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069356|116.0|N/A|M|77|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069106|21.0|N/A|F|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069427|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069492|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069433|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069483|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069425|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069466|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069139|39.0|N/A|F|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068913|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069393|41.0|N/A|F|93|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069431|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069442|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069256|81.0|N/A|F|86|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069359|125.0|N/A|F|79|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069050|82.0|N/A|F|103|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068946|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069153|81.0|N/A|F|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069505|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069157|36.0|N/A|M|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069512|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068821|101.0|N/A|M|97|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068928|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069419|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069510|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069438|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069250|6.0|N/A|M|78|N/A|C|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069366|115.0|N/A|M|79|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068968|101.0|N/A|M|97|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068896|27.0|N/A|F|85|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069367|112.0|N/A|F|95|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068866|9.0|N/A|F|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068998|97.0|N/A|F|98|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069301|204.0|N/A|F|N/A|N/A|C|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069116|86.0|N/A|M|77|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068873|53.0|N/A|F|55|N/A|C|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068870|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068945|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068938|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068996|45.0|N/A|F|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069019|12.0|N/A|M|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069318|16.0|N/A|F|91|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069151|27.0|N/A|F|85|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069313|26.0|N/A|F|87|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068833|87.0|N/A|M|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069175|79.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069381|120.0|N/A|F|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069403|32.0|N/A|M|81|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068887|19.0|N/A|F|81|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068844|48.0|N/A|F|87|N/A|C|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069114|63.0|N/A|M|66|N/A|C|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069283|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069253|102.0|N/A|F|94|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069472|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068842|24.0|N/A|F|85|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069449|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069503|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068972|64.0|N/A|F|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069368|4.0|N/A|F|81|N/A|C|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068944|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068880|44.0|N/A|M|80|N/A|C|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068922|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068846|88.0|N/A|M|75|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069112|3.0|N/A|M|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069327|123.0|N/A|M|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069188|30.0|N/A|M|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069494|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069244|83.0|N/A|M|74|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069075|91.0|N/A|F|84|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069459|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069412|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069436|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068886|11.0|N/A|F|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068905|76.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069260|79.0|N/A|F|85|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069167|2.0|N/A|F|82|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069194|84.0|N/A|M|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069437|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069384|114.0|N/A|M|74|N/A|C|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069066|79.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068925|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069069|42.0|N/A|F|55|N/A|C|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069513|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069155|72.0|N/A|M|80|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069261|10.0|N/A|M|82|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069280|34.0|N/A|M|71|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069041|90.0|N/A|M|86|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069217|7.0|N/A|M|86|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068848|40.0|N/A|F|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069298|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069086|112.0|N/A|F|95|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068933|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068963|29.0|N/A|F|87|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069354|112.0|N/A|F|95|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069399|105.0|N/A|M|89|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069032|59.0|N/A|F|98|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069447|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068977|61.0|N/A|F|90|N/A|C|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068836|99.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069210|88.0|N/A|M|75|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069344|124.0|N/A|M|95|N/A|C|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068850|21.0|N/A|F|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069239|57.0|N/A|F|98|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068825|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069435|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069409|122.0|N/A|F|83|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068990|81.0|N/A|F|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068959|25.0|N/A|F|97|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068824|90.0|N/A|M|86|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069460|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068988|69.0|N/A|F|90|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069092|24.0|N/A|F|85|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069406|114.0|N/A|M|74|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069070|83.0|N/A|M|74|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068849|92.0|N/A|F|92|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068893|50.0|N/A|M|59|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069325|112.0|N/A|F|95|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069074|65.0|N/A|M|86|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068865|10.0|N/A|M|82|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069240|8.0|N/A|F|96|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068947|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069422|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069444|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068979|35.0|N/A|F|94|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069209|4.0|N/A|F|81|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069141|50.0|N/A|M|59|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069079|84.0|N/A|M|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069162|14.0|N/A|M|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069093|23.0|N/A|F|96|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069516|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069146|67.0|N/A|M|82|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068860|60.0|N/A|M|81|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069490|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069319|113.0|N/A|M|83|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069407|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069207|34.0|N/A|M|71|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069272|5.0|N/A|F|92|N/A|C|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068892|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069396|107.0|N/A|F|87|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069170|22.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069220|92.0|N/A|F|92|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069218|31.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069235|29.0|N/A|F|87|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068885|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068942|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069348|118.0|N/A|M|67|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068931|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068898|67.0|N/A|M|82|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069063|36.0|N/A|M|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069047|38.0|N/A|M|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069278|84.0|N/A|M|88|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068975|71.0|N/A|M|88|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069229|39.0|N/A|F|90|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068958|76.0|N/A|F|85|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069439|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068861|15.0|N/A|M|84|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069294|15.0|N/A|M|84|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068854|94.0|N/A|F|92|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068964|100.0|N/A|M|88|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068839|14.0|N/A|M|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069279|201.0|N/A|M|N/A|N/A|C|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069173|103.0|N/A|M|105|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069183|18.0|N/A|F|82|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068935|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068902|47.0|N/A|M|86|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069037|105.0|N/A|M|89|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069142|28.0|N/A|F|80|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069206|29.0|N/A|F|87|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069328|109.0|N/A|F|90|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069172|63.0|N/A|M|66|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068994|84.0|N/A|M|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069394|115.0|N/A|M|79|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069268|1.0|N/A|F|82|N/A|C|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069200|65.0|N/A|M|86|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069498|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068856|13.0|N/A|F|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069180|44.0|N/A|M|80|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069062|5.0|N/A|F|92|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069178|15.0|N/A|M|84|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068973|21.0|N/A|F|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069429|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068940|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069386|125.0|N/A|F|79|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068939|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069003|89.0|N/A|F|92|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069292|109.0|N/A|F|90|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068867|26.0|N/A|F|87|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069364|34.0|N/A|M|71|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068890|25.0|N/A|F|97|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069357|116.0|N/A|M|77|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069001|37.0|N/A|M|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069369|121.0|N/A|M|66|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069130|53.0|N/A|F|55|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069021|14.0|N/A|M|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069306|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069375|123.0|N/A|M|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068970|27.0|N/A|F|85|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068858|28.0|N/A|F|80|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069012|40.0|N/A|F|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068995|92.0|N/A|F|92|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069128|29.0|N/A|F|87|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069160|17.0|N/A|F|84|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069334|119.0|N/A|M|73|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069227|97.0|N/A|F|98|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068966|18.0|N/A|F|82|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068829|41.0|N/A|F|93|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069508|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069185|32.0|N/A|M|81|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069252|85.0|N/A|F|81|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069487|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069303|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068822|52.0|N/A|M|40|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069082|44.0|N/A|M|80|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069455|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069094|22.0|N/A|F|91|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069404|124.0|N/A|M|95|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068930|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069077|87.0|N/A|M|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069046|64.0|N/A|F|88|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068917|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069159|59.0|N/A|F|98|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069004|75.0|N/A|F|79|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069304|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069497|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069009|19.0|N/A|F|81|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068993|56.0|N/A|M|80|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069418|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068997|3.0|N/A|M|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069156|35.0|N/A|F|94|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069309|106.0|N/A|F|83|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068923|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069036|63.0|N/A|M|66|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069044|50.0|N/A|M|59|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069054|47.0|N/A|M|86|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068953|48.0|N/A|F|87|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069040|35.0|N/A|F|94|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069282|113.0|N/A|M|83|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069052|37.0|N/A|M|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068830|103.0|N/A|M|105|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068904|6.0|N/A|M|78|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069190|9.0|N/A|F|90|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068987|5.0|N/A|F|92|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069060|71.0|N/A|M|88|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069485|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069426|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069471|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069371|126.0|N/A|F|91|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069385|116.0|N/A|M|77|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069123|100.0|N/A|M|88|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069401|117.0|N/A|M|82|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069132|N/A|N/A|N/A|N/A|N/A|N/A|Brain|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1069000|2.0|N/A|F|82|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068831|100.0|N/A|M|88|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1068837|102.0|N/A|F|94|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069083|80.0|N/A|F|84|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069285|95.0|N/A|M|97|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069345|111.0|N/A|F|88|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069171|71.0|N/A|M|88|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069127|97.0|N/A|F|98|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1068864|77.0|N/A|F|89|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069340|10.0|N/A|M|82|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069034|96.0|N/A|F|80|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069022|94.0|N/A|F|92|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069302|N/A|N/A|N/A|N/A|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1068868|18.0|N/A|F|82|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069138|41.0|N/A|F|93|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069018|87.0|N/A|M|86|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069064|103.0|N/A|M|105|N/A|Exclude|Brain|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069205|80.0|N/A|F|84|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069231|91.0|N/A|F|84|N/A|Exclude|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1069039|61.0|N/A|F|90|N/A|C|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069269|80.0|N/A|F|84|N/A|AD|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1069214|97.0|N/A|F|98|N/A|AD|Brain|N/A|in_vivo|case|N/A|N/A|Disease

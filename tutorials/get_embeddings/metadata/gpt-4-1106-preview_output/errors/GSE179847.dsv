@@ -1,0 +1,474 @@
+GSM5435462|1279|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435484|1310|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435130|63|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435478|1302|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435374|1122|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435548|1471|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435527|1376|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435439|1248|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435136|98|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Pulsated_DEX_ox21|Pulsated_DEX|Small Molecule
+GSM5435344|964|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435351|1000|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Oligomycin+DEX_ox21|Oligomycin+DEX|Small Molecule
+GSM5435398|1189|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435443|1254|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435566|1524|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435219|443|N/A|M|1|N/A|SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435480|1306|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435460|1277|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435488|1314|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_Regrowth_ox21|Contact_Inhibition_Regrowth|Environmental
+GSM5435434|1243|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435177|315|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435404|1198|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435140|125|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_MitoQ_ox21|MitoQ|Small Molecule
+GSM5435128|54|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435529|1378|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435557|1497|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435218|440|N/A|M|1|N/A|SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435182|328|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435176|313|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435457|1274|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435437|1246|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435230|485|N/A|F|10|N/A|SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435228|480|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435496|1333|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435238|515|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435163|248|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_NAC+DEX_ox21|NAC+DEX|Small Molecule
+GSM5435423|1225|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435493|1324|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_Regrowth_ox21|Contact_Inhibition_Regrowth|Environmental
+GSM5435524|1373|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435419|1220|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435544|1452|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435183|331|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435161|241|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_NAC+DEX_ox21|NAC+DEX|Small Molecule
+GSM5435584|1615|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435468|1288|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435189|349|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435362|1066|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435129|59|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435316|838|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435549|1472|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435203|388|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435386|1168|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435319|847|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435431|1240|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435467|1287|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435491|1320|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_Regrowth_ox21|Contact_Inhibition_Regrowth|Environmental
+GSM5435441|1252|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435406|1200|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435301|780|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435167|283|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_a-ketogluturate_ox21|a-ketogluturate|Small Molecule
+GSM5435525|1374|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435195|364|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435474|1297|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435262|602|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435507|1347|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435384|1162|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435116|14|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435415|1213|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435470|1290|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435536|1389|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435479|1303|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435578|1591|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435295|749|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435438|1247|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435193|359|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435151|172|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_MitoQ+DEX_ox21|MitoQ+DEX|Small Molecule
+GSM5435213|425|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435552|1475|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435539|1447|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435330|901|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435517|1363|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435120|27|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435170|290|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_a-ketogluturate_ox21|a-ketogluturate|Small Molecule
+GSM5435399|1190|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435410|1204|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435192|357|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435414|1212|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435435|1244|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435379|1138|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435142|132|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_MitoQ_ox21|MitoQ|Small Molecule
+GSM5435215|431|N/A|M|1|N/A|SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435191|355|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435369|1098|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435417|1215|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435382|1157|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435178|318|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435229|483|N/A|F|10|N/A|SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435433|1242|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435224|461|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435465|1285|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435181|325|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435483|1309|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435286|712|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435388|1176|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435340|944|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435446|1258|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435114|7|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435451|1265|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435311|819|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435361|1063|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435206|400|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435568|1543|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_2-Deoxyglucose_ox21|2-Deoxyglucose|Small Molecule
+GSM5435461|1278|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435315|835|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435282|693|N/A|F|10|N/A|SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435314|832|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435366|1090|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435244|539|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435453|1267|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435333|910|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435495|1329|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_Regrowth_ox21|Contact_Inhibition_Regrowth|Environmental
+GSM5435581|1594|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435551|1474|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435302|783|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435370|1100|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435175|311|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_a-ketogluturate_ox21|a-ketogluturate|Small Molecule
+GSM5435550|1473|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435482|1308|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435392|1180|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435416|1214|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435141|129|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_MitoQ_ox21|MitoQ|Small Molecule
+GSM5435289|724|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435222|456|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435570|1548|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_2-Deoxyglucose_ox21|2-Deoxyglucose|Small Molecule
+GSM5435504|1344|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435119|25|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435541|1449|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435174|308|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_a-ketogluturate_ox21|a-ketogluturate|Small Molecule
+GSM5435509|1349|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435405|1199|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435528|1377|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435413|1211|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435510|1353|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435367|1093|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435422|1223|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435555|1495|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435134|94|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Pulsated_DEX_ox21|Pulsated_DEX|Small Molecule
+GSM5435560|1500|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435211|414|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435250|563|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435545|1453|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435447|1259|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435533|1386|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435459|1276|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435372|1118|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435265|622|N/A|M|1|N/A|SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435380|1141|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435322|856|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435303|795|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435325|871|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435290|727|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435117|18|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435146|148|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_MitoQ_ox21|MitoQ|Small Molecule
+GSM5435503|1343|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435253|572|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435590|1621|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435573|1569|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_2-Deoxyglucose_ox21|2-Deoxyglucose|Small Molecule
+GSM5435236|509|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435199|376|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435168|286|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_a-ketogluturate_ox21|a-ketogluturate|Small Molecule
+GSM5435515|1358|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435171|296|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_a-ketogluturate_ox21|a-ketogluturate|Small Molecule
+GSM5435166|279|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_a-ketogluturate_ox21|a-ketogluturate|Small Molecule
+GSM5435546|1469|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435283|703|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435477|1301|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435272|652|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435440|1251|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435248|557|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435276|664|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435373|1120|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435579|1592|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435534|1387|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435514|1357|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435304|798|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435148|163|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_MitoQ+DEX_ox21|MitoQ+DEX|Genetic
+GSM5435571|1549|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_2-Deoxyglucose_ox21|2-Deoxyglucose|Small Molecule
+GSM5435577|1573|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_2-Deoxyglucose_ox21|2-Deoxyglucose|Small Molecule
+GSM5435350|997|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Oligomycin+DEX_ox21|Oligomycin+DEX|Small Molecule
+GSM5435234|496|N/A|F|10|N/A|SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435516|1359|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435540|1448|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435202|385|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435494|1327|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_Regrowth_ox21|Contact_Inhibition_Regrowth|Environmental
+GSM5435338|938|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435463|1280|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435563|1520|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435358|1052|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435291|733|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435144|136|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_MitoQ_ox21|MitoQ|Small Molecule
+GSM5435269|634|N/A|M|1|N/A|SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435185|337|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435508|1348|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435390|1178|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435184|334|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435506|1346|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435135|96|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Pulsated_DEX_ox21|Pulsated_DEX|Small Molecule
+GSM5435364|1084|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435588|1619|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435208|405|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435542|1450|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435327|877|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435257|584|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435590|1621|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435202|385|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435494|1327|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_Regrowth_ox21|Contact_Inhibition_Regrowth|Environmental
+GSM5435338|938|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435463|1280|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435563|1520|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435358|1052|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435291|733|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNU
+GSM5435442|1253||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435469|1289||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435154|203||M|29||Normal|Cells|HC5|in_vitro|ctrl|Normal_NAC_ox21|NAC|Small Molecule
+GSM5435214|429||M|1||SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435255|578||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435320|850||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435476|1300||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435292|740||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435271|649||M|11||SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435225|464||M|11||SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435159|226||F|36||Normal|Cells|HC6|in_vitro|ctrl|Normal_NAC_ox21|NAC|Small Molecule
+GSM5435165|252||M|29||Normal|Cells|HC5|in_vitro|ctrl|Normal_NAC+DEX_ox21|NAC+DEX|Small Molecule
+GSM5435576|1572||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_2-Deoxyglucose_ox21|2-Deoxyglucose|Small Molecule
+GSM5435287|715||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435497|1334||M|3||Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435285|709||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435397|1188||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435393|1181||M|3||Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435553|1476||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435118|23||M|29||Normal|Cells|HC5|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435318|844||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435188|346||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435547|1470||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435187|343||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435582|1596||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435449|1263||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435360|1059||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435252|569||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435341|950||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435132|87||M|29||Normal|Cells|HC5|in_vitro|ctrl|Normal_Pulsated_DEX_ox21|Pulsated_DEX|Small Molecule
+GSM5435240|521||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435403|1197||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435133|91||M|29||Normal|Cells|HC5|in_vitro|ctrl|Normal_Pulsated_DEX_ox21|Pulsated_DEX|Small Molecule
+GSM5435498|1335||M|3||Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435125|45||M|29||Normal|Cells|HC5|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435412|1209||M|3||Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435267|628||M|1||SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435357|1049||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435572|1567||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_2-Deoxyglucose_ox21|2-Deoxyglucose|Small Molecule
+GSM5435395|1186||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435306|804||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435455|1269||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435492|1322||M|29||Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_Regrowth_ox21|Contact_Inhibition_Regrowth|Environmental
+GSM5435564|1521||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435259|593||M|0||Normal|Cells|HC3|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435585|1616||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435200|379||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435454|1268||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435139|114||F|36||Normal|Cells|HC6|in_vitro|ctrl|Normal_Pulsated_DEX_ox21|Pulsated_DEX|Small Molecule
+GSM5435418|1219||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435450|1264||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435328|880||M|0||Normal|Cells|HC3|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435231|487||F|10||SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435309|813||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435385|1166||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435310|816||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435245|544||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435526|1375||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435471|1291||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435353|1022||M|0||Normal|Cells|HC3|in_vitro|ctrl|Normal_Oligomycin+DEX_ox21|Oligomycin+DEX|Small Molecule
+GSM5435346|973||M|0||Normal|Cells|HC3|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435321|853||F|18||Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435481|1307||M|29||Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435583|1597||M|18||Normal|Cells|HC1|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435500|1337||M|3||Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435254|578|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435121|30|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435556|1496|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435343|956|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435331|904|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435411|1208|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435511|1354|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435425|1230|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435243|533|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435561|1501|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435363|1082|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435201|382|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435281|690|N/A|F|10|N/A|SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435123|34|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435266|625|N/A|M|1|N/A|SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435407|1201|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435486|1312|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435396|1187|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435233|493|N/A|F|10|N/A|SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435530|1379|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435186|340|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435277|675|N/A|F|10|N/A|SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435336|929|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435402|1193|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435162|245|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_NAC+DEX_ox21|NAC+DEX|Small Molecule
+GSM5435505|1345|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435543|1451|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435284|706|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435391|1179|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435152|179|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_MitoQ+DEX_ox21|MitoQ+DEX|Small Molecule
+GSM5435293|743|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435210|411|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435258|586|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435475|1299|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435179|319|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435354|1043|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435339|941|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435430|1237|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435445|1256|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435473|1296|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435519|1365|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435565|1522|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435137|110|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_Pulsated_DEX_ox21|Pulsated_DEX|Small Molecule
+GSM5435160|230|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_NAC_ox21|NAC|Small Molecule
+GSM5435270|646|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435212|423|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435260|586|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435172|304|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_a-ketogluturate_ox21|a-ketogluturate|Small Molecule
+GSM5435355|1045|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435127|52|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435513|1356|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435448|1262|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435235|499|N/A|F|10|N/A|SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435587|1618|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435237|512|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435313|829|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435523|1369|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435512|1355|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435575|1571|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_2-Deoxyglucose_ox21|2-Deoxyglucose|Small Molecule
+GSM5435337|935|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435264|619|N/A|M|1|N/A|SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435334|913|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435436|1245|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435554|1477|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435261|599|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435263|605|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435164|250|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_NAC+DEX_ox21|NAC+DEX|Small Molecule
+GSM5435324|864|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435394|1182|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435335|926|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435157|212|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_NAC_ox21|NAC|Small Molecule
+GSM5435198|373|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435113|4|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435280|684|N/A|F|10|N/A|SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435190|354|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435317|841|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435368|1095|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435149|167|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_MitoQ+DEX_ox21|MitoQ+DEX|Small Molecule
+GSM5435409|1203|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435332|907|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435586|1617|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435520|1366|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435371|1102|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435562|1519|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435383|1159|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435559|1499|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435307|807|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435217|437|N/A|M|1|N/A|SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435359|1056|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435122|32|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435429|1236|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435223|458|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435521|1367|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435207|402|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435143|134|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_MitoQ_ox21|MitoQ|Small Molecule
+GSM5435147|155|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_MitoQ_ox21|MitoQ|Small Molecule
+GSM5435427|1234|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435458|1275|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435156|210|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_NAC_ox21|NAC|Small Molecule
+GSM5435464|1281|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435124|37|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435288|721|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435239|518|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435227|473|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435376|1127|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435247|554|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435221|454|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435173|306|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_a-ketogluturate_ox21|a-ketogluturate|Small Molecule
+GSM5435300|774|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435138|112|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_Pulsated_DEX_ox21|Pulsated_DEX|Small Molecule
+GSM5435232|490|N/A|F|10|N/A|SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435381|1143|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435490|1318|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_Regrowth_ox21|Contact_Inhibition_Regrowth|Environmental
+GSM5435531|1383|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435256|581|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435424|1226|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435246|551|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435268|631|N/A|M|1|N/A|SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435558|1498|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435348|979|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435342|953|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435401|1192|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435408|1202|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435532|1384|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435308|810|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435180|322|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435251|566|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435365|1087|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435273|655|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435580|1593|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435389|1177|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435249|560|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435131|79|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435589|1620|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_betahydroxybutyrate_ox21|betahydroxybutyrate|Small Molecule
+GSM5435345|967|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435323|860|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435569|1545|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_2-Deoxyglucose_ox21|2-Deoxyglucose|Small Molecule
+GSM5435356|1047|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine_ox21|5-azacytidine|Small Molecule
+GSM5435112|2|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435501|1338|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435472|1292|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox3|DEX|Small Molecule
+GSM5435329|898|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Oligomycin_ox21|Oligomycin|Small Molecule
+GSM5435400|1191|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435126|49|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435216|434|N/A|M|1|N/A|SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435375|1124|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435352|1011|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Oligomycin+DEX_ox21|Oligomycin+DEX|Small Molecule
+GSM5435444|1255|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435502|1339|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435574|1570|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_2-Deoxyglucose_ox21|2-Deoxyglucose|Small Molecule
+GSM5435220|446|N/A|M|1|N/A|SURF1_Mutation|Cells|SURF1_1|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435150|170|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_MitoQ+DEX_ox21|MitoQ+DEX|Genetic
+GSM5435518|1364|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435194|361|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435432|1241|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435275|661|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435155|207|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_NAC_ox21|NAC|Small Molecule
+GSM5435297|755|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435115|11|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435489|1316|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_Contact_Inhibition_Regrowth_ox21|Contact_Inhibition_Regrowth|Environmental
+GSM5435312|822|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435305|801|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435420|1221|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435535|1388|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435241|527|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435428|1235|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435377|1130|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_5-azacytidine+mitoNUITs_ox21|5-azacytidine+mitoNUITs|Genetic
+GSM5435299|771|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435452|1266|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox3|Control|None
+GSM5435274|658|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435205|399|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435145|141|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_MitoQ_ox21|MitoQ|Small Molecule
+GSM5435294|746|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435242|530|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435278|678|N/A|F|10|N/A|SURF1_Mutation|Cells|SURF1_3|in_vitro|ctrl|SURF1_Mutation_DEX_ox21|DEX|Small Molecule
+GSM5435426|1232|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_DEX_ox21|DEX|Small Molecule
+GSM5435158|214|N/A|M|29|N/A|Normal|Cells|HC5|in_vitro|ctrl|Normal_NAC_ox21|NAC|Small Molecule
+GSM5435522|1368|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox3|Contact_Inhibition|Environmental
+GSM5435204|397|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435537|1445|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435567|1525|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Galactose_ox21|Galactose|Lifestyle
+GSM5435296|752|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_mitoNUITs_ox21|mitoNUITs|Small Molecule
+GSM5435499|1336|N/A|M|3|N/A|Normal|Cells|HC4|in_vitro|ctrl|Normal_Contact_Inhibition_ox21|Contact_Inhibition|Environmental
+GSM5435226|467|N/A|M|11|N/A|SURF1_Mutation|Cells|SURF1_2|in_vitro|ctrl|SURF1_Mutation_Control_ox21|Control|None
+GSM5435153|195|N/A|F|36|N/A|Normal|Cells|HC6|in_vitro|ctrl|Normal_MitoQ+DEX_ox21|MitoQ+DEX|Genetic
+GSM5435326|874|N/A|M|0|N/A|Normal|Cells|HC3|in_vitro|ctrl|Normal_mitoNUITs+DEX_ox21|mitoNUITs+DEX|Genetic
+GSM5435538|1446|N/A|M|18|N/A|Normal|Cells|HC1|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435197|370|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None
+GSM5435196|367|N/A|F|18|N/A|Normal|Cells|HC2|in_vitro|ctrl|Normal_Control_ox21|Control|None

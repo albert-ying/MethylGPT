@@ -1,0 +1,8 @@
+GSM2629702|N/A|N/A|N/A|N/A|N/A|Colorectal Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2629703|N/A|N/A|N/A|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2629704|N/A|N/A|N/A|N/A|N/A|Colorectal Cancer|Colon|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2629705|N/A|N/A|N/A|N/A|N/A|Healthy|Colon|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2629706|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|None
+GSM2629707|N/A|N/A|N/A|N/A|N/A|Cervical Cancer|Cells|HeLa|in_vitro|case|N/A|N/A|Disease
+GSM2629708|N/A|N/A|N/A|N/A|N/A|N/A|Cells|DKO|in_vitro|ctrl|N/A|N/A|Genetic
+GSM2629709|N/A|N/A|N/A|N/A|N/A|N/A|Cells|DKO|in_vitro|case|N/A|MsssI|Genetic

@@ -1,0 +1,9 @@
+GSM3765223|donor 1|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|MO_D1|N/A|N/A
+GSM3765224|donor 1|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vitro|case|MAC_DMSO_D1|M-CSF for 5 days in the presence of 0.1 % DMSO|Small Molecule
+GSM3765225|donor 1|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vitro|case|MAC_Camb_D1|M-CSF for 5 days in the presence of 50µM cambinol|Small Molecule
+GSM3765226|donor 2|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|MO_D2|N/A|N/A
+GSM3765227|donor 2|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vitro|case|MAC_DMSO_D2|M-CSF for 5 days in the presence of 0.1 % DMSO|Small Molecule
+GSM3765228|donor 2|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vitro|case|MAC_Camb_D2|M-CSF for 5 days in the presence of 50µM cambinol|Small Molecule
+GSM3765229|donor 3|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|MO_D3|N/A|N/A
+GSM3765230|donor 3|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vitro|case|MAC_DMSO_D3|M-CSF for 5 days in the presence of 0.1 % DMSO|Small Molecule
+GSM3765231|donor 3|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vitro|case|MAC_Camb_D3|M-CSF for 5 days in the presence of 50µM cambinol|Small Molecule

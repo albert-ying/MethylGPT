@@ -1,0 +1,384 @@
+GSM1300573|N/A|White|M|58|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299802|N/A|White|M|57|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299824|N/A|White|M|64|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300377|N/A|Asian|F|55|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300512|N/A|White|F|68|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299665|N/A|White|F|83|H2/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299833|N/A|White|M|76|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299719|N/A|Asian|M|53|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300386|N/A|White|Other|58|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299752|N/A|Asian|M|72|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300402|N/A|White|F|64|H1/H2|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299699|N/A|Other|F|68|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299797|N/A|White|F|74|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299826|N/A|Asian|F|61|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299765|N/A|White|Other|57|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299657|N/A|Hispanic and Latino|F|45|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299684|N/A|White|Other|76|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299799|N/A|White|F|73|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300561|N/A|White|M|46|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299659|N/A|White|F|80|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300533|N/A|White|F|78|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299838|N/A|White|F|60|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299688|N/A|White|M|65|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299728|N/A|Other|Other|66|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300425|N/A|White|Other|75|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300348|N/A|White|M|52|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300535|N/A|Asian|F|49|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300372|N/A|White|Other|65|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299710|N/A|White|F|65|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299750|N/A|Other|F|74|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300409|N/A|White|Other|75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300576|N/A|White|Other|66|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300405|N/A|White|F|66|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299796|N/A|White|M|66|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299815|N/A|White|F|71|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300390|N/A|White|M|59|H1/H2|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300419|N/A|White|F|77|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300498|N/A|Other|F|72|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1299709|N/A|Asian|F|65|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299739|N/A|White|F|79|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299660|N/A|White|M|68|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300366|N/A|White|M|61|H1/H1|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300418|N/A|White|Other|68|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299766|N/A|White|M|70|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300389|N/A|Other|Other|64|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299834|N/A|Asian|M|65|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299760|N/A|White|F|75|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299669|N/A|White|F|51|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299810|N/A|White|F|65|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299746|N/A|White|M|85|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300349|N/A|White|F|58|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300520|N/A|Other|Other|72|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300343|N/A|White|Other|77|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299774|N/A|White|F|73|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299723|N/A|White|M|76|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300417|N/A|White|M|72|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299769|N/A|Asian|F|51|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299823|N/A|Asian|M|52|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300347|N/A|White|F|67|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299690|N/A|White|M|74|N/A|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300407|N/A|White|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299812|N/A|White|M|63|H2/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300563|N/A|White|F|68|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299693|N/A|Asian|F|79|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299813|N/A|White|M|72|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300581|N/A|Asian|F|64|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300368|N/A|White|M|70|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300352|N/A|White|Other|59|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299811|N/A|White|F|73|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299666|N/A|White|M|75|N/A|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299759|N/A|White|M|72|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299773|N/A|White|M|64|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300527|N/A|Asian|M|67|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299783|N/A|White|F|67|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300351|N/A|White|Other|89|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299742|N/A|White|Other|65|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299800|N/A|White|M|61|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299652|N/A|White|M|69|N/A|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299705|N/A|Hispanic and Latino|F|51|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300500|N/A|White|F|55|H1/H1|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300547|N/A|Hispanic and Latino|F|57|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300401|N/A|White|Other|87|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300492|N/A|White|F|70|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300383|N/A|White|F|66|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300364|N/A|White|Other|67|H1/H2|Frontotemporal Dementia with Motor Neuron Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299767|N/A|White|M|55|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299725|N/A|White|F|67|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299782|N/A|White|F|77|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300378|N/A|White|M|72|H1/H2|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300555|N/A|White|F|68|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300362|N/A|White|M|70|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300578|N/A|Asian|F|79|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299788|N/A|Asian|M|63|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300373|N/A|White|M|83|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300371|N/A|White|M|67|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300554|N/A|White|Other|55|H2/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300345|N/A|White|M|73|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299768|N/A|White|M|69|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300357|N/A|White|M|89|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300391|N/A|White|Other|73|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300363|N/A|Asian|F|48|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299747|N/A|White|M|68|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299707|N/A|White|M|73|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299727|N/A|White|M|83|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300360|N/A|White|Other|58|H1/H2|Frontotemporal Dementia with Motor Neuron Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300376|N/A|White|Other|75|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299735|N/A|White|F|64|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300523|N/A|Asian|F|63|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299721|N/A|White|M|47|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299714|N/A|White|F|84|N/A|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299791|N/A|White|F|70|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300396|N/A|White|Other|69|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299720|N/A|White|F|79|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300560|N/A|White|F|70|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300394|N/A|White|Other|56|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300426|N/A|White|F|68|H1/H1|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299661|N/A|Other|Other|51|N/A|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300508|N/A|Other|Other|68|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299712|N/A|White|F|77|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300398|N/A|White|Other|62|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299738|N/A|White|F|67|N/A|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300541|N/A|Other|F|59|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300375|N/A|White|Other|75|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300503|N/A|White|F|70|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299734|N/A|White|M|82|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300572|N/A|White|F|56|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299698|N/A|White|F|68|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299677|N/A|White|M|79|H2/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300354|N/A|White|F|91|H1/H1|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299828|N/A|Asian|F|57|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299764|N/A|Asian|F|71|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300370|N/A|White|Other|59|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300397|N/A|Asian|F|59|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300559|N/A|White|F|69|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299794|N/A|Asian|F|50|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300334|N/A|White|M|68|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299829|N/A|Asian|M|69|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300423|N/A|White|Other|73|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300416|N/A|White|M|67|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300400|N/A|Asian|Other|63|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300513|N/A|White|Other|69|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299653|N/A|White|F|85|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299703|N/A|White|F|67|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300553|N/A|White|F|86|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300537|N/A|White|F|60|H2/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299749|N/A|White|M|65|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300558|N/A|White|Other|35|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300420|N/A|White|Other|59|H2/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300411|N/A|White|M|57|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299676|N/A|White|F|63|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300539|N/A|White|F|70|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299696|N/A|White|F|83|H2/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300384|N/A|White|Other|72|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299681|N/A|White|M|72|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300393|N/A|White|F|81|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300579|N/A|White|F|64|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300367|N/A|Asian|Other|73|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299770|N/A|White|M|77|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299731|N/A|White|F|65|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300413|N/A|White|Other|82|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300489|N/A|White|F|46|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299736|N/A|White|M|74|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300395|N/A|White|M|65|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300404|N/A|Asian|F|73|H1I/H1L|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300518|N/A|White|Other|55|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299680|N/A|White|Other|75|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299795|N/A|Asian|F|77|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299722|N/A|White|M|82|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299775|N/A|White|Other|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299807|N/A|White|Other|77|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299806|N/A|White|M|37|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299780|N/A|White|M|68|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300570|N/A|White|F|71|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300540|N/A|White|Other|71|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299821|N/A|White|M|76|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299729|N/A|White|M|58|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299724|N/A|White|M|71|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299808|N/A|White|M|67|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300506|N/A|White|M|65|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300574|N/A|White|Other|64|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299673|N/A|White|Other|70|H2/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300388|N/A|White|Other|68|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299836|N/A|White|M|63|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299732|N/A|White|Other|71|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299689|N/A|White|F|80|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299776|N/A|White|F|71|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300504|N/A|Asian|Other|62|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300495|N/A|White|F|68|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300564|N/A|White|F|76|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299804|N/A|White|F|54|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300566|N/A|White|F|69|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299822|N/A|White|M|65|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299663|N/A|White|F|65|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300346|N/A|White|M|65|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299683|N/A|White|F|77|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300545|N/A|Asian|M|61|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299701|N/A|White|F|79|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299777|N/A|White|F|57|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299842|N/A|White|Other|82|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300408|N/A|White|Other|71|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300381|N/A|White|F|71|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300525|N/A|White|Other|78|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299658|N/A|White|Other|86|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299814|N/A|White|F|60|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299772|N/A|White|F|74|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299741|N/A|White|M|75|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299671|N/A|White|F|78|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300511|N/A|White|Other|76|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300494|N/A|White|Other|68|H1/H1|Frontotemporal Dementia with Motor Neuron Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300428|N/A|Asian|Other|66|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300406|N/A|Other|Other|63|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300529|N/A|White|F|68|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300517|N/A|White|F|63|H2/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300344|N/A|Hispanic and Latino|M|61|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300382|N/A|White|Other|65|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299700|N/A|Other|Other|58|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300374|N/A|White|Other|68|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300519|N/A|White|F|70|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300550|N/A|White|M|80|H1/H2|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300532|N/A|White|M|60|H1/H1|Frontotemporal Dementia with Motor Neuron Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300496|N/A|White|Other|61|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300403|N/A|Other|Other|76|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300410|N/A|White|Other|58|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300491|N/A|White|Other|72|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300338|N/A|White|Other|68|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300562|N/A|White|F|84|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300571|N/A|White|M|65|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300424|N/A|White|Other|60|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299718|N/A|White|Other|72|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299651|N/A|White|F|58|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300567|N/A|White|M|83|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299691|N/A|White|M|45|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300337|N/A|White|F|78|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299717|N/A|White|F|48|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299711|N/A|White|F|75|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299757|N/A|Other|F|53|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300509|N/A|White|M|78|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300340|N/A|White|Other|79|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299674|N/A|White|M|67|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300359|N/A|White|F|71|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300332|N/A|Asian|F|61|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299708|N/A|White|M|82|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299668|N/A|White|F|71|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299694|N/A|White|Other|71|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300530|N/A|White|Other|69|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300524|N/A|White|M|61|H1/H1|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299779|N/A|White|F|54|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299679|N/A|White|F|72|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299798|N/A|White|M|64|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300583|N/A|Asian|Other|73|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299692|N/A|White|Other|62|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300549|N/A|White|F|56|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299670|N/A|Other|Other|56|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299756|N/A|White|M|69|H2/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299706|N/A|White|Other|66|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299713|N/A|White|F|63|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299762|N/A|White|F|73|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299784|N/A|White|F|75|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299835|N/A|Asian|F|73|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300534|N/A|Other|F|77|H1/H2|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1299695|N/A|White|F|93|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300421|N/A|White|Other|69|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300515|N/A|White|M|53|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299792|N/A|White|M|55|H2/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300356|N/A|White|M|65|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299820|N/A|White|M|68|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299761|N/A|White|M|65|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300361|N/A|White|M|82|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300385|N/A|Asian|M|62|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300531|N/A|White|M|81|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300580|N/A|White|F|82|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299785|N/A|Asian|F|65|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299667|N/A|White|F|58|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299789|N/A|White|F|71|H2/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300399|N/A|White|Other|70|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299793|N/A|White|M|69|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299763|N/A|White|M|63|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300538|N/A|Asian|F|68|H1/H1|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300387|N/A|White|Other|68|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300333|N/A|White|F|66|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300493|N/A|White|M|74|H2/H2|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299778|N/A|White|M|70|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300575|N/A|White|M|62|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299702|N/A|Other|M|54|N/A|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299704|N/A|Other|Other|60|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300490|N/A|White|M|70|N/A|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300497|N/A|White|F|68|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299830|N/A|White|F|53|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300341|N/A|Asian|M|76|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299841|N/A|Hispanic and Latino|F|69|H2/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300339|N/A|White|Other|72|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300427|N/A|White|Other|71|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300414|N/A|White|F|61|N/A|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299818|N/A|White|F|82|H2/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300510|N/A|Other|F|63|H1/H1|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1299771|N/A|White|M|66|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300365|N/A|Asian|F|57|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299726|N/A|White|M|71|H1/H2|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300353|N/A|White|Other|78|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300548|N/A|White|F|65|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300335|N/A|Hispanic and Latino|F|47|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299716|N/A|White|Other|63|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299839|N/A|Asian|M|71|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300422|N/A|White|Other|54|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299655|N/A|White|F|52|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300557|N/A|White|F|77|H2/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300577|N/A|Asian|F|69|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299831|N/A|White|M|80|H1/H2|Frontotemporal Dementia with Motor Neuron Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299743|N/A|White|F|67|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299737|N/A|White|F|70|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299745|N/A|White|F|71|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300522|N/A|White|F|80|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300502|N/A|White|Other|77|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299790|N/A|White|F|59|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300507|N/A|White|F|78|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299650|N/A|White|M|77|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299664|N/A|White|M|82|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299754|N/A|White|M|71|H2/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299656|N/A|White|Other|73|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299840|N/A|White|F|56|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300521|N/A|Asian|M|47|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299678|N/A|Asian|M|85|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300544|N/A|White|Other|65|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300355|N/A|White|Other|75|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299755|N/A|White|M|57|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299748|N/A|White|F|76|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300342|N/A|White|F|71|H1/H2|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299715|N/A|White|F|65|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299751|N/A|White|Other|64|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300543|N/A|White|M|73|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300392|N/A|White|M|61|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299832|N/A|White|M|67|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299837|N/A|White|M|72|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300499|N/A|White|M|86|H1/H1|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299827|N/A|White|F|71|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300568|N/A|White|M|67|H1/H1|Corticobasal Degeneration|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299787|N/A|White|F|69|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300516|N/A|White|Other|53|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299753|N/A|White|M|61|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300551|N/A|White|F|86|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299740|N/A|White|M|67|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299805|N/A|White|M|69|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299685|N/A|White|F|60|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299654|N/A|White|M|79|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300546|N/A|White|M|49|N/A|N/A|Whole Blood|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM1300514|N/A|White|M|66|H1/H1|Frontotemporal Dementia with Motor Neuron Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299730|N/A|Other|Other|63|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300412|N/A|White|Other|60|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300565|N/A|White|F|86|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300379|N/A|White|Other|72|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300552|N/A|White|Other|71|N/A|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300542|N/A|White|Other|66|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300528|N/A|White|Other|69|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299801|N/A|White|M|71|H2/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299697|N/A|White|M|34|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300369|N/A|White|M|66|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299672|N/A|White|M|68|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299686|N/A|Other|Other|N/A|N/A|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300358|N/A|White|F|59|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300536|N/A|White|M|65|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299733|N/A|White|M|87|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300582|N/A|White|F|69|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299662|N/A|White|M|64|H1/H1|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300501|N/A|Asian|F|79|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299817|N/A|White|F|69|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299675|N/A|White|M|80|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299682|N/A|Other|Other|72|H1/H2|Progressive Supranuclear Palsy|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300526|N/A|White|F|69|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300569|N/A|White|F|69|H2/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299803|N/A|White|F|70|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299825|N/A|White|M|72|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300556|N/A|White|Other|70|H1/H1|Alzheimer's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300415|N/A|White|Other|72|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300336|N/A|White|Other|48|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299758|N/A|White|M|77|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299819|N/A|White|M|85|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299809|N/A|Asian|F|75|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300505|N/A|White|M|70|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299781|N/A|White|M|35|H1/H1|Frontotemporal Dementia with Motor Neuron Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299816|N/A|White|F|56|H1/H2|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1300350|N/A|White|Other|62|H1/H2|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1299687|N/A|White|F|81|H1/H1|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM1299744|N/A|Asian|Other|64|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1300380|N/A|White|M|78|H1/H1|Frontotemporal Dementia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease

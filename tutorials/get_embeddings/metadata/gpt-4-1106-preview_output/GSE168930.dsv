@@ -1,0 +1,110 @@
+GSM5172362|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Resistant|carboplatin/pacelitaxel|Disease
+GSM5172363|N/A|N/A|F|53|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Resistant|carboplatin/pacelitaxel|Disease
+GSM5172364|N/A|N/A|F|42|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Resistant|carboplatin/pacelitaxel|Disease
+GSM5172365|N/A|N/A|F|38|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Sensitive|carboplatin/pacelitaxel|Disease
+GSM5172366|N/A|N/A|F|38|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Sensitive|carboplatin/taxol+avastin|Disease
+GSM5172367|N/A|N/A|F|79|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|carboplatin/pacelitaxel|Disease
+GSM5172368|N/A|N/A|F|59|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|carboplatin/pacelitaxel|Disease
+GSM5172369|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|carboplatin/pacelitaxel+study drug/placebo|Disease
+GSM5172370|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Sensitive|carboplatin/pacelitaxel|Disease
+GSM5172371|N/A|N/A|F|51|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|carboplatin/pacelitaxel|Disease
+GSM5172372|N/A|N/A|F|44|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|"carboplatin/pacelitaxel, DDP/pacelitaxel"|Disease
+GSM5172373|N/A|N/A|F|51|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|carboplatin/pacelitaxel|Disease
+GSM5172374|N/A|N/A|F|55|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|carboplatin/weekly pacelitaxel|Disease
+GSM5172375|N/A|N/A|F|35|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Sensitive|"carboplatin/pacelitaxel/avastin, carboplatin/pacelitaxel"|Disease
+GSM5172376|N/A|N/A|F|77|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|"carboplatin/pacelitaxel, tamoxifen"|Disease
+GSM5172377|N/A|N/A|F|70|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Sensitive|carboplatin/pacelitaxel|Disease
+GSM5172378|N/A|N/A|F|56|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Sensitive|carboplatin/pacelitaxel|Disease
+GSM5172379|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|carboplatin/taxol+avastin|Disease
+GSM5172380|N/A|N/A|F|64|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|carboplatin/weekly pacelitaxel|Disease
+GSM5172381|N/A|N/A|F|38|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Sensitive|"carboplatin/paceltaxel, carboplatin/gemcitabine"|Disease
+GSM5172382|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|carboplatin/pacelitaxel|Disease
+GSM5172383|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|Sensitive|carboplatin/pacelitaxel|Disease
+GSM5172384|N/A|N/A|F|65|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Sensitive|carboplatin/pacelitaxel|Disease
+GSM5172385|N/A|N/A|F|56|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Resistant|carboplatin/cyclophosphamide|Disease
+GSM5172386|N/A|N/A|F|48|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Resistant|carboplatin/pacelitaxel|Disease
+GSM5172387|N/A|N/A|F|55|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Resistant|carboplatin/pacelitaxel|Disease
+GSM5172388|N/A|N/A|F|51|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Resistant|carboplatin/pacelitaxel|Disease
+GSM5172389|N/A|N/A|F|46|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Resistant|"carboplatin/pacelitaxel, carboplatin/liposomal doxorubicin"|Disease
+GSM5172390|N/A|N/A|F|74|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Resistant|carboplatin/pacelitaxel|Disease
+GSM5172391|N/A|N/A|F|61|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|Resistant|carboplatin/pacelitaxel|Disease
+GSM5172442|N/A|N/A|F|58|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172443|N/A|N/A|F|49|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin+paclitaxel+avastin|Disease
+GSM5172444|N/A|N/A|F|48|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172445|N/A|N/A|F|52|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172446|N/A|N/A|F|70|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172447|N/A|N/A|F|42|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172448|N/A|N/A|F|42|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172449|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin+paclitaxel|Disease
+GSM5172450|N/A|N/A|F|63|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172451|N/A|N/A|F|62|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172452|N/A|N/A|F|61|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin+paclitaxel|Disease
+GSM5172453|N/A|N/A|F|55|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin+paclitaxel|Disease
+GSM5172454|N/A|N/A|F|49|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172455|N/A|N/A|F|53|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin+paclitaxel|Disease
+GSM5172456|N/A|N/A|F|49|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin+paclitaxel|Disease
+GSM5172457|N/A|N/A|F|51|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin+paclitaxel|Disease
+GSM5172458|N/A|N/A|F|42|N/A|Ovarian Cancer|Other|N/A|in_vivo|N/A|N/A|N/A|N/A
+GSM5172459|N/A|N/A|F|57|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin+paclitaxel|Disease
+GSM5172460|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/taxol+avastin|Disease
+GSM5172461|N/A|N/A|F|52|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|"carboplatin/pacelitaxel, topotecan"|Disease
+GSM5172462|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172463|N/A|N/A|F|24|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172464|N/A|N/A|F|55|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|no chemotherapy|Environmental
+GSM5172465|N/A|N/A|F|42|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/taxol+avastin|Disease
+GSM5172466|N/A|N/A|F|56|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|no chemotherapy|Environmental
+GSM5172467|N/A|N/A|F|52|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin|Small Molecule
+GSM5172468|N/A|N/A|F|39|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|"carbolpatin/pacelitaxel, carboplatin/gemcitabine"|Disease
+GSM5172469|N/A|N/A|F|52|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel+study drug/placebo|Disease
+GSM5172470|N/A|N/A|F|41|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172471|N/A|N/A|F|68|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172472|N/A|N/A|F|54|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel+study drug/placebo|Disease
+GSM5172473|N/A|N/A|F|57|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172474|N/A|N/A|F|32|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|no chemotherapy|Environmental
+GSM5172475|N/A|N/A|F|57|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172476|N/A|N/A|F|58|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172477|N/A|N/A|F|59|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|no chemotherapy|Environmental
+GSM5172478|N/A|N/A|F|67|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172479|N/A|N/A|F|51|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172480|N/A|N/A|F|41|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172481|N/A|N/A|F|58|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|no chemotherapy|Environmental
+GSM5172482|N/A|N/A|F|61|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|no chemotherapy|Environmental
+GSM5172483|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172484|N/A|N/A|F|47|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172485|N/A|N/A|F|43|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|no chemotherapy|Environmental
+GSM5172486|N/A|N/A|F|66|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|no chemotherapy|Environmental
+GSM5172487|N/A|N/A|F|78|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin|Small Molecule
+GSM5172488|N/A|N/A|F|53|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172489|N/A|N/A|F|44|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|"mixed mucinous and serous, carboplatin/pacelitaxel"|Disease
+GSM5172490|N/A|N/A|F|38|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|"mixed clear cell and serous, carboplatin/pacelitaxel"|Disease
+GSM5172491|N/A|N/A|F|46|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172492|N/A|N/A|F|52|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172493|N/A|N/A|F|81|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|no chemotherapy|Environmental
+GSM5172494|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|"mixed endometrioid and serous, carboplatin/pacelitaxel"|Disease
+GSM5172495|N/A|N/A|F|40|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|no chemotherapy|Environmental
+GSM5172496|N/A|N/A|F|50|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172497|N/A|N/A|F|44|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172498|N/A|N/A|F|56|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin|Small Molecule
+GSM5172499|N/A|N/A|F|55|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|"carboplatin/pacelitaxel, topotecan, liposomal doxorubicin"|Disease
+GSM5172500|N/A|N/A|F|50|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|"carboplatin/pacelitaxel, pazoparib/placebo maintanance"|Disease
+GSM5172501|N/A|N/A|F|46|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172502|N/A|N/A|F|49|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172503|N/A|N/A|F|64|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172504|N/A|N/A|F|58|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172505|N/A|N/A|F|41|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|"mixed endometrioid, clear cell, carboplatin/pacelitaxel"|Disease
+GSM5172506|N/A|N/A|F|66|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|no chemotherapy|Environmental
+GSM5172507|N/A|N/A|F|47|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin|Small Molecule
+GSM5172508|N/A|N/A|F|63|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|"mixed endometrioid and clear cell, carboplatin/taxol+avastin"|Disease
+GSM5172509|N/A|N/A|F|62|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172510|N/A|N/A|F|71|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|"mixed clear cell and endometrioid, carboplatin/pacelitaxel"|Disease
+GSM5172511|N/A|N/A|F|48|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|"seromucinous borderline tumour with a small focus of clear cell carcinoma and another focus of mixed endoemtrioid and mucinous tumour, carboplatin/pacelitaxel"|Disease
+GSM5172512|N/A|N/A|F|44|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172513|N/A|N/A|F|46|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172514|N/A|N/A|F|27|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|no chemotherapy|Environmental
+GSM5172515|N/A|N/A|F|54|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin|Small Molecule
+GSM5172516|N/A|N/A|F|55|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|"carboplatin/taxol+avastin"|Disease
+GSM5172517|N/A|N/A|F|57|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172518|N/A|N/A|F|45|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172519|N/A|N/A|F|75|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease
+GSM5172520|N/A|N/A|F|71|N/A|Ovarian Cancer|Other|N/A|in_vivo|ctrl|N/A|carboplatin/pacelitaxel|Disease
+GSM5172521|N/A|N/A|F|29|N/A|Ovarian Cancer|Other|N/A|in_vivo|case|N/A|carboplatin/pacelitaxel|Disease

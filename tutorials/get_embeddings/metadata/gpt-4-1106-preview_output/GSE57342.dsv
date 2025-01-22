@@ -1,0 +1,338 @@
+GSM1380409|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1569|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380638|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW480|in_vitro|N/A|AZA_D7|5-azacitidine|Small Molecule
+GSM1380686|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Kuramochi|in_vitro|N/A|D3_mock|N/A|None
+GSM1380630|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SNUC-1|in_vitro|N/A|AZA_10|5-azacitidine|Small Molecule
+GSM1380578|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-1|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380403|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA453|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380583|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1937|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380439|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT20|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380483|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1500|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380705|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVCAR5|in_vitro|N/A|D10_Aza|5-azacitidine|Small Molecule
+GSM1380384|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA231|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380580|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-1|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380492|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA415|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380636|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW480|in_vitro|N/A|Mock_D3|N/A|None
+GSM1380527|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1954|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380410|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1569|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380655|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SKCO1|in_vitro|N/A|AZA_D3|5-azacitidine|Small Molecule
+GSM1380432|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MCF7|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380681|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|ES2|in_vitro|N/A|D10_Aza|5-azacitidine|Small Molecule
+GSM1380499|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA436|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380449|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC38|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380657|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SKCO1|in_vitro|N/A|AZA_D10|5-azacitidine|Small Molecule
+GSM1380584|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1937|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380693|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OAW28|in_vitro|N/A|D10_Aza|5-azacitidine|Small Molecule
+GSM1380687|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Kuramochi|in_vitro|N/A|D3_Aza|5-azacitidine|Small Molecule
+GSM1380660|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO205|in_vitro|N/A|Mock_D3|N/A|None
+GSM1380625|N/A|N/A|N/A|N/A|N/A|N/A|Colon|RKO|in_vitro|N/A|AZA_D10|5-azacitidine|Small Molecule
+GSM1380624|N/A|N/A|N/A|N/A|N/A|N/A|Colon|RKO|in_vitro|N/A|AZA_D7|5-azacitidine|Small Molecule
+GSM1380692|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OAW28|in_vitro|N/A|D10_mock|N/A|None
+GSM1380700|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVCAR3|in_vitro|N/A|D3_Mock|N/A|None
+GSM1380523|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA175|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380552|N/A|N/A|N/A|N/A|N/A|N/A|Breast|CAMA1|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380397|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA453|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380472|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-30|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380664|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO205|in_vitro|N/A|AZA_D14|5-azacitidine|Small Molecule
+GSM1380495|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA175|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380475|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-30|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380616|N/A|N/A|N/A|N/A|N/A|N/A|Colon|Lovo|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380565|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT474|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380674|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|EF027|in_vitro|N/A|D3_mock|N/A|None
+GSM1380545|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SKBR3|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380618|N/A|N/A|N/A|N/A|N/A|N/A|Colon|Lovo|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380447|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC38|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380604|N/A|N/A|N/A|N/A|N/A|N/A|Colon|DLD1|in_vitro|N/A|AZA_Day14|5-azacitidine|Small Molecule
+GSM1380551|N/A|N/A|N/A|N/A|N/A|N/A|Breast|CAMA1|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380642|N/A|N/A|N/A|N/A|N/A|N/A|Colon|CACO-2|in_vitro|N/A|Mock_D3|N/A|None
+GSM1380698|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVCAR3|in_vitro|N/A|D10_Mock|N/A|None
+GSM1380436|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MCF7|in_vitro|N/A|Mock_Day21|N/A|None
+GSM1380560|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT474|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380496|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA436|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380389|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA468|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380650|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW620|in_vitro|N/A|AZA_D7|5-azacitidine|Small Molecule
+GSM1380562|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT474|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380396|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA453|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380598|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO320|in_vitro|N/A|AZA_10|5-azacitidine|Small Molecule
+GSM1380454|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM149|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380529|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1954|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380573|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA361|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380628|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SNUC-1|in_vitro|N/A|Mock_3|N/A|None
+GSM1380643|N/A|N/A|N/A|N/A|N/A|N/A|Colon|CACO-2|in_vitro|N/A|AZA_D3|5-azacitidine|Small Molecule
+GSM1380459|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM149|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380511|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM192A|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380689|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Kuramochi|in_vitro|N/A|D10_Aza|5-azacitidine|Small Molecule
+GSM1380425|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM19|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380690|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OAW28|in_vitro|N/A|D3_mock|N/A|None
+GSM1380536|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1187|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380569|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA361|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380517|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1419|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380466|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM159|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380714|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Tyknu|in_vitro|N/A|D3_mock|N/A|None
+GSM1380619|N/A|N/A|N/A|N/A|N/A|N/A|Colon|Lovo|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380593|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO201|in_vitro|N/A|AZA_D10|5-azacitidine|Small Molecule
+GSM1380469|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM159|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380542|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SKBR3|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380387|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA231|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380524|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA175|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380549|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SKBR3|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380494|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA175|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380427|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM19|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380566|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA361|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380658|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SKCO1|in_vitro|N/A|AZA_D14|5-azacitidine|Small Molecule
+GSM1380661|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO205|in_vitro|N/A|AZA_D3|5-azacitidine|Small Molecule
+GSM1380547|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SKBR3|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380574|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-1|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380635|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW48|in_vitro|N/A|AZA_14|5-azacitidine|Small Molecule
+GSM1380568|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA361|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380506|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM192A|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380392|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA468|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380586|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1937|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380416|N/A|N/A|N/A|N/A|N/A|N/A|Breast|T47D|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380613|N/A|N/A|N/A|N/A|N/A|N/A|Colon|HT29|in_vitro|N/A|AZA_3|5-azacitidine|Small Molecule
+GSM1380717|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Tyknu|in_vitro|N/A|D10_Aza|5-azacitidine|Small Molecule
+GSM1380385|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA231|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380429|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MCF7|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380502|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA436|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380702|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVCAR5|in_vitro|N/A|D3_Mock|N/A|None
+GSM1380420|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM19|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380426|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM19|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380600|N/A|N/A|N/A|N/A|N/A|N/A|Colon|DLD1|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380563|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT474|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380570|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA361|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380393|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA468|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380631|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SNUC-1|in_vitro|N/A|AZA_14|5-azacitidine|Small Molecule
+GSM1380648|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW620|in_vitro|N/A|Mock_D3|N/A|None
+GSM1380391|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA468|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380709|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVKATE|in_vitro|N/A|D10_Aza|5-azacitidine|Small Molecule
+GSM1380585|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1937|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380440|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT20|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380564|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT474|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380438|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT20|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380418|N/A|N/A|N/A|N/A|N/A|N/A|Breast|T47D|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380546|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SKBR3|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380462|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM159|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380715|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Tyknu|in_vitro|N/A|D3_Aza|5-azacitidine|Small Molecule
+GSM1380507|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM192A|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380673|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|CAOV3|in_vitro|N/A|D10_AZA|5-azacitidine|Small Molecule
+GSM1380468|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM159|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380519|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1419|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380682|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Hey|in_vitro|N/A|D3_mock|N/A|None
+GSM1380381|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA231|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380465|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM159|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380419|N/A|N/A|N/A|N/A|N/A|N/A|Breast|T47D|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380548|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SKBR3|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380505|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM192A|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380654|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SKCO1|in_vitro|N/A|Mock_D3|N/A|None
+GSM1380500|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA436|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380713|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|SKOV3|in_vitro|N/A|D10_Aza|5-azacitidine|Small Molecule
+GSM1380597|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO320|in_vitro|N/A|AZA_3|5-azacitidine|Small Molecule
+GSM1380383|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA231|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380470|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-30|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380464|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM159|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380561|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT474|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380649|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW620|in_vitro|N/A|AZA_D3|5-azacitidine|Small Molecule
+GSM1380437|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MCF7|in_vitro|N/A|AZA_Day21|5-azacitidine|Small Molecule
+GSM1380428|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MCF7|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380405|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1569|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380633|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW48|in_vitro|N/A|AZA_3|5-azacitidine|Small Molecule
+GSM1380491|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA415|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380587|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1937|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380651|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW620|in_vitro|N/A|AZA_D10|5-azacitidine|Small Molecule
+GSM1380509|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM192A|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380656|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SKCO1|in_vitro|N/A|AZA_D7|5-azacitidine|Small Molecule
+GSM1380581|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-1|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380602|N/A|N/A|N/A|N/A|N/A|N/A|Colon|DLD1|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380528|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1954|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380406|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1569|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380380|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA231|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380485|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1500|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380463|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM159|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380659|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SKCO1|in_vitro|N/A|AZA_D21|5-azacitidine|Small Molecule
+GSM1380504|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM192A|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380534|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1187|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380398|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA453|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380621|N/A|N/A|N/A|N/A|N/A|N/A|Colon|Lovo|in_vitro|N/A|AZA_Day21|5-azacitidine|Small Molecule
+GSM1380691|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OAW28|in_vitro|N/A|D3_Aza|5-azacitidine|Small Molecule
+GSM1380399|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA453|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380701|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVCAR3|in_vitro|N/A|D3_AZA|5-azacitidine|Small Molecule
+GSM1380400|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA453|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380554|N/A|N/A|N/A|N/A|N/A|N/A|Breast|CAMA1|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380422|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM19|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380497|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA436|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380532|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1954|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380413|N/A|N/A|N/A|N/A|N/A|N/A|Breast|T47D|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380668|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|A2780|in_vitro|N/A|D10_Mock|N/A|None
+GSM1380688|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Kuramochi|in_vitro|N/A|D10_mock|N/A|None
+GSM1380647|N/A|N/A|N/A|N/A|N/A|N/A|Colon|CACO-2|in_vitro|N/A|AZA_D21|5-azacitidine|Small Molecule
+GSM1380471|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-30|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380522|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA175|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380489|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA415|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380407|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1569|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380415|N/A|N/A|N/A|N/A|N/A|N/A|Breast|T47D|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380526|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1954|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380707|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVKATE|in_vitro|N/A|D3_Aza|5-azacitidine|Small Molecule
+GSM1380430|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MCF7|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380595|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO201|in_vitro|N/A|AZA_Day21|5-azacitidine|Small Molecule
+GSM1380555|N/A|N/A|N/A|N/A|N/A|N/A|Breast|CAMA1|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380550|N/A|N/A|N/A|N/A|N/A|N/A|Breast|CAMA1|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380473|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-30|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380458|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM149|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380445|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT20|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380680|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|ES2|in_vitro|N/A|D10_mock|N/A|None
+GSM1380433|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MCF7|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380460|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM149|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380435|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MCF7|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380694|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OV2008|in_vitro|N/A|D3_mock|N/A|None
+GSM1380632|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW48|in_vitro|N/A|Mock_3|N/A|None
+GSM1380617|N/A|N/A|N/A|N/A|N/A|N/A|Colon|Lovo|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380457|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM149|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380699|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVCAR3|in_vitro|N/A|D10_AZA|5-azacitidine|Small Molecule
+GSM1380423|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM19|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380588|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1937|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380557|N/A|N/A|N/A|N/A|N/A|N/A|Breast|CAMA1|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380669|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|A2780|in_vitro|N/A|D10_AZA|5-azacitidine|Small Molecule
+GSM1380623|N/A|N/A|N/A|N/A|N/A|N/A|Colon|RKO|in_vitro|N/A|AZA_D3|5-azacitidine|Small Molecule
+GSM1380479|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1500|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380531|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1954|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380676|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|EF027|in_vitro|N/A|D10_mock|N/A|None
+GSM1380696|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OV2008|in_vitro|N/A|D10_mock|N/A|None
+GSM1380667|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|A2780|in_vitro|N/A|D3_AZA|5-azacitidine|Small Molecule
+GSM1380486|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA415|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380538|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1187|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380474|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-30|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380480|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1500|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380487|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA415|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380498|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA436|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380683|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Hey|in_vitro|N/A|D3_Aza|5-azacitidine|Small Molecule
+GSM1380452|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC38|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380401|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA453|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380412|N/A|N/A|N/A|N/A|N/A|N/A|Breast|T47D|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380704|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVCAR5|in_vitro|N/A|D10_Mock|N/A|None
+GSM1380518|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1419|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380594|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO201|in_vitro|N/A|AZA_D14|5-azacitidine|Small Molecule
+GSM1380576|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-1|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380533|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1954|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380653|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW620|in_vitro|N/A|AZA_D21|5-azacitidine|Small Molecule
+GSM1380592|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO201|in_vitro|N/A|AZA_D7|5-azacitidine|Small Molecule
+GSM1380404|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1569|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380629|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SNUC-1|in_vitro|N/A|AZA_3|5-azacitidine|Small Molecule
+GSM1380530|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1954|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380388|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA468|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380441|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT20|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380478|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1500|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380513|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1419|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380672|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|CAOV3|in_vitro|N/A|D10_Mock|N/A|None
+GSM1380591|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO201|in_vitro|N/A|AZA_D3|5-azacitidine|Small Molecule
+GSM1380503|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA436|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380493|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA415|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380606|N/A|N/A|N/A|N/A|N/A|N/A|Colon|HCT116|in_vitro|N/A|Mock_D3|N/A|None
+GSM1380543|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SKBR3|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380455|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM149|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380579|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-1|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380620|N/A|N/A|N/A|N/A|N/A|N/A|Colon|Lovo|in_vitro|N/A|AZA_Day14|5-azacitidine|Small Molecule
+GSM1380451|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC38|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380572|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA361|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380559|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT474|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380382|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA231|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380626|N/A|N/A|N/A|N/A|N/A|N/A|Colon|RKO|in_vitro|N/A|AZA_D14|5-azacitidine|Small Molecule
+GSM1380645|N/A|N/A|N/A|N/A|N/A|N/A|Colon|CACO-2|in_vitro|N/A|AZA_D10|5-azacitidine|Small Molecule
+GSM1380582|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1937|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380431|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MCF7|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380684|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Hey|in_vitro|N/A|D10_mock|N/A|None
+GSM1380414|N/A|N/A|N/A|N/A|N/A|N/A|Breast|T47D|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380482|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1500|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380609|N/A|N/A|N/A|N/A|N/A|N/A|Colon|HCT116|in_vitro|N/A|AZA_D10|5-azacitidine|Small Molecule
+GSM1380484|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1500|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380476|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-30|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380678|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|ES2|in_vitro|N/A|D3_mock|N/A|None
+GSM1380434|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MCF7|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380540|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1187|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380442|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT20|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380663|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO205|in_vitro|N/A|AZA_D10|5-azacitidine|Small Molecule
+GSM1380444|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT20|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380525|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA175|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380477|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-30|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380395|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA468|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380450|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC38|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380622|N/A|N/A|N/A|N/A|N/A|N/A|Colon|RKO|in_vitro|N/A|Mock_D3|N/A|None
+GSM1380627|N/A|N/A|N/A|N/A|N/A|N/A|Colon|RKO|in_vitro|N/A|AZA_D21|5-azacitidine|Small Molecule
+GSM1380535|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1187|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380453|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC38|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380514|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1419|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380666|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|A2780|in_vitro|N/A|D3_Mock|N/A|None
+GSM1380575|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-1|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380467|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM159|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380706|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVKATE|in_vitro|N/A|D3_mock|N/A|None
+GSM1380443|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT20|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380612|N/A|N/A|N/A|N/A|N/A|N/A|Colon|HT29|in_vitro|N/A|Mock_3|N/A|None
+GSM1380675|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|EF027|in_vitro|N/A|D3_Aza|5-azacitidine|Small Molecule
+GSM1380508|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM192A|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380553|N/A|N/A|N/A|N/A|N/A|N/A|Breast|CAMA1|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380677|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|EF027|in_vitro|N/A|D10_Aza|5-azacitidine|Small Molecule
+GSM1380446|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC38|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380603|N/A|N/A|N/A|N/A|N/A|N/A|Colon|DLD1|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380556|N/A|N/A|N/A|N/A|N/A|N/A|Breast|CAMA1|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380670|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|CAOV3|in_vitro|N/A|D3_Mock|N/A|None
+GSM1380610|N/A|N/A|N/A|N/A|N/A|N/A|Colon|HCT116|in_vitro|N/A|AZA_D14|5-azacitidine|Small Molecule
+GSM1380408|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1569|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380488|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA415|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380596|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO320|in_vitro|N/A|Mock_3|N/A|None
+GSM1380662|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO205|in_vitro|N/A|AZA_D7|5-azacitidine|Small Molecule
+GSM1380394|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA468|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380640|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW480|in_vitro|N/A|AZA_D14|5-azacitidine|Small Molecule
+GSM1380577|N/A|N/A|N/A|N/A|N/A|N/A|Breast|ZR75-1|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380637|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW480|in_vitro|N/A|AZA_D3|5-azacitidine|Small Molecule
+GSM1380710|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|SKOV3|in_vitro|N/A|D3_mock|N/A|None
+GSM1380671|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|CAOV3|in_vitro|N/A|D3_AZA|5-azacitidine|Small Molecule
+GSM1380607|N/A|N/A|N/A|N/A|N/A|N/A|Colon|HCT116|in_vitro|N/A|AZA_D3|5-azacitidine|Small Molecule
+GSM1380544|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SKBR3|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380402|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA453|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380716|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Tyknu|in_vitro|N/A|D10_mock|N/A|None
+GSM1380685|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|Hey|in_vitro|N/A|D10_Aza|5-azacitidine|Small Molecule
+GSM1380520|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA175|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380695|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OV2008|in_vitro|N/A|D3_Aza|5-azacitidine|Small Molecule
+GSM1380456|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM149|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380516|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1419|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380652|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW620|in_vitro|N/A|AZA_D14|5-azacitidine|Small Molecule
+GSM1380644|N/A|N/A|N/A|N/A|N/A|N/A|Colon|CACO-2|in_vitro|N/A|AZA_D7|5-azacitidine|Small Molecule
+GSM1380510|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM192A|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380411|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1569|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380611|N/A|N/A|N/A|N/A|N/A|N/A|Colon|HCT116|in_vitro|N/A|AZA_D21|5-azacitidine|Small Molecule
+GSM1380515|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1419|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380646|N/A|N/A|N/A|N/A|N/A|N/A|Colon|CACO-2|in_vitro|N/A|AZA_D14|5-azacitidine|Small Molecule
+GSM1380390|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA468|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380521|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA175|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380712|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|SKOV3|in_vitro|N/A|D10_mock|N/A|None
+GSM1380424|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM19|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380481|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1500|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380634|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW48|in_vitro|N/A|AZA_10|5-azacitidine|Small Molecule
+GSM1380605|N/A|N/A|N/A|N/A|N/A|N/A|Colon|DLD1|in_vitro|N/A|AZA_Day21|5-azacitidine|Small Molecule
+GSM1380421|N/A|N/A|N/A|N/A|N/A|N/A|Breast|EFM19|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380386|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA231|in_vitro|N/A|Mock_Day10|N/A|None
+GSM1380539|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1187|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380679|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|ES2|in_vitro|N/A|D3_Aza|5-azacitidine|Small Molecule
+GSM1380448|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC38|in_vitro|N/A|Mock_Day3|N/A|None
+GSM1380490|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA415|in_vitro|N/A|Mock_Day7|N/A|None
+GSM1380589|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1937|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380512|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1419|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380697|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OV2008|in_vitro|N/A|D10_Aza|5-azacitidine|Small Molecule
+GSM1380417|N/A|N/A|N/A|N/A|N/A|N/A|Breast|T47D|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380601|N/A|N/A|N/A|N/A|N/A|N/A|Colon|DLD1|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380571|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA361|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380614|N/A|N/A|N/A|N/A|N/A|N/A|Colon|HT29|in_vitro|N/A|AZA_10|5-azacitidine|Small Molecule
+GSM1380639|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW480|in_vitro|N/A|AZA_D10|5-azacitidine|Small Molecule
+GSM1380541|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1187|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380461|N/A|N/A|N/A|N/A|N/A|N/A|Breast|SUM149|in_vitro|N/A|AZA_Day10|5-azacitidine|Small Molecule
+GSM1380599|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO320|in_vitro|N/A|AZA_14|5-azacitidine|Small Molecule
+GSM1380665|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO205|in_vitro|N/A|AZA_D21|5-azacitidine|Small Molecule
+GSM1380558|N/A|N/A|N/A|N/A|N/A|N/A|Breast|BT474|in_vitro|N/A|Mock_Day1|N/A|None
+GSM1380590|N/A|N/A|N/A|N/A|N/A|N/A|Colon|COLO201|in_vitro|N/A|Mock_D3|N/A|None
+GSM1380537|N/A|N/A|N/A|N/A|N/A|N/A|Breast|HCC1187|in_vitro|N/A|AZA_Day3|5-azacitidine|Small Molecule
+GSM1380711|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|SKOV3|in_vitro|N/A|D3_Aza|5-azacitidine|Small Molecule
+GSM1380708|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVKATE|in_vitro|N/A|D10_mock|N/A|None
+GSM1380615|N/A|N/A|N/A|N/A|N/A|N/A|Colon|HT29|in_vitro|N/A|AZA_14|5-azacitidine|Small Molecule
+GSM1380567|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA361|in_vitro|N/A|AZA_Day1|5-azacitidine|Small Molecule
+GSM1380608|N/A|N/A|N/A|N/A|N/A|N/A|Colon|HCT116|in_vitro|N/A|AZA_D7|5-azacitidine|Small Molecule
+GSM1380501|N/A|N/A|N/A|N/A|N/A|N/A|Breast|MDA436|in_vitro|N/A|AZA_Day7|5-azacitidine|Small Molecule
+GSM1380703|N/A|N/A|N/A|N/A|N/A|N/A|Ovary|OVCAR5|in_vitro|N/A|D3_Aza|5-azacitidine|Small Molecule
+GSM1380641|N/A|N/A|N/A|N/A|N/A|N/A|Colon|SW480|in_vitro|N/A|AZA_Day21|5-azacitidine|Small Molecule

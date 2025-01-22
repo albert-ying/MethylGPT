@@ -1,0 +1,27 @@
+GSM1324989|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|ctrl|Control siRNA|Control non-targeting siRNA|Genetic
+GSM1324990|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT1 Depletion|siRNA against DNMT1|Genetic
+GSM1324991|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT1 and DNMT3A Depletion|siRNA against DNMT1 and DNMT3A|Genetic
+GSM1324992|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT1 and DNMT3B Depletion|siRNA against DNMT1 and DNMT3B|Genetic
+GSM1324993|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT1, DNMT3A, and DNMT3B Depletion|siRNA against DNMT1, DNMT3A, and DNMT3B|Genetic
+GSM1324994|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT3A Depletion|siRNA against DNMT3A|Genetic
+GSM1324995|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT3B Depletion|siRNA against DNMT3B|Genetic
+GSM1324996|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT3L Depletion|siRNA against DNMT3L|Genetic
+GSM1324997|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT3A and DNMT3B Depletion|siRNA against DNMT3A and DNMT3B|Genetic
+GSM1324998|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT3A and DNMT3L Depletion|siRNA against DNMT3A and DNMT3L|Genetic
+GSM1324999|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT3B and DNMT3L Depletion|siRNA against DNMT3B and DNMT3L|Genetic
+GSM1325000|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT3A, DNMT3B, and DNMT3L Depletion|siRNA against DNMT3A, DNMT3B, and DNMT3L|Genetic
+GSM1325001|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT116|in_vitro|ctrl|Parental|Parental|None
+GSM1325002|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT116|in_vitro|case|DNMT1 KO|DNMT1 genetic knockout|Genetic
+GSM1325003|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT116|in_vitro|case|DNMT3B KO|DNMT3B genetic knockout|Genetic
+GSM1325004|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT116|in_vitro|case|DNMT1/DNMT3B KO|DNMT1/DNMT3B genetic knockout|Genetic
+GSM1325005|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT116|in_vitro|case|DNMT1 Overexpression|DNMT1 overexpression|Genetic
+GSM1325006|N/A|N/A|N/A|N/A|N/A|N/A|Cells|HCT116|in_vitro|case|DNMT1/DNMT3B Overexpression|DNMT1/DNMT3B overexpression|Genetic
+GSM1325007|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|ctrl|Undifferentiated|Undifferentiated cells|None
+GSM1325008|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|RA Differentiated|Retinoic acid induced differentiated cells|Small Molecule
+GSM1527531|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|ctrl|Control siRNA Replicate 2|Control non-targeting siRNA|Genetic
+GSM1527532|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT1 Depletion Replicate 2|siRNA against DNMT1|Genetic
+GSM1527533|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT1 Depletion Replicate 3|siRNA against DNMT1|Genetic
+GSM1527534|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT3B Depletion Replicate 2|siRNA against DNMT3B|Genetic
+GSM1527535|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT3B Depletion Replicate 3|siRNA against DNMT3B|Genetic
+GSM1527536|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT3B and DNMT3L Depletion Replicate 2|siRNA against DNMT3B and DNMT3L|Genetic
+GSM1527537|N/A|N/A|N/A|N/A|N/A|N/A|Cells|NCCIT|in_vitro|case|DNMT3B and DNMT3L Depletion Replicate 3|siRNA against DNMT3B and DNMT3L|Genetic

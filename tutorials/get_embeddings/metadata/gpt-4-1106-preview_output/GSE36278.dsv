@@ -1,0 +1,142 @@
+GSM886028|PGBM13||M|14.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886029|PGBM34||F|12.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886030|PGBM23||M|13.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886031|PGBM39||F|12.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886032|PGBM6||M|11.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886033|PGBM4||M|10.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886034|PGBM19||M|20.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886035|PGBM1||M|11.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886036|PGBM18||M|14.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886037|PGBM48||M|2.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886038|||M|12.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886039|PGBM25||M|12.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886040|||F|10.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886041|||F|10.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886042|||F|13.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886043|||M|8.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886044|||M|9.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886045|PGBM12||M|14.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886046|PGBM1||F|13.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886047|PGBM11||M|13.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886048|PGBM29||M|15.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886049|||F|66.0|WT|Glioblastoma|Brain||in_vivo|case|RTK II 'classic'||Disease
+GSM886050|PGBM24||M|14.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886051|PGBM8||F|6.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886052|||M|8.0|MUT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886053|||F|11.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886054|PGBM46||M|14.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886055|||M|24.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886056|PGBM15||M|13.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886057|||M|26.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886058|||F|21.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886059|||F|10.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886060|||M|24.0|G34V|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886061|||M|8.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886062|PGBM47||M|14.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886063|||M|5.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886064|||F|8.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886065|||M|38.0|WT|Glioblastoma|Brain||in_vivo|case|RTK II 'classic'||Disease
+GSM886066|||F|40.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886067|||F|32.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886068|||M|46.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886069|||M|34.0|MUT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886070|||F|20.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886071|||M|36.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886072|||M|19.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886073|||F|48.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886074|||M|36.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886075|||F|23.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886076|||M|33.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886077|||F|20.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886078|||M|38.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886079|||M|48.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886080|||F|42.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886081|||M|33.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886082|||M|40.0|WT|Glioblastoma|Brain||in_vivo|case|RTK II 'classic'||Disease
+GSM886083|||F|25.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886084|||M|38.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886085|||M|18.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886086|||M|36.0|WT|Glioblastoma|Brain||in_vivo|case|RTK II 'classic'||Disease
+GSM886087|PGBM17||M|17.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886088|PGBM26||M|14.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886089|PGBM27||F|9.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886090|PGBM45||M|9.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886091|PGBM2||M|5.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886092|||M|19.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886093|||F|23.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886094|||F|31.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886095|PGBM9||F|8.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886096|PGBM31||F|7.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886097|PGBM43||F|16.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886098|PGBM32||M|4.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM886099|PGBM14||M|15.0|G34R|Glioblastoma|Brain||in_vivo|case|G34||Disease
+GSM886100|||F|19.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM886101|||F|25.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM886102|PGBM2||M|11.0|WT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM886103||||||Healthy|Brain||in_vivo|ctrl|||
+GSM886104||||||Healthy|Brain||in_vivo|ctrl|||
+GSM886105||||||Healthy|Brain||in_vivo|ctrl|||
+GSM886106||||||Healthy|Brain||in_vivo|ctrl|||
+GSM886107||||||Healthy|Brain||in_vivo|ctrl|||
+GSM972672||||||Healthy|Brain||in_vivo|ctrl|||
+GSM972673|||F|12.0|K27M|Glioblastoma|Brain||in_vivo|case|K27||Disease
+GSM972674|||F|44.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM972675|||M|49.0|MUT|Glioblastoma|Brain||in_vivo|case|IDH||Disease
+GSM972676|||M|53.0|MUT|Glioblastoma|Brain||in_vivo|case|RTK I 'PDGFRA'||Disease
+GSM972677|||F|52.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM972678|||F|54.0|WT|Glioblastoma|Brain||in_vivo|case|RTK II 'classic'||Disease
+GSM972679|||F|52.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM972680|||M|47.0|WT|Glioblastoma|Brain||in_vivo|case|mesenchymal||Disease
+GSM972681|N/A|N/A|F|49|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK I 'PDGFRA'|N/A|Disease
+GSM972682|N/A|N/A|F|45|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972683|N/A|N/A|F|45|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972684|N/A|N/A|F|48|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972685|N/A|N/A|F|49|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK I 'PDGFRA'|N/A|Disease
+GSM972686|N/A|N/A|F|40|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972687|N/A|N/A|M|48|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972688|N/A|N/A|M|41|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972689|N/A|N/A|M|42|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972690|N/A|N/A|M|48|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972691|N/A|N/A|F|48|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972692|N/A|N/A|M|43|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972693|N/A|N/A|F|44|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972694|N/A|N/A|M|49|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972695|N/A|N/A|M|39|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972696|N/A|N/A|M|44|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK I 'PDGFRA'|N/A|Disease
+GSM972697|N/A|N/A|M|33|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972698|N/A|N/A|F|47|MUT|Glioblastoma|Brain|N/A|in_vivo|case|IDH|N/A|Disease
+GSM972699|N/A|N/A|M|47|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK I 'PDGFRA'|N/A|Disease
+GSM972700|N/A|N/A|M|49|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972701|N/A|N/A|M|54|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972702|N/A|N/A|F|50|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972703|N/A|N/A|M|34|MUT|Glioblastoma|Brain|N/A|in_vivo|case|IDH|N/A|Disease
+GSM972704|N/A|N/A|F|49|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972705|N/A|N/A|M|51|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972706|N/A|N/A|M|47|MUT|Glioblastoma|Brain|N/A|in_vivo|case|IDH|N/A|Disease
+GSM972707|N/A|N/A|F|52|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972708|N/A|N/A|M|51|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972709|N/A|N/A|F|51|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972710|N/A|N/A|F|47|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972711|N/A|N/A|M|53|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972712|N/A|N/A|M|54|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972713|N/A|N/A|M|51|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease
+GSM972714|N/A|N/A|M|52|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972715|N/A|N/A|F|52|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972716|N/A|N/A|F|55|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972717|N/A|N/A|M|69|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972718|N/A|N/A|F|71|MUT|Glioblastoma|Brain|N/A|in_vivo|case|IDH|N/A|Disease
+GSM972719|N/A|N/A|M|68|MUT|Glioblastoma|Brain|N/A|in_vivo|case|IDH|N/A|Disease
+GSM972720|N/A|N/A|F|75|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972721|N/A|N/A|F|71|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK I 'PDGFRA'|N/A|Disease
+GSM972722|N/A|N/A|M|68|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972723|N/A|N/A|F|72|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972724|N/A|N/A|M|57|WT|Glioblastoma|Brain|N/A|in_vivo|case|RTK II 'classic'|N/A|Disease
+GSM972725|N/A|N/A|F|22|G34R|Glioblastoma|Brain|N/A|in_vivo|case|G34|N/A|Disease
+GSM972726|N/A|N/A|F|19|G34R|Glioblastoma|Brain|N/A|in_vivo|case|G34|N/A|Disease
+GSM972727|N/A|N/A|F|7|K27M|Glioblastoma|Brain|N/A|in_vivo|case|K27|N/A|Disease
+GSM972728|N/A|N/A|F|17|G34R|Glioblastoma|Brain|N/A|in_vivo|case|G34|N/A|Disease
+GSM972729|N/A|N/A|F|12|G34R|Glioblastoma|Brain|N/A|in_vivo|case|G34|N/A|Disease
+GSM972730|N/A|N/A|F|6|K27M|Glioblastoma|Brain|N/A|in_vivo|case|K27|N/A|Disease
+GSM972731|N/A|N/A|F|17|G34R|Glioblastoma|Brain|N/A|in_vivo|case|G34|N/A|Disease
+GSM972732|N/A|N/A|M|16|K27M|Glioblastoma|Brain|N/A|in_vivo|case|K27|N/A|Disease
+GSM972733|N/A|N/A|M|9|WT|Glioblastoma|Brain|N/A|in_vivo|case|mesenchymal|N/A|Disease

@@ -1,0 +1,508 @@
+GSM1870928|N/A|European|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870503|N/A|European|F|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870693|N/A|European|F|84|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870733|N/A|European|M|68|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870489|N/A|European|M|82|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870839|N/A|European|M|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870841|N/A|European|M|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870483|N/A|European|F|43|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870477|N/A|European|F|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870943|N/A|European|F|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870497|N/A|European|F|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870850|N/A|European|M|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870505|N/A|European|M|40|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870522|N/A|European|F|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870743|N/A|European|F|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870925|N/A|European|M|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870669|N/A|European|M|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870586|N/A|European|F|87|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870457|N/A|European|F|37|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870658|N/A|European|M|69|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870880|N/A|European|M|67|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870942|N/A|European|F|84|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870649|N/A|European|M|50|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870744|N/A|European|M|68|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870792|N/A|European|M|78|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870582|N/A|European|M|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870867|N/A|European|F|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870645|N/A|European|F|51|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870584|N/A|European|M|64|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870648|N/A|European|M|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870938|N/A|European|F|61|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870844|N/A|European|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870723|N/A|European|M|66|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870667|N/A|European|M|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870701|N/A|European|F|53|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870638|N/A|European|M|82|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870488|N/A|European|M|71|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870840|N/A|European|F|54|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870940|N/A|European|F|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870490|N/A|European|M|41|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870464|N/A|European|F|70|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870931|N/A|European|F|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870833|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870630|N/A|European|M|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870647|N/A|European|M|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870893|N/A|European|F|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870611|N/A|European|M|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870531|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870747|N/A|European|M|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870519|N/A|European|M|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870605|N/A|European|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870620|N/A|European|F|61|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870679|N/A|European|M|65|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870897|N/A|European|M|84|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870828|N/A|European|M|86|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870476|N/A|European|M|69|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870496|N/A|European|M|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870885|N/A|European|F|79|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870491|N/A|European|M|48|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870555|N/A|European|M|70|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870603|N/A|European|M|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870577|N/A|European|M|64|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870721|N/A|European|F|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870547|N/A|European|F|70|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870544|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870724|N/A|European|F|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870806|N/A|European|M|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870471|N/A|European|F|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870796|N/A|European|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870883|N/A|European|M|59|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870463|N/A|European|M|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870914|N/A|European|F|72|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870868|N/A|European|M|55|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870454|N/A|European|M|72|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870672|N/A|European|M|60|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870719|N/A|European|M|66|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870941|N/A|European|M|71|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870472|N/A|European|M|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870636|N/A|European|M|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870626|N/A|European|M|60|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870814|N/A|European|M|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870896|N/A|European|M|71|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870851|N/A|European|M|75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870514|N/A|European|F|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870680|N/A|European|F|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870623|N/A|European|M|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870778|N/A|European|F|83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870888|N/A|European|M|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870678|N/A|European|M|82|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870780|N/A|European|M|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870451|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870695|N/A|European|M|65|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870590|N/A|European|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870609|N/A|European|F|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870906|N/A|European|M|71|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870500|N/A|European|F|45|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870442|N/A|European|F|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870757|N/A|European|M|78|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870711|N/A|European|F|82|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870619|N/A|European|M|81|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870863|N/A|European|M|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870784|N/A|European|M|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870748|N/A|European|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870936|N/A|European|M|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870633|N/A|European|M|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870450|N/A|European|M|49|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870738|N/A|European|M|84|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870947|N/A|European|M|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870642|N/A|European|F|70|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870573|N/A|European|M|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870805|N/A|European|M|89|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870776|N/A|European|M|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870916|N/A|European|M|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870755|N/A|European|M|67|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870732|N/A|European|M|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870686|N/A|European|F|61|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870818|N/A|European|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870466|N/A|European|F|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870869|N/A|European|F|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870924|N/A|European|F|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870859|N/A|European|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870546|N/A|European|F|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870502|N/A|European|F|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870641|N/A|European|M|89|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870718|N/A|European|F|79|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870736|N/A|European|F|66|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870717|N/A|European|M|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870643|N/A|European|F|84|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870762|N/A|European|M|82|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870729|N/A|European|F|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870608|N/A|European|F|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870751|N/A|European|F|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870794|N/A|European|F|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870456|N/A|European|M|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870660|N/A|European|M|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870557|N/A|European|M|58|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870911|N/A|European|F|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870901|N/A|European|F|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870881|N/A|European|M|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870635|N/A|European|F|72|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870912|N/A|European|F|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870445|N/A|European|M|72|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870700|N/A|European|M|64|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870767|N/A|European|M|53|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870895|N/A|European|M|56|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870694|N/A|European|F|68|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870789|N/A|European|F|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870771|N/A|European|F|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870508|N/A|European|M|53|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870787|N/A|European|M|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870871|N/A|European|M|86|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870788|N/A|European|M|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870741|N/A|European|F|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870937|N/A|European|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870661|N/A|European|M|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870854|N/A|European|M|59|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870521|N/A|European|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870595|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870756|N/A|European|M|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870837|N/A|European|M|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870853|N/A|European|F|71|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870804|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870610|N/A|European|M|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870817|N/A|European|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870739|N/A|European|M|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870899|N/A|European|F|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870518|N/A|European|M|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870593|N/A|European|F|79|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870587|N/A|European|F|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870753|N/A|European|M|64|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870761|N/A|European|M|52|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870596|N/A|European|F|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870879|N/A|European|F|72|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870512|N/A|European|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870570|N/A|European|F|57|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870690|N/A|European|M|85|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870632|N/A|European|M|70|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870637|N/A|European|M|86|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870563|N/A|European|M|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870889|N/A|European|F|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870835|N/A|European|M|80|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870740|N/A|European|M|68|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870588|N/A|European|F|79|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870759|N/A|European|F|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870524|N/A|European|M|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870465|N/A|European|M|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870909|N/A|European|F|80|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870687|N/A|European|M|80|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870683|N/A|European|F|68|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870458|N/A|European|F|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870812|N/A|European|F|79|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870930|N/A|European|M|79|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870484|N/A|European|M|44|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870834|N/A|European|F|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870525|N/A|European|M|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870838|N/A|European|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870640|N/A|European|F|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870915|N/A|European|F|83|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870849|N/A|European|M|88|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870656|N/A|European|M|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870856|N/A|European|M|78|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870722|N/A|European|F|81|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870858|N/A|European|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870902|N/A|European|F|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870448|N/A|European|F|41|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870907|N/A|European|M|79|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870509|N/A|European|F|41|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870549|N/A|European|F|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870494|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870800|N/A|European|F|86|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870836|N/A|European|F|79|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870935|N/A|European|F|85|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870826|N/A|European|F|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870618|N/A|European|M|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870482|N/A|European|F|70|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870860|N/A|European|F|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870654|N/A|European|M|71|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870543|N/A|European|F|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870702|N/A|European|F|51|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870882|N/A|European|F|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870585|N/A|European|M|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870540|N/A|European|M|81|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870576|N/A|European|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870910|N/A|European|M|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870692|N/A|European|M|79|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870653|N/A|European|M|69|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870831|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870568|N/A|European|M|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870764|N/A|European|M|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870830|N/A|European|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870504|N/A|European|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870843|N/A|European|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870569|N/A|European|F|80|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870486|N/A|European|F|64|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870495|N/A|European|M|72|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870703|N/A|European|F|62|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870574|N/A|European|M|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870822|N/A|European|M|84|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870825|N/A|European|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870480|N/A|European|M|49|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870857|N/A|European|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870517|N/A|European|M|60|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870527|N/A|European|M|86|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870474|N/A|European|F|67|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870790|N/A|European|M|69|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870599|N/A|European|F|52|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870523|N/A|European|F|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870650|N/A|European|F|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870659|N/A|European|M|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870575|N/A|European|F|75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870688|N/A|European|M|81|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870707|N/A|European|M|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870552|N/A|European|M|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870444|N/A|European|M|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870674|N/A|European|M|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870765|N/A|European|F|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870597|N/A|European|F|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870770|N/A|European|F|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870554|N/A|European|F|66|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870779|N/A|European|F|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870708|N/A|European|M|61|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870561|N/A|European|M|67|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870712|N/A|European|M|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870797|N/A|European|F|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870821|N/A|European|M|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870578|N/A|European|M|83|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870684|N/A|European|F|64|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870728|N/A|European|F|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870535|N/A|European|M|85|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870933|N/A|European|F|81|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870734|N/A|European|F|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870551|N/A|European|M|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870559|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870845|N/A|European|F|82|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870798|N/A|European|M|79|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870698|N/A|European|M|90|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870602|N/A|European|F|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870651|N/A|European|M|50|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870900|N/A|European|M|72|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870615|N/A|European|M|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870735|N/A|European|M|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870607|N/A|European|M|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870922|N/A|European|M|62|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870705|N/A|European|F|85|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870769|N/A|European|M|80|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870507|N/A|European|M|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870689|N/A|European|M|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870697|N/A|European|M|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870467|N/A|European|M|37|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870520|N/A|European|M|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870872|N/A|European|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870749|N/A|European|M|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870742|N/A|European|F|61|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870493|N/A|European|F|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870516|N/A|European|M|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870862|N/A|European|M|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870567|N/A|European|F|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870823|N/A|European|F|75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870715|N/A|European|F|84|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870820|N/A|European|F|84|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870675|N/A|European|F|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870908|N/A|European|F|70|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870446|N/A|European|M|70|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870865|N/A|European|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870455|N/A|European|M|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870758|N/A|European|F|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870696|N/A|European|F|91|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870646|N/A|European|M|87|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870668|N/A|European|M|58|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870542|N/A|European|F|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870468|N/A|European|M|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870766|N/A|European|M|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870631|N/A|European|F|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870511|N/A|European|F|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870460|N/A|European|M|49|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870730|N/A|European|F|53|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870810|N/A|European|M|79|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870793|N/A|European|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870891|N/A|European|F|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870553|N/A|European|F|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870785|N/A|European|M|79|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870691|N/A|European|M|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870601|N/A|European|M|79|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870536|N/A|European|F|58|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870447|N/A|European|M|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870681|N/A|European|M|69|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870861|N/A|European|M|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870545|N/A|European|F|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870462|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870676|N/A|European|M|72|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870461|N/A|European|M|59|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870746|N/A|European|M|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870663|N/A|European|F|81|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870534|N/A|European|M|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870616|N/A|European|M|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870887|N/A|European|F|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870501|N/A|European|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870485|N/A|European|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870799|N/A|European|M|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870528|N/A|European|F|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870808|N/A|European|M|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870655|N/A|European|F|72|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870773|N/A|European|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870548|N/A|European|F|82|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870670|N/A|European|M|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870652|N/A|European|M|61|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870452|N/A|European|M|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870816|N/A|European|F|60|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870510|N/A|European|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870737|N/A|European|M|61|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870752|N/A|European|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870537|N/A|European|M|75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870481|N/A|European|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870929|N/A|European|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870875|N/A|European|F|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870710|N/A|European|F|72|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870918|N/A|European|F|65|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870550|N/A|European|M|71|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870613|N/A|European|F|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870782|N/A|European|M|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870878|N/A|European|M|86|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870706|N/A|European|M|54|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870917|N/A|European|M|57|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870558|N/A|European|F|68|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870945|N/A|European|M|83|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870566|N/A|European|F|70|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870539|N/A|European|F|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870864|N/A|European|M|75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870802|N/A|European|M|60|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870639|N/A|European|M|65|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870492|N/A|European|M|45|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870671|N/A|European|M|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870714|N/A|European|F|84|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870622|N/A|European|M|70|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870716|N/A|European|M|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870768|N/A|European|M|68|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870725|N/A|European|F|80|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870487|N/A|European|M|71|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870886|N/A|European|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870720|N/A|European|F|80|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870664|N/A|European|M|69|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870763|N/A|European|F|86|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870939|N/A|European|M|68|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870919|N/A|European|F|82|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870564|N/A|European|F|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870827|N/A|European|F|65|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870727|N/A|European|F|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870682|N/A|European|M|57|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870777|N/A|European|F|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870538|N/A|European|F|87|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870592|N/A|European|M|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870754|N/A|European|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870673|N/A|European|F|56|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870453|N/A|European|M|70|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870898|N/A|European|M|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870579|N/A|European|M|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870598|N/A|European|F|51|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870786|N/A|European|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870621|N/A|European|F|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870443|N/A|European|M|65|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870944|N/A|European|M|81|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870657|N/A|European|M|68|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870513|N/A|European|M|54|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870894|N/A|European|M|78|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870745|N/A|European|F|81|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870926|N/A|European|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870795|N/A|European|F|59|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870606|N/A|European|M|79|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870644|N/A|European|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870913|N/A|European|F|71|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870629|N/A|European|F|82|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870617|N/A|European|F|70|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870470|N/A|European|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870903|N/A|European|M|86|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870731|N/A|European|M|84|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870625|N/A|European|F|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870526|N/A|European|F|79|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870905|N/A|European|M|78|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870948|N/A|European|F|59|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870614|N/A|European|M|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870662|N/A|European|M|61|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870760|N/A|European|F|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870459|N/A|European|F|43|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870807|N/A|European|M|54|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870560|N/A|European|M|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870583|N/A|European|M|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870781|N/A|European|M|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870783|N/A|European|F|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870533|N/A|European|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870775|N/A|European|F|75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870530|N/A|European|F|79|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870506|N/A|European|F|47|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870892|N/A|European|F|92|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870890|N/A|European|M|61|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870949|N/A|European|F|58|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870515|N/A|European|F|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870600|N/A|European|F|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870580|N/A|European|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870877|N/A|European|M|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870532|N/A|European|F|79|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870677|N/A|European|F|69|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870801|N/A|European|F|64|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870750|N/A|European|M|82|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870927|N/A|European|F|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870624|N/A|European|F|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870591|N/A|European|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870923|N/A|European|F|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870589|N/A|European|F|50|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870627|N/A|European|F|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870556|N/A|European|M|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870809|N/A|European|F|77|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870870|N/A|European|M|85|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870713|N/A|European|M|53|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870932|N/A|European|M|72|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870819|N/A|European|F|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870565|N/A|European|M|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870594|N/A|European|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870815|N/A|European|F|67|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870832|N/A|European|M|63|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870665|N/A|European|F|53|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870811|N/A|European|M|83|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870824|N/A|European|F|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870829|N/A|European|F|75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870846|N/A|European|M|83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870946|N/A|European|M|68|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870866|N/A|European|M|79|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870921|N/A|European|F|74|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870704|N/A|European|M|84|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870904|N/A|European|F|62|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870571|N/A|European|F|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870628|N/A|European|F|88|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870709|N/A|European|F|75|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870666|N/A|European|M|85|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870847|N/A|European|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870498|N/A|European|F|86|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870469|N/A|European|F|48|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870803|N/A|European|M|85|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870848|N/A|European|M|83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870774|N/A|European|M|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870855|N/A|European|F|79|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870499|N/A|European|F|40|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870685|N/A|European|M|61|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870791|N/A|European|M|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870772|N/A|European|M|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870934|N/A|European|M|71|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870562|N/A|European|M|76|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870572|N/A|European|M|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870634|N/A|European|M|81|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870473|N/A|European|F|50|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870529|N/A|European|M|87|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870876|N/A|European|M|78|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870581|N/A|European|M|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870541|N/A|European|F|53|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870604|N/A|European|F|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870475|N/A|European|M|67|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870873|N/A|European|M|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870612|N/A|European|M|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870884|N/A|European|F|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870449|N/A|European|F|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870478|N/A|European|M|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870726|N/A|European|F|73|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870699|N/A|European|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870920|N/A|European|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870479|N/A|European|M|44|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM1870874|N/A|European|F|61|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870813|N/A|European|M|70|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|Levodopa|Disease
+GSM1870852|N/A|European|M|64|N/A|Parkinson's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM1870842|N/A|European|F|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|N/A

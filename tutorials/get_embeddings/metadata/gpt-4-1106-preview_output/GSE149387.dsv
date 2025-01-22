@@ -1,0 +1,12 @@
+GSM4498841|N/A|N/A|N/A|N/A|N/A|non-cancerous bladder condition|Bladder|HBIEpC|in_vitro|ctrl|N/A|N/A|N/A
+GSM4498842|N/A|N/A|N/A|N/A|N/A|bladder cancer|Bladder|RT4|in_vitro|case|N/A|N/A|Disease
+GSM4498843|N/A|N/A|N/A|N/A|N/A|bladder cancer|Bladder|5637|in_vitro|case|N/A|N/A|Disease
+GSM4498844|N/A|N/A|N/A|N/A|N/A|bladder cancer|Bladder|J82|in_vitro|case|N/A|N/A|Disease
+GSM4498845|N/A|N/A|N/A|N/A|N/A|non-cancerous kidney condition|Kidney|HREpC|in_vitro|ctrl|N/A|N/A|N/A
+GSM4498846|N/A|N/A|N/A|N/A|N/A|renal cancer|Kidney|RCC-KP|in_vitro|case|N/A|N/A|Disease
+GSM4498847|N/A|N/A|N/A|N/A|N/A|renal cancer|Kidney|CAKI-2|in_vitro|case|N/A|N/A|Disease
+GSM4498848|N/A|N/A|N/A|N/A|N/A|renal cancer|Kidney|CAL-54|in_vitro|case|N/A|N/A|Disease
+GSM4498849|N/A|N/A|N/A|N/A|N/A|non-cancerous prostate condition|Prostate|HprEpC|in_vitro|ctrl|N/A|N/A|N/A
+GSM4498850|N/A|N/A|N/A|N/A|N/A|prostate cancer|Prostate|DU-145|in_vitro|case|N/A|N/A|Disease
+GSM4498851|N/A|N/A|N/A|N/A|N/A|prostate cancer|Prostate|LNCAP|in_vitro|case|N/A|N/A|Disease
+GSM4498852|N/A|N/A|N/A|N/A|N/A|prostate cancer|Prostate|PC-3|in_vitro|case|N/A|N/A|Disease

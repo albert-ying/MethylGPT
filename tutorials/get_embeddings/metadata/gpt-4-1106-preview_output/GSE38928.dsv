@@ -1,0 +1,28 @@
+GSM952333|N/A|N/A|N/A|N/A|Human urothelial cells|healthy|Bladder|N/A|in_vitro|ctrl|N/A|none|None
+GSM952334|N/A|N/A|N/A|N/A|Human urothelial cells|healthy|Bladder|N/A|in_vitro|ctrl|N/A|none|None
+GSM952335|N/A|N/A|N/A|N/A|Immortalized human urothelial cells|N/A|Bladder|N/A|in_vitro|ctrl|N/A|none|Genetic
+GSM952336|N/A|N/A|N/A|N/A|Immortalized human urothelial cells|N/A|Bladder|N/A|in_vitro|ctrl|N/A|none|Genetic
+GSM952337|N/A|N/A|N/A|N/A|Immortalized human urothelial cells|N/A|Bladder|N/A|in_vitro|ctrl|N/A|none|Genetic
+GSM952338|N/A|N/A|N/A|N/A|Toxicant-transformed human urothelial cells|malignant|Bladder|N/A|in_vitro|case|N/A|monomethylarsonous acid|Environmental
+GSM952339|N/A|N/A|N/A|N/A|Toxicant-transformed human urothelial cells|malignant|Bladder|N/A|in_vitro|case|N/A|monomethylarsonous acid|Environmental
+GSM952340|N/A|N/A|N/A|N/A|Toxicant-transformed human urothelial cells|malignant|Bladder|N/A|in_vitro|case|N/A|sodium arsenite|Environmental
+GSM952341|N/A|N/A|N/A|N/A|Toxicant-transformed human urothelial cells|malignant|Bladder|N/A|in_vitro|case|N/A|cadmium chloride|Environmental
+GSM952342|N/A|N/A|N/A|N/A|Urothelial carcinoma cell line|malignant|Bladder|BFTC-905|in_vitro|case|N/A|none|Disease
+GSM952343|N/A|N/A|N/A|N/A|Urothelial carcinoma cell line|malignant|Bladder|BFTC-909|in_vitro|case|N/A|none|Disease
+GSM952344|N/A|N/A|N/A|N/A|Bladder tumor specimen|malignant|Bladder|N/A|in_vivo|case|N/A|none|Disease
+GSM952345|N/A|N/A|N/A|N/A|Bladder tumor specimen|malignant|Bladder|N/A|in_vivo|case|N/A|none|Disease
+GSM952346|N/A|N/A|N/A|N/A|Bladder tumor specimen|malignant|Bladder|N/A|in_vivo|case|N/A|none|Disease
+GSM952347|N/A|N/A|N/A|N/A|Bladder tumor specimen|malignant|Bladder|N/A|in_vivo|case|N/A|none|Disease
+GSM952348|N/A|N/A|N/A|N/A|Bladder tumor specimen|malignant|Bladder|N/A|in_vivo|case|N/A|none|Disease
+GSM952349|N/A|N/A|N/A|N/A|Bladder tumor specimen|malignant|Bladder|N/A|in_vivo|case|N/A|none|Disease
+GSM952350|N/A|N/A|N/A|N/A|Human prostate epithelial cells|healthy|Prostate|N/A|in_vitro|ctrl|N/A|none|None
+GSM952351|N/A|N/A|N/A|N/A|Human prostate epithelial cells|healthy|Prostate|N/A|in_vitro|ctrl|N/A|none|None
+GSM952352|N/A|N/A|N/A|N/A|Immortalized human prostate epithelial cells|N/A|Prostate|RWPE-1|in_vitro|ctrl|N/A|none|Genetic
+GSM952353|N/A|N/A|N/A|N/A|Immortalized human prostate epithelial cells|N/A|Prostate|RWPE-1|in_vitro|ctrl|N/A|none|Genetic
+GSM952354|N/A|N/A|N/A|N/A|Toxicant-transformed human prostate epithelial cells|malignant|Prostate|RWPE-1|in_vitro|case|N/A|sodium arsenite|Environmental
+GSM952355|N/A|N/A|N/A|N/A|Toxicant-transformed human prostate epithelial cells|malignant|Prostate|RWPE-1|in_vitro|case|N/A|sodium arsenite|Environmental
+GSM952356|N/A|N/A|N/A|N/A|Toxicant-transformed human prostate epithelial cells|malignant|Prostate|RWPE-1|in_vitro|case|N/A|cadmium chloride|Environmental
+GSM952357|N/A|N/A|N/A|N/A|Toxicant-transformed human prostate epithelial cells|malignant|Prostate|RWPE-1|in_vitro|case|N/A|N-methyl-N-nitrosourea|Environmental
+GSM952358|N/A|N/A|N/A|N/A|Prostate carcinoma cell line|malignant|Prostate|LNCaP|in_vitro|case|N/A|none|Disease
+GSM952359|N/A|N/A|N/A|N/A|Prostate adenocarcinoma cell line|malignant|Prostate|PC3|in_vitro|case|N/A|none|Disease
+GSM952360|N/A|N/A|N/A|N/A|Prostate carcinoma cell line|malignant|Prostate|DU145|in_vitro|case|N/A|none|Disease

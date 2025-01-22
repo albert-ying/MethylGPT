@@ -1,0 +1,371 @@
+GSM3833719|N/A|European|F|61|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833507|N/A|European|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833484|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833640|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833443|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833524|N/A|European|F|70|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833529|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833677|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833448|N/A|European|F|33|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833614|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833741|N/A|European|F|50|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833771|N/A|European|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833588|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833488|N/A|European|F|44|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833453|N/A|European|F|59|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833752|N/A|European|F|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833473|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833641|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833501|N/A|European|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833442|N/A|European|F|37|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833532|N/A|European|F|53|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833639|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833691|N/A|European|F|71|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833649|N/A|European|F|33|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833564|N/A|European|F|78|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833599|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833642|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833597|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833462|N/A|European|F|82|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833702|N/A|European|F|55|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833467|N/A|European|F|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833525|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833537|N/A|European|F|37|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833550|N/A|European|F|64|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833661|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833576|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833494|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833589|N/A|European|F|44|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833503|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833656|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833763|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833721|N/A|European|F|61|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833776|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833738|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833463|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833619|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833682|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833600|N/A|European|F|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833521|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833466|N/A|European|F|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833547|N/A|European|F|55|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833489|N/A|European|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833556|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833716|N/A|European|F|68|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833698|N/A|European|F|51|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833774|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833458|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833778|N/A|European|F|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833751|N/A|European|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833481|N/A|European|F|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833762|N/A|European|F|61|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833424|N/A|European|F|60|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833440|N/A|European|F|48|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833534|N/A|European|F|42|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833461|N/A|European|F|39|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833523|N/A|European|F|70|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833704|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833647|N/A|European|F|73|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833428|N/A|European|F|70|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833568|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833426|N/A|European|F|76|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833630|N/A|European|F|39|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833708|N/A|European|F|57|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833522|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833759|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833697|N/A|European|F|51|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833495|N/A|European|F|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833715|N/A|European|F|68|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833728|N/A|European|F|29|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833725|N/A|European|F|18|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833459|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833637|N/A|European|F|82|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833541|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833477|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833586|N/A|European|F|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833514|N/A|European|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833602|N/A|European|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833628|N/A|European|F|59|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833679|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833430|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833645|N/A|European|F|73|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833474|N/A|European|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833502|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833464|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833731|N/A|European|F|33|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833479|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833753|N/A|European|F|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833450|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833643|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833707|N/A|European|F|57|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833644|N/A|European|F|73|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833508|N/A|European|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833482|N/A|European|F|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833579|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833663|N/A|European|F|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833607|N/A|European|F|78|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833434|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833654|N/A|European|F|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833618|N/A|European|F|80|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833740|N/A|European|F|50|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833621|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833487|N/A|European|F|44|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833736|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833460|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833592|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833486|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833553|N/A|European|F|49|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833733|N/A|European|F|33|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833455|N/A|European|F|64|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833672|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833560|N/A|European|F|82|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833683|N/A|European|F|68|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833651|N/A|European|F|33|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833734|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833755|N/A|European|F|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833766|N/A|European|F|50|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833684|N/A|European|F|68|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833662|N/A|European|F|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833431|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833750|N/A|European|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833777|N/A|European|F|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833433|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833742|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833437|N/A|European|F|53|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833743|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833518|N/A|European|F|76|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833769|N/A|European|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833585|N/A|European|F|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833687|N/A|European|F|75|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833472|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833449|N/A|European|F|55|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833773|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833533|N/A|European|F|42|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833520|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833609|N/A|European|F|78|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833686|N/A|European|F|68|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833667|N/A|European|F|42|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833465|N/A|European|F|78|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833745|N/A|European|F|22|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833454|N/A|European|F|59|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833516|N/A|European|F|60|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833552|N/A|European|F|64|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833457|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833517|N/A|European|F|60|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833478|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833694|N/A|European|F|71|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833439|N/A|European|F|42|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833761|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833519|N/A|European|F|76|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833754|N/A|European|F|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833429|N/A|European|F|70|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833705|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833446|N/A|European|F|64|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833608|N/A|European|F|78|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833555|N/A|European|F|49|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833658|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833659|N/A|European|F|44|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833710|N/A|European|F|57|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833685|N/A|European|F|68|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833678|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833617|N/A|European|F|80|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833543|N/A|European|F|64|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833665|N/A|European|F|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833563|N/A|European|F|78|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833610|N/A|European|F|60|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833578|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833497|N/A|European|F|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833511|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833572|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833577|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833444|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833591|N/A|European|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833536|N/A|European|F|48|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833504|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833500|N/A|European|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833700|N/A|European|F|55|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833727|N/A|European|F|29|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833695|N/A|European|F|51|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833432|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833620|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833506|N/A|European|F|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833680|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833544|N/A|European|F|33|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833674|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833561|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833664|N/A|European|F|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833688|N/A|European|F|75|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833438|N/A|European|F|42|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833660|N/A|European|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833709|N/A|European|F|57|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833582|N/A|European|F|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833598|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833772|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833693|N/A|European|F|71|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833603|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833447|N/A|European|F|33|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833445|N/A|European|F|64|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833531|N/A|European|F|53|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833726|N/A|European|F|29|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833696|N/A|European|F|51|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833729|N/A|European|F|29|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833653|N/A|European|F|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833569|N/A|European|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833593|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833530|N/A|European|F|53|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833623|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833575|N/A|European|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833675|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833485|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833456|N/A|European|F|49|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833717|N/A|European|F|68|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833604|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833584|N/A|European|F|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833606|N/A|European|F|78|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833513|N/A|European|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833490|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833451|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833587|N/A|European|F|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833650|N/A|European|F|33|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833615|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833764|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833546|N/A|European|F|55|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833722|N/A|European|F|18|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833574|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833551|N/A|European|F|64|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833699|N/A|European|F|55|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833475|N/A|European|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833713|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833765|N/A|European|F|50|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833744|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833596|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833538|N/A|European|F|37|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833666|N/A|European|F|42|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833634|N/A|European|F|32|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833570|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833554|N/A|European|F|49|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833435|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833735|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833583|N/A|European|F|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833681|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833689|N/A|European|F|75|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833549|N/A|European|F|59|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833723|N/A|European|F|18|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833760|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833527|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833616|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833671|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833739|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833498|N/A|European|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833557|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833632|N/A|European|F|39|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833526|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833566|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833692|N/A|European|F|71|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833627|N/A|European|F|62|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833581|N/A|European|F|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833749|N/A|European|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833491|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833625|N/A|European|F|62|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833542|N/A|European|F|64|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833512|N/A|European|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833452|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833636|N/A|European|F|32|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833746|N/A|European|F|22|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833436|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833613|N/A|European|F|60|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833669|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833626|N/A|European|F|62|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833737|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833539|N/A|European|F|37|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833492|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833425|N/A|European|F|76|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833768|N/A|European|F|22|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833540|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833558|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833724|N/A|European|F|18|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833655|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833476|N/A|European|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833673|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833730|N/A|European|F|33|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833720|N/A|European|F|61|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833567|N/A|European|F|65|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833676|N/A|European|F|47|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833469|N/A|European|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833714|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833646|N/A|European|F|73|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833427|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833657|N/A|European|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833668|N/A|European|F|42|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833470|N/A|European|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833775|N/A|European|F|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833757|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833690|N/A|European|F|75|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833535|N/A|European|F|48|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833468|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833601|N/A|European|F|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833580|N/A|European|F|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833493|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833770|N/A|European|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833758|N/A|European|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833648|N/A|European|F|33|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833701|N/A|European|F|55|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833559|N/A|European|F|82|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833515|N/A|European|F|60|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833670|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833496|N/A|European|F|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833565|N/A|European|F|78|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833573|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833571|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833594|N/A|European|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833471|N/A|European|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833611|N/A|European|F|60|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833711|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833624|N/A|European|F|62|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833605|N/A|European|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833441|N/A|European|F|48|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833505|N/A|European|F|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833528|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833747|N/A|European|F|22|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833631|N/A|European|F|39|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833629|N/A|European|F|56|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD14|N/A|Disease
+GSM3833748|N/A|European|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833706|N/A|European|F|72|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833499|N/A|European|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833562|N/A|European|F|67|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833718|N/A|European|F|68|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833712|N/A|European|F|43|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833545|N/A|European|F|33|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833509|N/A|European|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833635|N/A|European|F|32|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833595|N/A|European|F|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833590|N/A|European|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD19|N/A|None
+GSM3833633|N/A|European|F|32|N/A|Rheumatoid Arthritis|Whole Blood|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833756|N/A|European|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833480|N/A|European|F|53|N/A|Healthy|N/A|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833622|N/A|European|F|72|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833483|N/A|European|F|80|N/A|Healthy|N/A|N/A|in_vivo|ctrl|Control_CD4Mem|N/A|None
+GSM3833732|N/A|European|F|33|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|RA_CD19|N/A|Disease
+GSM3833548|N/A|European|F|55|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833767|N/A|European|F|67|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|RA_CD4Nv|N/A|Disease
+GSM3833703|N/A|European|F|72|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|RA_CD4Mem|N/A|Disease
+GSM3833510|N/A|European|F|66|N/A|Healthy|N/A|N/A|in_vivo|ctrl|Control_CD14|N/A|None
+GSM3833652|N/A|European|F|80|N/A|Healthy|N/A|N/A|in_vivo|ctrl|Control_CD4Nv|N/A|None
+GSM3833787|N/A|European|F|56|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833785|N/A|European|F|55|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833779|N/A|European|F|55|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833788|N/A|European|F|56|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833791|N/A|European|F|52|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833783|N/A|European|F|55|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833784|N/A|European|F|55|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833790|N/A|European|F|56|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833780|N/A|European|F|55|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833638|N/A|European|F|65|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833781|N/A|European|F|55|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833793|N/A|European|F|52|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833789|N/A|European|F|56|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833782|N/A|European|F|55|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833612|N/A|European|F|60|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833792|N/A|European|F|52|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833786|N/A|European|F|55|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease
+GSM3833794|N/A|European|F|52|N/A|Rheumatoid Arthritis|N/A|N/A|in_vivo|case|N/A|N/A|Disease

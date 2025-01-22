@@ -1,0 +1,525 @@
+GSM5099253|N/A|Other|M|40|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection39|N/A|Disease
+GSM5099469|N/A|White|F|65|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection15|N/A|Disease
+GSM5099324|N/A|White|F|66|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection40|N/A|Disease
+GSM5099330|N/A|White|M|49|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 108|N/A|Disease
+GSM5099263|N/A|Other|M|60|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 63|N/A|Disease
+GSM5099391|N/A|White|M|56|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection48|N/A|Disease
+GSM5099069|N/A|Asian|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 22|N/A|Disease
+GSM5099195|N/A|White|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 75|N/A|Disease
+GSM5099434|N/A|Black|M|33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 102|N/A|Disease
+GSM5099433|N/A|Other|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 66|N/A|Disease
+GSM5098978|N/A|Black|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 164|N/A|Disease
+GSM5099453|N/A|White|F|72|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 109|N/A|Disease
+GSM5099184|N/A|White|F|83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 180|N/A|Disease
+GSM5099369|N/A|White|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 237|N/A|Disease
+GSM5099207|N/A|White|F|93|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 72|N/A|Disease
+GSM5099009|N/A|Other|F|54|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 148|N/A|Disease
+GSM5099351|N/A|Black|F|48|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection57|N/A|Disease
+GSM5099344|N/A|Other|F|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 103|N/A|Disease
+GSM5099112|N/A|N/A|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 35|N/A|Disease
+GSM5099317|N/A|Other|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 205|N/A|Disease
+GSM5099395|N/A|White|M|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 95|N/A|Disease
+GSM5099422|N/A|White|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 107|N/A|Disease
+GSM5099377|N/A|White|M|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 260|N/A|Disease
+GSM5099173|N/A|White|M|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 3|N/A|Disease
+GSM5099004|N/A|Black|M|40|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 42|N/A|Disease
+GSM5099274|N/A|Black|F|61|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 269|N/A|Disease
+GSM5099397|N/A|Asian|M|63|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 69|N/A|Disease
+GSM5099473|N/A|Black|F|26|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection32|N/A|Disease
+GSM5099426|N/A|White|M|74|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection37|N/A|Disease
+GSM5098985|N/A|Other|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 287|N/A|Disease
+GSM5099202|N/A|Black|F|51|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 145|N/A|Disease
+GSM5099020|N/A|Black|M|60|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 31|N/A|Disease
+GSM5098977|N/A|Black|F|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 147|N/A|Disease
+GSM5099380|N/A|White|M|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 263|N/A|Disease
+GSM5099374|N/A|White|M|78|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 112|N/A|Disease
+GSM5099254|N/A|White|F|19|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection58|N/A|Disease
+GSM5099331|N/A|White|F|69|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection43|N/A|Disease
+GSM5099138|N/A|Other|F|20|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 152|N/A|Disease
+GSM5099403|N/A|White|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 274|N/A|Disease
+GSM5099436|N/A|White|M|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 108|N/A|Disease
+GSM5099296|N/A|White|M|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 119|N/A|Disease
+GSM5099442|N/A|Black|F|26|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection26|N/A|Disease
+GSM5099203|N/A|White|M|73|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 43|N/A|Disease
+GSM5099175|N/A|Black|F|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 18|N/A|Disease
+GSM5099215|N/A|White|M|38|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 165|N/A|Disease
+GSM5099381|N/A|Black|F|61|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection21|N/A|Disease
+GSM5099113|N/A|White|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 38|N/A|Disease
+GSM5099326|N/A|Other|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 106|N/A|Disease
+GSM5099310|N/A|White|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 201|N/A|Disease
+GSM5099277|N/A|White|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 203|N/A|Disease
+GSM5099161|N/A|White|M|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 166|N/A|Disease
+GSM5099405|N/A|White|F|28|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection28|N/A|Disease
+GSM5098989|N/A|Other|F|27|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 140|N/A|Disease
+GSM5099155|N/A|White|M|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 158|N/A|Disease
+GSM5099449|N/A|White|F|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 213|N/A|Disease
+GSM5099314|N/A|Black|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 283|N/A|Disease
+GSM5099306|N/A|Other|F|42|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 111|N/A|Disease
+GSM5099323|N/A|White|F|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 223|N/A|Disease
+GSM5099130|N/A|Other|M|39|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 46|N/A|Disease
+GSM5099368|N/A|Other|M|31|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 127|N/A|Disease
+GSM5099250|N/A|White|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 200|N/A|Disease
+GSM5099470|N/A|White|M|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 109|N/A|Disease
+GSM5099044|N/A|Asian|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 8|N/A|Disease
+GSM5099256|N/A|Other|M|32|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 71|N/A|Disease
+GSM5099187|N/A|White|F|47|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection4|N/A|Disease
+GSM5099151|N/A|Black|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 80|N/A|Disease
+GSM5098963|N/A|Other|M|42|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 44|N/A|Disease
+GSM5099217|N/A|Other|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 56|N/A|Disease
+GSM5099373|N/A|Black|M|22|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection17|N/A|Disease
+GSM5099100|N/A|Black|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 134|N/A|Disease
+GSM5099444|N/A|White|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 107|N/A|Disease
+GSM5098984|N/A|Other|M|37|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 163|N/A|Disease
+GSM5099114|N/A|Other|M|45|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 29|N/A|Disease
+GSM5099018|N/A|White|M|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 13|N/A|Disease
+GSM5099281|N/A|White|M|49|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 123|N/A|Disease
+GSM5099340|N/A|N/A|F|38|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection35|N/A|Disease
+GSM5099407|N/A|Other|F|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 268|N/A|Disease
+GSM5099090|N/A|Black|F|30|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 48|N/A|Disease
+GSM5099105|N/A|White|F|36|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 74|N/A|Disease
+GSM5099418|N/A|Other|F|82|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 136|N/A|Disease
+GSM5099051|N/A|N/A|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 11|N/A|Disease
+GSM5099104|N/A|Other|F|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 70|N/A|Disease
+GSM5099192|N/A|Black|M|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 8|N/A|Disease
+GSM5099074|N/A|White|M|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 2|N/A|Disease
+GSM5099259|N/A|White|F|42|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection33|N/A|Disease
+GSM5099141|N/A|Black|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 176|N/A|Disease
+GSM5099413|N/A|Black|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 118|N/A|Disease
+GSM5099101|N/A|Other|M|41|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 58|N/A|Disease
+GSM5099343|N/A|White|F|64|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 101|N/A|Disease
+GSM5099079|N/A|Black|M|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 185|N/A|Disease
+GSM5099132|N/A|White|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 182|N/A|Disease
+GSM5099142|N/A|White|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 175|N/A|Disease
+GSM5099366|N/A|N/A|M|19|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 121|N/A|Disease
+GSM5099372|N/A|White|M|81|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection14|N/A|Disease
+GSM5099204|N/A|American Indian or Alaska Native|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 59|N/A|Disease
+GSM5099341|N/A|Other|M|40|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 60|N/A|Disease
+GSM5098954|N/A|Other|M|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 124|N/A|Disease
+GSM5099348|N/A|N/A|M|49|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 115|N/A|Disease
+GSM5099286|N/A|White|F|41|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 251|N/A|Disease
+GSM5099247|N/A|Other|F|52|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 236|N/A|Disease
+GSM5099153|N/A|Other|M|36|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 79|N/A|Disease
+GSM5099308|N/A|Black|F|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 226|N/A|Disease
+GSM5099333|N/A|White|F|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 241|N/A|Disease
+GSM5099245|N/A|N/A|F|18|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 219|N/A|Disease
+GSM5099053|N/A|White|M|19|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 20|N/A|Disease
+GSM5099126|N/A|White|F|40|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 40|N/A|Disease
+GSM5099408|N/A|White|F|86|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 231|N/A|Disease
+GSM5099030|N/A|White|M|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 141|N/A|Disease
+GSM5099290|N/A|White|M|74|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 114|N/A|Disease
+GSM5099467|N/A|Asian|M|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 225|N/A|Disease
+GSM5099186|N/A|Black|F|81|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 58|N/A|Disease
+GSM5099233|N/A|Asian|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 218|N/A|Disease
+GSM5099124|N/A|Other|M|52|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 1|N/A|Disease
+GSM5099045|N/A|N/A|F|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 33|N/A|Disease
+GSM5099415|N/A|Asian|M|46|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 134|N/A|Disease
+GSM5099115|N/A|N/A|F|62|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 4|N/A|Disease
+GSM5098961|N/A|White|F|29|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 51|N/A|Disease
+GSM5099396|N/A|White|F|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 98|N/A|Disease
+GSM5099012|N/A|White|M|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 288|N/A|Disease
+GSM5099081|N/A|Black|M|78|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 17|N/A|Disease
+GSM5099309|N/A|Other|M|36|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 124|N/A|Disease
+GSM5098997|N/A|Other|M|26|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 143|N/A|Disease
+GSM5099016|N/A|Black|M|88|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 5|N/A|Disease
+GSM5098999|N/A|Other|M|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 40|N/A|Disease
+GSM5099283|N/A|White|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 244|N/A|Disease
+GSM5099050|N/A|Black|M|57|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 27|N/A|Disease
+GSM5099425|N/A|White|M|56|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection65|N/A|Disease
+GSM5099182|N/A|White|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 169|N/A|Disease
+GSM5099017|N/A|Black|M|18|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 17|N/A|Disease
+GSM5099371|N/A|White|M|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 211|N/A|Disease
+GSM5099006|N/A|White|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 157|N/A|Disease
+GSM5099097|N/A|White|M|61|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 76|N/A|Disease
+GSM5099059|N/A|Native Hawaiian or Other Pacific Islander|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 56|N/A|Disease
+GSM5099430|N/A|White|M|56|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection64|N/A|Disease
+GSM5099342|N/A|White|F|75|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection62|N/A|Disease
+GSM5099116|N/A|Black|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 25|N/A|Disease
+GSM5099364|N/A|Black|F|94|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 116|N/A|Disease
+GSM5099143|N/A|White|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 139|N/A|Disease
+GSM5099003|N/A|White|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 84|N/A|Disease
+GSM5099015|N/A|Other|F|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 292|N/A|Disease
+GSM5099355|N/A|White|F|44|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection56|N/A|Disease
+GSM5099147|N/A|American Indian or Alaska Native|F|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 94|N/A|Disease
+GSM5099102|N/A|White|F|86|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 178|N/A|Disease
+GSM5099180|N/A|White|M|25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 27|N/A|Disease
+GSM5098981|N/A|Other|F|70|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 171|N/A|Disease
+GSM5098975|N/A|White|M|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 89|N/A|Disease
+GSM5099334|N/A|White|M|20|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 276|N/A|Disease
+GSM5099359|N/A|Other|M|50|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 96|N/A|Disease
+GSM5099121|N/A|N/A|F|25|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 7|N/A|Disease
+GSM5099084|N/A|Black|F|51|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 13|N/A|Disease
+GSM5099169|N/A|White|M|77|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection3|N/A|Disease
+GSM5099190|N/A|White|M|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 34|N/A|Disease
+GSM5099193|N/A|Black|M|43|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 5|N/A|Disease
+GSM5099040|N/A|Black|M|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 128|N/A|Disease
+GSM5099194|N/A|White|M|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 131|N/A|Disease
+GSM5098992|N/A|Other|M|35|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 153|N/A|Disease
+GSM5099465|N/A|White|M|57|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection19|N/A|Disease
+GSM5098986|N/A|Native Hawaiian or Other Pacific Islander|F|87|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 161|N/A|Disease
+GSM5099027|N/A|Other|M|29|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 26|N/A|Disease
+GSM5099438|N/A|Other|M|54|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection16|N/A|Disease
+GSM5099295|N/A|Other|M|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 250|N/A|Disease
+GSM5099378|N/A|White|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 216|N/A|Disease
+GSM5099228|N/A|White|M|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 81|N/A|Disease
+GSM5099089|N/A|White|F|82|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 24|N/A|Disease
+GSM5099266|N/A|Other|F|42|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 62|N/A|Disease
+GSM5099056|N/A|Black|M|63|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 12|N/A|Disease
+GSM5099224|N/A|Black|F|75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 48|N/A|Disease
+GSM5099085|N/A|White|M|84|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 14|N/A|Disease
+GSM5099416|N/A|White|F|83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 280|N/A|Disease
+GSM5099285|N/A|White|F|28|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 217|N/A|Disease
+GSM5099080|N/A|White|M|38|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 53|N/A|Disease
+GSM5099154|N/A|White|M|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 167|N/A|Disease
+GSM5099145|N/A|White|F|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 160|N/A|Disease
+GSM5099052|N/A|White|M|90|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 29|N/A|Disease
+GSM5099128|N/A|Black|M|33|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 21|N/A|Disease
+GSM5099362|N/A|White|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 105|N/A|Disease
+GSM5099091|N/A|White|F|95|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 152|N/A|Disease
+GSM5099419|N/A|White|M|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 281|N/A|Disease
+GSM5099087|N/A|Other|F|39|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 24|N/A|Disease
+GSM5099301|N/A|White|F|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 258|N/A|Disease
+GSM5099234|N/A|Other|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 239|N/A|Disease
+GSM5099129|N/A|Black|M|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 179|N/A|Disease
+GSM5099388|N/A|Black|M|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 228|N/A|Disease
+GSM5099243|N/A|White|F|33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 209|N/A|Disease
+GSM5099262|N/A|Other|M|45|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection31|N/A|Disease
+GSM5099417|N/A|Other|M|63|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 137|N/A|Disease
+GSM5099443|N/A|White|M|51|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 65|N/A|Disease
+GSM5099109|N/A|White|F|82|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 134|N/A|Disease
+GSM5099464|N/A|Other|M|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 214|N/A|Disease
+GSM5099172|N/A|White|F|42|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 23|N/A|Disease
+GSM5099276|N/A|White|F|50|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 208|N/A|Disease
+GSM5099118|N/A|White|F|36|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 187|N/A|Disease
+GSM5099476|N/A|White|F|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 196|N/A|Disease
+GSM5099240|N/A|White|M|44|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 246|N/A|Disease
+GSM5099046|N/A|White|M|52|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 32|N/A|Disease
+GSM5099120|N/A|White|M|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 162|N/A|Disease
+GSM5099345|N/A|White|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 106|N/A|Disease
+GSM5099026|N/A|White|M|83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 11|N/A|Disease
+GSM5099287|N/A|Other|M|48|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 255|N/A|Disease
+GSM5099082|N/A|White|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 66|N/A|Disease
+GSM5099188|N/A|N/A|M|62|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 15|N/A|Disease
+GSM5099152|N/A|Black|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 93|N/A|Disease
+GSM5099183|N/A|White|M|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 170|N/A|Disease
+GSM5099241|N/A|Other|F|48|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 119|N/A|Disease
+GSM5099191|N/A|White|M|52|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 34|N/A|Disease
+GSM5099349|N/A|Other|M|33|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 73|N/A|Disease
+GSM5099013|N/A|Other|M|47|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 159|N/A|Disease
+GSM5099269|N/A|White|M|87|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection23|N/A|Disease
+GSM5099264|N/A|White|F|64|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection63|N/A|Disease
+GSM5099221|N/A|White|F|30|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 78|N/A|Disease
+GSM5098994|N/A|White|F|28|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 293|N/A|Disease
+GSM5099162|N/A|White|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 132|N/A|Disease
+GSM5099159|N/A|Black|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 49|N/A|Disease
+GSM5098971|N/A|White|M|54|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 158|N/A|Disease
+GSM5099021|N/A|White|F|45|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 10|N/A|Disease
+GSM5098957|N/A|Black|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 295|N/A|Disease
+GSM5099468|N/A|Other|F|19|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 192|N/A|Disease
+GSM5099298|N/A|White|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 212|N/A|Disease
+GSM5099471|N/A|White|M|53|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection45|N/A|Disease
+GSM5099237|N/A|Asian|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 275|N/A|Disease
+GSM5099335|N/A|White|F|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 265|N/A|Disease
+GSM5099146|N/A|Other|M|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 78|N/A|Disease
+GSM5099095|N/A|White|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 129|N/A|Disease
+GSM5099412|N/A|White|F|47|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection12|N/A|Disease
+GSM5098995|N/A|Other|M|71|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 149|N/A|Disease
+GSM5098991|N/A|Other|M|47|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 162|N/A|Disease
+GSM5099339|N/A|Other|F|52|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 133|N/A|Disease
+GSM5099198|N/A|Other|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 156|N/A|Disease
+GSM5099406|N/A|White|M|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 259|N/A|Disease
+GSM5099346|N/A|Black|M|56|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 93|N/A|Disease
+GSM5099375|N/A|White|M|57|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection29|N/A|Disease
+GSM5099302|N/A|Black|M|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 278|N/A|Disease
+GSM5099267|N/A|Other|F|84|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 111|N/A|Disease
+GSM5099166|N/A|N/A|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 1|N/A|Disease
+GSM5099312|N/A|White|F|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 271|N/A|Disease
+GSM5099063|N/A|White|F|70|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 130|N/A|Disease
+GSM5099248|N/A|Other|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 103|N/A|Disease
+GSM5098983|N/A|Other|M|45|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 152|N/A|Disease
+GSM5099055|N/A|White|M|55|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection2|N/A|Disease
+GSM5099457|N/A|White|M|78|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 264|N/A|Disease
+GSM5099123|N/A|White|F|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 23|N/A|Disease
+GSM5099093|N/A|Black|F|40|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 82|N/A|Disease
+GSM5099158|N/A|Other|M|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 52|N/A|Disease
+GSM5099446|N/A|Other|F|34|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection24|N/A|Disease
+GSM5098972|N/A|White|M|88|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 291|N/A|Disease
+GSM5099459|N/A|White|M|52|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 272|N/A|Disease
+GSM5099293|N/A|White|M|79|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 202|N/A|Disease
+GSM5099060|N/A|Asian|M|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 86|N/A|Disease
+GSM5099106|N/A|Other|F|28|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 76|N/A|Disease
+GSM5099099|N/A|White|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 54|N/A|Disease
+GSM5099135|N/A|White|F|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 142|N/A|Disease
+GSM5099409|N/A|Black|M|56|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 128|N/A|Disease
+GSM5099460|N/A|Other|M|43|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection24|N/A|Disease
+GSM5099131|N/A|White|M|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 50|N/A|Disease
+GSM5099076|N/A|White|F|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 54|N/A|Disease
+GSM5099421|N/A|White|M|84|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 135|N/A|Disease
+GSM5098982|N/A|White|M|87|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 123|N/A|Disease
+GSM5099249|N/A|White|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 97|N/A|Disease
+GSM5099361|N/A|White|F|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 100|N/A|Disease
+GSM5099070|N/A|White|M|67|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 6|N/A|Disease
+GSM5099475|N/A|Black|M|67|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 94|N/A|Disease
+GSM5099435|N/A|Other|M|49|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 99|N/A|Disease
+GSM5099257|N/A|Other|F|36|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection61|N/A|Disease
+GSM5099213|N/A|Other|M|88|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 51|N/A|Disease
+GSM5099238|N/A|Other|M|53|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 117|N/A|Disease
+GSM5099011|N/A|Black|M|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 174|N/A|Disease
+GSM5099032|N/A|White|M|61|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 55|N/A|Disease
+GSM5099133|N/A|White|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 155|N/A|Disease
+GSM5099321|N/A|White|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 227|N/A|Disease
+GSM5099327|N/A|White|F|54|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection47|N/A|Disease
+GSM5099398|N/A|Other|M|26|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 95|N/A|Disease
+GSM5099048|N/A|Other|M|39|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 3|N/A|Disease
+GSM5099176|N/A|Asian|F|25|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 2|N/A|Disease
+GSM5098960|N/A|White|M|74|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 146|N/A|Disease
+GSM5099177|N/A|Other|F|28|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 28|N/A|Disease
+GSM5099291|N/A|Black|M|52|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 234|N/A|Disease
+GSM5099462|N/A|Black|M|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 112|N/A|Disease
+GSM5098970|N/A|Other|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 150|N/A|Disease
+GSM5099273|N/A|Asian|M|19|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 130|N/A|Disease
+GSM5099279|N/A|Other|F|51|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 222|N/A|Disease
+GSM5099445|N/A|White|F|56|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection54|N/A|Disease
+GSM5099214|N/A|Other|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 83|N/A|Disease
+GSM5099389|N/A|Black|M|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 204|N/A|Disease
+GSM5099322|N/A|Black|M|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 240|N/A|Disease
+GSM5099420|N/A|White|F|75|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 284|N/A|Disease
+GSM5099441|N/A|White|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 262|N/A|Disease
+GSM5098993|N/A|White|F|74|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 151|N/A|Disease
+GSM5099252|N/A|White|M|71|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection38|N/A|Disease
+GSM5099189|N/A|Black|M|49|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection1|N/A|Disease
+GSM5099038|N/A|Other|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 172|N/A|Disease
+GSM5099033|N/A|Other|M|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 177|N/A|Disease
+GSM5099431|N/A|Black|M|29|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection50|N/A|Disease
+GSM5099347|N/A|Other|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 91|N/A|Disease
+GSM5099205|N/A|Black|F|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 149|N/A|Disease
+GSM5099073|N/A|Black|F|81|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 30|N/A|Disease
+GSM5099423|N/A|Other|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 98|N/A|Disease
+GSM5099235|N/A|White|M|54|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 277|N/A|Disease
+GSM5099284|N/A|White|M|86|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 125|N/A|Disease
+GSM5098973|N/A|White|F|36|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 294|N/A|Disease
+GSM5099107|N/A|White|F|83|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 64|N/A|Disease
+GSM5099386|N/A|White|M|85|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 279|N/A|Disease
+GSM5099400|N/A|White|F|70|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection9|N/A|Disease
+GSM5099448|N/A|Asian|F|69|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 100|N/A|Disease
+GSM5099477|N/A|Other|M|52|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 101|N/A|Disease
+GSM5099010|N/A|Other|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 156|N/A|Disease
+GSM5099144|N/A|White|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 71|N/A|Disease
+GSM5099272|N/A|White|M|50|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection10|N/A|Disease
+GSM5099028|N/A|White|F|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 16|N/A|Disease
+GSM5099094|N/A|Asian|F|18|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 84|N/A|Disease
+GSM5099174|N/A|White|F|80|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 15|N/A|Disease
+GSM5099068|N/A|Other|F|30|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 37|N/A|Disease
+GSM5099226|N/A|Black|M|45|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 44|N/A|Disease
+GSM5099325|N/A|White|F|45|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection42|N/A|Disease
+GSM5099058|N/A|Black|M|61|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 143|N/A|Disease
+GSM5098990|N/A|White|F|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 296|N/A|Disease
+GSM5099222|N/A|Other|F|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 140|N/A|Disease
+GSM5099168|N/A|N/A|M|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 7|N/A|Disease
+GSM5099244|N/A|White|M|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 247|N/A|Disease
+GSM5099031|N/A|Other|M|27|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 77|N/A|Disease
+GSM5098964|N/A|White|M|29|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 145|N/A|Disease
+GSM5099404|N/A|White|M|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 273|N/A|Disease
+GSM5099071|N/A|Asian|M|83|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 30|N/A|Disease
+GSM5099461|N/A|Black|F|65|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection20|N/A|Disease
+GSM5099206|N/A|White|M|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 188|N/A|Disease
+GSM5099096|N/A|White|F|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 83|N/A|Disease
+GSM5099466|N/A|White|F|65|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection7|N/A|Disease
+GSM5099350|N/A|Black|F|70|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection44|N/A|Disease
+GSM5099163|N/A|White|F|84|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 133|N/A|Disease
+GSM5099043|N/A|Black|M|68|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection5|N/A|Disease
+GSM5099231|N/A|White|M|92|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 46|N/A|Disease
+GSM5099208|N/A|White|F|89|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 90|N/A|Disease
+GSM5099062|N/A|White|M|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 45|N/A|Disease
+GSM5099370|N/A|White|M|69|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 270|N/A|Disease
+GSM5099315|N/A|White|M|33|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 138|N/A|Disease
+GSM5099304|N/A|White|F|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 249|N/A|Disease
+GSM5099111|N/A|White|M|50|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 39|N/A|Disease
+GSM5099057|N/A|N/A|F|96|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 28|N/A|Disease
+GSM5099328|N/A|Other|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 99|N/A|Disease
+GSM5099117|N/A|Asian|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 19|N/A|Disease
+GSM5099458|N/A|White|M|66|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 197|N/A|Disease
+GSM5099140|N/A|White|F|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 137|N/A|Disease
+GSM5099358|N/A|Other|M|53|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 70|N/A|Disease
+GSM5098980|N/A|White|M|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 59|N/A|Disease
+GSM5099432|N/A|Other|F|57|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection46|N/A|Disease
+GSM5099232|N/A|Native Hawaiian or Other Pacific Islander|M|43|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 57|N/A|Disease
+GSM5099439|N/A|Other|F|84|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 267|N/A|Disease
+GSM5099429|N/A|White|M|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 114|N/A|Disease
+GSM5099456|N/A|White|F|48|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 113|N/A|Disease
+GSM5099088|N/A|Other|M|64|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 33|N/A|Disease
+GSM5099402|N/A|White|F|30|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection8|N/A|Disease
+GSM5099251|N/A|White|M|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 198|N/A|Disease
+GSM5099220|N/A|White|M|25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 121|N/A|Disease
+GSM5099008|N/A|White|M|33|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 82|N/A|Disease
+GSM5099047|N/A|Black|M|37|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 25|N/A|Disease
+GSM5099136|N/A|Other|F|73|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 89|N/A|Disease
+GSM5099270|N/A|White|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 266|N/A|Disease
+GSM5099197|N/A|White|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 92|N/A|Disease
+GSM5099383|N/A|Other|F|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 116|N/A|Disease
+GSM5099454|N/A|Black|F|29|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 120|N/A|Disease
+GSM5099297|N/A|Other|F|18|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 257|N/A|Disease
+GSM5099160|N/A|Black|M|30|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection6|N/A|Disease
+GSM5099236|N/A|White|M|44|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 118|N/A|Disease
+GSM5099474|N/A|White|M|72|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection60|N/A|Disease
+GSM5099275|N/A|White|F|35|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection13|N/A|Disease
+GSM5099199|N/A|White|M|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 163|N/A|Disease
+GSM5099149|N/A|White|M|76|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 53|N/A|Disease
+GSM5099385|N/A|White|F|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 233|N/A|Disease
+GSM5098969|N/A|White|F|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 286|N/A|Disease
+GSM5099472|N/A|White|M|84|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection36|N/A|Disease
+GSM5099219|N/A|Black|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 80|N/A|Disease
+GSM5099318|N/A|White|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 230|N/A|Disease
+GSM5099440|N/A|White|M|65|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection11|N/A|Disease
+GSM5099223|N/A|Black|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 39|N/A|Disease
+GSM5099029|N/A|N/A|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 20|N/A|Disease
+GSM5099332|N/A|Other|F|41|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 115|N/A|Disease
+GSM5099227|N/A|White|M|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 47|N/A|Disease
+GSM5099178|N/A|Black|M|53|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 41|N/A|Disease
+GSM5099054|N/A|N/A|F|30|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 18|N/A|Disease
+GSM5099156|N/A|Black|F|33|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 126|N/A|Disease
+GSM5099150|N/A|Black|F|79|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 55|N/A|Disease
+GSM5099072|N/A|White|F|48|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 16|N/A|Disease
+GSM5099352|N/A|White|M|30|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection34|N/A|Disease
+GSM5099319|N/A|White|F|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 224|N/A|Disease
+GSM5099075|N/A|White|F|28|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 68|N/A|Disease
+GSM5099329|N/A|Other|M|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 96|N/A|Disease
+GSM5099316|N/A|Other|F|54|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 285|N/A|Disease
+GSM5099447|N/A|White|F|50|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection41|N/A|Disease
+GSM5099077|N/A|White|M|76|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 79|N/A|Disease
+GSM5099337|N/A|Black|M|59|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 110|N/A|Disease
+GSM5099258|N/A|Black|M|79|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection49|N/A|Disease
+GSM5098956|N/A|Other|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 139|N/A|Disease
+GSM5099450|N/A|White|M|18|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 248|N/A|Disease
+GSM5099022|N/A|N/A|F|51|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 4|N/A|Disease
+GSM5099001|N/A|White|F|86|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 125|N/A|Disease
+GSM5099139|N/A|Black|M|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 173|N/A|Disease
+GSM5099035|N/A|White|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 161|N/A|Disease
+GSM5099181|N/A|Other|M|33|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 85|N/A|Disease
+GSM5098967|N/A|Other|F|22|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 142|N/A|Disease
+GSM5099211|N/A|Black|M|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 65|N/A|Disease
+GSM5099260|N/A|Other|M|25|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 74|N/A|Disease
+GSM5099376|N/A|Black|F|77|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection27|N/A|Disease
+GSM5098998|N/A|Other|M|54|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 160|N/A|Disease
+GSM5099463|N/A|White|M|49|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection25|N/A|Disease
+GSM5099268|N/A|Other|F|71|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 75|N/A|Disease
+GSM5099313|N/A|N/A|M|82|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 132|N/A|Disease
+GSM5099401|N/A|White|M|53|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 97|N/A|Disease
+GSM5099336|N/A|White|F|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 245|N/A|Disease
+GSM5099108|N/A|White|M|28|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 135|N/A|Disease
+GSM5099185|N/A|Black|M|70|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 50|N/A|Disease
+GSM5099134|N/A|White|F|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 43|N/A|Disease
+GSM5098959|N/A|White|F|25|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 289|N/A|Disease
+GSM5099049|N/A|White|M|46|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 159|N/A|Disease
+GSM5099039|N/A|White|M|59|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 47|N/A|Disease
+GSM5098996|N/A|White|F|70|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 141|N/A|Disease
+GSM5099061|N/A|Asian|M|43|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 88|N/A|Disease
+GSM5099367|N/A|Asian|F|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 238|N/A|Disease
+GSM5098953|N/A|White|F|27|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 77|N/A|Disease
+GSM5099078|N/A|White|M|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 91|N/A|Disease
+GSM5098965|N/A|White|M|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 87|N/A|Disease
+GSM5099066|N/A|White|M|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 146|N/A|Disease
+GSM5099137|N/A|Other|M|28|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 90|N/A|Disease
+GSM5099196|N/A|White|F|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 138|N/A|Disease
+GSM5099338|N/A|Other|M|51|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 229|N/A|Disease
+GSM5099164|N/A|White|F|67|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 88|N/A|Disease
+GSM5099300|N/A|Asian|F|82|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 72|N/A|Disease
+GSM5099110|N/A|White|F|54|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 85|N/A|Disease
+GSM5099437|N/A|Other|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 102|N/A|Disease
+GSM5099167|N/A|Other|F|30|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 36|N/A|Disease
+GSM5099201|N/A|White|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 153|N/A|Disease
+GSM5099455|N/A|Other|M|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 206|N/A|Disease
+GSM5099127|N/A|Black|M|41|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 10|N/A|Disease
+GSM5099098|N/A|Other|M|90|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 151|N/A|Disease
+GSM5099360|N/A|White|M|62|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection55|N/A|Disease
+GSM5099042|N/A|White|M|64|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 21|N/A|Disease
+GSM5099157|N/A|White|M|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 168|N/A|Disease
+GSM5099428|N/A|White|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 67|N/A|Disease
+GSM5099037|N/A|White|F|89|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 154|N/A|Disease
+GSM5099255|N/A|White|F|87|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 113|N/A|Disease
+GSM5099246|N/A|Other|F|69|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 122|N/A|Disease
+GSM5099410|N/A|Black|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 131|N/A|Disease
+GSM5099451|N/A|White|F|91|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 256|N/A|Disease
+GSM5099019|N/A|White|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 9|N/A|Disease
+GSM5099299|N/A|White|F|31|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 253|N/A|Disease
+GSM5098979|N/A|White|F|35|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 184|N/A|Disease
+GSM5099387|N/A|White|M|37|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 261|N/A|Disease
+GSM5098974|N/A|Other|M|23|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 164|N/A|Disease
+GSM5099064|N/A|White|M|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 122|N/A|Disease
+GSM5099170|N/A|White|F|56|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 35|N/A|Disease
+GSM5099303|N/A|White|M|24|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 210|N/A|Disease
+GSM5099363|N/A|White|F|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 194|N/A|Disease
+GSM5099171|N/A|Black|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 38|N/A|Disease
+GSM5099280|N/A|Black|F|23|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 190|N/A|Disease
+GSM5099067|N/A|White|M|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 12|N/A|Disease
+GSM5099000|N/A|Other|M|45|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 290|N/A|Disease
+GSM5099023|N/A|White|M|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 36|N/A|Disease
+GSM5099411|N/A|Other|F|64|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection18|N/A|Disease
+GSM5099210|N/A|Other|F|48|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 86|N/A|Disease
+GSM5099225|N/A|Other|M|52|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 181|N/A|Disease
+GSM5099103|N/A|Black|F|62|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 41|N/A|Disease
+GSM5098988|N/A|Black|M|57|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 45|N/A|Disease
+GSM5099320|N/A|Black|F|39|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 215|N/A|Disease
+GSM5099414|N/A|Black|M|55|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection22|N/A|Disease
+GSM5099005|N/A|White|M|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 37|N/A|Disease
+GSM5099229|N/A|Other|F|43|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 87|N/A|Disease
+GSM5099424|N/A|Other|M|46|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 92|N/A|Disease
+GSM5098958|N/A|White|F|81|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 157|N/A|Disease
+GSM5099218|N/A|Black|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 73|N/A|Disease
+GSM5099092|N/A|White|M|87|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 183|N/A|Disease
+GSM5099379|N/A|Black|M|50|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 129|N/A|Disease
+GSM5099305|N/A|White|M|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 221|N/A|Disease
+GSM5099261|N/A|Black|F|82|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection52|N/A|Disease
+GSM5098987|N/A|White|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 67|N/A|Disease
+GSM5099086|N/A|White|F|30|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 14|N/A|Disease
+GSM5099025|N/A|White|F|50|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 9|N/A|Disease
+GSM5099353|N/A|White|F|37|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 105|N/A|Disease
+GSM5099311|N/A|Other|F|47|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 282|N/A|Disease
+GSM5099083|N/A|White|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 26|N/A|Disease
+GSM5099289|N/A|Other|F|17|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 243|N/A|Disease
+GSM5099390|N/A|Other|F|26|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 207|N/A|Disease
+GSM5099230|N/A|White|M|72|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 42|N/A|Disease
+GSM5098962|N/A|White|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 63|N/A|Disease
+GSM5099239|N/A|White|M|74|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 242|N/A|Disease
+GSM5099399|N/A|White|M|70|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 68|N/A|Disease
+GSM5099394|N/A|Other|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 61|N/A|Disease
+GSM5099065|N/A|Other|F|61|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 61|N/A|Disease
+GSM5099271|N/A|White|M|37|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 120|N/A|Disease
+GSM5099384|N/A|Other|M|46|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 126|N/A|Disease
+GSM5099265|N/A|White|M|77|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 104|N/A|Disease
+GSM5099427|N/A|Black|F|50|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 199|N/A|Disease
+GSM5099356|N/A|Asian|M|67|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 64|N/A|Disease
+GSM5099014|N/A|White|M|58|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 144|N/A|Disease
+GSM5099165|N/A|Black|F|58|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 69|N/A|Disease
+GSM5098968|N/A|Other|F|57|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 154|N/A|Disease
+GSM5098966|N/A|White|F|50|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 147|N/A|Disease
+GSM5099382|N/A|Other|F|55|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 104|N/A|Disease
+GSM5098955|N/A|Other|F|53|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 155|N/A|Disease
+GSM5098976|N/A|White|F|49|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 52|N/A|Disease
+GSM5099007|N/A|White|M|57|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 186|N/A|Disease
+GSM5099041|N/A|Other|M|34|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 22|N/A|Disease
+GSM5099354|N/A|Black|F|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 110|N/A|Disease
+GSM5099036|N/A|Other|F|70|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 144|N/A|Disease
+GSM5099292|N/A|White|F|42|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 254|N/A|Disease
+GSM5099294|N/A|White|F|34|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 193|N/A|Disease
+GSM5099278|N/A|White|M|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 252|N/A|Disease
+GSM5099034|N/A|Black|M|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 62|N/A|Disease
+GSM5099200|N/A|White|M|73|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 81|N/A|Disease
+GSM5099392|N/A|Other|F|69|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection30|N/A|Disease
+GSM5099024|N/A|White|M|71|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 19|N/A|Disease
+GSM5099148|N/A|White|F|73|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 148|N/A|Disease
+GSM5099125|N/A|White|M|43|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 31|N/A|Disease
+GSM5099242|N/A|White|M|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 195|N/A|Disease
+GSM5099282|N/A|Other|F|60|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 191|N/A|Disease
+GSM5099357|N/A|Black|F|31|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection53|N/A|Disease
+GSM5099122|N/A|White|M|56|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 6|N/A|Disease
+GSM5099209|N/A|White|F|32|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 189|N/A|Disease
+GSM5099002|N/A|White|M|50|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 150|N/A|Disease
+GSM5099212|N/A|Other|M|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 57|N/A|Disease
+GSM5099452|N/A|Other|F|63|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 232|N/A|Disease
+GSM5099119|N/A|White|M|53|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 60|N/A|Disease
+GSM5099179|N/A|White|F|43|N/A|Healthy|Whole Blood|N/A|in_vivo|case|SARS-COV-2+ 32|N/A|Disease
+GSM5099393|N/A|Black|F|55|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|OtherInfection59|N/A|Disease
+GSM5099307|N/A|Black|F|65|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 117|N/A|Disease
+GSM5099288|N/A|White|M|59|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 220|N/A|Disease
+GSM5099365|N/A|White|F|55|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 235|N/A|Disease
+GSM5099216|N/A|Black|M|68|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|SARS-COV-2- 127|N/A|Disease

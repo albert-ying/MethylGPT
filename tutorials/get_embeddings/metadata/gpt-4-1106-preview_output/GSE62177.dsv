@@ -1,0 +1,6 @@
+GSM1521069|N/A|N/A|N/A|N/A|N/A|healthy|Kidney|HEK293|in_vitro|ctrl|control|no treatment|None
+GSM1521070|N/A|N/A|N/A|N/A|N/A|healthy|Kidney|HEK293|in_vitro|ctrl|control|no treatment|None
+GSM1521071|N/A|N/A|N/A|N/A|N/A|healthy|Kidney|HEK293|in_vitro|case|MAML1 overexpression|MAML1 stable overexpression|Genetic
+GSM1521072|N/A|N/A|N/A|N/A|N/A|healthy|Kidney|HEK293|in_vitro|case|MAML1 overexpression|MAML1 stable overexpression|Genetic
+GSM1521073|N/A|N/A|N/A|N/A|N/A|healthy|Kidney|HEK293|in_vitro|ctrl|siControl knock-down|siControl knock-down|Genetic
+GSM1521074|N/A|N/A|N/A|N/A|N/A|healthy|Kidney|HEK293|in_vitro|case|siMAML1 knock-down|siMAML1 knock-down|Genetic

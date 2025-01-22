@@ -1,0 +1,17 @@
+GSM309927|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|PC3|in_vitro|N/A|5mC_PC3_1|N/A|Disease
+GSM309934|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|PC3|in_vitro|N/A|5mC_PC3_2|N/A|Disease
+GSM309935|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|PC3|in_vitro|N/A|5mC_PC3_3|N/A|Disease
+GSM309936|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|PrEC|in_vitro|ctrl|5mC_PrEC_1|N/A|None
+GSM309937|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|PrEC|in_vitro|ctrl|5mC_PrEC_2|N/A|None
+GSM309938|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|PrEC|in_vitro|ctrl|5mC_PrEC_3|N/A|None
+GSM309939|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|PC3|in_vitro|N/A|5mC_SSSI_1|N/A|Disease
+GSM309940|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|PC3|in_vitro|N/A|5mC_SSSI_2|N/A|Disease
+GSM309941|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|PC3|in_vitro|N/A|5mC_SSSI_3|N/A|Disease
+GSM309942|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|PC3|in_vitro|N/A|H3K27me3_PC3_1|N/A|Disease
+GSM309943|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|PC3|in_vitro|N/A|H3K27me3_PC3_2|N/A|Disease
+GSM309944|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|PrEC|in_vitro|ctrl|H3K27me3_PrEC_1|N/A|None
+GSM309945|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|PrEC|in_vitro|ctrl|H3K27me3_PrEC_2|N/A|None
+GSM309946|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|PC3|in_vitro|N/A|Suz12_PC3_1|N/A|Disease
+GSM309947|N/A|N/A|N/A|N/A|N/A|Prostate Cancer|Prostate|PC3|in_vitro|N/A|Suz12_PC3_2|N/A|Disease
+GSM309948|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|PrEC|in_vitro|ctrl|Suz12_PrEC_1|N/A|None
+GSM309949|N/A|N/A|N/A|N/A|N/A|Healthy|Prostate|PrEC|in_vitro|ctrl|Suz12_PrEC_2|N/A|None

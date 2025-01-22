@@ -1,0 +1,5 @@
+GSM4592455|N/A|N/A|N/A|N/A|lentiviral_shNC (puro selection), lentiviral_GFP_EV (FACS sorting)|N/A|Cells|HCT116|in_vitro|ctrl|shNC|N/A|Genetic
+GSM4592456|N/A|N/A|N/A|N/A|lentiviral_shUHRF1 (puro selection), lentiviral_GFP_EV (FACS sorting)|N/A|Cells|HCT116|in_vitro|case|shUHRF1|N/A|Genetic
+GSM4592457|N/A|N/A|N/A|N/A|lentiviral_shUHRF1 (puro selection), lentiviral_GFP_UHRF1 WT (FACS sorting)|N/A|Cells|HCT116|in_vitro|case|shUHRF1+UHRF1 WT|N/A|Genetic
+GSM4592458|N/A|N/A|N/A|N/A|lentiviral_shUHRF1 (puro selection), lentiviral_GFP_UHRF1 K490R (FACS sorting)|N/A|Cells|HCT116|in_vitro|case|shUHRF1+UHRF1 K490R|N/A|Genetic
+GSM4592459|N/A|N/A|N/A|N/A|lentiviral_shUHRF1 (puro selection), lentiviral_GFP_UHRF1 K490Q (FACS sorting)|N/A|Cells|HCT116|in_vitro|case|shUHRF1+UHRF1 K490Q|N/A|Genetic

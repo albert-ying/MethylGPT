@@ -1,0 +1,64 @@
+GSM435229|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435181|N/A|N/A|M|61|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435197|N/A|N/A|M|84|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|case|Day 15|5-azacytidine + entinostat|Small Molecule
+GSM435241|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435213|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435222|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435180|N/A|N/A|M|43|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435235|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34-|in_vivo|ctrl|N/A|N/A|N/A
+GSM435232|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435230|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435198|N/A|N/A|M|79|N/A|Acute Myeloid Leukemia|Other|CD34-|in_vivo|case|Day 15|5-azacytidine + entinostat|Small Molecule
+GSM435190|N/A|N/A|M|74|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435237|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34-|in_vivo|ctrl|N/A|N/A|N/A
+GSM435210|N/A|N/A|F|61|N/A|Chronic Myelomonocytic Leukemia|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435231|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435223|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435189|N/A|N/A|M|61|N/A|Acute Myeloid Leukemia|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435225|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435200|N/A|N/A|M|67|N/A|Acute Myeloid Leukemia|Other|CD34-|in_vivo|case|Day 15|5-azacytidine + entinostat|Small Molecule
+GSM435238|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34-|in_vivo|ctrl|N/A|N/A|N/A
+GSM435184|N/A|N/A|M|79|N/A|Acute Myeloid Leukemia|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435191|N/A|N/A|M|53|N/A|Acute Myeloid Leukemia with Myelodysplasia-Related Changes|Other|CD34+|in_vivo|ctrl|baseline|none|N/A
+GSM435209|N/A|N/A|M|74|N/A|Acute Myeloid Leukemia with Myelodysplasia-Related Changes|Other|CD34+|in_vivo|ctrl|baseline|none|N/A
+GSM435195|N/A|N/A|M|61|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|case|Day 15|5-azacytidine + entinostat|Small Molecule
+GSM435239|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435233|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435207|N/A|N/A|M|79|N/A|Acute Myeloid Leukemia|Other|CD34-|in_vivo|case|Day 29|5-azacytidine + entinostat|Small Molecule
+GSM435199|N/A|N/A|F|55|N/A|Acute Myeloid Leukemia with Myelodysplasia-Related Changes|Other|CD34-|in_vivo|case|Day 15|5-azacytidine + entinostat|Small Molecule
+GSM435215|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435226|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435188|N/A|N/A|M|69|N/A|Chronic Myelomonocytic Leukemia|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435183|N/A|N/A|M|84|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435179|N/A|N/A|M|78|N/A|Acute Myeloid Leukemia with Myelodysplasia-Related Changes|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435206|N/A|N/A|M|84|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|case|Day 29|5-azacytidine + entinostat|Small Molecule
+GSM435219|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435242|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435228|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435187|N/A|N/A|F|61|N/A|Chronic Myelomonocytic Leukemia|Other|CD34+|in_vivo|ctrl|baseline|none|N/A
+GSM435194|N/A|N/A|M|43|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|case|Day 15|5-azacytidine + entinostat|Small Molecule
+GSM435216|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435193|N/A|N/A|M|78|N/A|Acute Myeloid Leukemia with Myelodysplasia-Related Changes|Other|CD34-|in_vivo|case|Day 15|5-azacytidine + entinostat|Small Molecule
+GSM435201|N/A|N/A|M|69|N/A|Chronic Myelomonocytic Leukemia|Other|CD34-|in_vivo|case|Day 15|5-azacytidine + entinostat|Small Molecule
+GSM435236|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34-|in_vivo|ctrl|N/A|N/A|N/A
+GSM435202|N/A|N/A|M|78|N/A|Acute Myeloid Leukemia with Myelodysplasia-Related Changes|Other|CD34-|in_vivo|case|Day 29|5-azacytidine + entinostat|Small Molecule
+GSM435185|N/A|N/A|F|55|N/A|Acute Myeloid Leukemia with Myelodysplasia-Related Changes|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435182|N/A|N/A|F|64|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435208|N/A|N/A|M|67|N/A|Acute Myeloid Leukemia|Other|CD34-|in_vivo|case|Day 29|5-azacytidine + entinostat|Small Molecule
+GSM435211|N/A|N/A|M|84|N/A|Myelodysplastic syndrome|Other|CD34+|in_vivo|ctrl|baseline|none|N/A
+GSM435240|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435234|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435203|N/A|N/A|M|43|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|case|Day 29|5-azacytidine + entinostat|Small Molecule
+GSM435196|N/A|N/A|F|64|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|case|Day 15|5-azacytidine + entinostat|Small Molecule
+GSM435212|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435192|N/A|N/A|M|74|N/A|Acute Myeloid Leukemia with Myelodysplasia-Related Changes|Other|CD34-|in_vivo|ctrl|baseline|none|N/A
+GSM435205|N/A|N/A|F|64|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|case|Day 29|5-azacytidine + entinostat|Small Molecule
+GSM435204|N/A|N/A|M|61|N/A|Myelodysplastic syndrome|Other|CD34-|in_vivo|case|Day 29|5-azacytidine + entinostat|Small Molecule
+GSM435220|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435217|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435224|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435214|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435227|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435218|N/A|N/A|N/A|N/A|N/A|healthy|Other|CD34+|in_vivo|ctrl|N/A|N/A|N/A
+GSM435221|N/A|N/A|N/A|N/A|N/A|AML|N/A|N/A|in_vitro|N/A|N/A|N/A|Disease
+GSM435186|N/A|N/A|M|67|N/A|Acute Myeloid Leukemia|Other|CD34-|in_vivo|ctrl|baseline|none|N/A

@@ -1,0 +1,31 @@
+GSM709793|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|A2780p5|in_vitro|ctrl|Sensitive|Cisplatin|Disease
+GSM709794|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|A2780p6|in_vitro|ctrl|Sensitive|Cisplatin|Disease
+GSM709795|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|CP70|in_vitro|case|Resistant|Cisplatin|Disease
+GSM709796|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|MCP1|in_vitro|case|Resistant|Cisplatin|Disease
+GSM709797|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|MCP6|in_vitro|case|Resistant|Cisplatin|Disease
+GSM709798|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|PEO1|in_vitro|ctrl|Pre-chemotherapy|N/A|Disease
+GSM709799|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|PEO1|in_vitro|ctrl|Pre-chemotherapy|N/A|Disease
+GSM709800|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|PEO4|in_vitro|case|Post-chemotherapy|N/A|Disease
+GSM709801|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|PEO4|in_vitro|case|Post-chemotherapy|N/A|Disease
+GSM709802|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|PEA1|in_vitro|ctrl|Pre-chemotherapy|N/A|Disease
+GSM709803|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|PEA2|in_vitro|case|Post-chemotherapy|N/A|Disease
+GSM709804|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|PEO14|in_vitro|ctrl|Pre-chemotherapy|N/A|Disease
+GSM709805|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|PEO23|in_vitro|case|Post-chemotherapy|N/A|Disease
+GSM709806|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|ctrl|Primary Tumor|N/A|Disease
+GSM709807|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|Relapse Tumor|N/A|Disease
+GSM709808|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|ctrl|Primary Tumor|N/A|Disease
+GSM709809|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|Relapse Tumor|N/A|Disease
+GSM709810|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|ctrl|Primary Tumor|N/A|Disease
+GSM709811|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|Relapse Tumor|N/A|Disease
+GSM709812|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|ctrl|Primary Tumor|N/A|Disease
+GSM709813|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|Relapse Tumor|N/A|Disease
+GSM709814|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|ctrl|Primary Tumor|N/A|Disease
+GSM709815|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|Relapse Tumor|N/A|Disease
+GSM709816|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|ctrl|Primary Tumor|N/A|Disease
+GSM709817|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|Relapse Tumor|N/A|Disease
+GSM709818|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|ctrl|Primary Tumor|N/A|Disease
+GSM709819|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|N/A|in_vivo|case|Relapse Tumor|N/A|Disease
+GSM709820|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|IGROV1 SP|in_vitro|case|SP Cell|N/A|Disease
+GSM709821|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|IGROV1 NSP|in_vitro|ctrl|NSP Cell|N/A|Disease
+GSM709822|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|IGROV1 SP|in_vitro|case|SP Cell|N/A|Disease
+GSM709823|N/A|N/A|N/A|N/A|N/A|Ovarian Cancer|Ovary|IGROV1 NSP|in_vitro|ctrl|NSP Cell|N/A|Disease

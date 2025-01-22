@@ -1,0 +1,10 @@
+GSM897809|N/A|N/A|M|N/A|HCT116|Healthy|Colon|HCT116|in_vitro|ctrl|Control|None|None
+GSM897810|N/A|N/A|M|N/A|HCT116|Healthy|Colon|HCT116|in_vitro|case|M.SssI treated|Treatment|Small Molecule
+GSM897811|N/A|N/A|M|N/A|DKO1 (HCT11 derivative)|Healthy|Colon|DKO1|in_vitro|ctrl|Control|None|Genetic
+GSM897812|N/A|N/A|M|N/A|DKO1 (HCT11 derivative)|Healthy|Colon|DKO1|in_vitro|case|M.SssI treated|Treatment|Genetic
+GSM897813|N/A|N/A|M|N/A|H1|Healthy|N/A|H1|in_vitro|ctrl|Control|None|None
+GSM897814|N/A|N/A|M|N/A|H1|Healthy|N/A|H1|in_vitro|case|M.SssI treated|Treatment|Small Molecule
+GSM897815|N/A|N/A|M|N/A|HCT116|Healthy|Colon|HCT116|in_vitro|ctrl|Control_Rep2|None|None
+GSM897816|N/A|N/A|M|N/A|HCT116|Healthy|Colon|HCT116|in_vitro|case|M.SssI treated_Rep2|Treatment|Small Molecule
+GSM897817|N/A|N/A|M|N/A|HCT116|Healthy|Colon|HCT116|in_vitro|ctrl|SAHA Control|None|Small Molecule
+GSM897818|N/A|N/A|M|N/A|HCT116|Healthy|Colon|HCT116|in_vitro|case|SAHA and M.SssI treated|Treatment|Small Molecule

@@ -1,0 +1,46 @@
+GSM2679976|N/A|N/A|F|22|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM2679977|N/A|N/A|M|61|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM2679978|N/A|N/A|M|32|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2679979|N/A|N/A|F|37|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2679980|N/A|N/A|F|29|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2679981|N/A|N/A|F|22|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|3 hours post exposure|N/A|N/A
+GSM2679982|N/A|N/A|M|61|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|3 hours post exposure|N/A|N/A
+GSM2679983|N/A|N/A|M|32|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2679984|N/A|N/A|F|37|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2679985|N/A|N/A|F|29|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2679986|N/A|N/A|M|46|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM2679987|N/A|N/A|F|39|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2679988|N/A|N/A|F|58|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2679989|N/A|N/A|M|37|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2679990|N/A|N/A|F|43|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM2679991|N/A|N/A|M|26|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2679992|N/A|N/A|M|46|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|3 hours post exposure|N/A|N/A
+GSM2679993|N/A|N/A|F|39|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2679994|N/A|N/A|F|58|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2679995|N/A|N/A|M|37|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2679996|N/A|N/A|F|43|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|3 hours post exposure|N/A|N/A
+GSM2679997|N/A|N/A|M|26|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2679998|N/A|N/A|M|21|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM2679999|N/A|N/A|F|30|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2680000|N/A|N/A|F|22|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2680001|N/A|N/A|F|28|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2680002|N/A|N/A|M|24|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2680003|N/A|N/A|M|44|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM2680004|N/A|N/A|M|21|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|3 hours post exposure|N/A|N/A
+GSM2680005|N/A|N/A|F|30|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2680006|N/A|N/A|F|22|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2680007|N/A|N/A|F|28|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2680008|N/A|N/A|M|24|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2680009|N/A|N/A|M|44|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|3 hours post exposure|N/A|N/A
+GSM2680010|N/A|N/A|M|39|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2680011|N/A|N/A|M|31|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2680012|N/A|N/A|F|20|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM2680013|N/A|N/A|M|25|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2680014|N/A|N/A|F|54|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM2680015|N/A|N/A|M|39|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|Baseline|N/A|Disease
+GSM2680016|N/A|N/A|M|39|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2680017|N/A|N/A|M|31|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2680018|N/A|N/A|F|20|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|3 hours post exposure|N/A|N/A
+GSM2680019|N/A|N/A|M|25|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease
+GSM2680020|N/A|N/A|F|54|N/A|healthy|Whole Blood|N/A|in_vivo|ctrl|3 hours post exposure|N/A|N/A
+GSM2680021|N/A|N/A|M|39|N/A|Allergic Rhinitis|Whole Blood|N/A|in_vivo|case|3 hours post exposure|N/A|Disease

@@ -1,0 +1,136 @@
+ID,.pred,clock,series_id,sample_title,organism_ch1,platform_id,cell type,day
+GSM1345997,39.00990427981989,GrimAge,GSE54848,Day0_1,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1345998,40.84803498490561,GrimAge,GSE54848,Day0_2,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1345999,41.042493971088376,GrimAge,GSE54848,Day0_3,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1346000,47.20988190017143,GrimAge,GSE54848,Day3_1,Homo sapiens,GPL13534,SOX2-EGFP (+) cells on day 3,3
+GSM1346001,46.444420958851644,GrimAge,GSE54848,Day3_2,Homo sapiens,GPL13534,SOX2-EGFP (+) cells on day 3,3
+GSM1346002,42.68848291289726,GrimAge,GSE54848,Day7_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346003,40.6545351429064,GrimAge,GSE54848,Day7_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346004,37.91311841337898,GrimAge,GSE54848,Day7_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346005,43.50629846333332,GrimAge,GSE54848,Day11_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346006,45.48346908049693,GrimAge,GSE54848,Day11_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346007,42.39494734769073,GrimAge,GSE54848,Day11_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346008,29.38752207763352,GrimAge,GSE54848,Day15_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 15,15
+GSM1346009,39.45742902520705,GrimAge,GSE54848,Day15_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 15,15
+GSM1346010,27.012768723926165,GrimAge,GSE54848,Day20_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 20,20
+GSM1346011,31.66120618956767,GrimAge,GSE54848,Day20_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 20,20
+GSM1346012,23.07023431963224,GrimAge,GSE54848,Day28_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346013,23.357221746056233,GrimAge,GSE54848,Day28_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346014,20.49146599867568,GrimAge,GSE54848,Day28_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346015,25.912814425284928,GrimAge,GSE54848,p1_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346016,34.246623599460776,GrimAge,GSE54848,p1_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346017,23.512751208573967,GrimAge,GSE54848,p1_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346018,27.853938971845352,GrimAge,GSE54848,p2_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346019,27.29945216889073,GrimAge,GSE54848,p2_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346020,20.878096654984297,GrimAge,GSE54848,p2_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346021,25.275898192089088,GrimAge,GSE54848,p3_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1346022,25.401807138853883,GrimAge,GSE54848,p3_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1346023,19.967482034938854,GrimAge,GSE54848,p3_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1345997,0.49859115996777126,DunedinPoAmAge,GSE54848,Day0_1,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1345998,0.4637913969048282,DunedinPoAmAge,GSE54848,Day0_2,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1345999,0.48954496308171747,DunedinPoAmAge,GSE54848,Day0_3,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1346000,0.5648979273346618,DunedinPoAmAge,GSE54848,Day3_1,Homo sapiens,GPL13534,SOX2-EGFP (+) cells on day 3,3
+GSM1346001,0.5843722414927112,DunedinPoAmAge,GSE54848,Day3_2,Homo sapiens,GPL13534,SOX2-EGFP (+) cells on day 3,3
+GSM1346002,0.6126623702993227,DunedinPoAmAge,GSE54848,Day7_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346003,0.506929641481999,DunedinPoAmAge,GSE54848,Day7_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346004,0.5519734967780734,DunedinPoAmAge,GSE54848,Day7_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346005,0.5669560898842884,DunedinPoAmAge,GSE54848,Day11_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346006,0.488941122911645,DunedinPoAmAge,GSE54848,Day11_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346007,0.5749893688165536,DunedinPoAmAge,GSE54848,Day11_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346008,0.5135741802378234,DunedinPoAmAge,GSE54848,Day15_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 15,15
+GSM1346009,0.5454282532363572,DunedinPoAmAge,GSE54848,Day15_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 15,15
+GSM1346010,0.7944030074313289,DunedinPoAmAge,GSE54848,Day20_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 20,20
+GSM1346011,0.7806821233585969,DunedinPoAmAge,GSE54848,Day20_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 20,20
+GSM1346012,0.8338972978204768,DunedinPoAmAge,GSE54848,Day28_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346013,0.8415715890099812,DunedinPoAmAge,GSE54848,Day28_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346014,0.7786631243579522,DunedinPoAmAge,GSE54848,Day28_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346015,0.8921069367130358,DunedinPoAmAge,GSE54848,p1_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346016,0.869577538217657,DunedinPoAmAge,GSE54848,p1_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346017,0.8691052288905816,DunedinPoAmAge,GSE54848,p1_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346018,0.8958988979822461,DunedinPoAmAge,GSE54848,p2_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346019,0.935005785272789,DunedinPoAmAge,GSE54848,p2_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346020,0.9091350809764916,DunedinPoAmAge,GSE54848,p2_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346021,0.8494287459706419,DunedinPoAmAge,GSE54848,p3_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1346022,0.8725086909243276,DunedinPoAmAge,GSE54848,p3_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1346023,0.851287529681611,DunedinPoAmAge,GSE54848,p3_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1345997,25.413269874763166,HannumAge,GSE54848,Day0_1,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1345998,23.453299204624628,HannumAge,GSE54848,Day0_2,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1345999,25.053400085315182,HannumAge,GSE54848,Day0_3,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1346000,26.147302979273743,HannumAge,GSE54848,Day3_1,Homo sapiens,GPL13534,SOX2-EGFP (+) cells on day 3,3
+GSM1346001,26.908433372715216,HannumAge,GSE54848,Day3_2,Homo sapiens,GPL13534,SOX2-EGFP (+) cells on day 3,3
+GSM1346002,25.545160797347293,HannumAge,GSE54848,Day7_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346003,26.111330483967983,HannumAge,GSE54848,Day7_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346004,25.938879769098097,HannumAge,GSE54848,Day7_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346005,20.791607807891936,HannumAge,GSE54848,Day11_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346006,23.29209097789941,HannumAge,GSE54848,Day11_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346007,20.62246181113739,HannumAge,GSE54848,Day11_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346008,-0.6777846540541752,HannumAge,GSE54848,Day15_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 15,15
+GSM1346009,14.872348922367742,HannumAge,GSE54848,Day15_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 15,15
+GSM1346010,-26.10609814516884,HannumAge,GSE54848,Day20_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 20,20
+GSM1346011,-24.65933297284751,HannumAge,GSE54848,Day20_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 20,20
+GSM1346012,-36.860989816473015,HannumAge,GSE54848,Day28_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346013,-28.197581636287634,HannumAge,GSE54848,Day28_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346014,-29.434511284081335,HannumAge,GSE54848,Day28_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346015,-34.67489370803795,HannumAge,GSE54848,p1_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346016,-32.30142159441667,HannumAge,GSE54848,p1_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346017,-35.90143423602025,HannumAge,GSE54848,p1_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346018,-37.48453851996876,HannumAge,GSE54848,p2_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346019,-39.2208767828799,HannumAge,GSE54848,p2_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346020,-34.51545492361724,HannumAge,GSE54848,p2_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346021,-31.785354839540425,HannumAge,GSE54848,p3_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1346022,-33.05804302850909,HannumAge,GSE54848,p3_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1346023,-32.73352721028399,HannumAge,GSE54848,p3_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1345997,53.406134197824926,HorvathAge,GSE54848,Day0_1,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1345998,55.051033220185005,HorvathAge,GSE54848,Day0_2,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1345999,52.18481846807759,HorvathAge,GSE54848,Day0_3,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1346000,58.90181475793305,HorvathAge,GSE54848,Day3_1,Homo sapiens,GPL13534,SOX2-EGFP (+) cells on day 3,3
+GSM1346001,59.83860592270349,HorvathAge,GSE54848,Day3_2,Homo sapiens,GPL13534,SOX2-EGFP (+) cells on day 3,3
+GSM1346002,44.43644298762065,HorvathAge,GSE54848,Day7_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346003,45.41760838680854,HorvathAge,GSE54848,Day7_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346004,50.82177598739183,HorvathAge,GSE54848,Day7_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346005,30.73018283280083,HorvathAge,GSE54848,Day11_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346006,35.78980817045702,HorvathAge,GSE54848,Day11_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346007,28.291172659817384,HorvathAge,GSE54848,Day11_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346008,4.916584184061799,HorvathAge,GSE54848,Day15_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 15,15
+GSM1346009,22.790907406848685,HorvathAge,GSE54848,Day15_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 15,15
+GSM1346010,-0.34622010881851206,HorvathAge,GSE54848,Day20_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 20,20
+GSM1346011,0.14386318895486316,HorvathAge,GSE54848,Day20_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 20,20
+GSM1346012,-0.663821241620572,HorvathAge,GSE54848,Day28_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346013,-0.4925890675735712,HorvathAge,GSE54848,Day28_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346014,-0.3030809286624633,HorvathAge,GSE54848,Day28_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346015,-0.24698158828464356,HorvathAge,GSE54848,p1_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346016,-0.380145250643552,HorvathAge,GSE54848,p1_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346017,-0.30425977815483807,HorvathAge,GSE54848,p1_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346018,-0.26474476030276906,HorvathAge,GSE54848,p2_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346019,-0.3129849280976562,HorvathAge,GSE54848,p2_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346020,-0.3135798070827236,HorvathAge,GSE54848,p2_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346021,-0.3164757177641909,HorvathAge,GSE54848,p3_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1346022,-0.31722344290680904,HorvathAge,GSE54848,p3_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1346023,-0.29740021670095007,HorvathAge,GSE54848,p3_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1345997,48.94337487171593,PhenoAge,GSE54848,Day0_1,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1345998,48.21827807888763,PhenoAge,GSE54848,Day0_2,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1345999,48.3546855154912,PhenoAge,GSE54848,Day0_3,Homo sapiens,GPL13534,Human dermal fibroblast,0
+GSM1346000,47.83361053342704,PhenoAge,GSE54848,Day3_1,Homo sapiens,GPL13534,SOX2-EGFP (+) cells on day 3,3
+GSM1346001,45.26701150451654,PhenoAge,GSE54848,Day3_2,Homo sapiens,GPL13534,SOX2-EGFP (+) cells on day 3,3
+GSM1346002,43.10660840835145,PhenoAge,GSE54848,Day7_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346003,55.62681611596722,PhenoAge,GSE54848,Day7_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346004,51.30304454150154,PhenoAge,GSE54848,Day7_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 7,7
+GSM1346005,32.48351701902222,PhenoAge,GSE54848,Day11_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346006,33.44401555483296,PhenoAge,GSE54848,Day11_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346007,30.26358832763433,PhenoAge,GSE54848,Day11_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 11,11
+GSM1346008,4.399243589646375,PhenoAge,GSE54848,Day15_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 15,15
+GSM1346009,25.13480309371443,PhenoAge,GSE54848,Day15_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 15,15
+GSM1346010,-49.09523771787221,PhenoAge,GSE54848,Day20_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 20,20
+GSM1346011,-48.95470470904223,PhenoAge,GSE54848,Day20_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 20,20
+GSM1346012,-48.62768935759078,PhenoAge,GSE54848,Day28_1,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346013,-41.71001482232889,PhenoAge,GSE54848,Day28_2,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346014,-48.23172268129487,PhenoAge,GSE54848,Day28_3,Homo sapiens,GPL13534,TRA-1-60(+) cells on day 28,28
+GSM1346015,-56.52343813523612,PhenoAge,GSE54848,p1_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346016,-52.43066076770138,PhenoAge,GSE54848,p1_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346017,-50.176775330231635,PhenoAge,GSE54848,p1_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after TRA-1-60(+) cell sorting on day 28,35
+GSM1346018,-50.31962632021491,PhenoAge,GSE54848,p2_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346019,-55.49215593126696,PhenoAge,GSE54848,p2_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346020,-36.82639655647315,PhenoAge,GSE54848,p2_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 2nd passage,42
+GSM1346021,-48.09122275085714,PhenoAge,GSE54848,p3_1,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1346022,-56.673298627818824,PhenoAge,GSE54848,p3_2,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49
+GSM1346023,-25.146865917907977,PhenoAge,GSE54848,p3_3,Homo sapiens,GPL13534,induced pluripotent stem cells 7 days after 3rd passage,49

@@ -1,0 +1,240 @@
+GSM2336879|8999|N/A|F|49.1|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2337042|8927|N/A|F|25.2|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336870|9015|N/A|M|38.0|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336839|8926|N/A|F|34.9|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336898|9034|N/A|M|58.4|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337050|8895|N/A|M|42.8|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336875|9021|N/A|M|32.6|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336830|8998|N/A|M|62.4|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336969|8911|N/A|F|27.9|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2337009|8908|N/A|M|29.8|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2337018|8940|N/A|M|21.1|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2337052|8970|N/A|F|37.5|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2337026|8970|N/A|F|37.4|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336895|8006|N/A|M|40.2|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336819|9050|N/A|M|30.8|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337024|8961|N/A|M|26.7|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336846|8847|N/A|M|52.1|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337034|8940|N/A|M|21.1|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336835|8888|N/A|M|52.4|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336861|9030|N/A|F|43.9|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336965|9055|N/A|M|41.5|N/A|Inflammatory Bowel Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336918|9026|N/A|M|31.3|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336967|7821|N/A|F|54.3|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336925|8946|N/A|M|22.4|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336917|8927|N/A|F|25.2|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336952|8983|N/A|M|30.7|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336927|9029|N/A|M|31.1|N/A|Other|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336972|9026|N/A|M|31.3|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2337005|8868|N/A|M|34.0|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337044|8902|N/A|M|30.8|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336959|8801|N/A|F|37.0|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336884|9055|N/A|M|41.5|N/A|Inflammatory Bowel Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336994|8983|N/A|M|30.7|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336922|9030|N/A|F|43.9|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2337019|8985|N/A|M|50.7|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336837|9005|N/A|F|27.6|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336999|9039|N/A|M|42.1|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336842|8975|N/A|F|26.5|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336941|8948|N/A|M|20.5|N/A|Inflammatory Bowel Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336976|8975|N/A|F|26.5|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336984|9054|N/A|M|33.7|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336893|8801|N/A|F|37.0|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2337033|8975|N/A|F|26.5|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336892|8903|N/A|M|19.7|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337014|8903|N/A|M|19.7|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337043|8888|N/A|M|52.4|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336916|8896|N/A|F|58.1|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2337021|9049|N/A|M|30.8|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336933|9014|N/A|M|50.4|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336949|8006|N/A|M|40.2|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336979|8816|N/A|M|22.6|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337020|8948|N/A|M|20.5|N/A|Inflammatory Bowel Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336843|8816|N/A|M|22.6|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336980|9055|N/A|M|41.5|N/A|Inflammatory Bowel Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336936|8874|N/A|M|25.1|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336833|9028|N/A|M|37.4|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336859|8930|N/A|M|23.4|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336995|8867|N/A|M|23.4|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2337028|9015|N/A|M|38.0|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2337022|8929|N/A|F|30.3|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336852|8969|N/A|M|33.4|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336862|9032|N/A|F|33.1|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336883|8927|N/A|F|25.2|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336924|8918|N/A|M|42.7|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336982|8862|N/A|F|38.2|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336964|9049|N/A|M|30.8|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2337016|8896|N/A|F|58.1|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336872|8862|N/A|F|38.2|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336978|9050|N/A|M|30.8|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337013|8868|N/A|M|34.0|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336850|8970|N/A|F|37.5|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336902|9051|N/A|F|24.3|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336977|8841|N/A|F|22.4|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336998|8911|N/A|F|27.9|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337031|8918|N/A|M|42.7|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337054|8975|N/A|F|26.5|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336993|8888|N/A|M|52.4|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337056|8882|N/A|F|19.1|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336956|8918|N/A|M|42.7|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336911|9021|N/A|M|32.6|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2337032|8867|N/A|M|23.4|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336943|8841|N/A|F|22.3|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337023|8891|N/A|M|38.4|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336981|8999|N/A|F|49.1|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337041|8911|N/A|F|27.9|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2337036|9049|N/A|M|30.8|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336987|9039|N/A|M|42.1|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336853|9005|N/A|F|27.6|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336874|9054|N/A|M|33.7|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336983|9003|N/A|M|24.3|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336865|9050|N/A|M|30.8|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336914|8888|N/A|M|52.4|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336963|8983|N/A|M|30.7|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336962|9013|N/A|M|18.3|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336906|8985|N/A|M|50.7|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336886|8985|N/A|M|50.7|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336935|9028|N/A|M|37.4|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336915|8847|N/A|M|52.1|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336894|9054|N/A|M|33.7|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336913|9014|N/A|M|50.4|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336824|9003|N/A|M|24.3|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336990|8926|N/A|F|34.9|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336945|9039|N/A|M|42.1|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336991|8822|N/A|F|29.9|N/A|Inflammatory Bowel Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336829|8985|N/A|M|50.7|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2337000|8902|N/A|M|30.8|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336953|8895|N/A|M|42.8|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2337053|8915|N/A|M|30.3|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336989|8006|N/A|M|40.2|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336820|9034|N/A|M|58.4|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336897|8961|N/A|M|26.7|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2337007|8895|N/A|M|42.8|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336841|8822|N/A|F|30.0|N/A|Inflammatory Bowel Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2337006|8999|N/A|F|49.1|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336947|9021|N/A|M|32.6|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336899|9030|N/A|F|43.9|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336827|8983|N/A|M|30.7|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336831|9015|N/A|M|38.0|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336832|9039|N/A|M|42.1|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336954|9013|N/A|M|18.3|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336957|9030|N/A|F|43.9|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336868|8895|N/A|M|42.8|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337055|8995|N/A|M|27.3|N/A|Inflammatory Bowel Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337048|8998|N/A|M|62.4|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336873|8961|N/A|M|26.7|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336867|8998|N/A|M|62.4|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336907|9050|N/A|M|30.8|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2337017|8006|N/A|M|40.2|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336821|8940|N/A|M|21.1|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336888|8847|N/A|M|52.1|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2337051|8926|N/A|F|34.9|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2337015|8801|N/A|F|37.0|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336877|8886|N/A|M|56.3|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336912|8874|N/A|M|25.1|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336823|8930|N/A|M|23.4|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337012|8954|N/A|F|26.2|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337035|8822|N/A|F|30.0|N/A|Inflammatory Bowel Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337008|9005|N/A|F|27.6|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337025|8908|N/A|M|29.8|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336968|8816|N/A|M|22.6|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336974|8948|N/A|M|20.5|N/A|Inflammatory Bowel Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336950|7821|N/A|F|54.3|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336975|8918|N/A|M|42.7|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336920|8969|N/A|M|33.4|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336929|9029|N/A|M|31.1|N/A|Other|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336960|8994|N/A|F|19.1|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336939|8926|N/A|F|34.9|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336869|9028|N/A|M|37.4|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336997|8891|N/A|M|38.6|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336849|9003|N/A|M|24.3|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336838|9014|N/A|M|50.4|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336992|8868|N/A|M|34.0|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336818|8994|N/A|F|19.1|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336856|9021|N/A|M|32.6|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336942|9032|N/A|F|33.1|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337030|8929|N/A|F|30.3|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336926|9051|N/A|F|24.3|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337057|9011|N/A|F|25.0|N/A|Inflammatory Bowel Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336890|9015|N/A|M|38.0|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336921|8929|N/A|F|30.3|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336847|9032|N/A|F|33.1|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336891|9028|N/A|M|37.4|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336966|8896|N/A|F|58.1|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336878|8915|N/A|M|30.3|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336825|8931|N/A|F|40.3|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336854|9026|N/A|M|31.3|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336923|8954|N/A|F|26.2|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336836|8969|N/A|M|33.4|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336828|8916|N/A|F|58.5|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336931|8931|N/A|F|40.3|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2337037|8946|N/A|M|22.4|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336826|8872|N/A|F|63.7|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336930|9051|N/A|F|24.3|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336905|8969|N/A|M|33.4|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336858|8999|N/A|F|49.1|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2337002|8822|N/A|F|30.0|N/A|Inflammatory Bowel Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336955|8931|N/A|F|40.3|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336845|9055|N/A|M|41.5|N/A|Inflammatory Bowel Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336880|9051|N/A|F|24.3|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336855|9026|N/A|M|31.3|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336988|8998|N/A|M|62.4|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336876|8886|N/A|M|56.3|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336887|9032|N/A|F|33.1|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336881|8816|N/A|M|22.6|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336940|8891|N/A|M|38.6|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336900|9049|N/A|M|30.8|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336946|8954|N/A|F|26.2|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336948|8896|N/A|F|58.1|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337046|8916|N/A|F|58.5|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336889|8916|N/A|F|58.5|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337045|8862|N/A|F|38.2|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2337001|8867|N/A|M|23.4|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337003|8847|N/A|M|52.0|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336932|8915|N/A|M|30.3|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336903|8903|N/A|M|19.7|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2337004|8886|N/A|M|56.3|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2337049|8903|N/A|M|19.7|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336840|8911|N/A|F|27.9|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336971|9029|N/A|M|31.1|N/A|Other|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336864|8915|N/A|M|30.3|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2337038|8994|N/A|F|19.1|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336882|8801|N/A|F|36.8|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336866|9014|N/A|M|50.4|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336934|9050|N/A|M|30.8|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337029|8902|N/A|M|30.8|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336848|8946|N/A|M|22.4|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336834|8872|N/A|F|63.7|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336896|9029|N/A|M|31.1|N/A|Other|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336986|9034|N/A|M|58.4|N/A|Ulcerative Colitis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336885|8954|N/A|F|26.2|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336863|8868|N/A|M|34.0|N/A|Ulcerative Colitis|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336937|9050|N/A|M|30.8|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336857|7821|N/A|F|54.3|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336938|8930|N/A|M|23.4|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336860|9034|N/A|M|58.4|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336961|8902|N/A|M|30.8|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337027|7821|N/A|F|54.3|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336919|8948|N/A|M|20.5|N/A|Inflammatory Bowel Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336973|9003|N/A|M|24.3|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2337010|8961|N/A|M|26.7|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336851|9050|N/A|M|30.8|N/A|Healthy|Cells|CD8|in_vitro|ctrl|N/A|N/A|None
+GSM2336951|8908|N/A|M|29.8|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336871|8872|N/A|F|63.7|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336910|8916|N/A|F|58.5|N/A|Healthy|Cells|CD4|in_vitro|ctrl|N/A|N/A|None
+GSM2336904|8994|N/A|F|19.1|N/A|Crohn's Disease|Cells|CD8|in_vitro|case|N/A|N/A|Disease
+GSM2336996|9054|N/A|M|33.7|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM2336844|8970|N/A|F|37.5|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336928|8862|N/A|F|38.2|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337040|9005|N/A|F|27.6|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336909|8886|N/A|M|56.3|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2337039|8874|N/A|M|25.1|N/A|Crohn's Disease|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM2336901|8874|N/A|M|25.1|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336970|9013|N/A|M|18.3|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2336958|9013|N/A|M|18.3|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336985|8940|N/A|M|21.1|N/A|Crohn's Disease|Cells|CD4|in_vitro|case|N/A|N/A|Disease
+GSM2337047|8872|N/A|F|63.7|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336944|8891|N/A|M|38.6|N/A|Ulcerative Colitis|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2336908|8927|N/A|F|25.2|N/A|Healthy|Cells|Monocytes|in_vitro|ctrl|N/A|N/A|None
+GSM2336822|8931|N/A|F|40.3|N/A|Crohn's Disease|Cells|Monocytes|in_vitro|case|N/A|N/A|Disease
+GSM2337011|8946|N/A|M|22.4|N/A|Ulcerative Colitis|Cells|CD4|in_vitro|case|N/A|N/A|Disease

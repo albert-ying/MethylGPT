@@ -1,0 +1,22 @@
+GSM1253124|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|ctrl|Control Group|None|Small Molecule
+GSM1253125|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 5|5-Aza-CdR|Small Molecule
+GSM1253126|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 14|5-Aza-CdR|Small Molecule
+GSM1253127|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 24|5-Aza-CdR|Small Molecule
+GSM1253128|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 42|5-Aza-CdR|Small Molecule
+GSM1253129|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 54|5-Aza-CdR|Small Molecule
+GSM1253130|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 68|5-Aza-CdR|Small Molecule
+GSM1253131|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|ctrl|Control Group|DNMT3B KO|Genetic
+GSM1253132|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 5|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253133|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 14|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253134|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 24|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253135|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 42|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253136|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 54|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253137|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 68|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253138|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|ctrl|Control Group|DNMT3B KO|Genetic
+GSM1253139|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 5|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253140|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 10|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253141|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 14|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253142|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 24|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253143|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 42|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253144|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 54|DNMT3B KO + 5-Aza-CdR|Genetic
+GSM1253145|N/A|N/A|M|N/A|N/A|N/A|Colon|HCT116|in_vitro|case|Treatment Day 68|DNMT3B KO + 5-Aza-CdR|Genetic

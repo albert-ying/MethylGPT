@@ -1,0 +1,179 @@
+GSM1702071|N/A|N/A|F|17.0|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702072|N/A|N/A|F|21.3|N/A|Anencephaly|Nerve|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702073|N/A|N/A|M|21.1|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702074|N/A|N/A|F|15.0|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702075|N/A|N/A|M|23.7|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702076|N/A|N/A|M|20.0|N/A|Spina Bifida|Brain|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702077|N/A|N/A|M|22.0|N/A|Spina Bifida|Brain|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702078|N/A|N/A|M|20.8|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702079|N/A|N/A|M|21.1|N/A|Spina Bifida|Brain|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702080|N/A|N/A|M|19.3|N/A|Anencephaly|Muscle|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702081|N/A|N/A|M|21.1|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702082|N/A|N/A|F|15.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702083|N/A|N/A|M|23.7|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702084|N/A|N/A|M|20.0|N/A|Anencephaly|Kidney|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702085|N/A|N/A|F|20.3|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702086|N/A|N/A|M|19.3|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702087|N/A|N/A|M|21.1|N/A|Spina Bifida|Muscle|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702088|N/A|N/A|M|20.0|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702089|N/A|N/A|M|20.0|N/A|Anencephaly|Nerve|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702090|N/A|N/A|F|15.5|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702091|N/A|N/A|M|21.1|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702092|N/A|N/A|M|20.0|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702093|N/A|N/A|F|15.5|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702094|N/A|N/A|M|18.4|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702095|N/A|N/A|F|16.7|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702096|N/A|N/A|F|19.4|N/A|Spina Bifida|Muscle|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702097|N/A|N/A|F|19.4|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702098|N/A|N/A|F|21.8|N/A|Anencephaly|Kidney|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702099|N/A|N/A|M|19.0|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702100|N/A|N/A|F|14.5|N/A|Healthy|Nerve|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702101|N/A|N/A|F|17.0|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702102|N/A|N/A|M|23.7|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702103|N/A|N/A|F|17.0|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702104|N/A|N/A|F|19.0|N/A|Anencephaly|Kidney|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702105|N/A|N/A|M|19.1|N/A|Healthy|Nerve|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702106|N/A|N/A|M|20.8|N/A|Spina Bifida|Muscle|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702107|N/A|N/A|F|15.0|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702108|N/A|N/A|F|17.6|N/A|Anencephaly|Muscle|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702109|N/A|N/A|M|19.0|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702110|N/A|N/A|M|19.1|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702111|N/A|N/A|M|18.4|N/A|Healthy|Nerve|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702112|N/A|N/A|M|21.7|N/A|Spina Bifida|Brain|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702113|N/A|N/A|F|21.8|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702114|N/A|N/A|F|15.0|N/A|Healthy|Nerve|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702115|N/A|N/A|M|22.0|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702116|N/A|N/A|M|22.0|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702117|N/A|N/A|F|21.8|N/A|Anencephaly|Muscle|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702118|N/A|N/A|F|20.3|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702119|N/A|N/A|M|17.0|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702120|N/A|N/A|F|19.4|N/A|Spina Bifida|Brain|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702121|N/A|N/A|F|17.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702122|N/A|N/A|M|20.0|N/A|Anencephaly|Muscle|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702123|N/A|N/A|M|20.0|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702124|N/A|N/A|M|20.0|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702125|N/A|N/A|M|23.7|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702126|N/A|N/A|M|20.0|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702127|N/A|N/A|F|19.4|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702128|N/A|N/A|M|22.0|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702129|N/A|N/A|F|21.8|N/A|Anencephaly|Nerve|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702130|N/A|N/A|F|18.3|N/A|Anencephaly|Kidney|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702131|N/A|N/A|M|20.0|N/A|Spina Bifida|Muscle|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702132|N/A|N/A|M|21.7|N/A|Spina Bifida|Muscle|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702133|N/A|N/A|F|16.7|N/A|Anencephaly|Nerve|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702134|N/A|N/A|M|17.0|N/A|Healthy|Nerve|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702135|N/A|N/A|F|20.3|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702136|N/A|N/A|F|17.6|N/A|Anencephaly|Nerve|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702137|N/A|N/A|M|20.0|N/A|Spina Bifida|Brain|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702138|N/A|N/A|F|17.6|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702139|N/A|N/A|M|19.8|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702140|N/A|N/A|M|22.0|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702141|N/A|N/A|F|16.7|N/A|Anencephaly|Muscle|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702142|N/A|N/A|M|20.8|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702143|N/A|N/A|M|19.1|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702144|N/A|N/A|F|23.4|N/A|Spina Bifida|Muscle|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702145|N/A|N/A|F|23.4|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702146|N/A|N/A|M|19.0|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702147|N/A|N/A|M|19.1|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702148|N/A|N/A|M|21.7|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702149|N/A|N/A|M|19.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702150|N/A|N/A|M|18.4|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702151|N/A|N/A|F|22.6|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702152|N/A|N/A|F|22.6|N/A|Spina Bifida|Muscle|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702153|N/A|N/A|F|20.3|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702154|N/A|N/A|F|22.6|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702155|N/A|N/A|F|18.3|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702156|N/A|N/A|F|23.4|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702157|N/A|N/A|F|17.0|N/A|Anencephaly|Kidney|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702158|N/A|N/A|M|19.1|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702159|N/A|N/A|F|21.3|N/A|Anencephaly|Muscle|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702160|N/A|N/A|F|15.5|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702161|N/A|N/A|M|21.8|N/A|Spina Bifida|Brain|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702162|N/A|N/A|F|17.6|N/A|Anencephaly|Kidney|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702163|N/A|N/A|F|17.0|N/A|Anencephaly|Nerve|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702164|N/A|N/A|M|22.0|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702165|N/A|N/A|F|17.0|N/A|Anencephaly|Muscle|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702166|N/A|N/A|F|22.6|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702167|N/A|N/A|M|20.0|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702168|N/A|N/A|M|17.0|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702169|N/A|N/A|M|17.0|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702170|N/A|N/A|M|20.8|N/A|Spina Bifida|Brain|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702171|N/A|N/A|F|15.5|N/A|Healthy|Nerve|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702172|N/A|N/A|F|19.0|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702173|N/A|N/A|F|16.7|N/A|Anencephaly|Kidney|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702174|N/A|N/A|M|17.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702175|N/A|N/A|M|21.7|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702176|N/A|N/A|M|20.0|N/A|Spina Bifida|Muscle|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702177|N/A|N/A|F|15.5|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702178|N/A|N/A|M|22.0|N/A|Spina Bifida|Muscle|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702179|N/A|N/A|M|22.0|N/A|Spina Bifida|Muscle|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702180|N/A|N/A|F|21.3|N/A|Anencephaly|Kidney|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702181|N/A|N/A|M|19.0|N/A|Healthy|Nerve|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702182|N/A|N/A|M|18.4|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702183|N/A|N/A|F|23.4|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702184|N/A|N/A|M|20.8|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702185|N/A|N/A|F|23.3|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702186|N/A|N/A|F|17.0|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702187|N/A|N/A|F|19.0|N/A|Anencephaly|Muscle|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702188|N/A|N/A|M|22.0|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702189|N/A|N/A|M|21.7|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702190|N/A|N/A|M|22.0|N/A|Spina Bifida|Brain|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702191|N/A|N/A|F|19.4|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702192|N/A|N/A|F|22.7|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702193|N/A|N/A|F|15.0|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702194|N/A|N/A|M|22.4|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702195|N/A|N/A|F|18.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702196|N/A|N/A|F|23.0|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702197|N/A|N/A|M|21.1|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702198|N/A|N/A|F|23.9|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702199|N/A|N/A|M|22.4|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702200|N/A|N/A|F|14.5|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702201|N/A|N/A|M|22.7|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702202|N/A|N/A|F|19.4|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702203|N/A|N/A|F|21.0|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702204|N/A|N/A|M|23.7|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702205|N/A|N/A|M|21.5|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702206|N/A|N/A|F|19.7|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702207|N/A|N/A|F|18.0|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702208|N/A|N/A|F|18.7|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702209|N/A|N/A|F|14.5|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702210|N/A|N/A|F|18.0|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702211|N/A|N/A|M|22.0|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702212|N/A|N/A|M|20.4|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702213|N/A|N/A|M|22.0|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702214|N/A|N/A|F|23.0|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702215|N/A|N/A|M|20.8|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702216|N/A|N/A|M|21.1|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702217|N/A|N/A|F|19.4|N/A|Healthy|Brain|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702218|N/A|N/A|F|19.4|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702219|N/A|N/A|M|20.4|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702220|N/A|N/A|M|23.7|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702221|N/A|N/A|M|20.4|N/A|Healthy|Nerve|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702222|N/A|N/A|F|18.5|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702223|N/A|N/A|M|21.8|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702224|N/A|N/A|F|21.0|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702225|N/A|N/A|M|21.8|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702226|N/A|N/A|F|18.0|N/A|Healthy|Nerve|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702227|N/A|N/A|F|23.9|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702228|N/A|N/A|M|22.4|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702229|N/A|N/A|M|19.8|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702230|N/A|N/A|M|22.0|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702231|N/A|N/A|M|19.0|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702232|N/A|N/A|M|23.7|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702233|N/A|N/A|M|23.3|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702234|N/A|N/A|F|17.0|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702235|N/A|N/A|M|20.4|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702236|N/A|N/A|M|21.1|N/A|Spina Bifida|Nerve|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702237|N/A|N/A|F|18.0|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702238|N/A|N/A|F|20.0|N/A|Anencephaly|Other|N/A|in_vivo|case|Anencephaly|N/A|Disease
+GSM1702239|N/A|N/A|F|23.0|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702240|N/A|N/A|M|19.0|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702241|N/A|N/A|F|19.7|N/A|Healthy|Kidney|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702242|N/A|N/A|M|23.7|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702243|N/A|N/A|M|19.8|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702244|N/A|N/A|M|20.4|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702245|N/A|N/A|F|20.4|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702246|N/A|N/A|F|23.9|N/A|Healthy|Other|N/A|in_vivo|ctrl|Control|N/A|None
+GSM1702247|N/A|N/A|F|21.0|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702248|N/A|N/A|F|20.4|N/A|Spina Bifida|Other|N/A|in_vivo|case|Spina Bifida|N/A|Disease
+GSM1702249|N/A|N/A|M|20.4|N/A|Spina Bifida|Kidney|N/A|in_vivo|case|Spina Bifida|N/A|Disease

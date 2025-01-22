@@ -1,0 +1,166 @@
+GSM4202955|N/A|N/A|F|34|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_01|N/A|None
+GSM4202956|N/A|N/A|F|40|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_02|DSRC|None
+GSM4202957|N/A|N/A|F|36|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_03|DSRC|None
+GSM4202958|N/A|N/A|F|36|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_04|DSRC|None
+GSM4202959|N/A|N/A|F|48|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_05|RC|None
+GSM4202960|N/A|N/A|F|54|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_06|RHC|None
+GSM4202961|N/A|N/A|F|39|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_09|RC|None
+GSM4202962|N/A|N/A|F|41|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_11|RC|None
+GSM4202963|N/A|N/A|F|42|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_12|C|None
+GSM4202964|N/A|N/A|F|42|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_13|RC|None
+GSM4202965|N/A|N/A|F|53|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_14|DSRC|None
+GSM4202966|N/A|N/A|F|49|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_15|C|None
+GSM4202967|N/A|N/A|F|58|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_17|RC|None
+GSM4202968|N/A|N/A|F|67|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_19|HC|None
+GSM4202969|N/A|N/A|F|46|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_20|RHC|None
+GSM4202970|N/A|N/A|F|42|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_21|C|None
+GSM4202971|N/A|N/A|F|70|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_23|RC|None
+GSM4202972|N/A|N/A|F|34|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_24|C|None
+GSM4202973|N/A|N/A|F|54|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_25|RC|None
+GSM4202974|N/A|N/A|F|53|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_26|RC|None
+GSM4202975|N/A|N/A|F|46|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_27|RC|None
+GSM4202976|N/A|N/A|F|68|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_28|RC|None
+GSM4202977|N/A|N/A|F|49|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_29|C|None
+GSM4202978|N/A|N/A|F|52|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_30|RC|None
+GSM4202979|N/A|N/A|F|42|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_31|RC|None
+GSM4202980|N/A|N/A|F|45|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_32|RC|None
+GSM4202981|N/A|N/A|F|34|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_33|RC|None
+GSM4202982|N/A|N/A|F|69|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_34|RC|None
+GSM4202983|N/A|N/A|F|65|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_35|C|None
+GSM4202984|N/A|N/A|F|49|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_36|DSRC|None
+GSM4202985|N/A|N/A|F|54|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_38|DSRC|None
+GSM4202986|N/A|N/A|F|70|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_39|C|None
+GSM4202987|N/A|N/A|F|48|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_40|C|None
+GSM4202988|N/A|N/A|F|81|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_41|C|None
+GSM4202989|N/A|N/A|F|65|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_42|DSRC|None
+GSM4202990|N/A|N/A|F|53|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_43|DSRC|None
+GSM4202991|N/A|N/A|F|46|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_01|DSRC|Disease
+GSM4202992|N/A|N/A|F|34|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_02|RC|Disease
+GSM4202993|N/A|N/A|F|32|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_03|RHC|Disease
+GSM4202994|N/A|N/A|F|65|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_08|RC|Disease
+GSM4202995|N/A|N/A|F|38|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_09|C|Disease
+GSM4202996|N/A|N/A|F|38|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_11|RC|Disease
+GSM4202997|N/A|N/A|F|60|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_12|RC|Disease
+GSM4202998|N/A|N/A|F|59|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_13|RC|Disease
+GSM4202999|N/A|N/A|F|54|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_14|C|Disease
+GSM4203000|N/A|N/A|F|45|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_15|RC|Disease
+GSM4203001|N/A|N/A|F|65|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_16|RC|Disease
+GSM4203002|N/A|N/A|F|47|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_18|RC|Disease
+GSM4203003|N/A|N/A|F|36|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_19|CB|Disease
+GSM4203004|N/A|N/A|F|43|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_20|C|Disease
+GSM4203005|N/A|N/A|F|51|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_21|DSC|Disease
+GSM4203006|N/A|N/A|F|56|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_22|RC|Disease
+GSM4203007|N/A|N/A|F|54|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_23|RC|Disease
+GSM4203008|N/A|N/A|F|44|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_24|RC|Disease
+GSM4203009|N/A|N/A|F|47|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_25|C|Disease
+GSM4203010|N/A|N/A|F|47|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Case_26|RC|Disease
+GSM4203011|N/A|N/A|F|53|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN057|X|Disease
+GSM4203012|N/A|N/A|F|75|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN062|X|Disease
+GSM4203013|N/A|N/A|F|48|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN092|SurgOnly|Disease
+GSM4203014|N/A|N/A|F|53|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN024|X|Disease
+GSM4203015|N/A|N/A|F|55|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN045|X|Disease
+GSM4203016|N/A|N/A|F|74|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN111|SurgOnly|Disease
+GSM4203017|N/A|N/A|F|65|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN112|X|Disease
+GSM4203018|N/A|N/A|F|60|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN020|X|Disease
+GSM4203019|N/A|N/A|F|35|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN021|SurgOnly|Disease
+GSM4203020|N/A|N/A|F|54|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN089|SurgOnly|Disease
+GSM4203021|N/A|N/A|F|54|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN147|SurgOnly|Disease
+GSM4203022|N/A|N/A|F|39|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN009|SurgOnly|Disease
+GSM4203023|N/A|N/A|F|62|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN031|SurgOnly|Disease
+GSM4203024|N/A|N/A|F|88|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN034|SurgOnly|Disease
+GSM4203025|N/A|N/A|F|61|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN090|SurgOnly|Disease
+GSM4203026|N/A|N/A|F|71|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN044|SurgOnly|Disease
+GSM4203027|N/A|N/A|F|84|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN126|H|Disease
+GSM4203028|N/A|N/A|F|66|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN019|SurgOnly|Disease
+GSM4203029|N/A|N/A|F|44|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN054|SurgOnly|Disease
+GSM4203030|N/A|N/A|F|87|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN091|SurgOnly|Disease
+GSM4203031|N/A|N/A|F|61|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN123|X|Disease
+GSM4203032|N/A|N/A|F|39|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN136|X|Disease
+GSM4203033|N/A|N/A|F|85|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN008|H|Disease
+GSM4203034|N/A|N/A|F|73|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN010|SurgOnly|Disease
+GSM4203035|N/A|N/A|F|50|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN022|SurgOnly|Disease
+GSM4203036|N/A|N/A|F|68|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN035|XH|Disease
+GSM4203037|N/A|N/A|F|39|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN043|SurgOnly|Disease
+GSM4203038|N/A|N/A|F|83|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN100|SurgOnly|Disease
+GSM4203039|N/A|N/A|F|74|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN125|SurgOnly|Disease
+GSM4203040|N/A|N/A|F|75|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN046|SurgOnly|Disease
+GSM4203041|N/A|N/A|F|49|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN055|SurgOnly|Disease
+GSM4203042|N/A|N/A|F|46|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN137|X|Disease
+GSM4203043|N/A|N/A|F|36|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN138|SurgOnly|Disease
+GSM4203044|N/A|N/A|F|58|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN148|SurgOnly|Disease
+GSM4203045|N/A|N/A|F|72|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN114|SurgOnly|Disease
+GSM4203046|N/A|N/A|F|87|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN061|X|Disease
+GSM4203047|N/A|N/A|F|77|N/A|Breast Cancer|Breast|N/A|in_vivo|case|TN081|SurgOnly|Disease
+GSM4203048|N/A|N/A|F|56|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_32|X|Disease
+GSM4203049|N/A|N/A|F|47|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_33|SurgOnly|Disease
+GSM4203050|N/A|N/A|F|42|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_34|SurgOnly|Disease
+GSM4203051|N/A|N/A|F|72|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_35|SurgOnly|Disease
+GSM4203052|N/A|N/A|F|70|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_36|SurgOnly|Disease
+GSM4203053|N/A|N/A|F|77|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_37|SurgOnly|Disease
+GSM4203054|N/A|N/A|F|87|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_38|SurgOnly|Disease
+GSM4203055|N/A|N/A|F|92|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_39|SurgOnly|Disease
+GSM4203056|N/A|N/A|F|54|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_40|XH|Disease
+GSM4203057|N/A|N/A|F|91|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_41|SurgOnly|Disease
+GSM4203058|N/A|N/A|F|62|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_42|SurgOnly|Disease
+GSM4203059|N/A|N/A|F|33|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_43|SurgOnly|Disease
+GSM4203060|N/A|N/A|F|88|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_44|SurgOnly|None
+GSM4203061|N/A|N/A|F|58|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_45|SurgOnly|None
+GSM4203062|N/A|N/A|F|80|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_46|SurgOnly|None
+GSM4203063|N/A|N/A|F|47|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_47|X|None
+GSM4203064|N/A|N/A|F|76|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_48|X|None
+GSM4203065|N/A|N/A|F|74|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_49|SurgOnly|None
+GSM4203066|N/A|N/A|F|67|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_50|H|None
+GSM4203067|N/A|N/A|F|85|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_51|H|None
+GSM4203068|N/A|N/A|F|58|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_52|X|None
+GSM4203069|N/A|N/A|F|46|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_53|SurgOnly|None
+GSM4203070|N/A|N/A|F|86|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_54|SurgOnly|None
+GSM4203071|N/A|N/A|F|69|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_55|SurgOnly|None
+GSM4203072|N/A|N/A|F|42|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_56|X|None
+GSM4203073|N/A|N/A|F|58|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_57|SurgOnly|None
+GSM4203074|N/A|N/A|F|62|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_58|SurgOnly|None
+GSM4203075|N/A|N/A|F|63|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_59|SurgOnly|None
+GSM4203076|N/A|N/A|F|48|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_60|SurgOnly|None
+GSM4203077|N/A|N/A|F|85|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_61|H|None
+GSM4203078|N/A|N/A|F|46|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_62|X|None
+GSM4203079|N/A|N/A|F|63|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_63|X|None
+GSM4203080|N/A|N/A|F|81|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_64|SurgOnly|None
+GSM4203081|N/A|N/A|F|59|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_65|SurgOnly|None
+GSM4203082|N/A|N/A|F|58|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_66|X|None
+GSM4203083|N/A|N/A|F|48|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_67|X|None
+GSM4203084|N/A|N/A|F|75|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_68|SurgOnly|None
+GSM4203085|N/A|N/A|F|51|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_69|SurgOnly|None
+GSM4203086|N/A|N/A|F|65|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_70|H|None
+GSM4203087|N/A|N/A|F|49|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_71|X|None
+GSM4203088|N/A|N/A|F|60|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_72|SurgOnly|None
+GSM4203089|N/A|N/A|F|74|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_73|SurgOnly|None
+GSM4203090|N/A|N/A|F|75|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_74|SurgOnly|None
+GSM4203091|N/A|N/A|F|76|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_75|SurgOnly|None
+GSM4203092|N/A|N/A|F|84|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_76|SurgOnly|None
+GSM4203093|N/A|N/A|F|70|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_77|X|None
+GSM4203094|N/A|N/A|F|70|N/A|Breast Cancer|Breast|N/A|in_vivo|case|Ctrl_78|H|Disease
+GSM4203095|N/A|N/A|F|79|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_79|H|None
+GSM4203096|N/A|N/A|F|65|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_80|X|None
+GSM4203097|N/A|N/A|F|75|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_81|SurgOnly|None
+GSM4203098|N/A|N/A|F|80|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_82|SurgOnly|None
+GSM4203099|N/A|N/A|F|58|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_83|X|None
+GSM4203100|N/A|N/A|F|40|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_84|SurgOnly|None
+GSM4203101|N/A|N/A|F|64|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_85|SurgOnly|None
+GSM4203102|N/A|N/A|F|49|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_86|SurgOnly|None
+GSM4203103|N/A|N/A|F|64|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_87|SurgOnly|None
+GSM4203104|N/A|N/A|F|52|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_88|SurgOnly|None
+GSM4203105|N/A|N/A|F|53|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_89|X|None
+GSM4203106|N/A|N/A|F|70|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_90|SurgOnly|None
+GSM4203107|N/A|N/A|F|77|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_91|SurgOnly|None
+GSM4203108|N/A|N/A|F|61|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_92|SurgOnly|None
+GSM4203109|N/A|N/A|F|82|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_93|SurgOnly|None
+GSM4203110|N/A|N/A|F|48|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_94|X|None
+GSM4203111|N/A|N/A|F|43|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_95|SurgOnly|None
+GSM4203112|N/A|N/A|F|63|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_96|SurgOnly|None
+GSM4203113|N/A|N/A|F|83|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_97|SurgOnly|None
+GSM4203114|N/A|N/A|F|67|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_98|SurgOnly|None
+GSM4203115|N/A|N/A|F|80|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_99|SurgOnly|None
+GSM4203116|N/A|N/A|F|80|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_100|X|None
+GSM4203117|N/A|N/A|F|76|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_101|X|None
+GSM4203118|N/A|N/A|F|74|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_102|SurgOnly|None
+GSM4203119|N/A|N/A|F|34|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_103|X|None
+GSM4203120|N/A|N/A|F|45|N/A|Healthy|Breast|N/A|in_vivo|ctrl|Ctrl_104|X|None

@@ -1,0 +1,19 @@
+GSM554400|N/A|N/A|N/A|N/A|N/A|Healthy|Breast|N/A|in_vitro|ctrl|Normal|MCF10A|None
+GSM554401|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|ctrl|WT|MCF-7|None
+GSM554402|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|case|5-AZA|MCF-7|Small Molecule
+GSM554403|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|ctrl|WT|T47D|None
+GSM554404|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|case|5-AZA|T47D|Small Molecule
+GSM554405|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|ctrl|WT|SKBR3|None
+GSM554406|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|case|5-AZA|SKBR3|Small Molecule
+GSM554407|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|ctrl|WT|BT20|None
+GSM554408|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|case|5-AZA|BT20|Small Molecule
+GSM554409|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|ctrl|WT|MDA-MB-231|None
+GSM554410|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|case|5-AZA|MDA-MB-231|Small Molecule
+GSM554411|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|ctrl|WT|MDA-MB-361|None
+GSM554412|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|case|5-AZA|MDA-MB-361|Small Molecule
+GSM554413|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|ctrl|WT|ZR-75-1|None
+GSM554414|N/A|N/A|N/A|N/A|N/A|Breast Cancer|Breast|N/A|in_vitro|case|5-AZA|ZR-75-1|Small Molecule
+GSM554415|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vitro|ctrl|Normal|WEIS3E5|None
+GSM554416|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|ex_vivo|ex vivo B lymphocytes|None
+GSM554417|N/A|N/A|N/A|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|ex_vivo|ex vivo T lymphocytes|None
+GSM554418|N/A|N/A|N/A|N/A|N/A|Healthy|Cells|N/A|in_vitro|ctrl|Normal|R12C9|None

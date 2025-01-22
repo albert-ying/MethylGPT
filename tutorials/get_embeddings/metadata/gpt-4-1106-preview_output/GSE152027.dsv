@@ -1,0 +1,800 @@
+GSM4600023|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600273|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600078|N/A|N/A|M|26.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600597|N/A|N/A|M|40.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600367|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600561|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600683|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600556|N/A|N/A|F|32.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600133|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600278|N/A|N/A|F|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600364|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599917|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600326|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600216|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600586|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600476|N/A|N/A|M|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600486|N/A|N/A|M|21.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599987|N/A|N/A|M|30.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600357|N/A|N/A|M|38.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600469|N/A|N/A|M|36.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600230|N/A|N/A|M|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599995|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600435|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600663|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600260|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600633|N/A|N/A|M|31.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600682|N/A|N/A|F|27.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600155|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600520|N/A|N/A|F|34.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599976|N/A|N/A|F|26.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600334|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600549|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600268|N/A|N/A|M|38.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600577|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599958|N/A|N/A|F|36.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600655|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600124|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600660|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600134|N/A|N/A|F|54.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600697|N/A|N/A|M|22.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600004|N/A|N/A|F|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600590|N/A|N/A|F|59.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600455|N/A|N/A|F|21.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600237|N/A|N/A|M|51.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599990|N/A|N/A|M|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600565|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600043|N/A|N/A|F|29.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600587|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600000|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600159|N/A|N/A|F|37.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600101|N/A|N/A|M|25.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600301|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600692|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600465|N/A|N/A|M|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600017|N/A|N/A|M|31.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600331|N/A|N/A|M|17.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599953|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600094|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599986|N/A|N/A|M|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600347|N/A|N/A|M|43.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599922|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600631|N/A|N/A|F|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600311|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600130|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600702|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600407|N/A|N/A|M|21.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600074|N/A|N/A|F|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600313|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600689|N/A|N/A|F|19.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600182|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600009|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600572|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600085|N/A|N/A|F|35.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600316|N/A|N/A|M|29.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600498|N/A|N/A|M|35.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600320|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600431|N/A|N/A|F|33.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600461|N/A|N/A|M|39.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600438|N/A|N/A|M|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600007|N/A|N/A|M|14.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600046|N/A|N/A|M|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600103|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600417|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600395|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600493|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600102|N/A|N/A|F|36.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600525|N/A|N/A|F|31.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600427|N/A|N/A|M|18.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599994|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600432|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600065|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600021|N/A|N/A|M|53.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600607|N/A|N/A|F|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600671|N/A|N/A|F|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599992|N/A|N/A|M|31.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600194|N/A|N/A|M|22.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600223|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600500|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600518|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600643|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600533|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600263|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599930|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600234|N/A|N/A|M|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599943|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600553|N/A|N/A|M|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599944|N/A|N/A|F|41.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599997|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599980|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600688|N/A|N/A|F|34.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600365|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600694|N/A|N/A|F|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600446|N/A|N/A|M|47.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600035|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600563|N/A|N/A|M|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600550|N/A|N/A|F|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600658|N/A|N/A|F|16.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600622|N/A|N/A|M|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600473|N/A|N/A|F|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600685|N/A|N/A|M|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600107|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600193|N/A|N/A|M|25.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600485|N/A|N/A|F|21.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600062|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600509|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600552|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600345|N/A|N/A|M|38.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600086|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600096|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600034|N/A|N/A|F|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600366|N/A|N/A|F|42.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600567|N/A|N/A|M|58.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600183|N/A|N/A|M|32.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600253|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600011|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600255|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600340|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600119|N/A|N/A|F|37.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600356|N/A|N/A|F|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600424|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600036|N/A|N/A|M|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600222|N/A|N/A|M|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600592|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600298|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600360|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600292|N/A|N/A|F|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599929|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599972|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599951|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600390|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600477|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600627|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599969|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600033|N/A|N/A|F|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600570|N/A|N/A|F|29.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600081|N/A|N/A|F|21.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600399|N/A|N/A|F|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599970|N/A|N/A|M|40.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600468|N/A|N/A|M|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600492|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600687|N/A|N/A|F|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600099|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599965|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600251|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600162|N/A|N/A|M|22.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599935|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600020|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600667|N/A|N/A|M|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600379|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600056|N/A|N/A|F|49.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600037|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600421|N/A|N/A|F|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600632|N/A|N/A|F|47.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600202|N/A|N/A|F|18.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600116|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600073|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600601|N/A|N/A|F|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600383|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600104|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600503|N/A|N/A|M|33.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599950|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600583|N/A|N/A|F|31.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600179|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600243|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599934|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600042|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600051|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600675|N/A|N/A|F|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600169|N/A|N/A|F|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600681|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600206|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600664|N/A|N/A|M|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600651|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600284|N/A|N/A|F|26.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600185|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599932|N/A|N/A|M|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600560|N/A|N/A|M|21.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600559|N/A|N/A|F|36.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600285|N/A|N/A|M|22.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600573|N/A|N/A|F|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600038|N/A|N/A|M|21.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600241|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600582|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599923|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600305|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600439|N/A|N/A|F|46.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600691|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600502|N/A|N/A|M|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600348|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600373|N/A|N/A|F|21.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600139|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600377|N/A|N/A|F|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600338|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600459|N/A|N/A|F|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600405|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600196|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600584|N/A|N/A|M|30.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599989|N/A|N/A|M|44.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600153|N/A|N/A|M|38.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600059|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600277|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600628|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600355|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600679|N/A|N/A|M|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600460|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600369|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600463|N/A|N/A|M|44.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600276|N/A|N/A|M|32.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600393|N/A|N/A|M|61.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600464|N/A|N/A|M|32.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600231|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600254|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600496|N/A|N/A|M|36.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600591|N/A|N/A|F|20.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600337|N/A|N/A|F|39.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600279|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600512|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600259|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600041|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599983|N/A|N/A|F|34.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600442|N/A|N/A|M|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600569|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600136|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600229|N/A|N/A|F|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600614|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600030|N/A|N/A|F|36.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600579|N/A|N/A|F|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600304|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600146|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600076|N/A|N/A|M|47.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600510|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600608|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599945|N/A|N/A|M|20.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600521|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600239|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600528|N/A|N/A|M|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600201|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600032|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600024|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600640|N/A|N/A|F|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600515|N/A|N/A|M|34.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600535|N/A|N/A|F|19.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600154|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600425|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600588|N/A|N/A|M|33.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600595|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599926|N/A|N/A|F|26.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600349|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600210|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600564|N/A|N/A|F|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600315|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600693|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600596|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599978|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600152|N/A|N/A|M|30.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600163|N/A|N/A|F|20.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600082|N/A|N/A|M|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600140|N/A|N/A|F|32.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600341|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600208|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600066|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600540|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600232|N/A|N/A|M|41.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600322|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600014|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600112|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600598|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600532|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600402|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600659|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600546|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600474|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600117|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599952|N/A|N/A|M|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600555|N/A|N/A|M|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600619|N/A|N/A|M|21.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600204|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600396|N/A|N/A|M|32.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600526|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600144|N/A|N/A|M|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600203|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600077|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600363|N/A|N/A|M|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600064|N/A|N/A|F|20.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600490|N/A|N/A|F|13.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600003|N/A|N/A|M|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600321|N/A|N/A|F|20.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600025|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600638|N/A|N/A|F|20.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600121|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600703|N/A|N/A|F|30.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600186|N/A|N/A|F|31.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600548|N/A|N/A|M|44.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599977|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600695|N/A|N/A|M|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600645|N/A|N/A|F|34.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600195|N/A|N/A|F|39.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599916|N/A|N/A|F|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600414|N/A|N/A|M|35.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600531|N/A|N/A|F|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600351|N/A|N/A|F|72.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600418|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599968|N/A|N/A|F|41.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600098|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600406|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600287|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600031|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600616|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600138|N/A|N/A|M|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600385|N/A|N/A|F|33.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600426|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600122|N/A|N/A|M|43.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600391|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599938|N/A|N/A|F|27.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599982|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600358|N/A|N/A|M|21.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600617|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600053|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600281|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599954|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600288|N/A|N/A|M|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600475|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600613|N/A|N/A|M|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600571|N/A|N/A|M|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600375|N/A|N/A|F|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600238|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600057|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600323|N/A|N/A|M|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599924|N/A|N/A|M|17.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600415|N/A|N/A|F|32.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600247|N/A|N/A|M|30.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599985|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600027|N/A|N/A|M|35.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600661|N/A|N/A|F|46.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600215|N/A|N/A|M|25.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600211|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600212|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599960|N/A|N/A|M|59.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600680|N/A|N/A|F|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600376|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600394|N/A|N/A|M|36.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600370|N/A|N/A|M|25.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600666|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600330|N/A|N/A|F|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600071|N/A|N/A|M|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600612|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600329|N/A|N/A|F|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600319|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600443|N/A|N/A|F|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600128|N/A|N/A|M|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600158|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599961|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600295|N/A|N/A|F|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600224|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600181|N/A|N/A|F|22.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600670|N/A|N/A|M|46.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600308|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600630|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600198|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599920|N/A|N/A|F|31.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600544|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600539|N/A|N/A|M|37.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600635|N/A|N/A|M|32.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600429|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600108|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600129|N/A|N/A|F|26.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600378|N/A|N/A|M|51.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600266|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600137|N/A|N/A|F|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600471|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600519|N/A|N/A|F|40.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600479|N/A|N/A|M|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600111|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600235|N/A|N/A|M|27.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600343|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600649|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600704|N/A|N/A|F|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600068|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600361|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599971|N/A|N/A|M|42.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600484|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600039|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600387|N/A|N/A|M|27.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600280|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600422|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600409|N/A|N/A|M|25.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600296|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600214|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600462|N/A|N/A|M|47.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600428|N/A|N/A|F|36.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600419|N/A|N/A|M|32.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600599|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600637|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600087|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600089|N/A|N/A|M|42.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600445|N/A|N/A|M|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600048|N/A|N/A|F|48.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600332|N/A|N/A|M|21.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600575|N/A|N/A|M|33.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600167|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600006|N/A|N/A|M|43.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600504|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600372|N/A|N/A|M|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600312|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600457|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599931|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600647|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599949|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600143|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600191|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600472|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599948|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600602|N/A|N/A|F|41.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599939|N/A|N/A|F|22.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600624|N/A|N/A|M|29.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600562|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599962|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600558|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600684|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600132|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600646|N/A|N/A|M|19.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600411|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600516|N/A|N/A|F|61.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600310|N/A|N/A|M|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600317|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600026|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600623|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600173|N/A|N/A|F|21.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600019|N/A|N/A|F|21.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600008|N/A|N/A|M|35.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599959|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600058|N/A|N/A|F|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600547|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600701|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599940|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600209|N/A|N/A|F|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600205|N/A|N/A|F|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600178|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600551|N/A|N/A|M|20.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600244|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600615|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600677|N/A|N/A|M|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600353|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600245|N/A|N/A|M|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600673|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600141|N/A|N/A|M|25.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600118|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600207|N/A|N/A|F|29.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599996|N/A|N/A|M|25.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600160|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600482|N/A|N/A|M|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600100|N/A|N/A|M|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600272|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600286|N/A|N/A|M|29.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600705|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600002|N/A|N/A|F|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600161|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600176|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600557|N/A|N/A|M|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600456|N/A|N/A|F|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600200|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600013|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600236|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600626|N/A|N/A|F|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600258|N/A|N/A|F|19.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600611|N/A|N/A|F|39.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600495|N/A|N/A|M|47.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600080|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600175|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600699|N/A|N/A|M|42.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599981|N/A|N/A|F|30.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600249|N/A|N/A|M|26.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600412|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600091|N/A|N/A|F|30.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600410|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600430|N/A|N/A|F|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600256|N/A|N/A|F|44.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600537|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600441|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600545|N/A|N/A|M|57.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600604|N/A|N/A|M|33.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600530|N/A|N/A|M|31.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600488|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600147|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600505|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600221|N/A|N/A|M|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600049|N/A|N/A|M|34.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600083|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600157|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600189|N/A|N/A|F|42.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600609|N/A|N/A|M|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600106|N/A|N/A|M|31.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600088|N/A|N/A|M|26.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600267|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600578|N/A|N/A|F|21.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600610|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600342|N/A|N/A|F|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600386|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600639|N/A|N/A|F|31.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600022|N/A|N/A|M|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600187|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600657|N/A|N/A|F|30.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600480|N/A|N/A|M|38.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600371|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599984|N/A|N/A|M|34.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600352|N/A|N/A|M|21.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599918|N/A|N/A|F|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600434|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600283|N/A|N/A|F|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600384|N/A|N/A|M|30.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600005|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600199|N/A|N/A|F|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600447|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599919|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600620|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600149|N/A|N/A|F|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599963|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600440|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600218|N/A|N/A|M|58.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600166|N/A|N/A|F|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600257|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600672|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600507|N/A|N/A|M|21.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600416|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600325|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600359|N/A|N/A|F|22.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599991|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600508|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600274|N/A|N/A|F|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600070|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600213|N/A|N/A|M|19.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599974|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600423|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600275|N/A|N/A|M|43.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599941|N/A|N/A|F|30.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600307|N/A|N/A|M|49.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600188|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600450|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599937|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600686|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599988|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600420|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600092|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600289|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600246|N/A|N/A|M|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600090|N/A|N/A|F|45.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600339|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600327|N/A|N/A|M|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600524|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600217|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600593|N/A|N/A|M|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600016|N/A|N/A|F|50.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600708|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600380|N/A|N/A|M|50.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600044|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600669|N/A|N/A|F|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600297|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600576|N/A|N/A|M|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600603|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600644|N/A|N/A|F|20.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600344|N/A|N/A|F|18.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600303|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600706|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600314|N/A|N/A|M|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600388|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600242|N/A|N/A|F|31.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600707|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599928|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600110|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600605|N/A|N/A|F|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600165|N/A|N/A|F|34.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600654|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600261|N/A|N/A|F|29.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600299|N/A|N/A|M|41.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600690|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600270|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600264|N/A|N/A|M|27.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600142|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600650|N/A|N/A|M|46.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599942|N/A|N/A|M|34.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600335|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600145|N/A|N/A|F|19.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600618|N/A|N/A|F|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599966|N/A|N/A|F|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600055|N/A|N/A|F|21.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600408|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600585|N/A|N/A|M|29.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600150|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599998|N/A|N/A|M|19.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600120|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600219|N/A|N/A|M|30.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600437|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600109|N/A|N/A|F|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600401|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600436|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600554|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600072|N/A|N/A|M|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600653|N/A|N/A|F|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600382|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600466|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600282|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600568|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600028|N/A|N/A|M|43.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600529|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600400|N/A|N/A|M|26.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600710|N/A|N/A|M|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599955|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599967|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599927|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600336|N/A|N/A|F|27.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600240|N/A|N/A|F|35.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600079|N/A|N/A|M|36.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600290|N/A|N/A|M|25.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600131|N/A|N/A|F|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600300|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600093|N/A|N/A|M|39.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599925|N/A|N/A|F|38.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600700|N/A|N/A|M|34.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600392|N/A|N/A|M|32.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600220|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600541|N/A|N/A|F|33.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600580|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600123|N/A|N/A|F|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600581|N/A|N/A|M|41.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600126|N/A|N/A|M|35.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599921|N/A|N/A|M|21.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600309|N/A|N/A|M|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600451|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600448|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600271|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600517|N/A|N/A|F|19.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600374|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600652|N/A|N/A|F|35.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600262|N/A|N/A|M|17.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600095|N/A|N/A|M|21.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600170|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600075|N/A|N/A|F|56.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600606|N/A|N/A|M|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600151|N/A|N/A|M|29.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600656|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600350|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600015|N/A|N/A|F|19.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599957|N/A|N/A|F|38.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600306|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600324|N/A|N/A|F|30.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600600|N/A|N/A|M|41.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600063|N/A|N/A|F|30.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600713|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600676|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600566|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600487|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600589|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600318|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600678|N/A|N/A|F|46.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600001|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600413|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600497|N/A|N/A|M|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600177|N/A|N/A|F|62.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600054|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600164|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600125|N/A|N/A|F|32.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600294|N/A|N/A|F|45.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600047|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599993|N/A|N/A|M|23.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600248|N/A|N/A|M|20.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600293|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600269|N/A|N/A|M|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600458|N/A|N/A|F|26.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600012|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599915|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600574|N/A|N/A|M|61.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600328|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600491|N/A|N/A|M|27.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600696|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600709|N/A|N/A|M|25.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600543|N/A|N/A|M|35.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600050|N/A|N/A|F|28.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600478|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600523|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600453|N/A|N/A|F|36.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600636|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600538|N/A|N/A|F|52.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600542|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600470|N/A|N/A|M|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600404|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600368|N/A|N/A|F|30.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600625|N/A|N/A|M|31.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600513|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600010|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599946|N/A|N/A|F|25.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600501|N/A|N/A|M|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600045|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599999|N/A|N/A|M|18.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600514|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600018|N/A|N/A|M|30.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600662|N/A|N/A|M|22.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600483|N/A|N/A|M|40.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600511|N/A|N/A|F|45.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599964|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600333|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600381|N/A|N/A|M|40.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600674|N/A|N/A|F|40.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600398|N/A|N/A|M|37.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600481|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600489|N/A|N/A|F|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600069|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600668|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600389|N/A|N/A|M|36.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600506|N/A|N/A|F|26.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600302|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600433|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600454|N/A|N/A|M|36.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600522|N/A|N/A|M|24.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600040|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600127|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600226|N/A|N/A|F|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600180|N/A|N/A|M|26.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600227|N/A|N/A|M|29.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599936|N/A|N/A|M|22.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600061|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600594|N/A|N/A|M|39.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600665|N/A|N/A|F|N/A|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600135|N/A|N/A|M|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600029|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600174|N/A|N/A|M|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600192|N/A|N/A|F|28.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600052|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600097|N/A|N/A|M|35.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600467|N/A|N/A|F|50.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600172|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600252|N/A|N/A|M|20.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600397|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599975|N/A|N/A|M|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600084|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600449|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600115|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600621|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599973|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600494|N/A|N/A|M|32.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600225|N/A|N/A|F|19.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599914|N/A|N/A|F|N/A|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600536|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600067|N/A|N/A|M|32.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600148|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600641|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600711|N/A|N/A|M|19.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600168|N/A|N/A|M|32.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600346|N/A|N/A|M|37.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4599933|N/A|N/A|M|19.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600197|N/A|N/A|M|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600444|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600642|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600113|N/A|N/A|F|31.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600265|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599979|N/A|N/A|F|30.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600499|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600250|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600534|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600527|N/A|N/A|M|23.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600403|N/A|N/A|F|33.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600354|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600114|N/A|N/A|M|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600228|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600362|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599956|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600156|N/A|N/A|M|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600452|N/A|N/A|M|54.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600105|N/A|N/A|M|20.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600233|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600190|N/A|N/A|M|24.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600629|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600184|N/A|N/A|F|33.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600712|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600171|N/A|N/A|M|41.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600291|N/A|N/A|M|22.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600060|N/A|N/A|M|20.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4599947|N/A|N/A|M|25.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600634|N/A|N/A|F|N/A|N/A|Schizophrenia|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4600648|N/A|N/A|F|31.0|N/A|Healthy|Whole Blood|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4600698|N/A|N/A|F|18.0|N/A|First Episode Psychosis|Whole Blood|N/A|in_vivo|case|N/A|N/A|Disease

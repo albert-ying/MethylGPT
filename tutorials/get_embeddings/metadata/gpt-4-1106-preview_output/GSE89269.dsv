@@ -1,0 +1,22 @@
+GSM2363415|N/A|N/A|M|N/A|GES1 WT|healthy|Cells|GES1|in_vitro|ctrl|WT|N/A|Disease
+GSM2363416|N/A|N/A|M|N/A|GES1 day8|healthy|Cells|GES1|in_vitro|case|EBV+_day-8|N/A|Disease
+GSM2363417|N/A|N/A|M|N/A|GES1 day11|healthy|Cells|GES1|in_vitro|case|EBV+_day-11|N/A|Disease
+GSM2363418|N/A|N/A|M|N/A|GES1 day14|healthy|Cells|GES1|in_vitro|case|EBV+_day-14|N/A|Disease
+GSM2363419|N/A|N/A|M|N/A|GES1 day17|healthy|Cells|GES1|in_vitro|case|EBV+_day-17|N/A|Disease
+GSM2363420|N/A|N/A|M|N/A|GES1 day19|healthy|Cells|GES1|in_vitro|case|EBV+_day-19|N/A|Disease
+GSM2363421|N/A|N/A|M|N/A|GES1 day21|healthy|Cells|GES1|in_vitro|case|EBV+_day-21|N/A|Disease
+GSM2363422|N/A|N/A|M|N/A|GES1 day23|healthy|Cells|GES1|in_vitro|case|EBV+_day-23|N/A|Disease
+GSM2363423|N/A|N/A|M|N/A|GES1 day28|healthy|Cells|GES1|in_vitro|case|EBV+_day-28|N/A|Disease
+GSM2363424|N/A|N/A|M|N/A|MKN7 P2|gastric cancer|Cells|MKN7|in_vitro|ctrl|WT|N/A|Disease
+GSM2363425|N/A|N/A|M|N/A|MKN7 EB+ 0hr|gastric cancer|Cells|MKN7|in_vitro|case|EBV+_day-1|N/A|Disease
+GSM2363426|N/A|N/A|M|N/A|MKN7 EB+ day8|gastric cancer|Cells|MKN7|in_vitro|case|EBV+_day-8|N/A|Disease
+GSM2363427|N/A|N/A|M|N/A|MKN7 EB+ day17|gastric cancer|Cells|MKN7|in_vitro|case|EBV+_day-17|N/A|Disease
+GSM2363428|N/A|N/A|M|N/A|MKN7 EB+ day28|gastric cancer|Cells|MKN7|in_vitro|case|EBV+_day-28|N/A|Disease
+GSM2363429|N/A|N/A|M|N/A|H04-09538 N|healthy|N/A|N/A|in_vivo|ctrl|Normal_Gastric_Mucosa|N/A|N/A
+GSM2363430|N/A|N/A|M|N/A|H13-13439 N|healthy|N/A|N/A|in_vivo|ctrl|Normal_Gastric_Mucosa|N/A|N/A
+GSM2363431|N/A|N/A|F|N/A|GC121T_LME|gastric cancer|N/A|N/A|in_vivo|case|Low_Methylation_Gastric_Cancer|N/A|N/A
+GSM2363432|N/A|N/A|M|N/A|GC18T_LME|gastric cancer|N/A|N/A|in_vivo|case|Low_Methylation_Gastric_Cancer|N/A|N/A
+GSM2363433|N/A|N/A|M|N/A|GC065T_HME-U|gastric cancer|N/A|N/A|in_vivo|case|High_Methylation_Gastric_Cancer|N/A|N/A
+GSM2363434|N/A|N/A|M|N/A|GC125T_HME|gastric cancer|N/A|N/A|in_vivo|case|High_Methylation_Gastric_Cancer|N/A|N/A
+GSM2633597|N/A|N/A|F|N/A|KT|gastric cancer|N/A|N/A|in_vivo|case|Xenograft|N/A|N/A
+GSM2633598|N/A|N/A|M|N/A|SNU719|gastric cancer|Cells|SNU719|in_vitro|ctrl|EBV+ Gastric Cancer Cell|N/A|Disease

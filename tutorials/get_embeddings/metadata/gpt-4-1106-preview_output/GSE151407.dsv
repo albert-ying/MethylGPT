@@ -1,0 +1,78 @@
+GSM4577415|GS2|N/A|M|29|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577416|GS1|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577417|GS3|N/A|M|26|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577418|GS7|N/A|M|32|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577419|GS4|N/A|M|37|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577420|GS8|N/A|M|18|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577421|GS5|N/A|M|44|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577422|GS9|N/A|M|19|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577423|GS11|N/A|M|26|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577424|GS6|N/A|M|37|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577425|GS13|N/A|M|43|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577426|GS10|N/A|M|29|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577427|GS14|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577428|GS12|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577429|GS17|N/A|M|38|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577430|GS15|N/A|M|40|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577431|GS25|N/A|M|31|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577432|GS22|N/A|M|39|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577433|GS20|N/A|M|45|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577434|GS13|N/A|M|43|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577435|GS2|N/A|M|29|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577436|GS23|N/A|M|26|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577437|GS4|N/A|M|37|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577438|GS18|N/A|M|20|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577439|GS18|N/A|M|20|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577440|GS12|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577441|GS8|N/A|M|18|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577442|GS3|N/A|M|26|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577443|GS9|N/A|M|19|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577444|GS21|N/A|M|31|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577445|GS14|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577446|GS6|N/A|M|37|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577447|GS15|N/A|M|40|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577448|GS22|N/A|M|39|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577449|GS10|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577450|GS7|N/A|M|32|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577451|GS25|N/A|M|31|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577452|GS1|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577453|GS24|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577454|GS17|N/A|M|37|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577455|GS5|N/A|M|44|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577456|GS19|N/A|M|25|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577457|GS16|N/A|M|46|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577458|GS11|N/A|M|26|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577459|GS3|N/A|M|26|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577460|GS18|N/A|M|20|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577461|GS21|N/A|M|31|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577462|GS7|N/A|M|32|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577463|GS4|N/A|M|37|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577464|GS9|N/A|M|19|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577465|GS6|N/A|M|37|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577466|GS13|N/A|M|43|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577467|GS12|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577468|GS17|N/A|M|37|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577469|GS16|N/A|M|46|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577470|GS14|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577471|GS15|N/A|M|40|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577472|GS20|N/A|M|45|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577473|GS19|N/A|M|25|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577474|GS24|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577475|GS23|N/A|M|26|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577476|GS2|N/A|M|29|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577477|GS23|N/A|M|26|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577478|GS25|N/A|M|31|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577479|GS1|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577480|GS3|N/A|M|26|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577481|GS7|N/A|M|32|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577482|GS5|N/A|M|44|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577483|GS11|N/A|M|26|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577484|GS10|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577485|GS16|N/A|M|46|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577486|GS8|N/A|M|18|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577487|GS20|N/A|M|45|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577488|GS18|N/A|M|20|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577489|GS21|N/A|M|31|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle
+GSM4577490|GS19|N/A|M|25|N/A|Healthy|Muscle|N/A|in_vivo|ctrl|Baseline|N/A|N/A
+GSM4577491|GS24|N/A|M|28|N/A|Healthy|Muscle|N/A|in_vivo|case|Acute HIIT|N/A|Lifestyle
+GSM4577492|GS22|N/A|M|39|N/A|Healthy|Muscle|N/A|in_vivo|case|Chronic HIIT|N/A|Lifestyle

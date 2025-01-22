@@ -1,0 +1,26 @@
+GSM1092170|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|ctrl|PBS_treated|Phosphate Buffered Saline|Disease
+GSM1092173|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|DAC_treated|Decitabine|Disease
+GSM1092175|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|ctrl|PBS_treated|Phosphate Buffered Saline|Disease
+GSM1092176|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|DAC_treated|Decitabine|Disease
+GSM1092177|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|ctrl|PBS_treated|Phosphate Buffered Saline|Disease
+GSM1092178|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|DAC_treated|Decitabine|Disease
+GSM1092179|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|ctrl|PBS_treated|Phosphate Buffered Saline|Disease
+GSM1092180|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|DAC_treated|Decitabine|Disease
+GSM1092181|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|ctrl|PBS_treated|Phosphate Buffered Saline|Disease
+GSM1092182|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|DAC_treated|Decitabine|Disease
+GSM1092183|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|ctrl|PBS_treated|Phosphate Buffered Saline|Disease
+GSM1092184|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|DAC_treated|Decitabine|Disease
+GSM1092185|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|ctrl|PBS_treated|Phosphate Buffered Saline|Disease
+GSM1092186|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|DAC_treated|Decitabine|Disease
+GSM1092187|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|ctrl|PBS_treated|Phosphate Buffered Saline|Disease
+GSM1092188|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|DAC_treated|Decitabine|Disease
+GSM1092189|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|HL-60|in_vitro|ctrl|PBS_treated|Phosphate Buffered Saline|Disease
+GSM1092190|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|HL-60|in_vitro|case|DAC_treated|Decitabine|Disease
+GSM1092191|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|KG1A|in_vitro|ctrl|PBS_treated|Phosphate Buffered Saline|Disease
+GSM1092192|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|Cells|KG1A|in_vitro|case|DAC_treated|Decitabine|Disease
+GSM1092193|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|ctrl|PBS_treated|Phosphate Buffered Saline|Disease
+GSM1092194|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|DAC_treated|Decitabine|Disease
+GSM1092195|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|Ara-C_treated|Cytarabine|Disease
+GSM1092196|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|D+A_treated|Decitabine and Cytarabine|Disease
+GSM1092197|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|D/A_treated|Decitabine followed by Cytarabine|Disease
+GSM1092198|N/A|N/A|N/A|N/A|N/A|Acute Myeloid Leukemia|N/A|N/A|in_vivo|case|A/D_treated|Cytarabine followed by Decitabine|Disease

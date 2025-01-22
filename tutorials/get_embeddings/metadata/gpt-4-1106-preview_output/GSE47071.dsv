@@ -1,0 +1,89 @@
+GSM1144285|001|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144286|001|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144287|001|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144288|002|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144289|002|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144290|002|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144291|008|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma2|N/A|Disease
+GSM1144292|008|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma3|N/A|Disease
+GSM1144293|008|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144294|008|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144295|008|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144296|009|N/A|F|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144297|009|N/A|F|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma2|N/A|Disease
+GSM1144298|009|N/A|F|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma3|N/A|Disease
+GSM1144299|009|N/A|F|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma4|N/A|Disease
+GSM1144300|009|N/A|F|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144301|010|N/A|F|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144302|010|N/A|F|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144303|010|N/A|F|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144304|014|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144305|014|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144306|014|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144307|017|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144308|017|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144309|017|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144310|017|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144311|020|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144312|020|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144313|020|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144314|020|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144315|023|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144316|023|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144317|023|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144318|023|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144319|029|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144320|029|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144321|029|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144322|029|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144323|034|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144324|034|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144325|034|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144326|035|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144327|035|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144328|035|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144329|035|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144330|037|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144331|037|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144332|037|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144333|037|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144334|038|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144335|038|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144336|038|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144337|039|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144338|039|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144339|039|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144340|040|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144341|040|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144342|040|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144343|040|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144344|041|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144345|041|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144346|041|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144347|041|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144348|042|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144349|042|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144350|042|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144351|042|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144352|043|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144353|043|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144354|043|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144355|044|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144356|044|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Away|N/A|N/A
+GSM1144357|044|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144358|044|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144359|045|N/A|F|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144360|045|N/A|F|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144361|045|N/A|F|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144362|046|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144363|046|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144364|046|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144365|047|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144366|047|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144367|047|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease
+GSM1144368|048|N/A|F|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144369|048|N/A|F|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma2|N/A|Disease
+GSM1144370|048|N/A|F|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144371|049|N/A|M|N/A|N/A|adenoma|Colon|N/A|in_vivo|case|Adenoma1|N/A|Disease
+GSM1144372|049|N/A|M|N/A|N/A|healthy|Colon|N/A|in_vivo|ctrl|Normal Close|N/A|N/A
+GSM1144373|049|N/A|M|N/A|N/A|adenocarcinoma|Colon|N/A|in_vivo|case|Tumour|N/A|Disease

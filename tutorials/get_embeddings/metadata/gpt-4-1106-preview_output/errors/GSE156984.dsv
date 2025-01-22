@@ -1,0 +1,427 @@
+GSM4749548|665||M|87||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749329|2533||F|89||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749478|845||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749367|2889||F|78||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749415|2659||F|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749386|512||M|77||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749424|3631||F|75||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749553|814||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749507|3246||M|73||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749466|878||M|83||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749361|2710||M|67||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749413|815||M|86||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749441|2949||F|74||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749443|3703||M|76||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749474|677||F|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749490|575||M|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749534|994||M|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749422|635||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749546|2553||F|87||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749375|3373||F|88||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749484|774||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749353|821||F|79||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749497|2961||M|89||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749517|819||M|78||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749468|2827||M|84||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749346|4465||M|74||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749419|3757||M|76||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749388|4197||M|61||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749464|3742||M|82||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749439|2643||M|70||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749407|773||F|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749338|2818||M|79||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749514|3757||M|76||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749512|533||F|76||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749551|635||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749343|677||F|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749527|537||M|81||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749547|557||M|87||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749423|1006||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749331|2627||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749538|462||M|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749535|2990||M|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749465|3723||F|82||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749522|2737||M|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749408|491||M|63||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749461|3970||M|82||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749358|3970||M|82||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749340|1301||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749341|924||F|84||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749459|1226||M|81||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749334|845||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749449|2756||F|77||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749389|3688||F|68||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749482|2875||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749392|3632||M|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749552|990||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749406|797||M|81||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749429|665||M|87||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749428|539||F|85||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749550|635|N/A|F|88|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749430|3213|N/A|M|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749342|2643|N/A|M|70|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749397|773|N/A|F|89|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749445|2949|N/A|F|74|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749337|2818|N/A|M|79|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749359|3970|N/A|M|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749530|3632|N/A|M|82|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749354|821|N/A|F|79|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749447|2809|N/A|M|76|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749469|924|N/A|F|84|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749369|1301|N/A|M|86|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749345|3386|N/A|F|76|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749321|3577||F|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749486|3332||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749508|3063||M|73||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749509|4291||M|74||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749502|3261||M|65||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749489|2724||F|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749377|1276||F|83||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749435|3874||F|65||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749440|3404||F|70||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749412|3438||F|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749427|2597||F|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749374|2827||M|84||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749371|1249||M|80||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749491|3984||M|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749356|2987||M|82||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749529|3605||F|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749503|3688||F|68||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749457|2726||M|80||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749323|3386||F|76||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749399|819||M|78||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749416|708||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749385|3506||M|86||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749332|3332||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749504|1253||M|69||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749368|2520||F|89||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749526|797||M|81||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749511|3631||F|75||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749333|469||M|88||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749347|699||M|83||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749360|2875||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749326|412||F|78||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749555|708||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749470|471||M|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749559|1012||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749382|537||M|81||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749463|4353||M|82||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749357|1258||F|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749381|3246||M|73||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749528|754||M|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749480|4179||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749519|3213||M|78||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749411|2990||M|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749376|774||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749540|539||F|85||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749444|3687||M|76||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749321|3577||F|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749486|3332||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749508|3063||M|73||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749509|4291||M|74||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749502|3261||M|65||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749489|2724||F|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749377|1276||F|83||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749435|3874||F|65||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749440|3404||F|70||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749412|3438||F|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749427|2597||F|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749374|2827||M|84||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749371|1249||M|80||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749491|3984||M|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749356|2987||M|82||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749529|3605||F|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749503|3688||F|68||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749457|2726||M|80||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749323|3386||F|76||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749399|819||M|78||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749416|708||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749385|3506||M|86||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749332|3332||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749504|1253||M|69||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749368|2520||F|89||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749526|797||M|81||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749511|3631||F|75||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749333|469||M|88||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749347|699||M|83||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749360|2875||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749326|412||F|78||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749555|708||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749470|471||M|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749559|1012||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749382|537||M|81||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749463|4353||M|82||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749357|1258||F|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749381|3246||M|73||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749528|754||M|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749480|4179||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749519|3213||M|78||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749411|2990||M|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749376|774||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749540|539||F|85||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749444|3687||M|76||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749532|2571||M|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749319|4179||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749475|2995||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749458|1249||M|80||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749531|3438||F|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749456|821||F|79||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749400|1064||F|87||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749452|2889||F|78||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749373|523||M|83||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749318|2949||F|74||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749488|3577||F|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749448|549||M|77||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749384|4291||M|74||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749417|3710||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749516|512||M|77||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749322|3070||F|68||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749533|1276||F|83||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749380|994||M|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749471|1258||F|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749421|638||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749403|2737||M|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749544|3506||M|86||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749532|2571||M|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749319|4179||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749475|2995||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749458|1249||M|80||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749531|3438||F|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749456|821||F|79||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749400|1064||F|87||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749452|2889||F|78||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749373|523||M|83||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749318|2949||F|74||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749488|3577||F|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749448|549||M|77||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749384|4291||M|74||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749417|3710||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749516|512||M|77||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749322|3070||F|68||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749533|1276||F|83||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749380|994||M|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749471|1258||F|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749421|638||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749403|2737||M|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749544|3506||M|86||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749532|2571||M|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749319|4179||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749475|2995||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749458|1249||M|80||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749531|3438||F|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749456|821||F|79||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749400|1064||F|87||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749452|2889||F|78||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749373|523||M|83||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749318|2949||F|74||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749488|3577||F|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749448|549||M|77||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749384|4291||M|74||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749417|3710||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749516|512||M|77||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749322|3070||F|68||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749533|1276||F|83||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749380|994||M|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749471|1258||F|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749421|638||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749403|2737||M|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749544|3506||M|86||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749532|2571||M|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749319|4179||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749475|2995||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749458|1249||M|80||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749531|3438||F|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749456|821||F|79||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749400|1064||F|87||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749452|2889||F|78||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749373|523||M|83||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749318|2949||F|74||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749488|3577||F|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749448|549||M|77||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749384|4291||M|74||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749417|3710||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749516|512||M|77||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749322|3070||F|68||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749533|1276||F|83||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749380|994||M|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749471|1258||F|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749421|638||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749403|2737||M|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749544|3506||M|86||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749532|2571||M|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749319|4179||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749475|2995||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749458|1249||M|80||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749531|3438||F|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749456|821||F|79||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749400|1064||F|87||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749452|2889||F|78||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749373|523||M|83||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749318|2949||F|74||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749488|3577||F|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749448|549||M|77||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749384|4291||M|74||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749417|3710||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749556|3665||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749451|4275||M|78||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749543|815||M|86||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749328|529||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749510|4146||M|75||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749348|3404||F|70||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749487|3020||M|87||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749336|3232||F|60||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749418|1253||M|69||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749557|638||M|89||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749483|2546||F|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749351|501||M|78||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749495|1000||F|89||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749339|3691||M|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749462|720||F|82||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749539|3582||M|85||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749383|3063||M|73||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749364|878||M|83||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749405|1023||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749426|3053||F|76||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749330|3723||F|82||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749409|754||M|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749437|2710||M|67||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749472|3180||M|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749505|510||F|70||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749432|847||M|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749455|2818||M|79||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749394|3605||F|82||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749442|4465||M|74||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749355|2726||M|80||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749410|462||M|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749467|4275||M|78||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749556|3665|N/A|M|89|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749451|4275|N/A|M|78|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749543|815|N/A|M|86|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749328|529|N/A|M|86|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749510|4146|N/A|M|75|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749348|3404|N/A|F|70|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749487|3020|N/A|M|87|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749336|3232|N/A|F|60|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749418|1253|N/A|M|69|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749557|638|N/A|M|89|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749483|2546|N/A|F|86|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749351|501|N/A|M|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749495|1000|N/A|F|89|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749339|3691|N/A|M|85|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749462|720|N/A|F|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749539|3582|N/A|M|85|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749383|3063|N/A|M|73|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749364|878|N/A|M|83|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749405|1023|N/A|F|88|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749426|3053|N/A|F|76|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749330|3723|N/A|F|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749409|754|N/A|M|82|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749437|2710|N/A|M|67|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749472|3180|N/A|M|85|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749505|510|N/A|F|70|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749432|847|N/A|M|80|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749455|2818|N/A|M|79|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749394|3605|N/A|F|82|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749442|4465|N/A|M|74|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749355|2726|N/A|M|80|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749410|462|N/A|M|84|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749467|4275|N/A|M|78|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749485|1301|N/A|M|86|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749327|632|N/A|M|79|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749370|720|N/A|F|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749520|2696|N/A|F|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749558|773|N/A|F|89|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749506|3532|N/A|M|71|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749434|2898|N/A|F|60|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749395|3418|N/A|M|85|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749492|469|N/A|M|88|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749379|2696|N/A|F|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749549|1023|N/A|F|88|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749500|4197|N/A|M|61|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749515|3053|N/A|F|76|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749518|501|N/A|M|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749481|2815|N/A|M|86|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749324|471|N/A|M|85|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749460|2987|N/A|M|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749454|632|N/A|M|79|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749378|4194|N/A|M|80|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749366|4275|N/A|M|78|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749485|1301|N/A|M|86|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749327|632|N/A|M|79|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749370|720|N/A|F|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749520|2696|N/A|F|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749558|773|N/A|F|89|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749506|3532|N/A|M|71|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749434|2898|N/A|F|60|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749395|3418|N/A|M|85|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749492|469|N/A|M|88|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749379|2696|N/A|F|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749549|1023|N/A|F|88|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749500|4197|N/A|M|61|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749515|3053|N/A|F|76|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749518|501|N/A|M|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749481|2815|N/A|M|86|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749324|471|N/A|M|85|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749460|2987|N/A|M|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749454|632|N/A|M|79|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749378|4194|N/A|M|80|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749366|4275|N/A|M|78|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749485|1301|N/A|M|86|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749327|632|N/A|M|79|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749370|720|N/A|F|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749520|2696|N/A|F|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749558|773|N/A|F|89|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749506|3532|N/A|M|71|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749434|2898|N/A|F|60|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749395|3418|N/A|M|85|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749492|469|N/A|M|88|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749379|2696|N/A|F|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749549|1023|N/A|F|88|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749500|4197|N/A|M|61|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749515|3053|N/A|F|76|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749518|501|N/A|M|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749481|2815|N/A|M|86|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749324|471|N/A|M|85|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749460|2987|N/A|M|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749454|632|N/A|M|79|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749378|4194|N/A|M|80|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749366|4275|N/A|M|78|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749485|1301|N/A|M|86|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749327|632|N/A|M|79|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749370|720|N/A|F|82|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749520|2696|N/A|F|78|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749558|773|N/A|F|89|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749506|3532|N/A|M|71|N/A|Healthy|Brain|N/A|in_vivo|ctrl|N/A|N/A|None
+GSM4749434|2898|N/A|F|60|N/A|Alzheimer's Disease|Brain|N/A|in_vivo|case|N/A|N/A|Disease
+GSM4749365|3180||M|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749398|2998||F|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749523|2597||F|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749498|2575||F|89||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749325|990||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749393|3532||M|71||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749524|847||M|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749477|2627||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749476|529||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749521|3778||M|79||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749496|2533||F|89||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749537|2998||F|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749365|3180||M|85||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749398|2998||F|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749523|2597||F|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749498|2575||F|89||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749325|990||F|88||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749393|3532||M|71||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749524|847||M|80||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749477|2627||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749476|529||M|86||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749521|3778||M|79||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749496|2533||F|89||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749537|2998||F|84||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749349|896||F|88||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749438|3070||F|68||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749420|557||M|87||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749414|425||M|76||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749501|491||M|63||Healthy|Brain||in_vivo|ctrl|||None
+GSM4749453|3850||M|79||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749494|3373||F|88||Alzheimer's Disease|Brain||in_vivo|case|||Disease
+GSM4749459|3850||M|79||Alzheimer's Disease|Brain||in_vivo|case|||Disease

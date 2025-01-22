@@ -1,0 +1,11 @@
+# Ignore everything in the data directory
+data/*
+save/*
+
+# But do not ignore the directory itself
+!data/
+!save/
+
+# If there are specific files or subdirectories within data that you do not want to ignore, unignore them like this:
+#!data/keep_this_file.txt
+#!data/subdirectory/

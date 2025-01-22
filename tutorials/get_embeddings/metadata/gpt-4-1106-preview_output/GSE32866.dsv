@@ -1,0 +1,55 @@
+GSM813533|1015|N/A|F|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813534|1023|N/A|F|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813535|178|N/A|F|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813536|260|N/A|F|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813537|347|N/A|F|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813538|389|N/A|F|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813539|393|N/A|M|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813540|420|N/A|M|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813541|467|N/A|F|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813542|507|N/A|M|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813543|573|N/A|F|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813544|785|N/A|M|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813545|1186|N/A|M|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813546|134|N/A|N/A|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813547|192|N/A|M|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813548|216|N/A|F|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813549|532|N/A|F|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813550|690|N/A|M|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813551|693|N/A|M|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813552|860|N/A|F|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813553|12472|N/A|F|European|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813554|63896|N/A|M|Asian|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813555|59808|N/A|M|European|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813556|45427|N/A|N/A|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813557|46058|N/A|M|Asian|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813558|549|N/A|N/A|N/A|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813559|15307|N/A|F|European|N/A|Healthy|Lung|N/A|in_vivo|ctrl|N/A|N/A|N/A
+GSM813560|1015|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813561|1023|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813562|1102|N/A|M|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813563|178|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813564|347|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813565|389|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813566|393|N/A|M|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813567|420|N/A|M|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813568|467|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813569|527|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813570|573|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813571|785|N/A|M|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813572|1186|N/A|M|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813573|134|N/A|N/A|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813574|192|N/A|M|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813575|216|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813576|483|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813577|532|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813578|690|N/A|M|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813579|693|N/A|M|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813580|860|N/A|F|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813581|12472|N/A|F|European|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813582|63896|N/A|M|Asian|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813583|59808|N/A|M|European|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813584|45427|N/A|N/A|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813585|549|N/A|N/A|N/A|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813586|15307|N/A|F|European|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
+GSM813587|46058|N/A|M|Asian|N/A|Lung Adenocarcinoma|Lung|N/A|in_vivo|case|N/A|N/A|Disease
