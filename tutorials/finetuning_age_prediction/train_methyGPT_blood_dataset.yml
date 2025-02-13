@@ -1,0 +1,27 @@
+project : "methylGPT"
+
+pretrained_file : "/home/A.Y/project/methylGPT/dev_pretraining_test-dataset_CpGs_type3-preprocessing_False-Nov29-12-01/best_model_epoch6.pt"
+weights_save_path : "/home/A.Y/project/methylGPT/finetuning/age_prediction/age_finetune_ckpt"
+
+train_file : "/home/A.Y/project/methylGPT/finetuning/age_prediction/age_data/blood_dataset/5fold/train_set_fold_0_10789.parquet"
+valid_file : "/home/A.Y/project/methylGPT/finetuning/age_prediction/age_data/blood_dataset/5fold/val_set_fold_0_2698.parquet"
+test_file : "/home/A.Y/project/methylGPT/finetuning/age_prediction/age_data/blood_dataset/5fold/test_set_fold_0_3372.parquet"
+
+cpg_sites: 49156
+mask_ratio: 0
+mlm_wt: 0
+weight_decay : 0
+gradient_clip_val : 1.0
+log_every_n_steps : 1
+pretrained_lr : 1e-4
+head_lr : 1e-3
+train_batch_size : 16
+valid_batch_size : 16
+max_epochs : 300
+gpus : 2
+
+mode: "train"
+valid_ckpt_path: "None"
+wandb: True
+
+

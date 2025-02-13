@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "methylgpt"
-version = "0.1.1"
+version = "0.1.2"
 description = ""
 authors = ["Jinyeop Song <you@example.com>"]
 readme = "README.md"

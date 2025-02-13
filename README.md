@@ -12,17 +12,21 @@ This is the official codebase for **methylGPT : a foundation model for the DNA m
 #[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/username/repo/blob/main/LICENSE)
 
 **!UPDATE**: 
-**[2024.12.10]** We made initial launching of the MethylGPT codebase.
+**[2025.02.10]** methylGPT is now available on PyPI
+**[2024.12.10]** We made initial launching of the methylGPT codebase.
+**[2025.11.04]** Manuscript available on arXiv
 
 
 ## Installation
 
+Architecture Note : MethylGPT's backend architecture is largely based on [scGPT](https://github.com/bowang-lab/scGPT), developed by the Wang Lab. As such, our project inherits and follows similar dependencies and architectural patterns. We acknowledge and thank the scGPT team for their foundational work.
+
 methylGPT works with Python >= 3.9.10  and R >=3.6.1. Please make sure you have the correct version of Python and R installed pre-installation.
 
-scGPT is available on PyPI. To install scGPT, run the following command:
+methylGPT is available on PyPI. To install methylGPT, run the following command:
 
 ```bash
-pip install scgpt "flash-attn<1.0.5"  # optional, recommended
+pip install methylgpt "flash-attn<1.0.5"  # optional, recommended
 # As of 2023.09, pip install may not run with new versions of the google orbax package, if you encounter related issues, please use the following command instead:
 # pip install scgpt "flash-attn<1.0.5" "orbax<0.1.8"
 ```
@@ -37,19 +41,20 @@ For developing, we are using the [Poetry](https://python-poetry.org/) package ma
 
 ```bash
 $ git clone this-repo-url
-$ cd scGPT
+$ cd MethylGPT_clean
 $ poetry install
 ```
 
 **Note**: The `flash-attn` dependency usually requires specific GPU and CUDA version. If you encounter any issues, please refer to the [flash-attn](https://github.com/HazyResearch/flash-attention/tree/main) repository for installation instructions. For now, May 2023, we recommend using CUDA 11.7 and flash-attn<1.0.5 due to various issues reported about installing new versions of flash-attn.
 
 
-
 ## Running pretraining
 
-Run the 
+The primary pretraining code is implemented in `methylgpt.pretraining.py`. During training, model checkpoints are automatically saved to the `save/` directory at the end of each epoch.
 
-## Pretrained scGPT Model Zoo
+For a detailed walkthrough of the pretraining process, refer to our step-by-step examples in the [pretraining tutorials](tutorials/pretraining).
+
+## (TODO) Pretrained methylGPT Model Zoo
 
 Here is the list of pretrained models. Please find the links for downloading the checkpoint folders. We recommend using the `whole-human` model for most applications by default. If your fine-tuning dataset shares similar cell type context with the training data of the organ-specific models, these models can usually demonstrate competitive performance as well. A paired vocabulary file mapping gene names to ids is provided in each checkpoint folder. If ENSEMBL ids are needed, please find the conversion at [gene_info.csv](https://github.com/bowang-lab/scGPT/files/13243634/gene_info.csv).
 
@@ -64,21 +69,16 @@ Here is the list of pretrained models. Please find the links for downloading the
 | kidney                    | Pretrained on 814 thousand kidney cells                 | [link](https://drive.google.com/drive/folders/1S-1AR65DF120kNFpEbWCvRHPhpkGK3kK?usp=sharing) |
 | pan-cancer                | Pretrained on 5.7 million cells of various cancer types | [link](https://drive.google.com/drive/folders/13QzLHilYUd0v3HTwa_9n4G4yEF-hdkqa?usp=sharing) |
 
-## Fine-tune scGPT for scRNA-seq integration
+## Fine-tune methylGPT for age prediction
 
-Please see our example code in [examples/finetune_integration.py](examples/finetune_integration.py). By default, the script assumes the scGPT checkpoint folder stored in the `examples/save` directory.
+Please see our example code in [tutorials/finetuning_age_prediction](tutorials/finetuning_age_prediction/finetuning_age_main.py). By default, the script assumes the scGPT checkpoint folder stored in the `examples/save` directory.
 
 ## To-do-list
 
 - [x] Upload the pretrained model checkpoint
 - [x] Publish to pypi
 - [ ] Provide the pretraining code with generative attention masking
-- [ ] Finetuning examples for multi-omics integration, cell type annotation, perturbation prediction, cell generation
-- [x] Example code for Gene Regulatory Network analysis
-- [x] Documentation website with readthedocs
-- [x] Bump up to pytorch 2.0
-- [x] New pretraining on larger datasets
-- [x] Reference mapping example
+- [ ] More tutorial examples for disease prediction
 - [ ] Publish to huggingface model hub
 
 ## Contributing
