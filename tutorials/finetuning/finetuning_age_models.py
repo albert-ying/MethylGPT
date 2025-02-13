@@ -1,8 +1,7 @@
 import sys
 from pathlib import Path
-sys.version
-sys.path.append('/mnt/environments/scgpt_env/lib/python3.10/site-packages')
-sys.path.append("/home/A.Y/project/methylGPT/modules/scGPT")
+import methylgpt.modules.scGPT.scgpt as scgpt
+
 current_directory = Path(__file__).parent.absolute()
 from scgpt.model.model import TransformerModel
 from torch import nn, optim

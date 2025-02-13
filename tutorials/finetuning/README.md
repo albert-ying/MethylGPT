@@ -1,28 +1,40 @@
-# Tutorial: Generating and Visualizing Embeddings
+# Tutorial: Fine-tuning MethylGPT for Age Prediction
 
-This folder contains Jupyter notebooks for:
-1. **Generating cell embeddings** using a pretrained methylGPT model.
-2. **Visualizing** those embeddings in UMAP space.
+This folder contains scripts for fine-tuning a pretrained MethylGPT model for age prediction tasks.
 
 ## Files
 
-- **`get_embeddings.ipynb`**  
-  Generates embeddings (output of the `<bos>` token) from a pretrained methylGPT model.  
-  - **Output**: Embeddings are saved in the `Embeddings/` folder.
+- **`finetuning_age_datasets.py`**
+  - Handles data loading and preprocessing
+  - Defines dataset classes and data transformations
 
-- **`plot_embeddings.ipynb`**  
-  Loads the generated embeddings and applies UMAP for dimensionality reduction.  
-  - **Output**: UMAP plots are saved in the `Figures/` folder.
+- **`finetuning_age_models.py`**
+  - Contains model architectures and configurations
+  - Implements fine-tuning logic for age prediction
+
+- **`finetuning_age_main.py`**
+  - Main script for executing the fine-tuning process
+  - Orchestrates training workflow and hyperparameter settings
+
+- **`fintuning_age_metrics.py`**
+  - Implements evaluation metrics for age prediction
+  - Provides functions for model performance assessment
+
+- **`train_methyGPT_altumage_dataset.yml`**
+  - Configuration file for Altum Age dataset
+  - Contains dataset-specific parameters and settings
+
+- **`train_methyGPT_blood_dataset.yml`**
+  - Configuration file for Blood methylation dataset
+  - Specifies dataset-specific parameters and settings
 
 ## Usage
 
-1. **Generate Embeddings**  
-   - Run `get_embeddings.ipynb` to produce the embedding files in `Embeddings/`.
+1. **Prepare Environment**
+   - Ensure all required dependencies are installed
+   - Configure dataset paths in the appropriate YAML file
 
-2. **Plot Embeddings**  
-   - Run `plot_embeddings.ipynb` to visualize the embeddings in UMAP space and save the figures in `Figures/`.
-
-## Notes
-
-- Created on **Jan 22** by **Jinyeop Song** (yeopjin@mit.edu).
-- Ensure the `Embeddings/` and `Figures/` directories exist or update paths accordingly before running the notebooks.
+2. **Execute Fine-tuning**
+   ```bash
+   python3 finetuning_age_main.py
+   

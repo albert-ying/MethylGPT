@@ -1,5 +1,6 @@
 import sys
-sys.path.append("../modules/scGPT")
+sys.path.append("scGPT")
 
 # Import scGPT
-import scGPT
+
+import scgpt

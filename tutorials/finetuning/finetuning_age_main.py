@@ -1,9 +1,7 @@
 import os
 import sys
 from pathlib import Path
-sys.version
-sys.path.append('/mnt/environments/scgpt_env/lib/python3.10/site-packages')
-sys.path.append("/home/A.Y/project/methylGPT/modules/scGPT")
+import methylgpt.modules.scGPT.scgpt as scgpt
 current_directory = Path(__file__).parent.absolute()
 from sklearn import preprocessing
 import pandas as pd
@@ -19,13 +17,14 @@ from finetuning_age_models import methyGPT_Age_Model
 
 seed_everything(42, workers=True)
 
+
 def train (args):
 
     # Define model args
-    with open("methylGPT/dev_pretraining_test-dataset_CpGs_type3-preprocessing_False-Nov29-12-01/args.json", 'r') as file:
+    with open("/home/A.Y/project/MethylGPT_clean/pretrained_models/args.json", 'r') as file:
         pretrain_args = json.load(file)
     # Define training args
-    with open("methylGPT/finetuning/age_prediction/tutorials_age_prediction/train_methyGPT.yml", 'r') as add_file:
+    with open("tutorials_age_prediction/train_methyGPT.yml", 'r') as add_file:
         add_args = yaml.safe_load(add_file)
     
     model_args = {**pretrain_args, **add_args}
