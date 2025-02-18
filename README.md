@@ -1,4 +1,4 @@
-# MethylGPT_clean
+# MethylGPT
 
 This is the official codebase for **methylGPT : a foundation model for the DNA methylome**.
 
