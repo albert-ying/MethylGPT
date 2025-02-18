@@ -4,11 +4,7 @@ This is the official codebase for **methylGPT : a foundation model for the DNA m
 
 
 [![Preprint](https://img.shields.io/badge/preprint-available-brightgreen)](https://www.biorxiv.org/content/10.1101/2024.10.30.621013v2) &nbsp;
-
-[![Documentation](https://img.shields.io/badge/docs-available-brightgreen)](https://scgpt.readthedocs.io/en/latest/) &nbsp;
-[![PyPI version](https://badge.fury.io/py/scgpt.svg)](https://badge.fury.io/py/scgpt) &nbsp;
-#[![Downloads](https://pepy.tech/badge/scgpt)](https://pepy.tech/project/scgpt) &nbsp;
-#![Webapp](https://img.shields.io/website?url=https%3A%2F%2Fscgpthub.org&up_color=chartreuse%20&logo=gotomeeting&logoColor=%23FFB3FF&label=WebApp&labelColor=%2300CBFF) &nbsp;
+[![PyPI version](https://badge.fury.io/py/scgpt.svg)](https://pypi.org/project/methylgpt/) &nbsp;
 #[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/username/repo/blob/main/LICENSE)
 
 **!UPDATE**: 
@@ -27,8 +23,6 @@ methylGPT is available on PyPI. To install methylGPT, run the following command:
 
 ```bash
 pip install methylgpt "flash-attn<1.0.5"  # optional, recommended
-# As of 2023.09, pip install may not run with new versions of the google orbax package, if you encounter related issues, please use the following command instead:
-# pip install scgpt "flash-attn<1.0.5" "orbax<0.1.8"
 ```
 
 [Optional] We recommend using [wandb](https://wandb.ai/) for logging and visualization.
@@ -54,24 +48,36 @@ The primary pretraining code is implemented in `methylgpt.pretraining.py`. Durin
 
 For a detailed walkthrough of the pretraining process, refer to our step-by-step examples in the [pretraining tutorials](tutorials/pretraining).
 
-## (TODO) Pretrained methylGPT Model Zoo
+## # Pretrained methylGPT Models
 
-Here is the list of pretrained models. Please find the links for downloading the checkpoint folders. We recommend using the `whole-human` model for most applications by default. If your fine-tuning dataset shares similar cell type context with the training data of the organ-specific models, these models can usually demonstrate competitive performance as well. A paired vocabulary file mapping gene names to ids is provided in each checkpoint folder. If ENSEMBL ids are needed, please find the conversion at [gene_info.csv](https://github.com/bowang-lab/scGPT/files/13243634/gene_info.csv).
+This repository provides access to our suite of pretraining models for DNA methylation analysis. The major data sources for pretraining are derived from a comprehensive collection of human DNA methylation profiles.
 
-| Model name                | Description                                             | Download                                                                                     |
-| :------------------------ | :------------------------------------------------------ | :------------------------------------------------------------------------------------------- |
-| whole-human (recommended) | Pretrained on 33 million normal human cells.            | [link](https://drive.google.com/drive/folders/1oWh_-ZRdhtoGQ2Fw24HP41FgLoomVo-y?usp=sharing) |
-| continual pretrained      | For zero-shot cell embedding related tasks.             | [link](https://drive.google.com/drive/folders/1_GROJTzXiAV8HB4imruOTk6PEGuNOcgB?usp=sharing) |
-| brain                     | Pretrained on 13.2 million brain cells.                 | [link](https://drive.google.com/drive/folders/1vf1ijfQSk7rGdDGpBntR5bi5g6gNt-Gx?usp=sharing) |
-| blood                     | Pretrained on 10.3 million blood and bone marrow cells. | [link](https://drive.google.com/drive/folders/1kkug5C7NjvXIwQGGaGoqXTk_Lb_pDrBU?usp=sharing) |
-| heart                     | Pretrained on 1.8 million heart cells                   | [link](https://drive.google.com/drive/folders/1GcgXrd7apn6y4Ze_iSCncskX3UsWPY2r?usp=sharing) |
-| lung                      | Pretrained on 2.1 million lung cells                    | [link](https://drive.google.com/drive/folders/16A1DJ30PT6bodt4bWLa4hpS7gbWZQFBG?usp=sharing) |
-| kidney                    | Pretrained on 814 thousand kidney cells                 | [link](https://drive.google.com/drive/folders/1S-1AR65DF120kNFpEbWCvRHPhpkGK3kK?usp=sharing) |
-| pan-cancer                | Pretrained on 5.7 million cells of various cancer types | [link](https://drive.google.com/drive/folders/13QzLHilYUd0v3HTwa_9n4G4yEF-hdkqa?usp=sharing) |
+### Major Data Sources for Pretraining
+
+We collected a total of **226,555 human DNA methylation profiles** aggregated from **5,281 datasets** through two complementary resources: EWAS Data Hub and Clockbase.
+
+| Data Sources                         | Datasets (Combined) | DNA Methylation Profiles | Description                                                                                  | Links                                                                                     |
+|--------------------------------------|---------------------|--------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| EWAS Data Hub & Clockbase (Combined) | 5,281               | 226,555                  | Aggregated high-quality human DNA methylation profiles curated for pretraining purposes.     | [EWAS Data Hub](https://bigd.big.ac.cn/ewas/datahub) • [Clockbase](https://clockbase.org)     |
+
+### Available Pretraining Models
+
+Our current suite of pretraining models includes the following architectures:
+
+| Model             | Hyperparameters                     | Parameters |
+|-------------------|-------------------------------------|------------|
+| methylGPT-tiny    | emb-dim: 64, layers: 6, heads: 4     | 3M         |
+| methylGPT-small   | emb-dim: 128, layers: 6, heads: 4    | 7M         |
+| methylGPT-normal  | emb-dim: 256, layers: 6, heads: 4    | 15M        |
+
+### Usage
+
+- **Recommended model:** We suggest using the `methylGPT-normal` model for most applications unless computational constraints require a lighter model.
+- **Checkpoint folders:** We don't provide checkpoints yet. #Each model checkpoint is provided along with a paired vocabulary file mapping gene names to IDs.
 
 ## Fine-tune methylGPT for age prediction
 
-Please see our example code in [tutorials/finetuning_age_prediction](tutorials/finetuning_age_prediction/finetuning_age_main.py). By default, the script assumes the scGPT checkpoint folder stored in the `examples/save` directory.
+Please see our example code in [tutorials/finetuning_age_prediction](tutorials/finetuning_age_prediction/finetuning_age_main.py). 
 
 ## To-do-list
 
@@ -83,7 +89,7 @@ Please see our example code in [tutorials/finetuning_age_prediction](tutorials/f
 
 ## Contributing
 
-We greatly welcome contributions to methylGPT. Please submit a pull request if you have any ideas or bug fixes. We also welcome any issues you encounter while using scGPT.
+We greatly welcome contributions to methylGPT. Please submit a pull request if you have any ideas or bug fixes. We also welcome any issues you encounter while using methylGPT.
 
 ## Acknowledgements
 
@@ -98,7 +104,7 @@ We sincerely thank the authors of following open-source projects:
 - [scGPT](https://github.com/bowang-lab/scGPT)
 
 
-## Citing scGPT
+## Citing methylGPT
 
 ```bibtex
 @article{ying2024methylgpt,
