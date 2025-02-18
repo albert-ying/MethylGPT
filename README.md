@@ -15,8 +15,6 @@ This is the official codebase for **methylGPT : a foundation model for the DNA m
 
 ## Installation
 
-Architecture Note : MethylGPT's backend architecture is largely based on [scGPT](https://github.com/bowang-lab/scGPT), developed by the Wang Lab. As such, our project inherits and follows similar dependencies and architectural patterns. We acknowledge and thank the scGPT team for their foundational work.
-
 methylGPT works with Python >= 3.9.10  and R >=3.6.1. Please make sure you have the correct version of Python and R installed pre-installation.
 
 methylGPT is available on PyPI. To install methylGPT, run the following command:
@@ -92,6 +90,8 @@ Please see our example code in [tutorials/finetuning_age_prediction](tutorials/f
 We greatly welcome contributions to methylGPT. Please submit a pull request if you have any ideas or bug fixes. We also welcome any issues you encounter while using methylGPT.
 
 ## Acknowledgements
+
+MethylGPT's backend architecture is largely based on [scGPT](https://github.com/bowang-lab/scGPT), developed by the Wang Lab. As such, our project inherits and follows similar dependencies and architectural patterns. We acknowledge and thank the scGPT team for their foundational work.
 
 We sincerely thank the authors of following open-source projects:
 
