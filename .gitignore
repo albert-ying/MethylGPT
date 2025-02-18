@@ -1,6 +1,7 @@
 # Ignore everything in the data directory
 data/*
 save/*
+methylgpt_env/*
 
 # But do not ignore the directory itself
 !data/
