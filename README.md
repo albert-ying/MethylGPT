@@ -1,5 +1,8 @@
 # MethylGPT
 
+![schem](https://github.com/user-attachments/assets/a47c1d49-7bab-4556-921b-de01129b8e36)
+
+
 This is the official codebase for **methylGPT : a foundation model for the DNA methylome**.
 
 
