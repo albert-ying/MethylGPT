@@ -8,12 +8,15 @@ This is the official codebase for **methylGPT : a foundation model for the DNA m
 
 [![Preprint](https://img.shields.io/badge/preprint-available-brightgreen)](https://www.biorxiv.org/content/10.1101/2024.10.30.621013v2) &nbsp;
 [![PyPI version](https://badge.fury.io/py/scgpt.svg)](https://pypi.org/project/methylgpt/) &nbsp;
-#[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/username/repo/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/username/repo/blob/main/LICENSE)
 
 **!UPDATE**: 
+
 **[2025.02.10]** methylGPT is now available on PyPI
+
 **[2024.12.10]** We made initial launching of the methylGPT codebase.
-**[2025.11.04]** Manuscript available on arXiv
+
+**[2024.11.04]** Manuscript available on biorXiv
 
 
 ## Installation
