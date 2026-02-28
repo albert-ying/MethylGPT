@@ -74,6 +74,7 @@ MethylGPT leverages one of the largest DNA methylation corpora ever assembled, c
 - **Preprocessed dataset type3 (default)**: [Download here](https://www.dropbox.com/scl/fi/bbs6sxlkpbx11rhyvdfto/processed_type3_parquet_shuffled.tar.gz?rlkey=s73utmumq6xldmv3y6kh9bz75&st=8pslwy2a&dl=0)  
 - **Preprocessed dataset CpG IDs type3 (default)**: [Download here](https://www.dropbox.com/scl/fi/2n6bx7j8v0aon0kwfsghp/probe_ids_type3.csv?rlkey=ly133xlce1xxjiku6tiski6qq&st=pig4e41h&dl=0)
 
+You can also load these data from a LaminDB instance: https://lamin.ai/laminlabs/methyldata
 
 ### Available Pretraining Models
 
