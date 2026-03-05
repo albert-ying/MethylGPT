@@ -1,0 +1,51 @@
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0,1]
+
+  | Name             | Type             | Params
+------------------------------------------------------
+0 | pretrained_model | TransformerModel | 3.3 M
+1 | age_head         | ResNet1D         | 47.1 K
+------------------------------------------------------
+3.4 M     Trainable params
+0         Non-trainable params
+3.4 M     Total params
+13.497    Total estimated model params size (MB)
+Finetuning script failed: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/finetuning_age_main.py", line 291, in <module>
+    train(cli_args, config_from_yaml) # Pass the whole YAML config
+  File "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/finetuning_age_main.py", line 234, in train
+    trainer.fit(model, train_loader, [valid_loader, test_loader])
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 544, in fit
+    call._call_and_handle_interrupt(
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 43, in _call_and_handle_interrupt
+    return trainer.strategy.launcher.launch(trainer_fn, *args, trainer=trainer, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/strategies/launchers/subprocess_script.py", line 102, in launch
+    return function(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 580, in _fit_impl
+    self._run(model, ckpt_path=ckpt_path)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 989, in _run
+    results = self._run_stage()
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 1033, in _run_stage
+    self._run_sanity_check()
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 1059, in _run_sanity_check
+    call._call_callback_hooks(self, "on_sanity_check_start")
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 208, in _call_callback_hooks
+    fn(trainer, trainer.lightning_module, *args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/callbacks/progress/tqdm_progress.py", line 246, in on_sanity_check_start
+    self.val_progress_bar = self.init_sanity_tqdm()
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/callbacks/progress/tqdm_progress.py", line 183, in init_sanity_tqdm
+    return Tqdm(
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/callbacks/progress/tqdm_progress.py", line 42, in __init__
+    super().__init__(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/tqdm/std.py", line 1096, in __init__
+    self.sp = self.status_printer(self.fp)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/tqdm/std.py", line 449, in status_printer
+    getattr(sys.stdout, 'flush', lambda: None)()
+BrokenPipeError: [Errno 32] Broken pipe
+Exception ignored in: <function tqdm.__del__ at 0x7796f761eaf0>
+Traceback (most recent call last):
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/tqdm/std.py", line 1148, in __del__
+    self.close()
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/tqdm/std.py", line 1277, in close
+    if self.last_print_t < self.start_t + self.delay:
+AttributeError: 'Tqdm' object has no attribute 'last_print_t'

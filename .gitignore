@@ -1,15 +1,52 @@
-# Ignore everything in the data directory
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Virtual environments
+methylgpt_env/*
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data directories (keep directory structure, ignore contents)
 data/*
 save/*
-methylgpt_env/*
-
-tutorials/pretraining/data_example/*
-tutorials/pretraining/save/*
-
-# But do not ignore the directory itself
 !data/
 !save/
 
-# If there are specific files or subdirectories within data that you do not want to ignore, unignore them like this:
-#!data/keep_this_file.txt
-#!data/subdirectory/
+# Tutorial working data and large files
+tutorials/*/data/
+tutorials/pretraining/data_example/*
+tutorials/pretraining/save/*
+*.parquet
+*.tar.gz
+*.zip
+
+# Build artifacts
+poetry.lock
+
+# Misc
+misc/
+
+# Tests (kept locally, not in public repo)
+tests/
+
+# Logs
+*.log
+wandb/
+lightning_logs/

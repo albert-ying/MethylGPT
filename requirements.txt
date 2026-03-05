@@ -1,0 +1,26 @@
+# MethylGPT core dependencies
+# Tested on Python 3.9, 3.10, 3.11
+#
+# Install: pip install -r requirements.txt
+# For GPU support, install PyTorch with CUDA first:
+#   pip install torch==2.1.0 --index-url https://download.pytorch.org/whl/cu121
+
+torch==2.1.0
+torchtext==0.16.0
+numpy==1.26.4
+pandas==2.0.3
+scipy==1.13.1
+scikit-learn==1.6.1
+lightning==2.1.4
+tqdm>=4.65.0
+datasets>=2.14.0
+
+# Optional: tutorials (uncomment to install)
+# umap-learn>=0.5.5
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+# jupyter
+# aquarel>=0.0.6
+
+# Optional: flash attention for faster GPU inference (uncomment to install)
+# flash-attn>=2.0

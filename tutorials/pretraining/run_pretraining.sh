@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 RUN_PREPROCESSING=true # TOCHANGE
 # Inputs (expected in the script's execution directory)

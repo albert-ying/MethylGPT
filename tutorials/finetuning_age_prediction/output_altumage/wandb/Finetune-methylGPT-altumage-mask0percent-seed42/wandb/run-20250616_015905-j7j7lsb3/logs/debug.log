@@ -1,0 +1,76 @@
+2025-06-16 01:59:05,575 INFO    MainThread:2433879 [wandb_setup.py:_flush():81] Current SDK version is 0.20.1
+2025-06-16 01:59:05,576 INFO    MainThread:2433879 [wandb_setup.py:_flush():81] Configure stats pid to 2433879
+2025-06-16 01:59:05,576 INFO    MainThread:2433879 [wandb_setup.py:_flush():81] Loading settings from /home/kying/.config/wandb/settings
+2025-06-16 01:59:05,576 INFO    MainThread:2433879 [wandb_setup.py:_flush():81] Loading settings from /Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/wandb/settings
+2025-06-16 01:59:05,576 INFO    MainThread:2433879 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2025-06-16 01:59:05,576 INFO    MainThread:2433879 [wandb_init.py:setup_run_log_directory():703] Logging user logs to /Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/output_altumage/wandb/Finetune-methylGPT-altumage-mask0percent-seed42/wandb/run-20250616_015905-j7j7lsb3/logs/debug.log
+2025-06-16 01:59:05,576 INFO    MainThread:2433879 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to /Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/output_altumage/wandb/Finetune-methylGPT-altumage-mask0percent-seed42/wandb/run-20250616_015905-j7j7lsb3/logs/debug-internal.log
+2025-06-16 01:59:05,576 INFO    MainThread:2433879 [wandb_init.py:init():831] calling init triggers
+2025-06-16 01:59:05,576 INFO    MainThread:2433879 [wandb_init.py:init():836] wandb.init called with sweep_config: {}
+config: {'seed': 42, 'input_type': 'CpGs_type3', 'parquet_dir': 'processed_dataset/processed_type3_parquet_shuffled', 'probe_id_dir': 'processed_dataset/probe_ids_type3.csv', 'qced_data_table': 'QCed_samples_type3.csv', 'valid_ratio': 0.1, 'n_hvg': 49156, 'max_fi': 500000, 'do_train': True, 'load_model': None, 'mask_ratio': 0.0, 'GEPC': True, 'dab_weight': 1.0, 'pretraining_dataset_name': 'CpGs_type3', 'epochs': 100, 'ecs_thres': 0.0, 'lr': 0.001, 'batch_size': 1, 'layer_size': 64, 'nlayers': 6, 'nhead': 4, 'dropout': 0.1, 'schedule_ratio': 0.9, 'save_eval_interval': 10, 'log_interval': 1000, 'fast_transformer': True, 'pre_norm': False, 'amp': True, 'project': 'methylGPT-Finetune-AltumAge', 'pretrained_model_args_path': 'pretrained_models/tiny/args.json', 'pretrained_file': 'pretrained_models/tiny/tiny-best_model_epoch10.pt', 'weights_save_path': 'finetune_checkpoints/altumage/', 'probe_id_file': '/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/probe_ids_type3.csv', 'data_dir': '/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/data/altumage_metadata/', 'train_file_name': 'altumage_train.parquet', 'valid_file_name': 'altumage_valid.parquet', 'test_file_name': 'altumage_test.parquet', 'dataset': 'altumage', 'cpg_sites': 49156, 'mlm_wt': 0, 'weight_decay': 0.01, 'gradient_clip_val': 1.0, 'log_every_n_steps': 10, 'pretrained_lr': '1e-5', 'head_lr': '1e-4', 'train_batch_size': 1, 'valid_batch_size': 1, 'max_epochs': 50, 'mode': 'train', 'valid_ckpt_path': 'None', 'wandb': True, 'config_file': '/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/train_methyGPT_altumage.yml', 'gpus': 'cuda:1', 'output_dir': '/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/output_altumage/', 'mask_seed': 42, 'version': 'Finetune-methylGPT-altumage-mask0percent-seed42', 'weights_name': 'Finetune-methylGPT-altumage-mask0percent-seed42_{epoch:02d}-{step:02d}-{valid_medae:.4f}-{valid_mae:.4f}-{valid_s_r:.4f}-{test_medae:.4f}-{test_mae:.4f}-{test_s_r:.4f}', '_wandb': {}}
+2025-06-16 01:59:05,576 INFO    MainThread:2433879 [wandb_init.py:init():872] starting backend
+2025-06-16 01:59:05,970 INFO    MainThread:2433879 [wandb_init.py:init():875] sending inform_init request
+2025-06-16 01:59:05,976 INFO    MainThread:2433879 [wandb_init.py:init():883] backend started and connected
+2025-06-16 01:59:05,992 INFO    MainThread:2433879 [wandb_init.py:init():956] updated telemetry
+2025-06-16 01:59:06,254 INFO    MainThread:2433879 [wandb_init.py:init():980] communicating run to backend with 90.0 second timeout
+2025-06-16 01:59:06,455 INFO    MainThread:2433879 [wandb_init.py:init():1032] starting run threads in backend
+2025-06-16 01:59:06,772 INFO    MainThread:2433879 [wandb_run.py:_console_start():2453] atexit reg
+2025-06-16 01:59:06,773 INFO    MainThread:2433879 [wandb_run.py:_redirect():2301] redirect: wrap_raw
+2025-06-16 01:59:06,773 INFO    MainThread:2433879 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2025-06-16 01:59:06,773 INFO    MainThread:2433879 [wandb_run.py:_redirect():2393] Redirects installed.
+2025-06-16 01:59:06,776 INFO    MainThread:2433879 [wandb_init.py:init():1078] run started, returning control to user process
+2025-06-16 01:59:11,023 INFO    MsgRouterThr:2433879 [mailbox.py:close():129] [no run ID] Closing mailbox, abandoning 1 handles.
+2025-06-16 01:59:11,862 ERROR   MainThread:2433879 [redirect.py:_on_write():664] [no run ID] error in stdout callback
+Traceback (most recent call last):
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 662, in _on_write
+    cb(written_data)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2374, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 391, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 449, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1561, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/interface/interface.py", line 772, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 174, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2025-06-16 01:59:11,863 ERROR   MainThread:2433879 [redirect.py:_on_write():664] [no run ID] error in stdout callback
+Traceback (most recent call last):
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 662, in _on_write
+    cb(written_data)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2374, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 391, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 449, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1561, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/interface/interface.py", line 772, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 174, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe

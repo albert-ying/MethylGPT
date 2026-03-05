@@ -1,0 +1,62 @@
+{
+  "os": "Linux-6.13.8-arch1-1-x86_64-with-glibc2.41",
+  "python": "CPython 3.9.21",
+  "startedAt": "2025-06-16T05:38:59.154959Z",
+  "args": [
+    "--config_file",
+    "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/train_methyGPT_altumage.yml",
+    "--gpus",
+    "cuda:1",
+    "--data_dir",
+    "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/data/altumage_metadata/",
+    "--output_dir",
+    "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/output_altumage/",
+    "--probe_id_file",
+    "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/probe_ids_type3.csv"
+  ],
+  "program": "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/finetuning_age_main.py",
+  "codePath": "tutorials/finetuning_age_prediction/finetuning_age_main.py",
+  "git": {
+    "remote": "git@github.com:albert-ying/MethylGPT.git",
+    "commit": "ca14cc27e2f9209c36a42e203d969cf82dd161eb"
+  },
+  "email": "l_camillo@me.com",
+  "root": "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/output_altumage/wandb/Finetune-methylGPT-altumage-mask0percent-seed42",
+  "host": "chronos",
+  "executable": "/home/kying/anaconda3/envs/methygpt/bin/python",
+  "codePathLocal": "finetuning_age_main.py",
+  "cpu_count": 128,
+  "cpu_count_logical": 256,
+  "gpu": "NVIDIA H100 NVL",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "1562421993472",
+      "used": "1447828291584"
+    }
+  },
+  "memory": {
+    "total": "540454584320"
+  },
+  "cpu": {
+    "count": 128,
+    "countLogical": 256
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA H100 NVL",
+      "memoryTotal": "100485038080",
+      "cudaCores": 16896,
+      "architecture": "Hopper",
+      "uuid": "GPU-d1aa5d5d-8e12-6d28-9fc3-316a460a01a1"
+    },
+    {
+      "name": "NVIDIA H100 NVL",
+      "memoryTotal": "100485038080",
+      "cudaCores": 16896,
+      "architecture": "Hopper",
+      "uuid": "GPU-20c47653-0fb5-ca1a-17ac-7c441b39dd5b"
+    }
+  ],
+  "cudaVersion": "12.8"
+}

@@ -1,0 +1,156 @@
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0,1]
+
+  | Name             | Type             | Params
+------------------------------------------------------
+0 | pretrained_model | TransformerModel | 3.3 M
+1 | age_head         | ResNet1D         | 47.1 K
+------------------------------------------------------
+3.4 M     Trainable params
+0         Non-trainable params
+3.4 M     Total params
+13.497    Total estimated model params size (MB)
+Epoch 0:   0%|                                                                                                  | 0/5461 [00:00<?, ?it/s]DEBUG: Batch 0 - Model device: cuda:1
+/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/transformer.py:380: UserWarning: nested_from_padded CUDA kernels only support fp32/fp16; falling back to slower generic kernel (Triggered internally at ../aten/src/ATen/native/nested/cuda/NestedTensorTransformerFunctions.cpp:52.)
+  output = torch._nested_tensor_from_mask(output, src_key_padding_mask.logical_not(), mask_check=False)
+/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/transformer.py:380: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. (Triggered internally at ../aten/src/ATen/NestedTensorImpl.cpp:178.)
+  output = torch._nested_tensor_from_mask(output, src_key_padding_mask.logical_not(), mask_check=False)
+/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/loss.py:535: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)
+/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/loss.py:101: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.l1_loss(input, target, reduction=self.reduction)
+/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/loss.py:535: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)
+/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/loss.py:101: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.l1_loss(input, target, reduction=self.reduction)
+/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/loss.py:535: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)
+/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/loss.py:101: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.l1_loss(input, target, reduction=self.reduction)
+/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/loss.py:535: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)
+/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/loss.py:101: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.l1_loss(input, target, reduction=self.reduction)
+/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/fintuning_age_metrics.py:28: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  pearson_r = pearsonr(labels, preds)[0]
+/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/fintuning_age_metrics.py:32: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  sp_cor = spearmanr(labels, preds)[0]
+/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/fintuning_age_metrics.py:28: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  pearson_r = pearsonr(labels, preds)[0]
+/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/fintuning_age_metrics.py:32: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  sp_cor = spearmanr(labels, preds)[0]
+DEBUG: Batch 0 - gene_id device: cuda:1
+DEBUG: Batch 0 - target_value device: cuda:1
+DEBUG: Batch 0 - ages_label device: cuda:1
+Finetuning script failed: CUDA out of memory. Tried to allocate 18.01 GiB. GPU 1 has a total capacty of 93.10 GiB of which 1.53 GiB is free. Including non-PyTorch memory, this process has 91.56 GiB memory in use. Of the allocated memory 90.48 GiB is allocated by PyTorch, and 63.90 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/finetuning_age_main.py", line 300, in <module>
+    train(cli_args, config_from_yaml) # Pass the whole YAML config
+  File "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/finetuning_age_main.py", line 243, in train
+    trainer.fit(model, train_loader, [valid_loader, test_loader])
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 544, in fit
+    call._call_and_handle_interrupt(
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 43, in _call_and_handle_interrupt
+    return trainer.strategy.launcher.launch(trainer_fn, *args, trainer=trainer, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/strategies/launchers/subprocess_script.py", line 102, in launch
+    return function(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 580, in _fit_impl
+    self._run(model, ckpt_path=ckpt_path)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 989, in _run
+    results = self._run_stage()
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 1035, in _run_stage
+    self.fit_loop.run()
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/loops/fit_loop.py", line 202, in run
+    self.advance()
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/loops/fit_loop.py", line 359, in advance
+    self.epoch_loop.run(self._data_fetcher)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/loops/training_epoch_loop.py", line 136, in run
+    self.advance(data_fetcher)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/loops/training_epoch_loop.py", line 240, in advance
+    batch_output = self.automatic_optimization.run(trainer.optimizers[0], batch_idx, kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 187, in run
+    self._optimizer_step(batch_idx, closure)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 265, in _optimizer_step
+    call._call_lightning_module_hook(
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 157, in _call_lightning_module_hook
+    output = fn(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/core/module.py", line 1291, in optimizer_step
+    optimizer.step(closure=optimizer_closure)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/core/optimizer.py", line 151, in step
+    step_output = self._strategy.optimizer_step(self._optimizer, closure, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/strategies/ddp.py", line 265, in optimizer_step
+    optimizer_output = super().optimizer_step(optimizer, closure, model, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/strategies/strategy.py", line 230, in optimizer_step
+    return self.precision_plugin.optimizer_step(optimizer, model=model, closure=closure, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/plugins/precision/precision.py", line 117, in optimizer_step
+    return optimizer.step(closure=closure, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/optim/optimizer.py", line 373, in wrapper
+    out = func(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/optim/optimizer.py", line 76, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/optim/adam.py", line 143, in step
+    loss = closure()
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/plugins/precision/precision.py", line 104, in _wrap_closure
+    closure_result = closure()
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 140, in __call__
+    self._result = self.closure(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 126, in closure
+    step_output = self._step_fn()
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 315, in _training_step
+    training_step_output = call._call_strategy_hook(trainer, "training_step", *kwargs.values())
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 309, in _call_strategy_hook
+    output = fn(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/strategies/strategy.py", line 381, in training_step
+    return self._forward_redirection(self.model, self.lightning_module, "training_step", *args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/strategies/strategy.py", line 633, in __call__
+    wrapper_output = wrapper_module(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/parallel/distributed.py", line 1519, in forward
+    else self._run_ddp_forward(*inputs, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/parallel/distributed.py", line 1355, in _run_ddp_forward
+    return self.module(*inputs, **kwargs)  # type: ignore[index]
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/lightning/pytorch/strategies/strategy.py", line 626, in wrapped_forward
+    out = method(*_args, **_kwargs)
+  File "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/finetuning_age_models.py", line 142, in training_step
+    pred_age_norm = self(gene_id, target_value)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/finetuning_age_models.py", line 124, in forward
+    embs = self.get_embeddings(self.pretrained_model, gene_ids, values)[:, 1:, :]
+  File "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/finetuning_age_models.py", line 294, in get_embeddings
+    transformer_output = model._encode(
+  File "/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/methylgpt/modules/scGPT/scgpt/model/model.py", line 194, in _encode
+    output = self.transformer_encoder(
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/transformer.py", line 387, in forward
+    output = mod(output, src_mask=mask, is_causal=is_causal, src_key_padding_mask=src_key_padding_mask_for_layers)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/transformer.py", line 707, in forward
+    x = self.norm1(x + self._sa_block(x, src_mask, src_key_padding_mask, is_causal=is_causal))
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/transformer.py", line 715, in _sa_block
+    x = self.self_attn(x, x, x,
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/modules/activation.py", line 1241, in forward
+    attn_output, attn_output_weights = F.multi_head_attention_forward(
+  File "/home/kying/anaconda3/envs/methygpt/lib/python3.9/site-packages/torch/nn/functional.py", line 5440, in multi_head_attention_forward
+    attn_output = scaled_dot_product_attention(q, k, v, attn_mask, dropout_p, is_causal)
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 18.01 GiB. GPU 1 has a total capacty of 93.10 GiB of which 1.53 GiB is free. Including non-PyTorch memory, this process has 91.56 GiB memory in use. Of the allocated memory 90.48 GiB is allocated by PyTorch, and 63.90 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF

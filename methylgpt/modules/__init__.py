@@ -1,6 +1,1 @@
-import sys
-sys.path.append("scGPT")
-
-# Import scGPT
-
-import scgpt
+"""Vendored external modules (scGPT)."""

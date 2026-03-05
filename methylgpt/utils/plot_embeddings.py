@@ -1,4 +1,3 @@
-import os
 import pickle
 
 import matplotlib.pyplot as plt
@@ -7,6 +6,7 @@ import seaborn as sns
 import umap
 
 ##
+
 
 def plot_umap_categorical(feature, data, save_as=None, dpi=600):
     top_categories = data[feature].value_counts().nlargest(10).index
@@ -29,14 +29,15 @@ def plot_umap_categorical(feature, data, save_as=None, dpi=600):
     plt.title(f"UMAP of Sample Embeddings Colored by Top 10 {feature}")
     plt.xlabel("UMAP Component 1")
     plt.ylabel("UMAP Component 2")
-    
+
     # Modify legend
     plt.legend(title=feature, bbox_to_anchor=(1.05, 1), loc="upper left", markerscale=3)
-    
+
     # Save the plot
     if save_as:
         plt.savefig(save_as, bbox_inches="tight", dpi=dpi)
     plt.show()
+
 
 # Function to plot UMAP with a numerical feature
 def plot_umap_numerical(feature, data, save_as=None, dpi=600):
@@ -80,7 +81,6 @@ if __name__ == "__main__":
     cell_list = valid_cell_emb["cell_list"]
     umap_emb = valid_umap_emb
 
-
     cell_emb_df = pd.DataFrame(umap_emb, index=cell_list)
     cell_emb_df.reset_index(inplace=True)
     cell_emb_df.columns = ["GSM_ID", "UMAP1", "UMAP2"]
@@ -110,4 +110,3 @@ if __name__ == "__main__":
         merged_data,
         save_as="Figures/embeding_disease_Aug01-10-12.png",
     )
-

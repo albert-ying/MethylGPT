@@ -1,19 +1,18 @@
 import json
 import pickle
-from pathlib import Path
 from collections import Counter, OrderedDict
+from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple, Union
-from typing_extensions import Self
 
 import numpy as np
 import pandas as pd
 import torch
 import torchtext.vocab as torch_vocab
 from torchtext.vocab import Vocab
+from typing_extensions import Self
 
 # from transformers.tokenization_utils import PreTrainedTokenizer
 # from transformers import AutoTokenizer, BertTokenizer
-
 from .. import logger
 
 

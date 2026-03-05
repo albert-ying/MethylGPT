@@ -1,0 +1,15 @@
+{"time":"2025-06-16T01:59:05.989136776-04:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/output_altumage/wandb/Finetune-methylGPT-altumage-mask0percent-seed42/wandb/run-20250616_015905-j7j7lsb3/logs/debug-core.log"}
+{"time":"2025-06-16T01:59:06.260891903-04:00","level":"INFO","msg":"stream: created new stream","id":"j7j7lsb3"}
+{"time":"2025-06-16T01:59:06.260975573-04:00","level":"INFO","msg":"stream: started","id":"j7j7lsb3"}
+{"time":"2025-06-16T01:59:06.261025749-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"j7j7lsb3"}
+{"time":"2025-06-16T01:59:06.261061327-04:00","level":"INFO","msg":"handler: started","stream_id":"j7j7lsb3"}
+{"time":"2025-06-16T01:59:06.261033202-04:00","level":"INFO","msg":"sender: started","stream_id":"j7j7lsb3"}
+{"time":"2025-06-16T01:59:06.461870813-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-16T01:59:11.025210871-04:00","level":"INFO","msg":"stream: closing","id":"j7j7lsb3"}
+{"time":"2025-06-16T01:59:11.025270751-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-16T01:59:11.025306667-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-16T01:59:11.328314858-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-16T01:59:11.497037992-04:00","level":"INFO","msg":"handler: closed","stream_id":"j7j7lsb3"}
+{"time":"2025-06-16T01:59:11.497091001-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"j7j7lsb3"}
+{"time":"2025-06-16T01:59:11.497185534-04:00","level":"INFO","msg":"sender: closed","stream_id":"j7j7lsb3"}
+{"time":"2025-06-16T01:59:11.497194115-04:00","level":"INFO","msg":"stream: closed","id":"j7j7lsb3"}

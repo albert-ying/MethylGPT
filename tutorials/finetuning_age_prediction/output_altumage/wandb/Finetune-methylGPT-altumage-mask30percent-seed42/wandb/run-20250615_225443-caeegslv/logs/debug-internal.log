@@ -1,0 +1,15 @@
+{"time":"2025-06-15T22:54:43.58406231-04:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/output_altumage/wandb/Finetune-methylGPT-altumage-mask30percent-seed42/wandb/run-20250615_225443-caeegslv/logs/debug-core.log"}
+{"time":"2025-06-15T22:54:43.844474665-04:00","level":"INFO","msg":"stream: created new stream","id":"caeegslv"}
+{"time":"2025-06-15T22:54:43.844530347-04:00","level":"INFO","msg":"stream: started","id":"caeegslv"}
+{"time":"2025-06-15T22:54:43.844581643-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"caeegslv"}
+{"time":"2025-06-15T22:54:43.844613323-04:00","level":"INFO","msg":"handler: started","stream_id":"caeegslv"}
+{"time":"2025-06-15T22:54:43.844600125-04:00","level":"INFO","msg":"sender: started","stream_id":"caeegslv"}
+{"time":"2025-06-15T22:54:44.0212284-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-15T22:54:48.494963569-04:00","level":"INFO","msg":"stream: closing","id":"caeegslv"}
+{"time":"2025-06-15T22:54:48.495025388-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-15T22:54:48.495059393-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-15T22:54:48.833154802-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-15T22:54:48.987050672-04:00","level":"INFO","msg":"handler: closed","stream_id":"caeegslv"}
+{"time":"2025-06-15T22:54:48.987144571-04:00","level":"INFO","msg":"sender: closed","stream_id":"caeegslv"}
+{"time":"2025-06-15T22:54:48.987113547-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"caeegslv"}
+{"time":"2025-06-15T22:54:48.987325527-04:00","level":"INFO","msg":"stream: closed","id":"caeegslv"}

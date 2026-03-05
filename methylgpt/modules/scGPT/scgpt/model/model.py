@@ -1,14 +1,13 @@
-import gc
 import math
-from typing import Dict, Mapping, Optional, Tuple, Any, Union
+from typing import Any, Dict, Mapping, Optional, Union
 
-import torch
 import numpy as np
-from torch import nn, Tensor
+import torch
 import torch.distributed as dist
 import torch.nn.functional as F
-from torch.nn import TransformerEncoder, TransformerEncoderLayer
+from torch import Tensor, nn
 from torch.distributions import Bernoulli
+from torch.nn import TransformerEncoder, TransformerEncoderLayer
 from tqdm import trange
 
 try:

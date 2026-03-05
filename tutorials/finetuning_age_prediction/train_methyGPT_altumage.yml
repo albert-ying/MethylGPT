@@ -1,0 +1,52 @@
+project : "methylGPT-Finetune-AltumAge"
+
+# Path to the args.json from the downloaded pretrained model
+pretrained_model_args_path : "pretrained_models/tiny/args.json" 
+# Path to the pretrained model weights (.pt file)
+pretrained_file : "pretrained_models/tiny/tiny-best_model_epoch10.pt" # Updated model file name
+
+weights_save_path : "finetune_checkpoints/altumage/" # Where to save fine-tuned model checkpoints
+
+# Relative paths to the altumage dataset files
+# train_file : "data/altumage_metadata/altumage_train.parquet"
+# valid_file : "data/altumage_metadata/altumage_valid.parquet"
+# test_file : "data/altumage_metadata/altumage_test.parquet"
+
+# Data directory - this will be combined with specific file names below
+# The actual file paths will be constructed in finetuning_age_main.py
+# data_dir: "data/altumage_metadata" 
+# train_file_name: "altumage_train.parquet"
+# valid_file_name: "altumage_valid.parquet"
+# test_file_name: "altumage_test.parquet"
+
+# Path to the probe ID file, relative to the finetuning_age_prediction directory
+probe_id_file: "probe_ids_type3.csv"
+
+data_dir: "data/altumage_metadata" 
+train_file_name: "altumage_train.parquet"
+valid_file_name: "altumage_valid.parquet"
+test_file_name: "altumage_test.parquet"
+
+dataset: "altumage" # Identifier for the dataset
+
+# Model and training parameters (can be adjusted as needed)
+cpg_sites: 49156 # Example value, adjust if known for altumage or if it's dynamically determined
+mask_ratio: 0 # This will be overridden by the command line arg to finetuning_age_main.py
+mlm_wt: 0
+weight_decay : 0.01
+gradient_clip_val : 1.0
+log_every_n_steps : 10
+pretrained_lr : 1e-5
+head_lr : 1e-4
+train_batch_size : 1
+valid_batch_size : 1
+max_epochs : 50 # Adjust as needed
+
+
+
+# GPU configuration will be passed from the bash script to finetuning_age_main.py
+# and then used by the PyTorch Lightning Trainer.
+# The 'gpus' key here can serve as a default if not overridden, or be removed if always set by script.
+mode: "train" # Can be "train" or "valid"
+valid_ckpt_path: "None" # Path to a specific checkpoint for validation if mode is "valid"
+wandb: True # Enable or disable Weights & Biases logging

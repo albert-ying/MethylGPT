@@ -8,7 +8,7 @@ from torch import nn, optim
 import numpy as np
 import torch
 import lightning as pl
-from fintuning_age_metrics import regression_metric
+from finetuning_age_metrics import regression_metric
 import torch.optim as optim
 
     
@@ -128,7 +128,16 @@ class methyGPT_Age_Model(pl.LightningModule):
         return pred_age
     
     def training_step(self, batch, batch_idx):
-        gene_id, masked_value, target_value, ages_label, ages_label_norm = batch
+        # DEBUG: Check device placement for first few batches
+        if batch_idx < 3:
+            gene_id, masked_value, target_value, ages_label, ages_label_norm = batch
+            print(f"DEBUG: Batch {batch_idx} - Model device: {self.device}")
+            print(f"DEBUG: Batch {batch_idx} - gene_id device: {gene_id.device}")
+            print(f"DEBUG: Batch {batch_idx} - target_value device: {target_value.device}")
+            print(f"DEBUG: Batch {batch_idx} - ages_label device: {ages_label.device}")
+        else:
+            gene_id, masked_value, target_value, ages_label, ages_label_norm = batch
+            
         if self.model_args["mask_ratio"]==0:
             pred_age_norm = self(gene_id, target_value)
         else:

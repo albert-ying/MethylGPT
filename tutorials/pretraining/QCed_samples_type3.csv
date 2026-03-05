@@ -1,2 +1,2 @@
 chunk_file_name,path,num_cells_in_chunk,num_features_per_cell
-all_cells_chunk_0.parquet,/Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/pretraining/parquet_files/all_cells_chunk_0.parquet,119,49156
+all_cells_chunk_0.parquet,parquet_files/all_cells_chunk_0.parquet,119,49156

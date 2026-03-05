@@ -1,0 +1,164 @@
+_wandb:
+    value:
+        cli_version: 0.20.1
+        m:
+            - "1": trainer/global_step
+              "6":
+                - 3
+              "7": []
+            - "1": lr-Adam/pg1
+              "5": 1
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": lr-Adam/pg2
+              "5": 1
+              "6":
+                - 1
+                - 3
+              "7": []
+        python_version: 3.9.21
+        t:
+            "1":
+                - 1
+                - 5
+                - 40
+                - 41
+                - 49
+                - 51
+                - 53
+                - 54
+                - 106
+            "2":
+                - 1
+                - 5
+                - 40
+                - 41
+                - 49
+                - 51
+                - 53
+                - 54
+                - 106
+            "3":
+                - 7
+                - 13
+                - 16
+                - 55
+                - 66
+            "4": 3.9.21
+            "5": 0.20.1
+            "12": 0.20.1
+            "13": linux-x86_64
+GEPC:
+    value: true
+amp:
+    value: true
+batch_size:
+    value: 1
+cpg_sites:
+    value: 49156
+dab_weight:
+    value: 1
+data_dir:
+    value: /Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/data/altumage_metadata/
+dataset:
+    value: altumage
+do_train:
+    value: true
+dropout:
+    value: 0.1
+ecs_thres:
+    value: 0
+epochs:
+    value: 100
+fast_transformer:
+    value: true
+gpus:
+    value: cuda:1
+gradient_clip_val:
+    value: 1
+head_lr:
+    value: "1e-4"
+input_type:
+    value: CpGs_type3
+layer_size:
+    value: 64
+load_model:
+    value: null
+log_every_n_steps:
+    value: 10
+log_interval:
+    value: 1000
+lr:
+    value: 0.001
+mask_ratio:
+    value: 0
+mask_seed:
+    value: 42
+max_epochs:
+    value: 50
+max_fi:
+    value: 500000
+mlm_wt:
+    value: 0
+mode:
+    value: train
+n_hvg:
+    value: 49156
+nhead:
+    value: 4
+nlayers:
+    value: 6
+output_dir:
+    value: /Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/output_altumage/
+parquet_dir:
+    value: processed_dataset/processed_type3_parquet_shuffled
+pre_norm:
+    value: false
+pretrained_file:
+    value: pretrained_models/tiny/tiny-best_model_epoch10.pt
+pretrained_lr:
+    value: "1e-5"
+pretrained_model_args_path:
+    value: pretrained_models/tiny/args.json
+pretraining_dataset_name:
+    value: CpGs_type3
+probe_id_dir:
+    value: processed_dataset/probe_ids_type3.csv
+probe_id_file:
+    value: /Entropy/Projects/multimodal/kying/A.Y/project/MethylGPT/tutorials/finetuning_age_prediction/probe_ids_type3.csv
+project:
+    value: methylGPT-Finetune-AltumAge
+qced_data_table:
+    value: QCed_samples_type3.csv
+save_eval_interval:
+    value: 10
+schedule_ratio:
+    value: 0.9
+seed:
+    value: 42
+test_file_name:
+    value: altumage_test.parquet
+train_batch_size:
+    value: 1
+train_file_name:
+    value: altumage_train.parquet
+valid_batch_size:
+    value: 1
+valid_ckpt_path:
+    value: None
+valid_file_name:
+    value: altumage_valid.parquet
+valid_ratio:
+    value: 0.1
+version:
+    value: Finetune-methylGPT-altumage-mask0percent-seed42
+wandb:
+    value: true
+weight_decay:
+    value: 0.01
+weights_name:
+    value: Finetune-methylGPT-altumage-mask0percent-seed42_{epoch:02d}-{step:02d}-{valid_medae:.4f}-{valid_mae:.4f}-{valid_s_r:.4f}-{test_medae:.4f}-{test_mae:.4f}-{test_s_r:.4f}
+weights_save_path:
+    value: finetune_checkpoints/altumage/

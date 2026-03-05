@@ -2,19 +2,19 @@ import functools
 import json
 import logging
 import os
-from pathlib import Path
 import random
 import subprocess
+from pathlib import Path
 from typing import Dict, List, Mapping, Optional, Tuple, Union
 
 import numpy as np
-import torch
 import pandas as pd
-from anndata import AnnData
 import scib
-from matplotlib import pyplot as plt
-from matplotlib import axes
+import torch
+from anndata import AnnData
 from IPython import get_ipython
+from matplotlib import axes
+from matplotlib import pyplot as plt
 
 from .. import logger
 
@@ -75,9 +75,7 @@ def isnotebook() -> bool:
 
 def get_free_gpu():
     import subprocess
-    import sys
     from io import StringIO
-    import pandas as pd
 
     gpu_stats = subprocess.check_output(
         [
@@ -286,7 +284,7 @@ def map_raw_id_to_vocab_id(
         return_pt = False
         dtype = raw_ids.dtype
     else:
-        raise ValueError(f"raw_ids must be either torch.Tensor or np.ndarray.")
+        raise ValueError("raw_ids must be either torch.Tensor or np.ndarray.")
 
     if raw_ids.ndim != 1:
         raise ValueError(f"raw_ids must be 1d, got {raw_ids.ndim}d.")

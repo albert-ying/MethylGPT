@@ -1,44 +1,55 @@
-# NotImplemented - The code will be updated soon.
-# MethylGPT CpG Site Imputation
+# Tutorial: CpG Methylation Imputation
 
-MethylGPT enables imputation of CpG site methylation values. Below are detailed instructions for inferring imputed CpG sites using MethylGPT.
+This tutorial demonstrates how to use MethylGPT's masked language model (MLM) head to recover missing CpG methylation values.
 
----
+## Overview
 
-## 📌 Background
+MethylGPT is pre-trained with a masked prediction objective: during training, a fraction of CpG values are masked and the model learns to predict them from surrounding context. This mechanism can be used at inference time to impute missing or held-out methylation values.
 
-MethylGPT is pre-trained on a defined list of CpG sites available here:
-- [Pre-trained CpG list](https://github.com/albert-ying/MethylGPT/blob/main/tutorials/pretraining/probe_ids_type3.csv)
+## Files
 
-Depending on the presence of your target CpG site in this list, follow the respective scenarios below:
+- **`imputation.ipynb`** -- Interactive notebook demonstrating the full imputation pipeline
+- **`README.md`** -- This file
 
----
+## Quick Start
 
-## 🚩 Scenario 1: Target CpG is in Training List
+```bash
+# 1. Download model and data (from tutorials/ root)
+bash download_data.sh
 
-If your target CpG site exists in the pre-trained list, follow these steps:
+# 2. Run the notebook
+jupyter notebook imputation.ipynb
+```
 
-1. **Locate your CpG site** in your dataset.
-2. **Modify data preprocessing:**
-   - Refer to line 283 in [pretraining.py](https://github.com/albert-ying/MethylGPT/blob/main/methylgpt/pretraining.py)
-   - Add target CpG positions to the `masked_positions` (**not** `imputed_positions`).
-3. **Replace original CpG values** with the designated `mask_value`.
-4. **Run inference:** Execute MethylGPT to infer imputed values, which will be output directly.
+## What the Notebook Covers
 
----
+1. **Load pretrained model** -- Load a MethylGPT checkpoint and CpG vocabulary
+2. **Prepare data** -- Load methylation parquet files and create a DataLoader
+3. **Mask and predict** -- Mask 15% of CpG values, run model forward pass, collect predictions
+4. **Evaluate quality** -- Compare predictions vs ground truth (MAE, RMSE, R-squared, Pearson r)
+5. **Visualize results** -- Scatter plot, residual distribution, MAE by methylation level
 
-## 🚧 Scenario 2: Target CpG is NOT in Training List
+## How Imputation Works
 
-If the target CpG site was not included during initial training, additional fine-tuning is required:
+### Target CpG in Training List
 
-1. **Add the new CpG site** to the existing model vocabulary.
-2. **Fine-tune MethylGPT** with new data containing this CpG site to enable representation learning.
-3. **Post fine-tuning:**
-   - Follow the same instructions as **Scenario 1**.
-   - Add target CpG positions to `masked_positions`.
-   - Replace values with `mask_value`.
-   - Execute inference to get imputed results.
+If your target CpG site exists in the pre-trained CpG list (`probe_ids_type3.csv`):
 
----
+1. Set those CpG positions to the `mask_value` (-1)
+2. Run a forward pass through the model
+3. The `mlm_output` tensor contains predicted values for all positions, including masked ones
 
-Following these steps, you can effectively utilize MethylGPT for accurate CpG site methylation imputation, irrespective of its initial presence in the training dataset.
+### Target CpG Not in Training List
+
+If the target CpG was not included during pre-training, fine-tuning is required:
+
+1. Add the new CpG site to the model vocabulary
+2. Fine-tune with data containing this CpG site
+3. Then follow the masking approach above
+
+## Requirements
+
+- Pre-trained MethylGPT model checkpoint
+- Processed methylation data in parquet format
+- CpG probe ID list (`probe_ids_type3.csv`)
+- GPU recommended for faster inference

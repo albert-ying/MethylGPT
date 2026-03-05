@@ -37,7 +37,20 @@ class CollatableVocab(object):
         self.vocab, self.CpG_ids = self.set_vocab()
     
     def set_vocab(self):
-        CpG_list = pd.read_csv("methylGPT/"+ self.model_args["probe_id_dir"])["illumina_probe_id"].values.tolist()
+        # Determine the directory of the current script (finetuning_age_datasets.py)
+        script_dir = Path(__file__).parent.resolve()
+
+        # model_args["probe_id_file"] is expected to be a filename like "probe_ids_type3.csv"
+        # located in the same directory as this script.
+        probe_file_name = self.model_args["probe_id_file"]
+        probe_file_path = script_dir / probe_file_name
+        
+        print(f"Attempting to load probe IDs from: {probe_file_path}") # For debugging
+
+        if not probe_file_path.is_file():
+            raise FileNotFoundError(f"Probe ID file not found at {probe_file_path}. Please ensure it exists.")
+
+        CpG_list = pd.read_csv(probe_file_path)["illumina_probe_id"].values.tolist()
         CpG_ids = len(self.special_tokens) + np.arange(len(CpG_list))
         vocab = Vocab(VocabPybind(self.special_tokens + CpG_list, None))
         vocab.set_default_index(vocab["<pad>"])

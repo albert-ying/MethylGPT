@@ -2,134 +2,171 @@
 
 ![schem](https://github.com/user-attachments/assets/a47c1d49-7bab-4556-921b-de01129b8e36)
 
-
-This is the official codebase for **methylGPT : a foundation model for the DNA methylome**.
-
+**MethylGPT: a foundation model for the DNA methylome**
 
 [![Preprint](https://img.shields.io/badge/preprint-available-brightgreen)](https://www.biorxiv.org/content/10.1101/2024.10.30.621013v2) &nbsp;
-[![PyPI version](https://badge.fury.io/py/scgpt.svg)](https://pypi.org/project/methylgpt/) &nbsp;
-[![License](https://img.shields.io/badge/license-Apache-blue)](https://github.com/albert-ying/MethylGPT/blob/main/LICENSE)
+[![PyPI version](https://badge.fury.io/py/methylgpt.svg)](https://pypi.org/project/methylgpt/) &nbsp;
+[![License](https://img.shields.io/badge/license-Apache_2.0-blue)](https://github.com/albert-ying/MethylGPT/blob/main/LICENSE)
 
-**!UPDATE**: 
 
-**[2025.02.18]** We released our training dataset comprising 226,555 human DNA methylation profiles from 5,281 datasets - the largest training data set available for DNA methylation  
+## Overview
 
-**[2025.02.10]** methylGPT is now available on PyPI
+MethylGPT is a transformer-based foundation model pretrained on **226,555 human DNA methylation profiles** from **5,281 datasets**. It learns universal representations of the methylome that transfer to downstream tasks including:
 
-**[2024.12.10]** We made initial launching of the methylGPT codebase.
-
-**[2024.11.04]** Manuscript available on biorXiv
+- **Embedding extraction** -- dense sample-level representations for clustering, visualization, and classification
+- **Age prediction** -- biological age estimation from methylation data
+- **Disease prediction** -- disease risk stratification from methylation profiles
+- **Imputation** -- recovery of missing CpG site values
 
 
 ## Installation
 
-methylGPT works with Python >= 3.9.10  and R >=3.6.1. Please make sure you have the correct version of Python and R installed pre-installation.
+**Requirements:** Python 3.9, 3.10, or 3.11 | PyTorch >= 2.0
 
-methylGPT is available on PyPI. To install methylGPT, run the following command:
-
-```bash
-pip install methylgpt "flash-attn<1.0.5"  # optional, recommended
-```
-
-[Optional] We recommend using [wandb](https://wandb.ai/) for logging and visualization.
+### From PyPI (recommended)
 
 ```bash
-pip install wandb
+pip install methylgpt
 ```
 
-For developing, we are using the [Poetry](https://python-poetry.org/) package manager. To install Poetry, follow the instructions [here](https://python-poetry.org/docs/#installation).
+### From requirements.txt (pinned versions)
 
 ```bash
-$ git clone https://github.com/albert-ying/MethylGPT
-$ cd MethylGPT
-$ poetry install
+git clone https://github.com/albert-ying/MethylGPT.git
+cd MethylGPT
+pip install -r requirements.txt
+pip install -e .
 ```
 
-**Note**: The `flash-attn` dependency usually requires specific GPU and CUDA version. If you encounter any issues, please refer to the [flash-attn](https://github.com/HazyResearch/flash-attention/tree/main) repository for installation instructions. For now, May 2023, we recommend using CUDA 11.7 and flash-attn<1.0.5 due to various issues reported about installing new versions of flash-attn.
+### From conda (environment.yml)
+
+```bash
+git clone https://github.com/albert-ying/MethylGPT.git
+cd MethylGPT
+conda env create -f environment.yml
+conda activate methylgpt
+pip install -e .
+```
+
+### From source (for development)
+
+```bash
+git clone https://github.com/albert-ying/MethylGPT.git
+cd MethylGPT
+pip install -e ".[dev]"
+```
+
+### Optional: flash attention
+
+For faster training and inference on supported GPUs:
+
+```bash
+pip install flash-attn --no-build-isolation
+```
 
 
-## Running pretraining
+## Quick Start
 
-The primary pretraining code is implemented in `methylgpt.pretraining.py`. During training, model checkpoints are automatically saved to the `save/` directory at the end of each epoch.
+```python
+import torch
+from methylgpt.model.methyl_model import MethylGPTModel
+from methylgpt.model.methyl_vocab import MethylVocab
 
-For a detailed walkthrough of the pretraining process, refer to our step-by-step examples in the [pretraining tutorials](tutorials/pretraining).
+# Load vocabulary
+vocab = MethylVocab(
+    probe_id_dir="data/probe_ids_type3.csv",
+    pad_token="<pad>",
+    special_tokens=["<pad>", "<cls>", "<eoc>"],
+    save_dir=None,
+)
 
-## Pretrained methylGPT Models
+# Load pretrained model
+config = {
+    "layer_size": 128, "nhead": 4, "nlayers": 6,
+    "dropout": 0.0, "fast_transformer": False, "pre_norm": False,
+    "load_model": True,
+    "pretrained_file": "pretrained_models/methylgpt-medium/best_model.pt",
+}
+model = MethylGPTModel.from_pretrained(config, vocab)
+model.eval()
 
-This repository provides access to our suite of pretraining models for DNA methylation analysis. The major data sources for pretraining are derived from a comprehensive collection of human DNA methylation profiles.
+# Extract embeddings (gene_ids and values from your tokenized data)
+with torch.no_grad():
+    embeddings = model.get_cell_embeddings(gene_ids, values)
+```
 
-### Major Data Sources for Pretraining
-
-We collected a total of **226,555 human DNA methylation profiles** aggregated from **5,281 datasets** through two complementary resources: EWAS Data Hub and Clockbase.
-
-| Data Sources                         | Datasets (Combined) | DNA Methylation Profiles | Description                                                                                  | Links                                                                                     |
-|--------------------------------------|---------------------|--------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| EWAS Data Hub & Clockbase (Combined) | 5,281               | 226,555                  | Aggregated high-quality human DNA methylation profiles curated for pretraining purposes.     | [EWAS Data Hub](https://bigd.big.ac.cn/ewas/datahub) • [Clockbase](https://clockbase.org)     |
+For complete working examples, see the [tutorials](#tutorials) below.
 
 
-### Pretraining Dataset
+## Pretrained Models
 
-MethylGPT leverages one of the largest DNA methylation corpora ever assembled, comprising **226,555 human DNA methylation profiles** meticulously collected from **5,281 datasets** across two complementary resources: EWAS Data Hub and Clockbase. This unprecedented scale enables our foundation model to capture the complex patterns and variations in the human methylome across diverse tissue types, conditions, and developmental stages. Our comprehensive preprocessing pipeline ensures high-quality input data, with pre-processed datasets readily available for download. This extensive pretraining corpus forms the backbone of MethylGPT's remarkable ability to generalize across methylation tasks and generate biologically meaningful predictions, even in low-data settings.
+| Model | Embedding Dim | Layers | Heads | Parameters | Download |
+|---|---|---|---|---|---|
+| **methylGPT-base** | 64 | 6 | 4 | 3M | [Download](https://drive.google.com/drive/folders/1kWdmkkVQpU17uzUC6-wpNR_4UEdxGx6k?usp=share_link) |
+| **methylGPT-medium** | 128 | 6 | 4 | 7M | [Download](https://drive.google.com/drive/folders/14M4wdS83el9PAgh9TdfjSCeEcDPbz34f?usp=sharing) |
+| **methylGPT-large** | 256 | 6 | 4 | 15M | [Download](https://drive.google.com/drive/folders/1lt8SF9MvoytPN3DeaxIss_ED9zNpf_Le?usp=share_link) |
 
-- **Preprocessed dataset type3 (default)**: [Download here](https://www.dropbox.com/scl/fi/bbs6sxlkpbx11rhyvdfto/processed_type3_parquet_shuffled.tar.gz?rlkey=s73utmumq6xldmv3y6kh9bz75&st=8pslwy2a&dl=0)  
-- **Preprocessed dataset CpG IDs type3 (default)**: [Download here](https://www.dropbox.com/scl/fi/2n6bx7j8v0aon0kwfsghp/probe_ids_type3.csv?rlkey=ly133xlce1xxjiku6tiski6qq&st=pig4e41h&dl=0)
+- **base:** Lightweight experiments and quick prototyping.
+- **medium:** Balanced performance for most applications (recommended).
+- **large:** Comprehensive studies and maximum accuracy.
+
+
+## Pretraining Data
+
+The pretraining corpus comprises **226,555 human DNA methylation profiles** from **5,281 datasets** across [EWAS Data Hub](https://bigd.big.ac.cn/ewas/datahub) and [Clockbase](https://clockbase.org).
+
+- **Preprocessed dataset (type3, default):** [Download](https://www.dropbox.com/scl/fi/bbs6sxlkpbx11rhyvdfto/processed_type3_parquet_shuffled.tar.gz?rlkey=s73utmumq6xldmv3y6kh9bz75&st=8pslwy2a&dl=0)
+- **CpG probe IDs (type3, default):** [Download](https://www.dropbox.com/scl/fi/2n6bx7j8v0aon0kwfsghp/probe_ids_type3.csv?rlkey=ly133xlce1xxjiku6tiski6qq&st=pig4e41h&dl=0)
 
 You can also load these data from a LaminDB instance: https://lamin.ai/laminlabs/methyldata
 
-### Available Pretraining Models
+## Tutorials
 
-Our current suite of pretraining models includes the following architectures available for download:
+| Tutorial | Description | Format |
+|---|---|---|
+| [Quickstart](tutorials/quickstart/) | Get started in 5 minutes | Notebook |
+| [Embedding extraction](tutorials/get_embeddings/) | Extract cell-level embeddings from pretrained model | Notebook + script |
+| [Embedding analysis](tutorials/embedding_analysis/) | UMAP visualization, clustering, silhouette scores | Notebook |
+| [Age prediction](tutorials/finetuning_age_prediction/) | Finetune for biological age prediction | Notebook + script |
+| [Disease prediction](tutorials/disease_prediction/) | Disease risk prediction with Ridge regression | Notebook |
+| [Imputation](tutorials/imputation/) | Recover missing CpG values | Notebook |
+| [Pretraining](tutorials/pretraining/) | Train MethylGPT from scratch on methylation data | Script |
+| [CpG selection](tutorials/cpg_selection/) | Feature selection analysis | Notebook |
 
-| Model                | Embedding Dimension | Layers | Heads | Parameters | Download Link                                                                                           |
-|----------------------|---------------------|--------|-------|------------|---------------------------------------------------------------------------------------------------------|
-| **methylGPT-base**   | 64                  | 6      | 4     | 3M         | [Download base](https://drive.google.com/drive/folders/1kWdmkkVQpU17uzUC6-wpNR_4UEdxGx6k?usp=share_link)   |
-| **methylGPT-medium**  | 128                 | 6      | 4     | 7M         | [Download medium](https://drive.google.com/drive/folders/14M4wdS83el9PAgh9TdfjSCeEcDPbz34f?usp=sharing)     |
-| **methylGPT-large** | 256                 | 6      | 4     | 15M        | [Download large](https://drive.google.com/drive/folders/1lt8SF9MvoytPN3DeaxIss_ED9zNpf_Le?usp=share_link) |
+All notebooks include a Colab setup cell and work both locally and on Google Colab.
 
-Choose the appropriate model size based on your computational resources and intended use:
+## Documentation
 
-- **base:** Ideal for lightweight experiments and quick prototyping.
-- **medium:** Suitable for moderate computational resources and intermediate analyses.
-- **large:** Recommended for comprehensive studies and robust analytical tasks.
+| Document | Description |
+|---|---|
+| [Inference Guide](docs/inference_guide.md) | Loading models, extracting embeddings, imputation, GPU/CPU tips |
+| [API Reference](docs/api_reference.md) | Full public API with signatures and descriptions |
+| [Troubleshooting](docs/troubleshooting.md) | Common errors and solutions (flash-attn, CUDA OOM, torchtext, Colab) |
 
 
-### Usage
+## Hardware Requirements
 
-- **Recommended model:** We suggest using the `methylGPT-normal` model for most applications unless computational constraints require a lighter model.
-- **Checkpoint folders:** We don't provide checkpoints yet. #Each model checkpoint is provided along with a paired vocabulary file mapping gene names to IDs.
+- **Inference / embedding extraction:** 1 GPU with >= 8 GB VRAM (or CPU, slower)
+- **Finetuning:** 1 GPU with >= 16 GB VRAM recommended
+- **Pretraining:** 1+ GPUs with >= 40 GB VRAM recommended (H100, A100)
 
-## Fine-tune methylGPT for age prediction
-
-Please see our example code in [tutorials/finetuning_age_prediction](tutorials/finetuning_age_prediction/finetuning_age_main.py). 
-
-## To-do-list
-
-- [x] Upload the pretrained model checkpoint
-- [x] Publish to pypi
-- [ ] Provide the pretraining code with generative attention masking
-- [ ] More tutorial examples for disease prediction
-- [ ] Publish to huggingface model hub
 
 ## Contributing
 
-We greatly welcome contributions to methylGPT. Please submit a pull request if you have any ideas or bug fixes. We also welcome any issues you encounter while using methylGPT.
+We welcome contributions. Please submit a pull request for ideas or bug fixes. Open an issue for questions or problems.
+
 
 ## Acknowledgements
 
-MethylGPT's backend architecture is largely based on [scGPT](https://github.com/bowang-lab/scGPT), developed by the Wang Lab. As such, our project inherits and follows similar dependencies and architectural patterns. We acknowledge and thank the scGPT team for their foundational work.
-
-We sincerely thank the authors of following open-source projects:
+MethylGPT's backend architecture is based on [scGPT](https://github.com/bowang-lab/scGPT) (Wang Lab). We also thank:
 
 - [flash-attention](https://github.com/HazyResearch/flash-attention)
 - [scanpy](https://github.com/scverse/scanpy)
 - [scvi-tools](https://github.com/scverse/scvi-tools)
-- [scib](https://github.com/theislab/scib)
-- [datasets](https://github.com/huggingface/datasets)
-- [transformers](https://github.com/huggingface/transformers)
-- [scGPT](https://github.com/bowang-lab/scGPT)
+- [PyTorch Lightning](https://lightning.ai/)
 
 
-## Citing methylGPT
+## Citing MethylGPT
 
 ```bibtex
 @article{ying2024methylgpt,
@@ -142,7 +179,7 @@ We sincerely thank the authors of following open-source projects:
 }
 ```
 
-The GEO metadata file is derived from the work from the ClockBase. If you use that metadata, please also cite our ClockBase paper.
+If you use the GEO metadata (derived from ClockBase), please also cite:
 
 ```bibtex
 @article{ying2023clockbase,
@@ -153,3 +190,7 @@ The GEO metadata file is derived from the work from the ClockBase. If you use th
   doi={10.1101/2023.02.28.530532}
 }
 ```
+
+## License
+
+[Apache 2.0](LICENSE)
