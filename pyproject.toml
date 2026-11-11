@@ -65,7 +65,7 @@ Repository = "https://github.com/albert-ying/MethylGPT"
 Issues = "https://github.com/albert-ying/MethylGPT/issues"
 
 [tool.setuptools.packages.find]
-include = ["methylgpt*"]
+include = ["methylgpt", "methylgpt.*"]
 
 [tool.ruff]
 line-length = 120

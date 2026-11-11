@@ -8,6 +8,9 @@
 [![PyPI version](https://badge.fury.io/py/methylgpt.svg)](https://pypi.org/project/methylgpt/) &nbsp;
 [![License](https://img.shields.io/badge/license-Apache_2.0-blue)](https://github.com/albert-ying/MethylGPT/blob/main/LICENSE)
 
+## MethylGPT 2
+
+The rebuilt model is in [`methylgpt2/`](methylgpt2/): the `methylgpt2` package (version 1.1.2), its tutorial and test, the analysis code of the revised manuscript and the vocabulary and split tables. The weights (bundle `methylgpt2-1.1`) are attached to the release [`methylgpt2-v1.1.2`](https://github.com/albert-ying/MethylGPT/releases/tag/methylgpt2-v1.1.2). The `methylgpt` package described below is the model of the 2024 preprint.
 
 ## Overview
 
