@@ -31,7 +31,7 @@ pred = model.predict(betas)                            # age, sex, tissue and th
 
 `package/README.md` lists every call and which checkpoint produced which result in the paper. `package/tests/run_quickstart.sh <bundle> <new venv>` installs the package with CPU-only PyTorch in a new environment, runs the tutorial on six public profiles of GSE54848 and compares the predicted ages with those of the analysis code (largest difference 0.002 years; the test fails above 0.01 years; `package/tests/quickstart_fresh_env_2026-10-09.log` is the log of that run). Run on a GPU, `package/tests/check_tutorial_agreement.py` gives a largest difference of 0.004 years.
 
-The analysis scripts import the package (install it first) and contain the data and output paths of the server on which they were run; change these to your copies of the data.
+The analysis scripts import the package (install it first) and contain the data and output paths of the server on which they were run; change these to your copies of the data. Scripts that evaluate the originally submitted model (`*original_model*`, `si_reconstruction_diagnostics_2026-10-18.py`, `diagnostics_2026-09-30/`) load that model and its code from the server; the code of that model is kept at the tags `methylgpt-original-2025-08-05` and `methylgpt-original-2026-03-05` of this repository.
 
 ## Data
 

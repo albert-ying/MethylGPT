@@ -1,4 +1,0 @@
-2024-09-27 03:44:02,048 - test_logger - INFO: Total Loss: 0.03123 | Total MSE: 0.01482 | Total GEPC: 0.01546 | Elapsed Time: 5013.93s
-2024-09-27 21:09:30,416 - test_logger - INFO: Total Loss: 0.03040 | Total MSE: 0.01445 | Total GEPC: 0.01504 | Elapsed Time: 5062.44s
-2024-09-28 14:36:10,237 - test_logger - INFO: Total Loss: 0.03300 | Total MSE: 0.01626 | Total GEPC: 0.01573 | Elapsed Time: 5071.20s
-2024-09-29 07:56:43,716 - test_logger - INFO: Total Loss: 0.03064 | Total MSE: 0.01489 | Total GEPC: 0.01483 | Elapsed Time: 5008.12s
