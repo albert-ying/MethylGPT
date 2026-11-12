@@ -8,8 +8,8 @@ This folder holds the rebuilt MethylGPT model: the `methylgpt2` inference packag
 | `*.py`, `*.sh` | Training, evaluation and analysis scripts as run for the paper |
 | `figures/` | Plotting scripts of the figures |
 | `diagnostics_2026-09-30/` | Reconstruction baselines loaded by the reconstruction evaluations |
-| `release_tables/` | The CpG vocabulary with its selection criteria and annotation, the dataset-level split of the 169,120 corpus profiles, and a column dictionary (`release_tables/README.md`) |
 | `upstream/` | `artifacts/external/GSE194154/scripts/03_build_matrix.py`, which builds the RRBS beta-value matrix of GSE194154 on the vocabulary CpGs |
+| `release_tables/` | The CpG vocabulary with its selection criteria and annotation, the dataset-level split of the 169,120 corpus profiles, and a column dictionary (`release_tables/README.md`) |
 
 ## Install and run
 

@@ -20,9 +20,12 @@ FIGS = {"figure1": "figure1_2026-10-01", "figure2": "figure2_2026-10-02", "figur
         "supplementary_figure3": "supplementary_figure6_2026-10-03", "supplementary_figure4": "supplementary_figure3_2026-10-02",
         "supplementary_figure5": "supplementary_figure5_2026-10-02",
         # supplementary reruns of 18 Oct 2026 (Supplementary Notes 1-8)
-        "supplementary_figure6": "supplementary_pretraining_curve_2026-10-18", "supplementary_figure7": "supplementary_reconstruction_diagnostics_2026-10-18",
-        "supplementary_figure8": "supplementary_neighbouring_cpgs_2026-10-18", "supplementary_figure9": "supplementary_figure_cpg_dnase_2026-10-18",
-        "supplementary_figure10": "si_sample_representations_2026-10-18", "supplementary_figure11": "si_embedding_pretraining_2026-10-18", "si2_figure1": "si2_embedding_designs_2026-10-19", "supplementary_figure14": "supplementary_attribution_2026-10-22", "supplementary_figure15": "supplementary_harmonization_2026-10-22",
+        # Supplementary Figs 6 and 9, Supplementary Fig. 19 and SI2 Fig. 1 are installed by their 12 November 2026 scripts
+        # (plot_supp_pretraining_curve_2026-11-12.py, plot_supplementary_cpg_dnase_2026-11-12.py,
+        # remove_sf19c_untrained_2026-11-12.py, relabel_si2fig1_*_2026-11-12.py) and are not exported from here
+        "supplementary_figure7": "supplementary_reconstruction_diagnostics_2026-10-18",
+        "supplementary_figure8": "supplementary_neighbouring_cpgs_2026-10-18",
+        "supplementary_figure10": "si_sample_representations_2026-10-18", "supplementary_figure11": "si_embedding_pretraining_2026-10-18", "supplementary_figure14": "supplementary_attribution_2026-10-22", "supplementary_figure15": "supplementary_harmonization_2026-10-22",
         "supplementary_figure12": "supplementary_missing_cpgs_comparators_2026-10-18", "supplementary_figure13": "supplementary_reprogramming_2026-10-18"}
 
 
