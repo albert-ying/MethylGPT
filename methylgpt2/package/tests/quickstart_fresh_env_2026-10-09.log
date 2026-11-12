@@ -1,0 +1,24 @@
+Fresh-environment tutorial test, 2026-10-09T13:51:31Z, package methylgpt2 version = "1.1.2", bundle methylgpt2-1.1
+command: tests/run_quickstart.sh <bundle> <new venv>
+Python 3.13.5
+[NbConvertApp] Converting notebook quickstart.ipynb to notebook
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[NbConvertApp] Writing 18723 bytes to quickstart.executed.ipynb
+quickstart executed: package/examples/quickstart.executed.ipynb
+methylgpt2 1.1.2 on cpu; tolerance 0.01 years
+                   package_age  analysis_code_age  difference
+GSM1345997_Day0_1      19.5513            19.5528     -0.0015
+GSM1345998_Day0_2      18.6231            18.6253     -0.0021
+GSM1345999_Day0_3      20.4941            20.4938      0.0003
+GSM1346021_p3_1         9.2351             9.2354     -0.0003
+GSM1346022_p3_2         9.2097             9.2100     -0.0003
+GSM1346023_p3_3         8.8131             8.8127      0.0004
+largest absolute difference: 0.0021 years -> PASS
+exit_status=0
+jupyter_core              5.9.1
+methylgpt2                1.1.2       package
+nbconvert                 7.17.1
+numpy                     2.5.3
+pandas                    3.0.6
+torch                     2.14.1+cpu
+finished 2026-10-09T13:53:14Z

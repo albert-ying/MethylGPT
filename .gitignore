@@ -50,3 +50,7 @@ tests/
 *.log
 wandb/
 lightning_logs/
+
+# MethylGPT 2 release: keep the package test and the log of the fresh-environment tutorial run
+!methylgpt2/package/tests/
+!methylgpt2/package/tests/*.log
