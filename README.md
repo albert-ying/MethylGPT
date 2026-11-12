@@ -5,7 +5,7 @@
 [![Preprint](https://img.shields.io/badge/preprint-available-brightgreen)](https://www.biorxiv.org/content/10.1101/2024.10.30.621013v2) &nbsp;
 [![License](https://img.shields.io/badge/license-Apache_2.0-blue)](https://github.com/albert-ying/MethylGPT/blob/main/LICENSE)
 
-MethylGPT is a transformer encoder with a probabilistic input layer over 49,156 CpGs, pretrained on 145,700 public DNA methylation profiles and then trained on age, sex, tissue and 25 published clock outputs. It reads any subset of its CpGs, from 27K, 450K, EPIC v1 or EPIC v2 arrays, and returns imputed values, latent scores, sample embeddings, age, sex, tissue and the distilled clock outputs.
+MethylGPT is a foundation model that learns the co-methylation structure of the human DNA methylome without labels from 169,010 public DNA methylation profiles (145,700 for training) and reads any subset of its 49,156 CpGs, from 27K, 450K, EPIC v1 or EPIC v2 arrays. Trained further on age, sex, tissue and 25 published clock outputs, it returns imputed values, latent scores, sample embeddings, age, sex, tissue and the distilled clock outputs.
 
 ## Code and weights
 
